@@ -1,4 +1,4 @@
-﻿const tabButtons = document.querySelectorAll('.tab-button');
+const tabButtons = document.querySelectorAll('.tab-button');
 const tabContents = document.querySelectorAll('.tab-content');
 const subtitleContent = document.getElementById('subtitle-content');
 const speedSelect = document.getElementById('speed-select');
@@ -276,32 +276,28 @@ searchButton.addEventListener('click', () => {
 let playerInstance;
 
 window.onSpotifyIframeApiReady = IFrameAPI => {
-    const playerElement = document.getElementById('hyperplayer');
+    const playerElement = document.getElementById('spotify');
     const episodeID = extractEpisodeID(playerElement.getAttribute('src'));
-
     const options = {
-      uri: `spotify:episode:${episodeID}`,
+        uri: `spotify:episode:${episodeID}`,
     };
 
-    IFrameAPI.createController(playerElement, options, player => {
-      player.addListener('playback_update', e => {
-        if (!e.data.isPaused) {
-          player.seek(e.data.position / 1000);
-        }
-      });
+    IFrameAPI.createController(playerElement, options, (player) => {
+        playerInstance = player;
+        player.addListener('ready', () => {
+            player.togglePlay();
+        });
 
-      player.addListener('ready', () => {
-        player.togglePlay();
-      });
+        player.addListener('playback_update', e => {
+            updateTranscriptTime(e.data.position / 1000);
+        });
     });
-  };
+};
 
-  function extractEpisodeID(url) {
+function extractEpisodeID(url) {
     const match = url.match(/episode\/(.+)$/);
     return match ? match[1] : null;
-  }
-
-
+}
 
 function updateTranscriptTime(currentTime) {
     const activeTabContent = document.querySelector('.tab-content.active');
