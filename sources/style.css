@@ -1,0 +1,192 @@
+﻿/* CSS chung */
+
+.show-time-second {
+    float: right;
+    font-size: 10px;
+    color: green;
+}
+
+.search-container {
+    display: flex;
+    margin-bottom: 3px;
+    width: 100%;
+    /* Full width */
+}
+
+.search-container input {
+    flex: 1;
+    padding: 3px;
+    border: 1px solid #ccc;
+    border-radius: 4px 0 0 4px;
+    /* Bo tròn góc trái */
+}
+
+.search-container button {
+    padding: 5px 12px;
+    border: none;
+    border-radius: 0 4px 4px 0;
+    /* Bo tròn góc phải */
+    cursor: pointer;
+}
+
+
+.tab-content {
+    display: none;
+    padding: 0px 6px 0px 2px;
+    border: none;
+    width: 100%;
+    height: 400px;
+    overflow-y: auto;
+}
+
+.tab-content.active {
+    display: block;
+}
+
+.sub-line.highlight {
+    color: blue;
+}
+
+.container {
+    width: 100%;
+    margin-bottom: 20px;
+    /* Thêm khoảng cách giữa container và menu */
+}
+
+.sub_vi {
+    font-style: italic;
+}
+
+.scroll-sub {
+    display: flex;
+    flex-direction: column;
+}
+
+.sub-line {
+    margin-bottom: 10px;
+    border-bottom: 1px solid green;
+    padding-bottom: 10px;
+}
+
+/* Chế độ 1: Đơn ngữ Tiếng Anh */
+#tab1 .sub_vi {
+    display: none;
+}
+
+#tab1 .sub-line {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* Chế độ 1: Đơn ngữ Tiếng Việt */
+#tab2 .sub_en {
+    display: none;
+}
+
+#tab2 .sub-line {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* Chế độ 3: Mỗi dòng là một cột */
+#tab3 .sub-line {
+    display: flex;
+    flex-direction: column;
+}
+
+#tab3 .sub-line span {
+    display: block;
+}
+
+/* Chế độ 4: Ba cột cho sub_en, sub_vi, time */
+#tab4 .sub-line {
+    display: flex;
+}
+
+#tab4 .sub-line>span {
+    padding: 5px;
+}
+
+#tab4 .sub_en,
+#tab4 .sub_vi {
+    flex: 1;
+    text-align: left;
+}
+
+#tab4 .show-time-second {
+    flex: 0 0 20px;
+    text-align: right;
+}
+
+/* CSS cho tab */
+.tabs {
+    display: flex;
+    margin-bottom: 10px;
+    width: 100%;
+    border: none;
+}
+
+.tab-button {
+    flex: 1;
+    padding: 3px;
+    cursor: pointer;
+    background-color: #f0f0f0;
+    text-align: center;
+    border: none;
+	border-radius: 4px 4px 4px 4px;
+    border-bottom: 2px solid transparent;
+}
+
+.tab-button.active {
+    background-color: #fff;
+    border-bottom: 3px solid #007bff;
+}
+
+/* Menu */
+.menu1 {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    padding: 5px;
+}
+
+.menu1 button {
+    background: none;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    font-size: 18px;
+    border: 1px solid green;
+	color: green;
+}
+
+.menu1 button.active {
+    background-color: green;
+}
+
+/* Chế độ ngày */
+body.day-mode .tab-content {
+    background-color: #fff;
+    color: #000;
+}
+
+/* Chế độ đêm */
+body.night-mode .tab-content {
+    background-color: #222;
+    color: #fff;
+}
+
+/* Menu tốc độ đọc */
+.speed-menu {
+    display: flex;
+    align-items: center;
+}
+
+.speed-menu select {
+    appearance: none;
+    border: 1px solid green;
+    padding: 5px 10px;
+    font-size: 16px;
+    background-repeat: no-repeat;
+    background-size: 10px 10px;
+}
