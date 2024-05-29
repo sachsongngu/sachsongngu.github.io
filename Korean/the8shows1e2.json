@@ -1,0 +1,4615 @@
+[
+    {
+        "start": "00:00:59,184",
+        "end": "00:01:02,645",
+        "en": "♪ 어느 것을 고를까요 ♪",
+        "pa": "♪ eoneu geos-eul goleulkkayo ♪",
+        "vi": "Kéo cưa lừa xẻ, ông thợ nào khoẻ về ăn cơm vua."
+    },
+    {
+        "start": "00:01:02,729",
+        "end": "00:01:05,523",
+        "en": "♪ 알아맞혀 보세요 ♪",
+        "pa": "♪ al-amajhyeo boseyo ♪",
+        "vi": "Ông thợ nào thua, về bú tí mẹ. Oẳn tù tì. Ra cái này."
+    },
+    {
+        "start": "00:01:06,149",
+        "end": "00:01:07,192",
+        "en": "♪ 딩동댕 ♪",
+        "pa": "♪ dingdongdaeng ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:01:07,859",
+        "end": "00:01:09,486",
+        "en": "- ♪ 동댕 ♪",
+        "pa": "- ♪ dongdaeng ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:01:13,782",
+        "end": "00:01:14,616",
+        "en": "와우",
+        "pa": "wau",
+        "vi": ""
+    },
+    {
+        "start": "00:01:48,441",
+        "end": "00:01:49,275",
+        "en": "하…",
+        "pa": "ha…",
+        "vi": ""
+    },
+    {
+        "start": "00:01:53,988",
+        "end": "00:01:55,323",
+        "en": "도착",
+        "pa": "dochag",
+        "vi": "Tới nơi rồi."
+    },
+    {
+        "start": "00:01:55,406",
+        "end": "00:01:58,034",
+        "en": "아, 1층 뽑을 걸 그랬나?",
+        "pa": "a, 1cheung ppob-eul geol geulaessna?",
+        "vi": "Trời ơi, lẽ ra mình nên chọn ở tầng một."
+    },
+    {
+        "start": "00:02:17,345",
+        "end": "00:02:19,139",
+        "en": "- 응?",
+        "pa": "- eung?",
+        "vi": ""
+    },
+    {
+        "start": "00:02:19,222",
+        "end": "00:02:20,265",
+        "en": "응?",
+        "pa": "eung?",
+        "vi": ""
+    },
+    {
+        "start": "00:02:20,348",
+        "end": "00:02:21,182",
+        "en": "뭐야?",
+        "pa": "mwoya?",
+        "vi": "Gì vậy?\n Khoan."
+    },
+    {
+        "start": "00:02:25,645",
+        "end": "00:02:26,479",
+        "en": "음",
+        "pa": "eum",
+        "vi": ""
+    },
+    {
+        "start": "00:02:26,563",
+        "end": "00:02:27,438",
+        "en": "잠깐만",
+        "pa": "jamkkanman",
+        "vi": ""
+    },
+    {
+        "start": "00:02:28,481",
+        "end": "00:02:29,899",
+        "en": "- 잠깐만",
+        "pa": "- jamkkanman",
+        "vi": "Từ từ."
+    },
+    {
+        "start": "00:02:32,569",
+        "end": "00:02:33,778",
+        "en": "어떡해",
+        "pa": "eotteoghae",
+        "vi": "Trời ơi… Vui quá đi!"
+    },
+    {
+        "start": "00:02:37,073",
+        "end": "00:02:38,074",
+        "en": "재밌겠다",
+        "pa": "jaemissgessda",
+        "vi": ""
+    },
+    {
+        "start": "00:02:56,301",
+        "end": "00:02:57,427",
+        "en": "치…",
+        "pa": "chi…",
+        "vi": ""
+    },
+    {
+        "start": "00:02:57,510",
+        "end": "00:02:58,761",
+        "en": "재미없어",
+        "pa": "jaemieobs-eo",
+        "vi": "Không vui gì hết."
+    },
+    {
+        "start": "00:03:02,473",
+        "end": "00:03:03,308",
+        "en": "음?",
+        "pa": "eum?",
+        "vi": ""
+    },
+    {
+        "start": "00:03:08,938",
+        "end": "00:03:12,442",
+        "en": "- 전신 거울 하나랑 그…",
+        "pa": "- jeonsin geoul hanalang geu…",
+        "vi": "Tôi muốn một cái gương soi toàn thân, với lại…"
+    },
+    {
+        "start": "00:03:13,067",
+        "end": "00:03:15,069",
+        "en": "슬립? 실크로 된 거",
+        "pa": "seullib? silkeulo doen geo",
+        "vi": "váy ngủ, loại bằng vải lụa,"
+    },
+    {
+        "start": "00:03:15,153",
+        "end": "00:03:16,821",
+        "en": "- 매트리스",
+        "pa": "- maeteuliseu",
+        "vi": "một tấm nệm,"
+    },
+    {
+        "start": "00:03:18,281",
+        "end": "00:03:20,325",
+        "en": "- 그리고 이불?",
+        "pa": "- geuligo ibul?",
+        "vi": "và một… cái chăn bông!"
+    },
+    {
+        "start": "00:03:21,367",
+        "end": "00:03:22,243",
+        "en": "- 극세사로",
+        "pa": "- geugsesalo",
+        "vi": "Vải microfiber."
+    },
+    {
+        "start": "00:03:23,328",
+        "end": "00:03:24,579",
+        "en": "어, 간이 변기랑",
+        "pa": "eo, gan-i byeongilang",
+        "vi": "Bồn cầu di động nữa."
+    },
+    {
+        "start": "00:03:26,623",
+        "end": "00:03:28,041",
+        "en": "- 빵 원!",
+        "pa": "- ppang won!",
+        "vi": "Hết tiền!"
+    },
+    {
+        "start": "00:03:42,889",
+        "end": "00:03:44,390",
+        "en": "식음료는 제공",
+        "pa": "sig-eumlyoneun jegong",
+        "vi": "Vậy là ăn uống được lo sẵn."
+    },
+    {
+        "start": "00:03:45,934",
+        "end": "00:03:47,018",
+        "en": "식탁은요?",
+        "pa": "sigtag-eun-yo?",
+        "vi": "Còn bàn ăn thì sao?"
+    },
+    {
+        "start": "00:03:48,478",
+        "end": "00:03:49,687",
+        "en": "단백질",
+        "pa": "danbaegjil",
+        "vi": "Chất đạm nè."
+    },
+    {
+        "start": "00:03:52,815",
+        "end": "00:03:53,775",
+        "en": "철분",
+        "pa": "cheolbun",
+        "vi": "Chất sắt."
+    },
+    {
+        "start": "00:03:54,817",
+        "end": "00:03:55,944",
+        "en": "완성",
+        "pa": "wanseong",
+        "vi": "Hoàn hảo."
+    },
+    {
+        "start": "00:04:13,628",
+        "end": "00:04:15,380",
+        "en": "예쁘다",
+        "pa": "yeppeuda",
+        "vi": "Cái này xinh quá!"
+    },
+    {
+        "start": "00:05:24,782",
+        "end": "00:05:26,868",
+        "en": "표정들 진짜 재밌다",
+        "pa": "pyojeongdeul jinjja jaemissda",
+        "vi": "-Nhìn mặt mấy người thấy mắc cười quá. -Mắc cười lắm hả?"
+    },
+    {
+        "start": "00:05:28,619",
+        "end": "00:05:29,454",
+        "en": "'재미'?",
+        "pa": "'jaemi'?",
+        "vi": ""
+    },
+    {
+        "start": "00:05:30,913",
+        "end": "00:05:34,625",
+        "en": "아니, 지금 방마다 상금이 다 다르다는 건데",
+        "pa": "ani, jigeum bangmada sang-geum-i da daleudaneun geonde",
+        "vi": "Ai mà ngờ được mỗi phòng lại có một số tiền thưởng riêng như vậy chứ?"
+    },
+    {
+        "start": "00:05:34,709",
+        "end": "00:05:36,878",
+        "en": "다른 사람도 좀 얘기 좀 해봐요",
+        "pa": "daleun salamdo jom yaegi jom haebwayo",
+        "vi": "-Mọi người nói gì -Đi, đừng có đứng im lặng như vậy."
+    },
+    {
+        "start": "00:05:36,961",
+        "end": "00:05:38,671",
+        "en": "- 어… - 다 얼마씩 올라요?",
+        "pa": "- eo… - da eolmassig ollayo?",
+        "vi": "Ờ…"
+    },
+    {
+        "start": "00:05:38,755",
+        "end": "00:05:39,797",
+        "en": "나는 그게…",
+        "pa": "naneun geuge…",
+        "vi": "-Mọi người -được bao nhiêu một phút?\n Tôi thì tôi…"
+    },
+    {
+        "start": "00:05:40,548",
+        "end": "00:05:42,633",
+        "en": "- 1분에 8만 원씩 오르던데?",
+        "pa": "- 1bun-e 8man wonssig oleudeonde?",
+        "vi": "được 80.000 won một phút."
+    },
+    {
+        "start": "00:05:42,717",
+        "end": "00:05:43,718",
+        "en": "8만 원이요?",
+        "pa": "8man won-iyo?",
+        "vi": "80.000 sao?"
+    },
+    {
+        "start": "00:05:44,427",
+        "end": "00:05:45,678",
+        "en": "- 저는 3만 원인데?",
+        "pa": "- jeoneun 3man won-inde?",
+        "vi": "-Tôi chỉ được 30.000 won. -Mẹ nó."
+    },
+    {
+        "start": "00:05:45,762",
+        "end": "00:05:46,721",
+        "en": "하, 씨…",
+        "pa": "ha, ssi…",
+        "vi": ""
+    },
+    {
+        "start": "00:05:47,680",
+        "end": "00:05:49,098",
+        "en": "- 2만 원 - 13만 원",
+        "pa": "- 2man won - 13man won",
+        "vi": "-Tôi 20.000. -Tôi một trăm ba."
+    },
+    {
+        "start": "00:05:49,182",
+        "end": "00:05:51,059",
+        "en": "아니, 뭐, 왜 이래?",
+        "pa": "ani, mwo, wae ilae?",
+        "vi": "Hả, cái gì? Sao kỳ vậy?"
+    },
+    {
+        "start": "00:05:51,642",
+        "end": "00:05:52,560",
+        "en": "다 달라요?",
+        "pa": "da dallayo?",
+        "vi": "Mọi người khác nhau hết sao?"
+    },
+    {
+        "start": "00:05:53,978",
+        "end": "00:05:55,313",
+        "en": "7, 7층 님은요?",
+        "pa": "7, 7cheung nim-eun-yo?",
+        "vi": "Vậy còn anh Tầng Bảy?"
+    },
+    {
+        "start": "00:05:55,396",
+        "end": "00:05:57,231",
+        "en": "7층 님은 얼마예요?",
+        "pa": "7cheung nim-eun eolmayeyo?",
+        "vi": "Một phút anh được bao nhiêu tiền?"
+    },
+    {
+        "start": "00:05:57,315",
+        "end": "00:05:58,816",
+        "en": "- 네, 저는 21만 원이고요",
+        "pa": "- ne, jeoneun 21man won-igoyo",
+        "vi": "Chỗ tôi được hai trăm mười ngàn won."
+    },
+    {
+        "start": "00:05:59,984",
+        "end": "00:06:00,985",
+        "en": "8층 님은 정확하게",
+        "pa": "8cheung nim-eun jeonghwaghage",
+        "vi": "Tầng Tám chắc chắn sẽ được tròn 340.000 won."
+    },
+    {
+        "start": "00:06:01,069",
+        "end": "00:06:02,570",
+        "en": "- 34만 원이시겠네요",
+        "pa": "- 34man won-isigessneyo",
+        "vi": ""
+    },
+    {
+        "start": "00:06:04,364",
+        "end": "00:06:05,948",
+        "en": "어떻게 알아요?",
+        "pa": "eotteohge al-ayo?",
+        "vi": "Sao anh biết hay vậy?"
+    },
+    {
+        "start": "00:06:06,032",
+        "end": "00:06:09,035",
+        "en": "딱 보자마자 이렇게 숫, 숫자를 맞힌 건가?",
+        "pa": "ttag bojamaja ileohge sus, susjaleul majhin geonga?",
+        "vi": "Anh có thể tính nhẩm… ra được con số đó hả?"
+    },
+    {
+        "start": "00:06:09,118",
+        "end": "00:06:09,952",
+        "en": "아니요",
+        "pa": "aniyo",
+        "vi": "Không phải. Nếu như viết ra giá trị"
+    },
+    {
+        "start": "00:06:10,036",
+        "end": "00:06:13,998",
+        "en": "1층부터 8층까지 상금을 순서대로 좀 생각해 보면",
+        "pa": "1cheungbuteo 8cheungkkaji sang-geum-eul sunseodaelo jom saeng-gaghae bomyeon",
+        "vi": "tiền thưởng theo thứ tự, từ tầng một tới tầng tám,"
+    },
+    {
+        "start": "00:06:14,082",
+        "end": "00:06:15,583",
+        "en": "일반적인 패턴이 있습니다",
+        "pa": "ilbanjeog-in paeteon-i issseubnida",
+        "vi": "thì sẽ rút ra được một công thức."
+    },
+    {
+        "start": "00:06:16,834",
+        "end": "00:06:19,670",
+        "en": "아… 앞의 두 수를 합치면 뒤의 수가 나오는 건데요",
+        "pa": "a… ap-ui du suleul habchimyeon dwiui suga naoneun geondeyo",
+        "vi": "Nếu cộng hai số trước thì sẽ được số kế tiếp."
+    },
+    {
+        "start": "00:06:20,213",
+        "end": "00:06:21,047",
+        "en": "아까 1층 님이",
+        "pa": "akka 1cheung nim-i",
+        "vi": "Tầng Một có nói, anh ấy được 10.000 won."
+    },
+    {
+        "start": "00:06:21,130",
+        "end": "00:06:22,799",
+        "en": "- 만 원이라고 하셨고",
+        "pa": "- man won-ilago hasyeossgo",
+        "vi": ""
+    },
+    {
+        "start": "00:06:22,882",
+        "end": "00:06:24,092",
+        "en": "- 2층 님이 2만 원이시고요",
+        "pa": "- 2cheung nim-i 2man won-isigoyo",
+        "vi": "Tầng Hai là 20.000 won."
+    },
+    {
+        "start": "00:06:24,175",
+        "end": "00:06:25,218",
+        "en": "예",
+        "pa": "ye",
+        "vi": "Phải."
+    },
+    {
+        "start": "00:06:25,301",
+        "end": "00:06:26,552",
+        "en": "하, 맞아",
+        "pa": "ha, maj-a",
+        "vi": "Đúng vậy."
+    },
+    {
+        "start": "00:06:26,636",
+        "end": "00:06:29,097",
+        "en": "- 네, 그 1과 2를 더한 값이 3",
+        "pa": "- ne, geu 1gwa 2leul deohan gabs-i 3",
+        "vi": "Phải. Tổng hai số đó là số của tầng ba."
+    },
+    {
+        "start": "00:06:29,180",
+        "end": "00:06:30,515",
+        "en": "- 그래서 3층 님이",
+        "pa": "- geulaeseo 3cheung nim-i",
+        "vi": "Cho nên người tầng ba sẽ nhận được 30.000 won."
+    },
+    {
+        "start": "00:06:30,598",
+        "end": "00:06:31,808",
+        "en": "3만 원이 되시는 거고요",
+        "pa": "3man won-i doesineun geogoyo",
+        "vi": ""
+    },
+    {
+        "start": "00:06:32,392",
+        "end": "00:06:33,726",
+        "en": "네, 저, 저 3만 원, 3만 원",
+        "pa": "ne, jeo, jeo 3man won, 3man won",
+        "vi": "-Đúng rồi, 30.000 won. Chuẩn luôn. -Vậy thì bên"
+    },
+    {
+        "start": "00:06:33,810",
+        "end": "00:06:36,729",
+        "en": "그럼 3층 님 다음 4층이 저니까",
+        "pa": "geuleom 3cheung nim da-eum 4cheung-i jeonikka",
+        "vi": "trên tầng ba, tôi ở ngay tầng bốn,"
+    },
+    {
+        "start": "00:06:37,438",
+        "end": "00:06:38,648",
+        "en": "2층 님 2만 원이랑",
+        "pa": "2cheung nim 2man won-ilang",
+        "vi": "-nếu cộng 20.000 của Tầng -Hai và 30.000 của"
+    },
+    {
+        "start": "00:06:38,731",
+        "end": "00:06:40,566",
+        "en": "- 3층 님 3만 원 합치면",
+        "pa": "- 3cheung nim 3man won habchimyeon",
+        "vi": ""
+    },
+    {
+        "start": "00:06:40,650",
+        "end": "00:06:41,567",
+        "en": "- 5만 원 맞아요",
+        "pa": "- 5man won maj-ayo",
+        "vi": "-Tầng Ba, đúng là 50.000. -Đợi đã."
+    },
+    {
+        "start": "00:06:41,651",
+        "end": "00:06:44,695",
+        "en": "가만있어 봐, 그… 그럼 내가 8만 원이니까",
+        "pa": "gaman-iss-eo bwa, geu… geuleom naega 8man won-inikka",
+        "vi": "Tôi được 80.000 won nên…"
+    },
+    {
+        "start": "00:06:44,779",
+        "end": "00:06:46,197",
+        "en": "- 3층 님과 4층 님의",
+        "pa": "- 3cheung nimgwa 4cheung nim-ui",
+        "vi": "-Đó là tổng số tiền -thưởng của Tầng Ba và Tầng Bốn."
+    },
+    {
+        "start": "00:06:46,280",
+        "end": "00:06:47,490",
+        "en": "- 상금을 더한 금액이죠",
+        "pa": "- sang-geum-eul deohan geum-aeg-ijyo",
+        "vi": ""
+    },
+    {
+        "start": "00:06:47,573",
+        "end": "00:06:48,616",
+        "en": "그러면 그다음이…",
+        "pa": "geuleomyeon geuda-eum-i…",
+        "vi": "Rồi tới tầng kế tiếp…"
+    },
+    {
+        "start": "00:06:48,699",
+        "end": "00:06:50,785",
+        "en": "- 6층 님은 5와 8을 더한 13",
+        "pa": "- 6cheung nim-eun 5wa 8eul deohan 13",
+        "vi": "Tầng Sáu 50 cộng 80 là một trăm ba."
+    },
+    {
+        "start": "00:06:50,868",
+        "end": "00:06:52,662",
+        "en": "- 저 또한 앞의 두 수를 더하면",
+        "pa": "- jeo ttohan ap-ui du suleul deohamyeon",
+        "vi": "Của tôi… cũng cộng y như vậy nên được hai trăm mốt."
+    },
+    {
+        "start": "00:06:52,745",
+        "end": "00:06:53,996",
+        "en": "21만 원",
+        "pa": "21man won",
+        "vi": ""
+    },
+    {
+        "start": "00:06:54,080",
+        "end": "00:06:55,415",
+        "en": "- 그렇게 해서 8층 님이…",
+        "pa": "- geuleohge haeseo 8cheung nim-i…",
+        "vi": "Đó là cách tính của Tầng Tám…"
+    },
+    {
+        "start": "00:06:56,791",
+        "end": "00:06:58,292",
+        "en": "34만 원이네?",
+        "pa": "34man won-ine?",
+        "vi": "Được 340.000 đúng không?"
+    },
+    {
+        "start": "00:06:59,544",
+        "end": "00:07:00,378",
+        "en": "네, 맞습니다",
+        "pa": "ne, majseubnida",
+        "vi": "Đúng là như vậy đó."
+    },
+    {
+        "start": "00:07:02,004",
+        "end": "00:07:03,089",
+        "en": "피보나치수열입니다",
+        "pa": "pibonachisuyeol-ibnida",
+        "vi": "Đây là dãy Fibonacci.\n DÃY FIBONACCI"
+    },
+    {
+        "start": "00:07:06,384",
+        "end": "00:07:08,261",
+        "en": "나도 들어는 봤는데, 이게",
+        "pa": "nado deul-eoneun bwassneunde, ige",
+        "vi": "Tôi cũng có biết về nó, nhưng mà,"
+    },
+    {
+        "start": "00:07:08,344",
+        "end": "00:07:11,431",
+        "en": "이게 뭐, 우리 상금이랑 이게 뭐, 뭐, 무슨 관계인데요?",
+        "pa": "ige mwo, uli sang-geum-ilang ige mwo, mwo, museun gwangyeindeyo?",
+        "vi": "cái đó… liên quan gì đến tiền thưởng"
+    },
+    {
+        "start": "00:07:11,514",
+        "end": "00:07:12,765",
+        "en": "이게, 이게 여기서 왜 나와?",
+        "pa": "ige, ige yeogiseo wae nawa?",
+        "vi": "của chúng ta ở đây? Sao lại áp dụng dãy Fibonacci?"
+    },
+    {
+        "start": "00:07:12,849",
+        "end": "00:07:14,058",
+        "en": "뭐, 저라고 주최 측의 의도를",
+        "pa": "mwo, jeolago juchoe cheug-ui uidoleul",
+        "vi": "Tôi thì tôi không biết những người tổ chức đang nghĩ cái gì."
+    },
+    {
+        "start": "00:07:14,142",
+        "end": "00:07:15,059",
+        "en": "알 수 있는 건 아니고요",
+        "pa": "al su issneun geon anigoyo",
+        "vi": ""
+    },
+    {
+        "start": "00:07:15,143",
+        "end": "00:07:18,187",
+        "en": "어쨌든 재밌는 사람들인 거 같네요",
+        "pa": "eojjaessdeun jaemissneun salamdeul-in geo gatneyo",
+        "vi": "Nhưng mà chắc chắn, đầu óc của họ rất thú vị."
+    },
+    {
+        "start": "00:07:19,439",
+        "end": "00:07:20,565",
+        "en": "이 피보나치수열이",
+        "pa": "i pibonachisuyeol-i",
+        "vi": "Dãy Fibonacci này…"
+    },
+    {
+        "start": "00:07:21,941",
+        "end": "00:07:23,067",
+        "en": "황금비를 만들거든요",
+        "pa": "hwang-geumbileul mandeulgeodeun-yo",
+        "vi": "tạo ra một thứ gọi là tỉ lệ vàng."
+    },
+    {
+        "start": "00:07:23,568",
+        "end": "00:07:24,902",
+        "en": "황금비요?",
+        "pa": "hwang-geumbiyo?",
+        "vi": "Tỉ lệ vàng?"
+    },
+    {
+        "start": "00:07:24,986",
+        "end": "00:07:25,820",
+        "en": "네",
+        "pa": "ne",
+        "vi": "Phải."
+    },
+    {
+        "start": "00:07:25,903",
+        "end": "00:07:27,280",
+        "en": "피보나치수열에서",
+        "pa": "pibonachisuyeol-eseo",
+        "vi": "Trong dãy Fibonacci, nếu chia một số đứng sau cho số đứng trước của nó,"
+    },
+    {
+        "start": "00:07:27,363",
+        "end": "00:07:29,657",
+        "en": "뒤에 있는 숫자를 그 앞에 있는 숫자로 나누면",
+        "pa": "dwie issneun susjaleul geu ap-e issneun susjalo nanumyeon",
+        "vi": ""
+    },
+    {
+        "start": "00:07:30,199",
+        "end": "00:07:31,784",
+        "en": "그 숫자가 커질수록 그 비율이",
+        "pa": "geu susjaga keojilsulog geu biyul-i",
+        "vi": "tỉ lệ sẽ đồng quy về khoảng… một phẩy sáu, khi mà con số càng ngày càng lớn."
+    },
+    {
+        "start": "00:07:32,493",
+        "end": "00:07:33,327",
+        "en": "점차",
+        "pa": "jeomcha",
+        "vi": ""
+    },
+    {
+        "start": "00:07:33,411",
+        "end": "00:07:35,621",
+        "en": "- 대략 1.6으로 수렴을 합니다",
+        "pa": "- daelyag 1.6eulo sulyeom-eul habnida",
+        "vi": ""
+    },
+    {
+        "start": "00:07:35,705",
+        "end": "00:07:37,874",
+        "en": "그리고 이 1 대 1.6이라는 비율이",
+        "pa": "geuligo i 1 dae 1.6ilaneun biyul-i",
+        "vi": "Với tỉ lệ 1 trên 1,6 này,"
+    },
+    {
+        "start": "00:07:37,957",
+        "end": "00:07:39,375",
+        "en": "인간이 안정감을 느끼고",
+        "pa": "ingan-i anjeong-gam-eul neukkigo",
+        "vi": "nó tạo ra cảm giác an toàn và được cho là đẹp ở trong mắt con người."
+    },
+    {
+        "start": "00:07:39,459",
+        "end": "00:07:40,501",
+        "en": "또 본능적으로",
+        "pa": "tto bonneungjeog-eulo",
+        "vi": ""
+    },
+    {
+        "start": "00:07:40,585",
+        "end": "00:07:41,669",
+        "en": "- 아름답다고 느끼는",
+        "pa": "- aleumdabdago neukkineun",
+        "vi": ""
+    },
+    {
+        "start": "00:07:41,752",
+        "end": "00:07:43,963",
+        "en": "- 황금비라고 불리기도 하고요",
+        "pa": "- hwang-geumbilago bulligido hagoyo",
+        "vi": "Cho nên mới được gọi là tỉ lệ vàng."
+    },
+    {
+        "start": "00:07:44,046",
+        "end": "00:07:46,424",
+        "en": "뭐, 이를테면 신용카드의 세로와 가로의 비율이",
+        "pa": "mwo, ileultemyeon sin-yongkadeuui selowa galoui biyul-i",
+        "vi": "Một ví dụ dễ thấy nhất, có sử dụng tỉ lệ vàng, là các cạnh của thẻ tín dụng."
+    },
+    {
+        "start": "00:07:46,507",
+        "end": "00:07:47,675",
+        "en": "황금비와 유사합니다",
+        "pa": "hwang-geumbiwa yusahabnida",
+        "vi": ""
+    },
+    {
+        "start": "00:07:48,676",
+        "end": "00:07:51,429",
+        "en": "또 공교롭게도 저희가 여기 들어오면서 선택했던",
+        "pa": "tto gong-gyolobgedo jeohuiga yeogi deul-eoomyeonseo seontaeghaessdeon",
+        "vi": "Một điều trùng hợp khác, là ở trên thẻ phòng có đánh số tầng,"
+    },
+    {
+        "start": "00:07:51,512",
+        "end": "00:07:53,431",
+        "en": "각 층의 숫자가 적혀있는 이 카드도",
+        "pa": "gag cheung-ui susjaga jeoghyeoissneun i kadeudo",
+        "vi": "mà mỗi người chọn khi mới vào đây…"
+    },
+    {
+        "start": "00:07:54,015",
+        "end": "00:07:55,808",
+        "en": "딱 신용카드 크기네",
+        "pa": "ttag sin-yongkadeu keugine",
+        "vi": "cũng bằng cỡ thẻ tín dụng."
+    },
+    {
+        "start": "00:07:55,892",
+        "end": "00:07:57,685",
+        "en": "너무 불공평한 거 아니에요?",
+        "pa": "neomu bulgongpyeonghan geo anieyo?",
+        "vi": "Nhưng như vậy thì bất công quá đi."
+    },
+    {
+        "start": "00:07:58,769",
+        "end": "00:08:00,480",
+        "en": "이거 랜덤이었잖아요",
+        "pa": "igeo laendeom-ieossjanh-ayo",
+        "vi": "Toàn là chọn ngẫu nhiên mà."
+    },
+    {
+        "start": "00:08:00,563",
+        "end": "00:08:01,814",
+        "en": "좆같기는 하네",
+        "pa": "jojgatgineun hane",
+        "vi": "Điên thiệt chứ trời."
+    },
+    {
+        "start": "00:08:01,898",
+        "end": "00:08:03,608",
+        "en": "다 자기들이 고른 거 아닌가?",
+        "pa": "da jagideul-i goleun geo aninga?",
+        "vi": "Tự mình chọn còn kêu ca cái gì?"
+    },
+    {
+        "start": "00:08:04,317",
+        "end": "00:08:06,903",
+        "en": "그만들 투덜대고 방들 구경이나 합시다",
+        "pa": "geumandeul tudeoldaego bangdeul gugyeong-ina habsida",
+        "vi": "Đừng có than vãn nữa, đi thăm hết các phòng đi, để coi phòng ốc làm sao."
+    },
+    {
+        "start": "00:08:06,986",
+        "end": "00:08:08,154",
+        "en": "다들 어떻게 생겼는지",
+        "pa": "dadeul eotteohge saeng-gyeossneunji",
+        "vi": "Tầng Tám được 340.000 một phút, 489 triệu 600 một ngày.\n Tầng Bảy được 210.000 một phút, một ngày, 302 triệu 400."
+    },
+    {
+        "start": "00:08:20,541",
+        "end": "00:08:24,545",
+        "en": "",
+        "pa": "",
+        "vi": "Tầng Sáu 130.000 một phút, một ngày, 187 triệu 200 won."
+    },
+    {
+        "start": "00:08:26,005",
+        "end": "00:08:30,134",
+        "en": "",
+        "pa": "",
+        "vi": "Tầng Năm 80.000 một phút, một ngày, sẽ được 115 triệu 200."
+    },
+    {
+        "start": "00:08:30,676",
+        "end": "00:08:33,221",
+        "en": "",
+        "pa": "",
+        "vi": "Tầng Bốn 50.000 một phút, là 72 triệu một ngày."
+    },
+    {
+        "start": "00:08:34,514",
+        "end": "00:08:37,850",
+        "en": "",
+        "pa": "",
+        "vi": "Tầng Ba 30.000 một phút, 43 triệu 200 won một ngày."
+    },
+    {
+        "start": "00:08:45,441",
+        "end": "00:08:47,318",
+        "en": "아이, 더럽게 좁네",
+        "pa": "ai, deoleobge jobne",
+        "vi": "Tầng Hai 20.000 một phút, 28 triệu 800 một ngày.\n -Trời đất, sao chật -Dữ vậy."
+    },
+    {
+        "start": "00:08:47,401",
+        "end": "00:08:48,819",
+        "en": "- 머리, 머리 조심하시고",
+        "pa": "- meoli, meoli josimhasigo",
+        "vi": "Cẩn thận đụng đầu.\n Tầng Một 10.000 won một phút, một ngày, 14 triệu 400 won."
+    },
+    {
+        "start": "00:08:53,032",
+        "end": "00:08:55,159",
+        "en": "- 아이, 씨, 진짜 짜증 나",
+        "pa": "- ai, ssi, jinjja jjajeung na",
+        "vi": "Bực mình quá đi à."
+    },
+    {
+        "start": "00:08:56,827",
+        "end": "00:08:59,288",
+        "en": "아, 8번 카드 있었는데",
+        "pa": "a, 8beon kadeu iss-eossneunde",
+        "vi": "Biết vậy thì mình… chọn tầng tám cho rồi."
+    },
+    {
+        "start": "00:08:59,372",
+        "end": "00:09:00,540",
+        "en": "씨…",
+        "pa": "ssi…",
+        "vi": ""
+    },
+    {
+        "start": "00:09:00,623",
+        "end": "00:09:02,792",
+        "en": "이제 와서 그런 생각 하면 뭐 해요",
+        "pa": "ije waseo geuleon saeng-gag hamyeon mwo haeyo",
+        "vi": "Bây giờ hối hận thì làm được gì đâu. Lúc đó chỉ chọn thẻ ngẫu nhiên mà."
+    },
+    {
+        "start": "00:09:02,875",
+        "end": "00:09:04,877",
+        "en": "다들 그냥 어쩌다가 고른 건데",
+        "pa": "dadeul geunyang eojjeodaga goleun geonde",
+        "vi": ""
+    },
+    {
+        "start": "00:09:06,087",
+        "end": "00:09:08,172",
+        "en": "나는 선택권도 없었어",
+        "pa": "naneun seontaeggwondo eobs-eoss-eo",
+        "vi": "Mà thật ra cũng đâu được chọn lựa. Lúc tôi tới còn có hai thẻ."
+    },
+    {
+        "start": "00:09:08,256",
+        "end": "00:09:09,715",
+        "en": "딱 두 장밖에 안 남아있어서",
+        "pa": "ttag du jangbakk-e an nam-aiss-eoseo",
+        "vi": ""
+    },
+    {
+        "start": "00:09:09,799",
+        "end": "00:09:11,968",
+        "en": "그 두 장 중에 고르신 게 저보다 낫잖아요",
+        "pa": "geu du jang jung-e goleusin ge jeoboda nasjanh-ayo",
+        "vi": "Nhưng chị vẫn chọn được tầng tốt hơn tôi còn gì."
+    },
+    {
+        "start": "00:09:12,885",
+        "end": "00:09:14,053",
+        "en": "아, 그리고 이…",
+        "pa": "a, geuligo i…",
+        "vi": "Thôi, mà nói nghe nè…"
+    },
+    {
+        "start": "00:09:16,180",
+        "end": "00:09:17,557",
+        "en": "이렇게 중요한 거를",
+        "pa": "ileohge jung-yohan geoleul",
+        "vi": "Không hiểu nổi chương trình kiểu gì mà lại…"
+    },
+    {
+        "start": "00:09:17,640",
+        "end": "00:09:18,849",
+        "en": "얘기도 안 해주고 하는 게, 이게",
+        "pa": "yaegido an haejugo haneun ge, ige",
+        "vi": ""
+    },
+    {
+        "start": "00:09:18,933",
+        "end": "00:09:20,226",
+        "en": "진짜 세상에 어디 있어요?",
+        "pa": "jinjja sesang-e eodi iss-eoyo?",
+        "vi": "không nói thông tin quan trọng đó? Hả?"
+    },
+    {
+        "start": "00:09:20,309",
+        "end": "00:09:21,686",
+        "en": "네? 이…",
+        "pa": "ne? i…",
+        "vi": ""
+    },
+    {
+        "start": "00:09:21,769",
+        "end": "00:09:24,438",
+        "en": "이 정도면 진짜 불법 아니에요? 좀 얻다 신고해야 돼",
+        "pa": "i jeongdomyeon jinjja bulbeob anieyo? jom eodda singohaeya dwae",
+        "vi": "Làm vậy là bất hợp pháp đó. Chúng ta báo cảnh sát được rồi."
+    },
+    {
+        "start": "00:09:24,522",
+        "end": "00:09:26,399",
+        "en": "그래도 다들 대단하시네요",
+        "pa": "geulaedo dadeul daedanhasineyo",
+        "vi": "Nhưng mà mọi người… vẫn còn rất may mắn."
+    },
+    {
+        "start": "00:09:27,942",
+        "end": "00:09:31,404",
+        "en": "저 사실 1분에 만 원도 많다고 생각하고 있었거든요",
+        "pa": "jeo sasil 1bun-e man wondo manhdago saeng-gaghago iss-eossgeodeun-yo",
+        "vi": "Riêng tôi thì, tôi nghĩ là được 10.000 won một phút cũng là nhiều rồi."
+    },
+    {
+        "start": "00:09:31,988",
+        "end": "00:09:34,240",
+        "en": "아, 저, 1층 님",
+        "pa": "a, jeo, 1cheung nim",
+        "vi": "Ờ nè, anh Tầng Một."
+    },
+    {
+        "start": "00:09:35,074",
+        "end": "00:09:36,033",
+        "en": "미안해요",
+        "pa": "mianhaeyo",
+        "vi": "Xin lỗi, chúng tôi nên ý tứ hơn."
+    },
+    {
+        "start": "00:09:36,117",
+        "end": "00:09:38,077",
+        "en": "우리가 눈치 없이…",
+        "pa": "uliga nunchi eobs-i…",
+        "vi": ""
+    },
+    {
+        "start": "00:09:38,160",
+        "end": "00:09:38,995",
+        "en": "네?",
+        "pa": "ne?",
+        "vi": "Hả?"
+    },
+    {
+        "start": "00:09:39,495",
+        "end": "00:09:41,122",
+        "en": "아, 아니에요",
+        "pa": "a, anieyo",
+        "vi": "Không có gì đâu."
+    },
+    {
+        "start": "00:09:41,706",
+        "end": "00:09:42,623",
+        "en": "아유",
+        "pa": "ayu",
+        "vi": "Thiệt đó."
+    },
+    {
+        "start": "00:09:42,707",
+        "end": "00:09:46,419",
+        "en": "아, 저 눈치 주려고 한 게 아니라 뭐, 운이 없었던 거죠, 제가",
+        "pa": "a, jeo nunchi julyeogo han ge anila mwo, un-i eobs-eossdeon geojyo, jega",
+        "vi": "Tôi không muốn làm cho mọi người khó xử. Chỉ là tôi không được may mắn thôi."
+    },
+    {
+        "start": "00:09:46,502",
+        "end": "00:09:48,337",
+        "en": "저는 선택권이 없는 거도 아니었어요",
+        "pa": "jeoneun seontaeggwon-i eobsneun geodo anieoss-eoyo",
+        "vi": "Lúc đó tôi còn thẻ khác để chọn mà."
+    },
+    {
+        "start": "00:09:48,421",
+        "end": "00:09:51,757",
+        "en": "아, 그리고 어차피 다리가 이래서",
+        "pa": "a, geuligo eochapi daliga ilaeseo",
+        "vi": "Hơn nữa, chân tôi bị như vậy, thì thật sự, muốn lên mấy tầng cao hơn…"
+    },
+    {
+        "start": "00:09:51,841",
+        "end": "00:09:54,552",
+        "en": "높은 층 골랐으면 곤란했을 거예요",
+        "pa": "nop-eun cheung gollass-eumyeon gonlanhaess-eul geoyeyo",
+        "vi": "cũng khó đối với tôi."
+    },
+    {
+        "start": "00:10:04,145",
+        "end": "00:10:05,896",
+        "en": "표정들 완전 대박",
+        "pa": "pyojeongdeul wanjeon daebag",
+        "vi": "Nhìn mặt mấy người mắc cười quá!"
+    },
+    {
+        "start": "00:10:07,231",
+        "end": "00:10:08,524",
+        "en": "웃음이 나오냐, 지금?",
+        "pa": "us-eum-i naonya, jigeum?",
+        "vi": "Cô thấy buồn cười lắm hả?"
+    },
+    {
+        "start": "00:10:10,192",
+        "end": "00:10:12,194",
+        "en": "저게 진짜, 씨…",
+        "pa": "jeoge jinjja, ssi…",
+        "vi": "Bà nội này, ngứa mắt thiệt chứ."
+    },
+    {
+        "start": "00:10:12,278",
+        "end": "00:10:13,112",
+        "en": "뭐?",
+        "pa": "mwo?",
+        "vi": "Thôi."
+    },
+    {
+        "start": "00:10:13,904",
+        "end": "00:10:15,156",
+        "en": "누가 잘못했어?",
+        "pa": "nuga jalmoshaess-eo?",
+        "vi": "Ở đây đâu có ai sai."
+    },
+    {
+        "start": "00:10:15,823",
+        "end": "00:10:17,658",
+        "en": "눈치 좀 작작 줍시다",
+        "pa": "nunchi jom jagjag jubsida",
+        "vi": "Bớt thói ghen ăn tức ở đi. Đâu phải tụi tôi cố ý chọn ngay tầng nhiều tiền."
+    },
+    {
+        "start": "00:10:17,742",
+        "end": "00:10:19,744",
+        "en": "뭐, 위층 뽑고 싶어서 뽑았나?",
+        "pa": "mwo, wicheung ppobgo sip-eoseo ppob-assna?",
+        "vi": ""
+    },
+    {
+        "start": "00:10:23,623",
+        "end": "00:10:24,832",
+        "en": "오늘 유산소 끝",
+        "pa": "oneul yusanso kkeut",
+        "vi": "Xong bài Cardio hôm nay!"
+    },
+    {
+        "start": "00:10:27,001",
+        "end": "00:10:30,046",
+        "en": "1분에 만 원을 벌든 34만 원을 벌든",
+        "pa": "1bun-e man won-eul beoldeun 34man won-eul beoldeun",
+        "vi": "Dù một phút được 10. 000 won, hay là 340.000 won,"
+    },
+    {
+        "start": "00:10:30,755",
+        "end": "00:10:32,381",
+        "en": "우리 모두 목표가 다 같은 거 아닌가요?",
+        "pa": "uli modu mogpyoga da gat-eun geo aningayo?",
+        "vi": "cuối cùng chúng ta đều có chung mục tiêu mà?"
+    },
+    {
+        "start": "00:10:33,090",
+        "end": "00:10:35,259",
+        "en": "가능한 한 이 쇼를 오래 지속하면서",
+        "pa": "ganeunghan han i syoleul olae jisoghamyeonseo",
+        "vi": "Phải giữ cho chương trình kéo dài lâu nhất có thể,"
+    },
+    {
+        "start": "00:10:36,385",
+        "end": "00:10:37,845",
+        "en": "최대 금액을 뽑아가는 거",
+        "pa": "choedae geum-aeg-eul ppob-aganeun geo",
+        "vi": "thì chúng ta mới kiếm được nhiều tiền nhất."
+    },
+    {
+        "start": "00:10:39,055",
+        "end": "00:10:40,181",
+        "en": "아닙니까?",
+        "pa": "anibnikka?",
+        "vi": "Có đúng vậy không?"
+    },
+    {
+        "start": "00:10:40,264",
+        "end": "00:10:42,224",
+        "en": "- 좆같지만 할 말이 없다",
+        "pa": "- jojgatjiman hal mal-i eobsda",
+        "vi": "Cũng bực thiệt nhưng đúng là vậy."
+    },
+    {
+        "start": "00:10:42,308",
+        "end": "00:10:43,893",
+        "en": "이제 다 징징댔으면",
+        "pa": "ije da jingjingdaess-eumyeon",
+        "vi": "Nếu mọi người đã kêu ca xong rồi,"
+    },
+    {
+        "start": "00:10:45,102",
+        "end": "00:10:47,063",
+        "en": "밥 좀 먹으러 가도 될까?",
+        "pa": "bab jom meog-euleo gado doelkka?",
+        "vi": "thì bây giờ mình đi ăn được chưa?"
+    },
+    {
+        "start": "00:10:47,146",
+        "end": "00:10:50,483",
+        "en": "그래, 이제 가서 밥들 가져다 먹어요, 우리",
+        "pa": "geulae, ije gaseo babdeul gajyeoda meog-eoyo, uli",
+        "vi": "Đúng đó. Bây giờ thì, mấy người chúng ta cũng nên đi ăn đi."
+    },
+    {
+        "start": "00:10:50,566",
+        "end": "00:10:51,609",
+        "en": "가요, 가요",
+        "pa": "gayo, gayo",
+        "vi": "Đi đi, lẹ lên."
+    },
+    {
+        "start": "00:10:52,777",
+        "end": "00:10:53,611",
+        "en": "밥이랑 물",
+        "pa": "bab-ilang mul",
+        "vi": "Đồ ăn thức uống…"
+    },
+    {
+        "start": "00:10:54,737",
+        "end": "00:10:56,113",
+        "en": "몇 개씩 내릴 건데?",
+        "pa": "myeoch gaessig naelil geonde?",
+        "vi": "Mỗi lần tính gửi xuống dưới mấy phần?"
+    },
+    {
+        "start": "00:10:58,532",
+        "end": "00:10:59,617",
+        "en": "아…",
+        "pa": "a…",
+        "vi": "À…"
+    },
+    {
+        "start": "00:11:02,119",
+        "end": "00:11:05,206",
+        "en": "아래층이라 상금 적게 받는 것도 억울한데",
+        "pa": "alaecheung-ila sang-geum jeogge badneun geosdo eog-ulhande",
+        "vi": "Được ít tiền hơn vì ở tầng dưới là đã bất công rồi."
+    },
+    {
+        "start": "00:11:05,289",
+        "end": "00:11:07,041",
+        "en": "밥까지 적게 먹어야 되나?",
+        "pa": "babkkaji jeogge meog-eoya doena?",
+        "vi": "Còn muốn chúng tôi ăn ít hơn nữa hả?"
+    },
+    {
+        "start": "00:11:08,709",
+        "end": "00:11:09,585",
+        "en": "저, 아니요",
+        "pa": "jeo, aniyo",
+        "vi": "Không đâu."
+    },
+    {
+        "start": "00:11:11,170",
+        "end": "00:11:13,089",
+        "en": "다 같이 공평하게 먹을 수 있는 방법을",
+        "pa": "da gat-i gongpyeonghage meog-eul su issneun bangbeob-eul",
+        "vi": "Tôi đã nghĩ ra được một cách để chúng ta có thể chia đều đồ ăn thức uống rồi."
+    },
+    {
+        "start": "00:11:13,172",
+        "end": "00:11:14,632",
+        "en": "제가 좀 생각을 해봤는데",
+        "pa": "jega jom saeng-gag-eul haebwassneunde",
+        "vi": ""
+    },
+    {
+        "start": "00:11:16,258",
+        "end": "00:11:17,968",
+        "en": "- 제안드려 봐도 되겠습니까?",
+        "pa": "- jeandeulyeo bwado doegessseubnikka?",
+        "vi": "Cho phép tôi giải thích một chút nha?"
+    },
+    {
+        "start": "00:11:22,348",
+        "end": "00:11:24,934",
+        "en": "일단 한 사람당 하나씩 가져가는 겁니다",
+        "pa": "ildan han salamdang hanassig gajyeoganeun geobnida",
+        "vi": "Đầu tiên, mỗi người sẽ lấy một phần ăn cho riêng mình."
+    },
+    {
+        "start": "00:11:26,811",
+        "end": "00:11:30,064",
+        "en": "8층부터 1층까지 모두 공평하게 하나씩이요",
+        "pa": "8cheungbuteo 1cheungkkaji modu gongpyeonghage hanassig-iyo",
+        "vi": "Từ Tầng Một tới Tầng Tám, mỗi người sẽ có một phần giống như nhau."
+    },
+    {
+        "start": "00:11:32,191",
+        "end": "00:11:33,609",
+        "en": "맛있겠다",
+        "pa": "mas-issgessda",
+        "vi": "-Nhìn ngon quá đi. -Chương trình này"
+    },
+    {
+        "start": "00:11:33,693",
+        "end": "00:11:35,486",
+        "en": "이 쇼는 일종의 극한상황입니다",
+        "pa": "i syoneun iljong-ui geughansanghwang-ibnida",
+        "vi": "thử thách sự giới hạn của chúng ta."
+    },
+    {
+        "start": "00:11:36,529",
+        "end": "00:11:39,281",
+        "en": "다른 어느 때보다 공동체가 중요한 환경이죠",
+        "pa": "daleun eoneu ttaeboda gongdongchega jung-yohan hwangyeong-ijyo",
+        "vi": "Cho nên việc quan trọng nhất, là phải hợp tác như một tập thể."
+    },
+    {
+        "start": "00:11:41,200",
+        "end": "00:11:42,284",
+        "en": "우리끼리 뭉치고",
+        "pa": "ulikkili mungchigo",
+        "vi": "-Chúng ta phải cùng chung tay. -Ui da …"
+    },
+    {
+        "start": "00:11:42,368",
+        "end": "00:11:43,536",
+        "en": "- 씨…",
+        "pa": "- ssi…",
+        "vi": ""
+    },
+    {
+        "start": "00:11:43,619",
+        "end": "00:11:45,079",
+        "en": "- 믿어야 합니다",
+        "pa": "- mid-eoya habnida",
+        "vi": "và tin tưởng nhau."
+    },
+    {
+        "start": "00:11:46,205",
+        "end": "00:11:47,873",
+        "en": "그렇게 해서 1층 님 것 하나 빼고",
+        "pa": "geuleohge haeseo 1cheung nim geos hana ppaego",
+        "vi": "Vậy là sẽ còn dư lại bốn phần, sau khi anh Tầng Một đã lấy phần ăn của mình rồi."
+    },
+    {
+        "start": "00:11:47,957",
+        "end": "00:11:50,042",
+        "en": "총 네 개가 남게 해주시기 바라겠습니다",
+        "pa": "chong ne gaega namge haejusigi balagessseubnida",
+        "vi": ""
+    },
+    {
+        "start": "00:11:51,127",
+        "end": "00:11:52,128",
+        "en": "네?",
+        "pa": "ne?",
+        "vi": "Hả? Sao anh lại cho anh ấy thêm bốn phần nữa?"
+    },
+    {
+        "start": "00:11:52,211",
+        "end": "00:11:54,422",
+        "en": "왜 1층 님만 네 개를 더 줘요?",
+        "pa": "wae 1cheung nimman ne gaeleul deo jwoyo?",
+        "vi": ""
+    },
+    {
+        "start": "00:11:54,505",
+        "end": "00:11:56,257",
+        "en": "아니요, 1층 님께 다 드리는 게 아니고요",
+        "pa": "aniyo, 1cheung nimkke da deulineun ge anigoyo",
+        "vi": "Không, không phải là cho thêm bốn phần."
+    },
+    {
+        "start": "00:11:57,299",
+        "end": "00:12:00,344",
+        "en": "각자 도시락 하나씩 드셔서 굶으시는 분들은 없을 거고",
+        "pa": "gagja dosilag hanassig deusyeoseo gulm-eusineun bundeul-eun eobs-eul geogo",
+        "vi": "Nếu như mỗi người lấy đúng một phần, thì sẽ không có ai bị đói hết."
+    },
+    {
+        "start": "00:12:01,887",
+        "end": "00:12:03,305",
+        "en": "양이 좀 부족하신 분들은",
+        "pa": "yang-i jom bujoghasin bundeul-eun",
+        "vi": "Nếu như người nào muốn ăn thêm,"
+    },
+    {
+        "start": "00:12:04,140",
+        "end": "00:12:05,266",
+        "en": "1층에 네 개가 더 있으니까",
+        "pa": "1cheung-e ne gaega deo iss-eunikka",
+        "vi": "thì cũng có thể đi xuống dưới tầng một để chia sẻ bốn phần còn lại."
+    },
+    {
+        "start": "00:12:05,349",
+        "end": "00:12:07,309",
+        "en": "와서 적당히 나눠 드시면 될 거 같습니다",
+        "pa": "waseo jeogdanghi nanwo deusimyeon doel geo gatseubnida",
+        "vi": ""
+    },
+    {
+        "start": "00:12:07,393",
+        "end": "00:12:08,227",
+        "en": "아…",
+        "pa": "a…",
+        "vi": ""
+    },
+    {
+        "start": "00:12:08,310",
+        "end": "00:12:09,478",
+        "en": "아무도 손해 보지 않는 구조",
+        "pa": "amudo sonhae boji anhneun gujo",
+        "vi": "Một chế độ không ai chịu thiệt thòi."
+    },
+    {
+        "start": "00:12:10,396",
+        "end": "00:12:11,439",
+        "en": "서로 양보하지만",
+        "pa": "seolo yangbohajiman",
+        "vi": "Ai cũng phải nhường nhau một chút,"
+    },
+    {
+        "start": "00:12:11,522",
+        "end": "00:12:13,691",
+        "en": "결국 모자란 건 다 같이 모여 먹으니",
+        "pa": "gyeolgug mojalan geon da gat-i moyeo meog-euni",
+        "vi": "nhưng mọi người đều sẽ được chia những phần"
+    },
+    {
+        "start": "00:12:13,774",
+        "end": "00:12:15,151",
+        "en": "아무도 손해를 보지 않는다",
+        "pa": "amudo sonhaeleul boji anhneunda",
+        "vi": "còn lại, nên không có ai bị thiệt hết."
+    },
+    {
+        "start": "00:12:15,818",
+        "end": "00:12:18,696",
+        "en": "자연스럽게 서로 신뢰가 쌓일 수밖에 없다",
+        "pa": "jayeonseuleobge seolo sinloega ssah-il subakk-e eobsda",
+        "vi": "Vậy thì chúng tôi… sẽ tạo dựng được lòng tin với nhau."
+    },
+    {
+        "start": "00:12:18,779",
+        "end": "00:12:20,531",
+        "en": "간이 된 걸 많이 드세요",
+        "pa": "gan-i doen geol manh-i deuseyo",
+        "vi": "Thử món bên này đi."
+    },
+    {
+        "start": "00:12:20,614",
+        "end": "00:12:21,866",
+        "en": "- 이거요? - 네",
+        "pa": "- igeoyo? - ne",
+        "vi": "-Đây hả? -Ngon á nha."
+    },
+    {
+        "start": "00:12:21,949",
+        "end": "00:12:22,783",
+        "en": "왜요?",
+        "pa": "waeyo?",
+        "vi": "Tại sao?"
+    },
+    {
+        "start": "00:12:24,160",
+        "end": "00:12:24,994",
+        "en": "더우니까",
+        "pa": "deounikka",
+        "vi": "Tại nó cay."
+    },
+    {
+        "start": "00:12:25,870",
+        "end": "00:12:27,788",
+        "en": "- 다 드셨어요? - 많이 먹어요",
+        "pa": "- da deusyeoss-eoyo? - manh-i meog-eoyo",
+        "vi": "Ăn xong chưa?\n Ăn hết đi."
+    },
+    {
+        "start": "00:12:28,748",
+        "end": "00:12:30,166",
+        "en": "음, 맛있다",
+        "pa": "eum, mas-issda",
+        "vi": "Ngon quá."
+    },
+    {
+        "start": "00:12:37,465",
+        "end": "00:12:39,633",
+        "en": "이제 뭘 해야 되는지 좀 찾으셨어요?",
+        "pa": "ije mwol haeya doeneunji jom chaj-eusyeoss-eoyo?",
+        "vi": "Anh có nghĩ ra tiếp theo… làm gì chưa?"
+    },
+    {
+        "start": "00:12:40,676",
+        "end": "00:12:41,510",
+        "en": "예?",
+        "pa": "ye?",
+        "vi": "Hả?"
+    },
+    {
+        "start": "00:12:41,594",
+        "end": "00:12:43,721",
+        "en": "뭘 해야 되는지 알 수가 없으니까",
+        "pa": "mwol haeya doeneunji al suga eobs-eunikka",
+        "vi": "Nó đáng sợ hơn bởi vì chúng ta không biết là mình sẽ phải làm gì."
+    },
+    {
+        "start": "00:12:43,804",
+        "end": "00:12:45,222",
+        "en": "더 무서운 거 같습니다",
+        "pa": "deo museoun geo gatseubnida",
+        "vi": ""
+    },
+    {
+        "start": "00:12:45,306",
+        "end": "00:12:48,100",
+        "en": "아니, 아까 이 쇼가 뭘 해야 되는지 몰라서",
+        "pa": "ani, akka i syoga mwol haeya doeneunji mollaseo",
+        "vi": "Ý tôi là, lúc trước anh thấy sợ vì không biết…"
+    },
+    {
+        "start": "00:12:49,101",
+        "end": "00:12:49,977",
+        "en": "두려우시다고",
+        "pa": "dulyeousidago",
+        "vi": "sẽ phải làm gì."
+    },
+    {
+        "start": "00:12:50,603",
+        "end": "00:12:51,437",
+        "en": "아…",
+        "pa": "a…",
+        "vi": "À."
+    },
+    {
+        "start": "00:12:53,272",
+        "end": "00:12:56,692",
+        "en": "네, 뭐, 저들이 원하는 게 대충 뭔지는 알 거 같습니다",
+        "pa": "ne, mwo, jeodeul-i wonhaneun ge daechung mwonjineun al geo gatseubnida",
+        "vi": "Tôi nghĩ là mình cũng biết được đại khái là họ đang muốn cái gì rồi."
+    },
+    {
+        "start": "00:12:58,861",
+        "end": "00:12:59,695",
+        "en": "뭔데요?",
+        "pa": "mwondeyo?",
+        "vi": "Họ muốn gì?"
+    },
+    {
+        "start": "00:12:59,779",
+        "end": "00:13:01,030",
+        "en": "- 야",
+        "pa": "- ya",
+        "vi": "Nè!"
+    },
+    {
+        "start": "00:13:01,113",
+        "end": "00:13:02,948",
+        "en": "너 뭐 하는 짓이야?",
+        "pa": "neo mwo haneun jis-iya?",
+        "vi": "Chị làm cái gì vậy?"
+    },
+    {
+        "start": "00:13:04,450",
+        "end": "00:13:06,202",
+        "en": "뭐 하는 짓이냐고!",
+        "pa": "mwo haneun jis-inyago!",
+        "vi": "Tôi hỏi chị làm gì đó!"
+    },
+    {
+        "start": "00:13:06,285",
+        "end": "00:13:08,245",
+        "en": "- 15분밖에 안 남았잖아!",
+        "pa": "- 15bunbakk-e an nam-assjanh-a!",
+        "vi": "Chỉ còn có 15 phút nữa thôi kìa!"
+    },
+    {
+        "start": "00:13:18,506",
+        "end": "00:13:20,216",
+        "en": "이게 예뻐요, 이게 예뻐요?",
+        "pa": "ige yeppeoyo, ige yeppeoyo?",
+        "vi": "Cái này đẹp hơn? Hay là cái này?"
+    },
+    {
+        "start": "00:13:20,299",
+        "end": "00:13:22,927",
+        "en": "설마 지금 저걸 시간으로 산 거야?",
+        "pa": "seolma jigeum jeogeol sigan-eulo san geoya?",
+        "vi": "Cô đã… dùng thời gian để mua đống đồ đó hả?"
+    },
+    {
+        "start": "00:13:23,010",
+        "end": "00:13:24,220",
+        "en": "야",
+        "pa": "ya",
+        "vi": "Nè."
+    },
+    {
+        "start": "00:13:24,303",
+        "end": "00:13:27,264",
+        "en": "옷을 사고 싶으면 네 방에 가서 처사든가",
+        "pa": "os-eul sago sip-eumyeon ne bang-e gaseo cheosadeunga",
+        "vi": "Nếu như chị muốn mua quần áo thì trở về phòng của mình mà mua đi chứ!"
+    },
+    {
+        "start": "00:13:27,348",
+        "end": "00:13:28,724",
+        "en": "왜 여기서 지랄이야!",
+        "pa": "wae yeogiseo jilal-iya!",
+        "vi": "Sao chị lại mua ở ngoài này vậy?"
+    },
+    {
+        "start": "00:13:29,308",
+        "end": "00:13:31,393",
+        "en": "안에서 사면 밖에서 못 입으니까",
+        "pa": "an-eseo samyeon bakk-eseo mos ib-eunikka",
+        "vi": "Tại mua ở trong phòng đâu mặc ra ngoài được."
+    },
+    {
+        "start": "00:13:32,853",
+        "end": "00:13:34,313",
+        "en": "나 밖에서 입고 싶은데?",
+        "pa": "na bakk-eseo ibgo sip-eunde?",
+        "vi": "Tôi muốn mặc ở ngoài này mà."
+    },
+    {
+        "start": "00:13:35,898",
+        "end": "00:13:37,858",
+        "en": "물도 없는데 저 수영복은 뭐예요?",
+        "pa": "muldo eobsneunde jeo suyeongbog-eun mwoyeyo?",
+        "vi": "Không có nước thì mua đồ bơi làm gì chứ?"
+    },
+    {
+        "start": "00:13:37,942",
+        "end": "00:13:38,776",
+        "en": "태닝용",
+        "pa": "taening-yong",
+        "vi": "Để tắm nắng."
+    },
+    {
+        "start": "00:13:38,859",
+        "end": "00:13:39,735",
+        "en": "미친년아",
+        "pa": "michinnyeon-a",
+        "vi": "Cái con điên này. Có tin tôi giết chị không hả?"
+    },
+    {
+        "start": "00:13:40,694",
+        "end": "00:13:42,071",
+        "en": "진짜 죽고 싶어?",
+        "pa": "jinjja juggo sip-eo?",
+        "vi": ""
+    },
+    {
+        "start": "00:13:42,154",
+        "end": "00:13:43,197",
+        "en": "말로 하지?",
+        "pa": "mallo haji?",
+        "vi": "Nói chuyện thôi. Đừng có đe dọa cô ấy."
+    },
+    {
+        "start": "00:13:43,280",
+        "end": "00:13:44,573",
+        "en": "무섭게 왜 그래?",
+        "pa": "museobge wae geulae?",
+        "vi": ""
+    },
+    {
+        "start": "00:13:49,870",
+        "end": "00:13:50,788",
+        "en": "이거 때문에 그래요?",
+        "pa": "igeo ttaemun-e geulaeyo?",
+        "vi": "Có phải tại cái này không?"
+    },
+    {
+        "start": "00:13:54,458",
+        "end": "00:13:56,585",
+        "en": "다시 늘리면 되잖아요",
+        "pa": "dasi neullimyeon doejanh-ayo",
+        "vi": "Thích thì cứ kéo dài nó ra thôi. Thời gian mà."
+    },
+    {
+        "start": "00:13:56,669",
+        "end": "00:13:57,628",
+        "en": "시간",
+        "pa": "sigan",
+        "vi": ""
+    },
+    {
+        "start": "00:13:58,128",
+        "end": "00:13:59,922",
+        "en": "- 아, 어떻게 늘립니까?",
+        "pa": "- a, eotteohge neullibnikka?",
+        "vi": "Kéo dài như thế nào hả?"
+    },
+    {
+        "start": "00:14:01,632",
+        "end": "00:14:03,092",
+        "en": "- 아무도 몰라요, 진짜?",
+        "pa": "- amudo mollayo, jinjja?",
+        "vi": "Không ai biết thiệt sao trời?"
+    },
+    {
+        "start": "00:14:04,009",
+        "end": "00:14:05,010",
+        "en": "시간 늘리는 방법?",
+        "pa": "sigan neullineun bangbeob?",
+        "vi": "Ai biết kéo thời gian không?"
+    },
+    {
+        "start": "00:14:08,097",
+        "end": "00:14:09,974",
+        "en": "계단이에요, 계단",
+        "pa": "gyedan-ieyo, gyedan",
+        "vi": "Là cầu thang đó, mọi người ơi!"
+    },
+    {
+        "start": "00:14:11,725",
+        "end": "00:14:12,852",
+        "en": "계단이요?",
+        "pa": "gyedan-iyo?",
+        "vi": "Cầu thang hả?"
+    },
+    {
+        "start": "00:14:12,935",
+        "end": "00:14:15,688",
+        "en": "네, 저기 계단 엄청 많잖아요",
+        "pa": "ne, jeogi gyedan eomcheong manhjanh-ayo",
+        "vi": "Ừ. Ở đằng kia kìa."
+    },
+    {
+        "start": "00:14:16,355",
+        "end": "00:14:18,232",
+        "en": "저거 밟고 다니면 시간 늘어나요",
+        "pa": "jeogeo balbgo danimyeon sigan neul-eonayo",
+        "vi": "Trên đó nhiều bậc thang lắm.\n Thời gian dài ra lúc ta đạp chân lên đó."
+    },
+    {
+        "start": "00:14:20,526",
+        "end": "00:14:22,528",
+        "en": "- 근거는요? - 근거?",
+        "pa": "- geungeoneun-yo? - geungeo?",
+        "vi": "Có bằng chứng nào không?\n Bằng chứng?"
+    },
+    {
+        "start": "00:14:23,112",
+        "end": "00:14:24,822",
+        "en": "어… 뭐였더라?",
+        "pa": "eo… mwoyeossdeola?",
+        "vi": "-Là gì ta? -Đừng có nhây"
+    },
+    {
+        "start": "00:14:24,905",
+        "end": "00:14:26,740",
+        "en": "장난치지 말고 똑바로 말해",
+        "pa": "jangnanchiji malgo ttogbalo malhae",
+        "vi": "nữa, nói thẳng ra luôn đi."
+    },
+    {
+        "start": "00:14:28,325",
+        "end": "00:14:30,870",
+        "en": "나한테 사과하면 알려줄게요",
+        "pa": "nahante sagwahamyeon allyeojulgeyo",
+        "vi": "Xin lỗi đi rồi tôi nói cho mà biết."
+    },
+    {
+        "start": "00:14:30,953",
+        "end": "00:14:32,079",
+        "en": "뭐?",
+        "pa": "mwo?",
+        "vi": "Gì chứ?"
+    },
+    {
+        "start": "00:14:32,162",
+        "end": "00:14:35,040",
+        "en": "아까 나한테 욕한 거 사과하면",
+        "pa": "akka nahante yoghan geo sagwahamyeon",
+        "vi": "Lúc nãy cô chửi bới tôi đó, cô xin lỗi đi thì tôi mới nói chứ."
+    },
+    {
+        "start": "00:14:35,124",
+        "end": "00:14:36,542",
+        "en": "- 알려준다고요",
+        "pa": "- allyeojundagoyo",
+        "vi": ""
+    },
+    {
+        "start": "00:14:37,585",
+        "end": "00:14:39,545",
+        "en": "존나 죄송해요, 언니 제가 사과할게요",
+        "pa": "jonna joesonghaeyo, eonni jega sagwahalgeyo",
+        "vi": "Tôi thay mặt cô ấy, xin lỗi chị gái."
+    },
+    {
+        "start": "00:14:39,628",
+        "end": "00:14:41,297",
+        "en": "시간 없으니까 빨리 말하라고",
+        "pa": "sigan eobs-eunikka ppalli malhalago",
+        "vi": "-Sắp hết giờ rồi, nói lẹ đi trời ơi! -Không xin lỗi thì thôi."
+    },
+    {
+        "start": "00:14:41,380",
+        "end": "00:14:42,673",
+        "en": "아니면 말고",
+        "pa": "animyeon malgo",
+        "vi": ""
+    },
+    {
+        "start": "00:14:42,756",
+        "end": "00:14:44,300",
+        "en": "- 씨발 년이!",
+        "pa": "- ssibal nyeon-i!",
+        "vi": "Con quỷ cái này!"
+    },
+    {
+        "start": "00:14:45,509",
+        "end": "00:14:46,427",
+        "en": "말로 하라니까",
+        "pa": "mallo halanikka",
+        "vi": "-Nói chuyện đàng hoàng đi. -Anh là ai chứ?"
+    },
+    {
+        "start": "00:14:46,510",
+        "end": "00:14:47,344",
+        "en": "뭐야, 너는?",
+        "pa": "mwoya, neoneun?",
+        "vi": ""
+    },
+    {
+        "start": "00:14:47,428",
+        "end": "00:14:48,554",
+        "en": "사과해, 그럼 끝나잖아",
+        "pa": "sagwahae, geuleom kkeutnajanh-a",
+        "vi": "Xin lỗi đi, giải quyết cho xong chuyện. Thấy ai cũng sốt ruột không?"
+    },
+    {
+        "start": "00:14:48,637",
+        "end": "00:14:50,055",
+        "en": "다들 안 보여!",
+        "pa": "dadeul an boyeo!",
+        "vi": ""
+    },
+    {
+        "start": "00:14:52,683",
+        "end": "00:14:54,351",
+        "en": "- 아, 씨…",
+        "pa": "- a, ssi…",
+        "vi": "-Không được. -Không thể"
+    },
+    {
+        "start": "00:14:55,436",
+        "end": "00:14:56,270",
+        "en": "아, 씨",
+        "pa": "a, ssi",
+        "vi": "kết thúc lãng nhách như vậy được."
+    },
+    {
+        "start": "00:14:56,353",
+        "end": "00:14:58,063",
+        "en": "- 몰라, 나도 이렇게는 못 끝내 - 안 돼",
+        "pa": "- molla, nado ileohgeneun mos kkeutnae - an dwae",
+        "vi": ""
+    },
+    {
+        "start": "00:14:58,147",
+        "end": "00:15:00,107",
+        "en": "- 아, 내가 어떻게 잡은 기회인데!",
+        "pa": "- a, naega eotteohge jab-eun gihoeinde!",
+        "vi": "Đây là cơ hội ngàn năm có một đó!"
+    },
+    {
+        "start": "00:15:05,654",
+        "end": "00:15:06,780",
+        "en": "씨…",
+        "pa": "ssi…",
+        "vi": ""
+    },
+    {
+        "start": "00:15:06,864",
+        "end": "00:15:08,449",
+        "en": "지금 맞는지 안 맞는지 그게 뭐가 중요해요?",
+        "pa": "jigeum majneunji an majneunji geuge mwoga jung-yohaeyo?",
+        "vi": "-Đúng hay sai cứ mặc kệ -Trước đi, chưa đầy"
+    },
+    {
+        "start": "00:15:08,532",
+        "end": "00:15:09,366",
+        "en": "10분도 안 남았는데",
+        "pa": "10bundo an nam-assneunde",
+        "vi": "-mười phút nữa hết giờ rồi! -Tôi biết rồi."
+    },
+    {
+        "start": "00:15:09,450",
+        "end": "00:15:10,326",
+        "en": "알았어",
+        "pa": "al-ass-eo",
+        "vi": ""
+    },
+    {
+        "start": "00:15:10,409",
+        "end": "00:15:11,285",
+        "en": "일단 해보시죠",
+        "pa": "ildan haebosijyo",
+        "vi": "Cứ thử xem sao."
+    },
+    {
+        "start": "00:15:17,333",
+        "end": "00:15:18,334",
+        "en": "씨…",
+        "pa": "ssi…",
+        "vi": "Trời ơi!"
+    },
+    {
+        "start": "00:15:32,514",
+        "end": "00:15:34,892",
+        "en": "아, 씨발 진짜 늘어나는 거 맞냐고!",
+        "pa": "a, ssibal jinjja neul-eonaneun geo majnyago!",
+        "vi": "Mọi người ơi, có chắc là cách này hiệu quả không vậy?"
+    },
+    {
+        "start": "00:15:39,563",
+        "end": "00:15:40,606",
+        "en": "시간 계속 줄잖아",
+        "pa": "sigan gyesog juljanh-a",
+        "vi": "Sắp hết thời gian rồi!"
+    },
+    {
+        "start": "00:15:41,315",
+        "end": "00:15:42,983",
+        "en": "30초도 안 남았어요!",
+        "pa": "30chodo an nam-ass-eoyo!",
+        "vi": "Còn chưa tới 30 giây!"
+    },
+    {
+        "start": "00:16:09,176",
+        "end": "00:16:10,469",
+        "en": "이렇게 끝난다고?",
+        "pa": "ileohge kkeutnandago?",
+        "vi": "Không lẽ hết thiệt rồi sao?"
+    },
+    {
+        "start": "00:16:16,767",
+        "end": "00:16:18,102",
+        "en": "- 24시간!",
+        "pa": "- 24sigan!",
+        "vi": "Có 24 giờ rồi!"
+    },
+    {
+        "start": "00:16:23,774",
+        "end": "00:16:25,734",
+        "en": "맞죠, 내 말이?",
+        "pa": "maj-jyo, nae mal-i?",
+        "vi": "Thấy chưa, nói không tin!"
+    },
+    {
+        "start": "00:16:27,152",
+        "end": "00:16:28,445",
+        "en": "계단 맞다니까?",
+        "pa": "gyedan majdanikka?",
+        "vi": "Đúng là chỗ cầu thang mà. Có nhớ lúc mình đi lên xuống cầu thang…"
+    },
+    {
+        "start": "00:16:28,529",
+        "end": "00:16:30,447",
+        "en": "우리 아까부터 그랬잖아요",
+        "pa": "uli akkabuteo geulaessjanh-ayo",
+        "vi": ""
+    },
+    {
+        "start": "00:16:30,531",
+        "end": "00:16:32,825",
+        "en": "내 방 보러, 각자 방들 확인하러",
+        "pa": "nae bang boleo, gagja bangdeul hwag-inhaleo",
+        "vi": "Hoan hô!\n Để coi phòng tôi, với từng phòng của mọi người,"
+    },
+    {
+        "start": "00:16:32,908",
+        "end": "00:16:34,493",
+        "en": "그리고 도시락 먹으러",
+        "pa": "geuligo dosilag meog-euleo",
+        "vi": "rồi để lấy phần cơm không?"
+    },
+    {
+        "start": "00:16:34,576",
+        "end": "00:16:37,204",
+        "en": "내가 아까 봤거든요? 시간 느는 거",
+        "pa": "naega akka bwassgeodeun-yo? sigan neuneun geo",
+        "vi": "Đó chính là lúc tôi nhìn thấy thời gian được tăng lên!"
+    },
+    {
+        "start": "00:16:39,540",
+        "end": "00:16:41,375",
+        "en": "나 좀 똑똑한 거 아니에요?",
+        "pa": "na jom ttogttoghan geo anieyo?",
+        "vi": "Tôi cũng thông minh quá phải không?"
+    },
+    {
+        "start": "00:16:42,710",
+        "end": "00:16:44,420",
+        "en": "이로써 숨겨진 룰 하나 획득",
+        "pa": "ilosseo sumgyeojin lul hana hoegdeug",
+        "vi": "Thế là phát hiện ra quy tắc bất thành văn."
+    },
+    {
+        "start": "00:16:44,920",
+        "end": "00:16:46,714",
+        "en": "계단을 뛰면 시간이 오른다",
+        "pa": "gyedan-eul ttwimyeon sigan-i oleunda",
+        "vi": "Thời gian sẽ kéo dài, khi leo cầu thang."
+    },
+    {
+        "start": "00:16:49,633",
+        "end": "00:16:50,759",
+        "en": "아, 씨",
+        "pa": "a, ssi",
+        "vi": "Trời ơi, cứ tưởng là kết thúc rồi."
+    },
+    {
+        "start": "00:16:50,843",
+        "end": "00:16:52,261",
+        "en": "진짜 끝날 뻔했네",
+        "pa": "jinjja kkeutnal ppeonhaessne",
+        "vi": ""
+    },
+    {
+        "start": "00:16:52,344",
+        "end": "00:16:53,220",
+        "en": "죽다 살았다",
+        "pa": "jugda sal-assda",
+        "vi": "Suýt nữa thì toi."
+    },
+    {
+        "start": "00:16:56,181",
+        "end": "00:16:59,643",
+        "en": "네, 뭐, 저들이 원하는 게 대충 뭔지는 알 거 같습니다",
+        "pa": "ne, mwo, jeodeul-i wonhaneun ge daechung mwonjineun al geo gatseubnida",
+        "vi": "Tôi nghĩ mình đại khái đã biết được là họ muốn cái gì rồi."
+    },
+    {
+        "start": "00:17:00,144",
+        "end": "00:17:02,271",
+        "en": "내분이죠, 우리끼리 싸우는 거요",
+        "pa": "naebun-ijyo, ulikkili ssauneun geoyo",
+        "vi": "Là mâu thuẫn. Họ muốn mình đấu đá với nhau."
+    },
+    {
+        "start": "00:17:03,397",
+        "end": "00:17:05,566",
+        "en": "외부로부터의 공격은 참가자들이",
+        "pa": "oebulobuteoui gong-gyeog-eun chamgajadeul-i",
+        "vi": "Thường thì với khủng hoảng tới từ bên ngoài,"
+    },
+    {
+        "start": "00:17:07,192",
+        "end": "00:17:09,069",
+        "en": "서로 협동하고 인내하게 할 겁니다",
+        "pa": "seolo hyeobdonghago innaehage hal geobnida",
+        "vi": "chỉ khiến cho mọi người đoàn kết và kiên nhẫn hơn thôi."
+    },
+    {
+        "start": "00:17:09,153",
+        "end": "00:17:10,487",
+        "en": "하지만 내분은…",
+        "pa": "hajiman naebun-eun…",
+        "vi": "Nhưng mâu thuẫn nội bộ…"
+    },
+    {
+        "start": "00:17:12,865",
+        "end": "00:17:13,907",
+        "en": "내부가 무너지면",
+        "pa": "naebuga muneojimyeon",
+        "vi": "Nếu như nội bộ tan rã,"
+    },
+    {
+        "start": "00:17:15,451",
+        "end": "00:17:16,410",
+        "en": "재기 불능이죠",
+        "pa": "jaegi bulneung-ijyo",
+        "vi": "thì không thể cứu vãn được nữa."
+    },
+    {
+        "start": "00:17:17,453",
+        "end": "00:17:19,038",
+        "en": "- 그래, 협동과 인내로",
+        "pa": "- geulae, hyeobdong-gwa innaelo",
+        "vi": "Phải. Mọi người cần đoàn kết, nhờ hợp tác và kiên nhẫn."
+    },
+    {
+        "start": "00:17:19,121",
+        "end": "00:17:20,456",
+        "en": "- 똘똘 뭉쳐야 된다",
+        "pa": "- ttolttol mungchyeoya doenda",
+        "vi": ""
+    },
+    {
+        "start": "00:17:21,123",
+        "end": "00:17:23,876",
+        "en": "- 아, 7층 머리 좋네, 똑똑해, 어",
+        "pa": "- a, 7cheung meoli johne, ttogttoghae, eo",
+        "vi": "Trời, anh Tầng Bảy đúng là thông minh quá."
+    },
+    {
+        "start": "00:17:25,085",
+        "end": "00:17:27,546",
+        "en": "이게 또 최대한 오래 써야지 또 안 산다고",
+        "pa": "ige tto choedaehan olae sseoyaji tto an sandago",
+        "vi": "Mình phải dùng càng lâu càng tốt để khỏi phải mua mới."
+    },
+    {
+        "start": "00:17:28,297",
+        "end": "00:17:29,131",
+        "en": "셋…",
+        "pa": "ses…",
+        "vi": "Ba…"
+    },
+    {
+        "start": "00:17:30,924",
+        "end": "00:17:32,968",
+        "en": "두 칸이면은 충분하지",
+        "pa": "du kan-imyeon-eun chungbunhaji",
+        "vi": "Hai miếng cỡ này, chắc là đủ rồi, hai thôi."
+    },
+    {
+        "start": "00:17:42,519",
+        "end": "00:17:43,687",
+        "en": "충분하지 않았구나",
+        "pa": "chungbunhaji anh-assguna",
+        "vi": "Nhiêu đây đủ chết liền."
+    },
+    {
+        "start": "00:17:49,610",
+        "end": "00:17:51,653",
+        "en": "아, 생각해 보니까 개 열받네?",
+        "pa": "a, saeng-gaghae bonikka gae yeolbadne?",
+        "vi": "Càng nghĩ càng thấy bực mình."
+    },
+    {
+        "start": "00:17:51,737",
+        "end": "00:17:53,655",
+        "en": "아, 그래도 내가 하루에 4천을 버는 사람인데",
+        "pa": "a, geulaedo naega halue 4cheon-eul beoneun salam-inde",
+        "vi": "Dù gì cũng kiếm được 40 triệu won một ngày mà sao phải keo kiệt với những thứ này."
+    },
+    {
+        "start": "00:17:53,739",
+        "end": "00:17:55,616",
+        "en": "쪼잔하게 이런 거를 아끼고서",
+        "pa": "jjojanhage ileon geoleul akkigoseo",
+        "vi": ""
+    },
+    {
+        "start": "00:17:55,699",
+        "end": "00:17:58,202",
+        "en": "아, 자신 있게 사자, 그냥 어, 가자!",
+        "pa": "a, jasin issge saja, geunyang eo, gaja!",
+        "vi": "Tự tin mà mua chứ sợ gì ai! Ừ, chơi luôn!"
+    },
+    {
+        "start": "00:17:58,285",
+        "end": "00:18:01,747",
+        "en": "여기 화끈하게 간이 변기 하나 주십시다",
+        "pa": "yeogi hwakkeunhage gan-i byeongi hana jusibsida",
+        "vi": "A lô, tôi sẽ chơi lớn. Cho tôi một bồn cầu di động. Loại có thiết kế phổ thông."
+    },
+    {
+        "start": "00:18:01,830",
+        "end": "00:18:02,748",
+        "en": "심플한 걸로다가",
+        "pa": "simpeulhan geollodaga",
+        "vi": ""
+    },
+    {
+        "start": "00:18:07,377",
+        "end": "00:18:08,462",
+        "en": "네",
+        "pa": "ne",
+        "vi": "Yes."
+    },
+    {
+        "start": "00:18:08,545",
+        "end": "00:18:09,379",
+        "en": "주세요",
+        "pa": "juseyo",
+        "vi": "Mang đến đây."
+    },
+    {
+        "start": "00:18:17,012",
+        "end": "00:18:18,639",
+        "en": "환불은 안 되는 거잖아요, 그렇죠?",
+        "pa": "hwanbul-eun an doeneun geojanh-ayo, geuleohjyo?",
+        "vi": "Hàng mua rồi có được trả không vậy?"
+    },
+    {
+        "start": "00:18:30,442",
+        "end": "00:18:32,402",
+        "en": "아, 미친년",
+        "pa": "a, michinnyeon",
+        "vi": "Cái con điên đó."
+    },
+    {
+        "start": "00:18:33,779",
+        "end": "00:18:34,988",
+        "en": "어디서 옷을 사?",
+        "pa": "eodiseo os-eul sa?",
+        "vi": "Dám mua đồ ở quảng trường."
+    },
+    {
+        "start": "00:18:35,531",
+        "end": "00:18:37,199",
+        "en": "아, 생각할수록 열받네",
+        "pa": "a, saeng-gaghalsulog yeolbadne",
+        "vi": "Càng nghĩ càng tức mình mà."
+    },
+    {
+        "start": "00:18:38,325",
+        "end": "00:18:40,494",
+        "en": "아이, 씨, 짜증 나",
+        "pa": "ai, ssi, jjajeung na",
+        "vi": "Cái con quỷ cái đó!"
+    },
+    {
+        "start": "00:18:43,288",
+        "end": "00:18:44,706",
+        "en": "너무 잘했어",
+        "pa": "neomu jalhaess-eo",
+        "vi": "Chúng ta đã làm rất tốt."
+    },
+    {
+        "start": "00:18:44,790",
+        "end": "00:18:47,960",
+        "en": "다, 우리… 나중에…",
+        "pa": "da, uli… najung-e…",
+        "vi": "Tất cả cũng đều là vì một mục đích chung."
+    },
+    {
+        "start": "00:18:48,043",
+        "end": "00:18:49,378",
+        "en": "지금은 모인 거 봐",
+        "pa": "jigeum-eun moin geo bwa",
+        "vi": "Xem mình kiếm được bao nhiêu rồi kìa."
+    },
+    {
+        "start": "00:19:10,858",
+        "end": "00:19:12,442",
+        "en": "자, 그럼 시작할까요?",
+        "pa": "ja, geuleom sijaghalkkayo?",
+        "vi": "Được rồi, bắt đầu nha?\n LEO CẦU THANG"
+    },
+    {
+        "start": "00:19:27,875",
+        "end": "00:19:30,210",
+        "en": "계단 뛰기가 시간을 늘린다는 걸 알게 된 후",
+        "pa": "gyedan ttwigiga sigan-eul neullindaneun geol alge doen hu",
+        "vi": "+210.000 WON +20.000 WON\n +30.000 WON +50.000 WON\n +340.000 WON +80.000 WON\n +130.000 WON +10.000 WON\n Sau khi phát hiện việc leo cầu thang giúp tăng thêm thời gian,"
+    },
+    {
+        "start": "00:19:30,294",
+        "end": "00:19:31,420",
+        "en": "심장이 터지고",
+        "pa": "simjang-i teojigo",
+        "vi": "chúng tôi đã tích cực, leo lên leo xuống cầu thang,"
+    },
+    {
+        "start": "00:19:31,503",
+        "end": "00:19:32,713",
+        "en": "- 다리가 후들대도록",
+        "pa": "- daliga hudeuldaedolog",
+        "vi": ""
+    },
+    {
+        "start": "00:19:32,796",
+        "end": "00:19:35,215",
+        "en": "- 우리는 계단을 오르고 또 내렸다",
+        "pa": "- ulineun gyedan-eul oleugo tto naelyeossda",
+        "vi": "nhiều tới mức muốn bể tim, chân thì run, đứng không nổi luôn."
+    },
+    {
+        "start": "00:19:36,216",
+        "end": "00:19:38,844",
+        "en": "시간이 늘어남에 따라 배가 고픈 사람도 늘어",
+        "pa": "sigan-i neul-eonam-e ttala baega gopeun salamdo neul-eo",
+        "vi": "Càng kiếm được thêm thời gian, càng có nhiều người thấy đói hơn,"
+    },
+    {
+        "start": "00:19:38,927",
+        "end": "00:19:40,304",
+        "en": "1층을 찾는 사람들이 많아졌다",
+        "pa": "1cheung-eul chajneun salamdeul-i manh-ajyeossda",
+        "vi": "tầng một trở thành nơi được tới lui tấp nập."
+    },
+    {
+        "start": "00:19:50,939",
+        "end": "00:19:52,482",
+        "en": "우리는 날마다 녹초가 됐지만",
+        "pa": "ulineun nalmada nogchoga dwaessjiman",
+        "vi": "-Tối đến hầu như ai cũng kiệt sức, -Trời ơi đói bụng quá."
+    },
+    {
+        "start": "00:19:53,483",
+        "end": "00:19:54,610",
+        "en": "그래도 이게 어디냐",
+        "pa": "geulaedo ige eodinya",
+        "vi": "Nhưng không ai dám than thở."
+    },
+    {
+        "start": "00:20:21,261",
+        "end": "00:20:22,304",
+        "en": "아…",
+        "pa": "a…",
+        "vi": ""
+    },
+    {
+        "start": "00:20:22,387",
+        "end": "00:20:24,097",
+        "en": "뭐, 먹은 거 같지도 않네",
+        "pa": "mwo, meog-eun geo gatjido anhne",
+        "vi": "Ăn nhiêu không đủ dính răng tôi nữa."
+    },
+    {
+        "start": "00:20:25,557",
+        "end": "00:20:27,226",
+        "en": "아니, 하루에 한 끼 먹고 여기 와서 이렇게",
+        "pa": "ani, halue han kki meoggo yeogi waseo ileohge",
+        "vi": "Một ngày chỉ được ăn một bữa, rồi còn rỉa được có mấy miếng đồ thừa,"
+    },
+    {
+        "start": "00:20:27,309",
+        "end": "00:20:30,395",
+        "en": "새 모이처럼 좀 쪼아 먹는다고 배가 차냐고요",
+        "pa": "sae moicheoleom jom jjoa meogneundago baega chanyagoyo",
+        "vi": "không có thấm vào đâu hết."
+    },
+    {
+        "start": "00:20:31,521",
+        "end": "00:20:34,274",
+        "en": "하루에 계단을 몇 번씩 오르락내리락하게 하면서",
+        "pa": "halue gyedan-eul myeoch beonssig oleulagnaelilaghage hamyeonseo",
+        "vi": "Tụi mình phải đi lên đi xuống cầu thang tới lui mỗi ngày. Quá đáng hết sức."
+    },
+    {
+        "start": "00:20:34,358",
+        "end": "00:20:35,776",
+        "en": "- 너무해, 진짜",
+        "pa": "- neomuhae, jinjja",
+        "vi": ""
+    },
+    {
+        "start": "00:20:35,859",
+        "end": "00:20:37,861",
+        "en": "이게 물가가 백 배가 아니고 천 배여도",
+        "pa": "ige mulgaga baeg baega anigo cheon baeyeodo",
+        "vi": "Dù giá có đắt hơn trăm ngàn lần, tôi vẫn muốn mua thêm đồ ăn."
+    },
+    {
+        "start": "00:20:38,487",
+        "end": "00:20:39,738",
+        "en": "뭐 좀 사 먹고 싶은데",
+        "pa": "mwo jom sa meoggo sip-eunde",
+        "vi": ""
+    },
+    {
+        "start": "00:20:42,950",
+        "end": "00:20:44,076",
+        "en": "와, 저 아래 핫도그",
+        "pa": "wa, jeo alae hasdogeu",
+        "vi": "Bánh mì kẹp xúc xích."
+    },
+    {
+        "start": "00:20:44,159",
+        "end": "00:20:46,411",
+        "en": "나는 저기 햄버거",
+        "pa": "naneun jeogi haembeogeo",
+        "vi": "-Còn tôi, tôi thèm miếng bơ-gơ. -Tôi thèm… gà chiên."
+    },
+    {
+        "start": "00:20:46,495",
+        "end": "00:20:48,288",
+        "en": "- 저는 치킨",
+        "pa": "- jeoneun chikin",
+        "vi": ""
+    },
+    {
+        "start": "00:20:51,208",
+        "end": "00:20:52,417",
+        "en": "뿜빠이하지?",
+        "pa": "ppumppaihaji?",
+        "vi": "Chia nhau ra đi."
+    },
+    {
+        "start": "00:20:54,253",
+        "end": "00:20:55,796",
+        "en": "일 좀 나눠서 하자고",
+        "pa": "il jom nanwoseo hajago",
+        "vi": "Ý tôi là chia công việc ra."
+    },
+    {
+        "start": "00:20:58,840",
+        "end": "00:21:00,801",
+        "en": "그러니까 계단 오르기를 두 조로 나눠서",
+        "pa": "geuleonikka gyedan oleugileul du jolo nanwoseo",
+        "vi": "Vậy là mọi người muốn chia ra hai đội và leo cầu thang cách nhau một ngày."
+    },
+    {
+        "start": "00:21:00,884",
+        "end": "00:21:02,636",
+        "en": "격일로 하자는 말씀이시죠?",
+        "pa": "gyeog-illo hajaneun malsseum-isijyo?",
+        "vi": ""
+    },
+    {
+        "start": "00:21:02,719",
+        "end": "00:21:05,055",
+        "en": "네, 하루 쉬고, 하루 일하고",
+        "pa": "ne, halu swigo, halu ilhago",
+        "vi": "Phải. Một ngày cày tiền, bữa sau thì được nghỉ."
+    },
+    {
+        "start": "00:21:05,138",
+        "end": "00:21:08,141",
+        "en": "그리고 나머지 네 개 도시락은 일한 조한테 몰아주는 거죠",
+        "pa": "geuligo nameoji ne gae dosilag-eun ilhan johante mol-ajuneun geojyo",
+        "vi": "Phần cơm dư thì để lại cho đội leo cầu thang ngày hôm đó."
+    },
+    {
+        "start": "00:21:08,225",
+        "end": "00:21:10,102",
+        "en": "그럼 일한 조는 하루에 두 끼 먹을 수 있잖아요",
+        "pa": "geuleom ilhan joneun halue du kki meog-eul su issjanh-ayo",
+        "vi": "-Đội làm việc -Sẽ có thể ăn hai bữa một ngày."
+    },
+    {
+        "start": "00:21:10,185",
+        "end": "00:21:12,271",
+        "en": "쉬는 날에는 한 끼만 먹어도 괜찮잖아",
+        "pa": "swineun nal-eneun han kkiman meog-eodo gwaenchanhjanh-a",
+        "vi": "-Ngày nghỉ -Chỉ cần ăn một bữa cũng được."
+    },
+    {
+        "start": "00:21:12,354",
+        "end": "00:21:14,106",
+        "en": "네, 네, 저, 저 동의요",
+        "pa": "ne, ne, jeo, jeo dong-uiyo",
+        "vi": "Phải, phải, tôi tán thành chuyện này."
+    },
+    {
+        "start": "00:21:15,983",
+        "end": "00:21:17,985",
+        "en": "일 안 할 때는 한 끼면 충분해",
+        "pa": "il an hal ttaeneun han kkimyeon chungbunhae",
+        "vi": "Không làm gì thì một bữa đủ rồi. Được nghỉ ngơi cũng tốt, ha?"
+    },
+    {
+        "start": "00:21:18,068",
+        "end": "00:21:19,403",
+        "en": "그냥 쉬는 게 나아, 응?",
+        "pa": "geunyang swineun ge naa, eung?",
+        "vi": ""
+    },
+    {
+        "start": "00:21:19,987",
+        "end": "00:21:21,113",
+        "en": "네, 저도",
+        "pa": "ne, jeodo",
+        "vi": "Tôi tán thành."
+    },
+    {
+        "start": "00:21:22,114",
+        "end": "00:21:22,948",
+        "en": "저, 저도요",
+        "pa": "jeo, jeodoyo",
+        "vi": "Tôi cũng vậy."
+    },
+    {
+        "start": "00:21:23,532",
+        "end": "00:21:24,408",
+        "en": "한번 해보지, 뭐",
+        "pa": "hanbeon haeboji, mwo",
+        "vi": "Vậy cứ thử rồi coi…"
+    },
+    {
+        "start": "00:21:26,868",
+        "end": "00:21:28,662",
+        "en": "- 시간이 얼마나 오르나",
+        "pa": "- sigan-i eolmana oleuna",
+        "vi": "kiếm được bao nhiêu thời gian."
+    },
+    {
+        "start": "00:21:33,458",
+        "end": "00:21:35,043",
+        "en": "이렇게 나누면 될까요?",
+        "pa": "ileohge nanumyeon doelkkayo?",
+        "vi": "Chia đội ra như vậy có được không?"
+    },
+    {
+        "start": "00:21:39,339",
+        "end": "00:21:40,465",
+        "en": "난 딴 조로 갈게",
+        "pa": "nan ttan jolo galge",
+        "vi": "Cho tôi đổi đội khác nha."
+    },
+    {
+        "start": "00:21:41,341",
+        "end": "00:21:42,175",
+        "en": "안 맞아",
+        "pa": "an maj-a",
+        "vi": "Không hợp đội này."
+    },
+    {
+        "start": "00:21:44,886",
+        "end": "00:21:45,721",
+        "en": "나?",
+        "pa": "na?",
+        "vi": "Nói mình hả?"
+    },
+    {
+        "start": "00:21:47,764",
+        "end": "00:21:48,598",
+        "en": "응?",
+        "pa": "eung?",
+        "vi": "Hả?"
+    },
+    {
+        "start": "00:21:49,182",
+        "end": "00:21:52,311",
+        "en": "그럼 2층 님하고 바꿔주실 분 계신가요?",
+        "pa": "geuleom 2cheung nimhago bakkwojusil bun gyesingayo?",
+        "vi": "Vậy chúng ta có ai tình nguyện đổi… với Tầng Hai không?"
+    },
+    {
+        "start": "00:21:52,394",
+        "end": "00:21:54,062",
+        "en": "찡찡이 지지배",
+        "pa": "jjingjjing-i jijibae",
+        "vi": "Một đứa hay than. Một gã côn đồ. Một con nhỏ điên."
+    },
+    {
+        "start": "00:21:54,146",
+        "end": "00:21:55,063",
+        "en": "깡패 같은 놈",
+        "pa": "kkangpae gat-eun nom",
+        "vi": ""
+    },
+    {
+        "start": "00:21:55,856",
+        "end": "00:21:56,815",
+        "en": "저 돌아이",
+        "pa": "jeo dol-ai",
+        "vi": ""
+    },
+    {
+        "start": "00:21:57,316",
+        "end": "00:22:00,277",
+        "en": "저기를 누가 가냐? 사이즈 대충 각 나왔는데",
+        "pa": "jeogileul nuga ganya? saijeu daechung gag nawassneunde",
+        "vi": "Ai thèm nhập hội chứ? Nhìn thành viên là biết kết cục rồi."
+    },
+    {
+        "start": "00:22:00,360",
+        "end": "00:22:03,488",
+        "en": "어 저는 어디든 상관없습니다",
+        "pa": "eo jeoneun eodideun sang-gwan-eobs-seubnida",
+        "vi": "Tôi… đổi cho. Tôi ở đội nào cũng được hết."
+    },
+    {
+        "start": "00:22:13,915",
+        "end": "00:22:15,834",
+        "en": "아, 좋다",
+        "pa": "a, johda",
+        "vi": "Vậy là tốt rồi. Bây giờ đội nào cũng đã có được hai người đàn ông, cân xứng ha?"
+    },
+    {
+        "start": "00:22:15,917",
+        "end": "00:22:19,046",
+        "en": "그럼 남자가 둘씩이니까 딱 맞네, 그렇죠?",
+        "pa": "geuleom namjaga dulssig-inikka ttag majne, geuleohjyo?",
+        "vi": ""
+    },
+    {
+        "start": "00:22:19,129",
+        "end": "00:22:20,047",
+        "en": "- 네, 좋아요",
+        "pa": "- ne, joh-ayo",
+        "vi": "Ừ, tuyệt lắm."
+    },
+    {
+        "start": "00:22:21,923",
+        "end": "00:22:23,967",
+        "en": "조를 나눈 건 탁월한 선택이었다",
+        "pa": "joleul nanun geon tag-wolhan seontaeg-ieossda",
+        "vi": "Chia thành hai đội là một ý tưởng tuyệt vời."
+    },
+    {
+        "start": "00:22:25,135",
+        "end": "00:22:27,804",
+        "en": "아무리 힘들어도 내일이면 쉴 수 있다는 건",
+        "pa": "amuli himdeul-eodo naeil-imyeon swil su issdaneun geon",
+        "vi": "Dù làm việc oải đến đâu, thì hôm sau cũng được nghỉ ngơi,"
+    },
+    {
+        "start": "00:22:27,888",
+        "end": "00:22:30,140",
+        "en": "사람을 희망차게 만드는 충분한 요소가 된다",
+        "pa": "salam-eul huimangchage mandeuneun chungbunhan yosoga doenda",
+        "vi": "nhiêu đó cũng đủ để lấy làm động lực cho hôm sau rồi."
+    },
+    {
+        "start": "00:22:32,768",
+        "end": "00:22:34,436",
+        "en": "무엇보다 제일 좋은 건",
+        "pa": "mueosboda jeil joh-eun geon",
+        "vi": "Điều hay ho nhất là, sẽ được ăn uống, cho đã cái bụng vào mấy ngày làm việc."
+    },
+    {
+        "start": "00:22:34,519",
+        "end": "00:22:37,439",
+        "en": "일한 날은 밥을 많이 먹을 수 있다는 것이다",
+        "pa": "ilhan nal-eun bab-eul manh-i meog-eul su issdaneun geos-ida",
+        "vi": ""
+    },
+    {
+        "start": "00:22:38,273",
+        "end": "00:22:41,026",
+        "en": "'일하지 않은 자, 먹지도 말라'",
+        "pa": "'ilhaji anh-eun ja, meogjido malla'",
+        "vi": "Ngon quá.\n Tôi thích món này. Không làm thì chỉ có… cạp đất mà ăn. Ngon không?"
+    },
+    {
+        "start": "00:22:47,783",
+        "end": "00:22:49,242",
+        "en": "- 어, 어, 괜찮으세요?",
+        "pa": "- eo, eo, gwaenchanh-euseyo?",
+        "vi": "-Xin lỗi cô nha, Tầng Bốn. -Suýt nữa là gãy lưng tôi rồi đó!"
+    },
+    {
+        "start": "00:22:49,326",
+        "end": "00:22:50,744",
+        "en": "허리 다칠 뻔했잖아요!",
+        "pa": "heoli dachil ppeonhaessjanh-ayo!",
+        "vi": ""
+    },
+    {
+        "start": "00:22:50,827",
+        "end": "00:22:52,245",
+        "en": "아유, 죄송해요, 4층 님",
+        "pa": "ayu, joesonghaeyo, 4cheung nim",
+        "vi": "-Tôi xin lỗi, tôi xin lỗi. -Không sao đâu."
+    },
+    {
+        "start": "00:22:52,329",
+        "end": "00:22:54,247",
+        "en": "- 아, 됐어요, 씨… - 아유, 어떡해, 이거?",
+        "pa": "- a, dwaess-eoyo, ssi… - ayu, eotteoghae, igeo?",
+        "vi": "Tôi rất xin lỗi cô."
+    },
+    {
+        "start": "00:22:54,331",
+        "end": "00:22:56,333",
+        "en": "- 아, 죄송해요, 죄송합니다",
+        "pa": "- a, joesonghaeyo, joesonghabnida",
+        "vi": "-Thiệt tình. -Tôi xin lỗi cô nha. Xin lỗi."
+    },
+    {
+        "start": "00:22:56,416",
+        "end": "00:22:57,250",
+        "en": "아, 씨…",
+        "pa": "a, ssi…",
+        "vi": "Trời ơi…"
+    },
+    {
+        "start": "00:23:00,962",
+        "end": "00:23:01,797",
+        "en": "괜찮아?",
+        "pa": "gwaenchanh-a?",
+        "vi": "Không sao chứ?"
+    },
+    {
+        "start": "00:23:03,465",
+        "end": "00:23:04,299",
+        "en": "아…",
+        "pa": "a…",
+        "vi": "Tôi không sao hết."
+    },
+    {
+        "start": "00:23:06,051",
+        "end": "00:23:06,927",
+        "en": "아",
+        "pa": "a",
+        "vi": ""
+    },
+    {
+        "start": "00:23:07,010",
+        "end": "00:23:08,553",
+        "en": "네, 괜찮아요",
+        "pa": "ne, gwaenchanh-ayo",
+        "vi": ""
+    },
+    {
+        "start": "00:23:12,724",
+        "end": "00:23:13,683",
+        "en": "아이…",
+        "pa": "ai…",
+        "vi": ""
+    },
+    {
+        "start": "00:23:19,856",
+        "end": "00:23:21,608",
+        "en": "웃지 말고 일이나 하라고",
+        "pa": "usji malgo il-ina halago",
+        "vi": "Dẹp cái mặt đó qua mà làm việc đi."
+    },
+    {
+        "start": "00:23:22,818",
+        "end": "00:23:25,445",
+        "en": "당신 때문에 시간 계속 제자리잖아",
+        "pa": "dangsin ttaemun-e sigan gyesog jejalijanh-a",
+        "vi": "Cũng tại anh, mà thời gian không tăng được chút nào."
+    },
+    {
+        "start": "00:23:26,696",
+        "end": "00:23:27,656",
+        "en": "왜 그러세요?",
+        "pa": "wae geuleoseyo?",
+        "vi": "Làm gì vậy hả?"
+    },
+    {
+        "start": "00:24:00,897",
+        "end": "00:24:01,731",
+        "en": "내가 할게",
+        "pa": "naega halge",
+        "vi": "Để tôi thay."
+    },
+    {
+        "start": "00:24:03,650",
+        "end": "00:24:04,484",
+        "en": "예?",
+        "pa": "ye?",
+        "vi": ""
+    },
+    {
+        "start": "00:24:04,568",
+        "end": "00:24:06,445",
+        "en": "가서 좀 쉬어, 내가 할 테니까",
+        "pa": "gaseo jom swieo, naega hal tenikka",
+        "vi": "Ra nghỉ đi. Để tôi thay cho."
+    },
+    {
+        "start": "00:24:06,528",
+        "end": "00:24:07,362",
+        "en": "아…",
+        "pa": "a…",
+        "vi": ""
+    },
+    {
+        "start": "00:24:09,197",
+        "end": "00:24:10,157",
+        "en": "그래도 되지?",
+        "pa": "geulaedo doeji?",
+        "vi": "Ý kiến ý cò gì không?"
+    },
+    {
+        "start": "00:24:15,537",
+        "end": "00:24:16,371",
+        "en": "아닙니다",
+        "pa": "anibnida",
+        "vi": "-Không cần -Đâu, tôi chạy được…"
+    },
+    {
+        "start": "00:24:16,455",
+        "end": "00:24:17,747",
+        "en": "- 제가… - 됐어",
+        "pa": "- jega… - dwaess-eo",
+        "vi": "Nghỉ đi."
+    },
+    {
+        "start": "00:24:18,415",
+        "end": "00:24:20,208",
+        "en": "운동 안 하면 내가 뻐근해서 그래",
+        "pa": "undong an hamyeon naega ppeogeunhaeseo geulae",
+        "vi": "Không vận động thì tôi lại nhức người nữa."
+    },
+    {
+        "start": "00:24:20,292",
+        "end": "00:24:21,126",
+        "en": "아니요",
+        "pa": "aniyo",
+        "vi": "Đừng mà…"
+    },
+    {
+        "start": "00:24:23,920",
+        "end": "00:24:24,754",
+        "en": "멋지네",
+        "pa": "meosjine",
+        "vi": "Đáng nể ha.\n NGÀY KẾ TIẾP"
+    },
+    {
+        "start": "00:24:37,309",
+        "end": "00:24:39,060",
+        "en": "씨…",
+        "pa": "ssi…",
+        "vi": ""
+    },
+    {
+        "start": "00:24:53,116",
+        "end": "00:24:56,077",
+        "en": "이틀 연속으로 하니까 좀 힘드시죠?",
+        "pa": "iteul yeonsog-eulo hanikka jom himdeusijyo?",
+        "vi": "Làm hai ngày liên tục chắc cô mệt lắm hả?"
+    },
+    {
+        "start": "00:24:56,995",
+        "end": "00:24:57,829",
+        "en": "괜찮아",
+        "pa": "gwaenchanh-a",
+        "vi": "Tôi không sao.\n NGÀY SAU ĐÓ"
+    },
+    {
+        "start": "00:25:12,802",
+        "end": "00:25:14,346",
+        "en": "- 아, 힘들어",
+        "pa": "- a, himdeul-eo",
+        "vi": "Đuối quá."
+    },
+    {
+        "start": "00:25:24,898",
+        "end": "00:25:25,732",
+        "en": "할까?",
+        "pa": "halkka?",
+        "vi": "Giúp không ta,"
+    },
+    {
+        "start": "00:25:26,316",
+        "end": "00:25:27,317",
+        "en": "- 말까?",
+        "pa": "- malkka?",
+        "vi": "hay không giúp?"
+    },
+    {
+        "start": "00:25:28,860",
+        "end": "00:25:31,238",
+        "en": "할까, 말까",
+        "pa": "halkka, malkka",
+        "vi": "Nên giúp,\n không nên giúp."
+    },
+    {
+        "start": "00:25:32,239",
+        "end": "00:25:34,074",
+        "en": "할, 할까, 말까",
+        "pa": "hal, halkka, malkka",
+        "vi": "Giúp hay không giúp? Giúp không? Không giúp? Hay giúp?"
+    },
+    {
+        "start": "00:25:34,157",
+        "end": "00:25:35,367",
+        "en": "할까, 말까?",
+        "pa": "halkka, malkka?",
+        "vi": ""
+    },
+    {
+        "start": "00:25:35,450",
+        "end": "00:25:37,994",
+        "en": "할까, 말까, 할까, 말까, 잠…",
+        "pa": "halkka, malkka, halkka, malkka, jam…",
+        "vi": "Nên giúp? Không giúp? Nên giúp hay không nên giúp? Khoan… Từ từ! Anh Tầng Một ơi!"
+    },
+    {
+        "start": "00:25:38,078",
+        "end": "00:25:40,539",
+        "en": "아! 여… 1층 아저씨",
+        "pa": "a! yeo… 1cheung ajeossi",
+        "vi": ""
+    },
+    {
+        "start": "00:25:49,506",
+        "end": "00:25:52,551",
+        "en": "저, 1층 님, 좀, 좀 가서 쉬세요",
+        "pa": "jeo, 1cheung nim, jom, jom gaseo swiseyo",
+        "vi": "Nè, anh Tầng Một, anh cứ xuống nghỉ ngơi đi. Để tôi làm cho."
+    },
+    {
+        "start": "00:25:52,634",
+        "end": "00:25:53,969",
+        "en": "- 제, 제가 할게요 - 아, 예?",
+        "pa": "- je, jega halgeyo - a, ye?",
+        "vi": ""
+    },
+    {
+        "start": "00:25:54,511",
+        "end": "00:25:55,637",
+        "en": "아, 아이고, 아닙니다",
+        "pa": "a, aigo, anibnida",
+        "vi": "Sao được?\n Thôi, thôi không được đâu, hôm nay tôi phải làm."
+    },
+    {
+        "start": "00:25:55,720",
+        "end": "00:25:57,389",
+        "en": "- 아니에요, 아니에요 - 오늘은 진짜 제가 해야죠",
+        "pa": "- anieyo, anieyo - oneul-eun jinjja jega haeyajyo",
+        "vi": ""
+    },
+    {
+        "start": "00:25:57,472",
+        "end": "00:25:59,474",
+        "en": "아니에요, 아니에요 제가 저기, 저기…",
+        "pa": "anieyo, anieyo jega jeogi, jeogi…",
+        "vi": "-Cứ để tôi thay cho. -Thiệt mà, tại hôm qua, hôm qua… tôi đã ăn"
+    },
+    {
+        "start": "00:25:59,558",
+        "end": "00:26:01,226",
+        "en": "어제 밥을 너무 많이 먹어가지고",
+        "pa": "eoje bab-eul neomu manh-i meog-eogajigo",
+        "vi": ""
+    },
+    {
+        "start": "00:26:01,309",
+        "end": "00:26:03,144",
+        "en": "속이 좀, 아이, 더부룩해 가지고",
+        "pa": "sog-i jom, ai, deobulughae gajigo",
+        "vi": "-nhiều quá, nên bây giờ… hơi bị khó tiêu. -Khó chịu chết đi được."
+    },
+    {
+        "start": "00:26:03,645",
+        "end": "00:26:07,023",
+        "en": "네, 가서 좀, 좀 쉬세요 회복도 좀 하시고",
+        "pa": "ne, gaseo jom, jom swiseyo hoebogdo jom hasigo",
+        "vi": "Ôi trời.\n Anh xuống nằm nghỉ ngơi đi cho lại sức ha?"
+    },
+    {
+        "start": "00:26:07,107",
+        "end": "00:26:07,983",
+        "en": "아이고",
+        "pa": "aigo",
+        "vi": "Ôi trời."
+    },
+    {
+        "start": "00:26:08,692",
+        "end": "00:26:09,859",
+        "en": "아유, 너무 죄송합니다",
+        "pa": "ayu, neomu joesonghabnida",
+        "vi": "-Tôi rất xin lỗi. -Có gì đâu."
+    },
+    {
+        "start": "00:26:09,943",
+        "end": "00:26:10,902",
+        "en": "아니에요, 아니에요",
+        "pa": "anieyo, anieyo",
+        "vi": ""
+    },
+    {
+        "start": "00:26:11,820",
+        "end": "00:26:13,280",
+        "en": "어, 잠깐잠깐, 잠깐만 지나갑니다",
+        "pa": "eo, jamkkanjamkkan, jamkkanman jinagabnida",
+        "vi": "-Nước sôi, nước sôi, cho tôi qua. -Cái gì vậy?"
+    },
+    {
+        "start": "00:26:13,363",
+        "end": "00:26:14,906",
+        "en": "아, 씨…",
+        "pa": "a, ssi…",
+        "vi": ""
+    },
+    {
+        "start": "00:26:14,990",
+        "end": "00:26:16,533",
+        "en": "어, 실례, 실례",
+        "pa": "eo, sillye, sillye",
+        "vi": "Cho qua, cho qua, nước sôi."
+    },
+    {
+        "start": "00:26:16,616",
+        "end": "00:26:17,909",
+        "en": "- 으차차, 차",
+        "pa": "- euchacha, cha",
+        "vi": "Cho qua, cho qua."
+    },
+    {
+        "start": "00:26:17,993",
+        "end": "00:26:19,995",
+        "en": "아니, 뭐 누구는 안 힘들어서 뛰나?",
+        "pa": "ani, mwo nuguneun an himdeul-eoseo ttwina?",
+        "vi": "-Tụi tôi cũng biết mệt nữa mà! -Cảm ơn."
+    },
+    {
+        "start": "00:26:21,329",
+        "end": "00:26:23,498",
+        "en": "다들 다 죽기 살기로 뛰는 건데, 씨",
+        "pa": "dadeul da juggi salgilo ttwineun geonde, ssi",
+        "vi": "Ai mà chẳng ráng hết sức để chạy chứ."
+    },
+    {
+        "start": "00:26:24,040",
+        "end": "00:26:26,543",
+        "en": "으자자자, 자! 어허이",
+        "pa": "eujajaja, ja! eoheoi",
+        "vi": "Cho qua, cho qua, cho qua. Cho qua."
+    },
+    {
+        "start": "00:26:29,754",
+        "end": "00:26:31,006",
+        "en": "어어, 어어, 어",
+        "pa": "eoeo, eoeo, eo",
+        "vi": ""
+    },
+    {
+        "start": "00:26:37,762",
+        "end": "00:26:39,306",
+        "en": "- 여기 좀 앉으시죠 - 앉으세요",
+        "pa": "- yeogi jom anj-eusijyo - anj-euseyo",
+        "vi": "-Anh ngồi đi. -Ngồi đi."
+    },
+    {
+        "start": "00:26:40,557",
+        "end": "00:26:42,142",
+        "en": "동료를 위해 대신 일하는 나",
+        "pa": "donglyoleul wihae daesin ilhaneun na",
+        "vi": "Gánh thêm việc cho đồng đội."
+    },
+    {
+        "start": "00:26:42,976",
+        "end": "00:26:44,102",
+        "en": "제법 멋져",
+        "pa": "jebeob meosjyeo",
+        "vi": "Mình ngầu dễ sợ."
+    },
+    {
+        "start": "00:26:45,186",
+        "end": "00:26:46,021",
+        "en": "파이팅!",
+        "pa": "paiting!",
+        "vi": "Cố lên nào!"
+    },
+    {
+        "start": "00:26:52,527",
+        "end": "00:26:55,697",
+        "en": "3층 님 아, 여기 이러고 있으면 어떡해?",
+        "pa": "3cheung nim a, yeogi ileogo iss-eumyeon eotteoghae?",
+        "vi": "Cậu Tầng Ba, đừng có ngồi bệt ra ở chỗ này chứ."
+    },
+    {
+        "start": "00:26:56,448",
+        "end": "00:26:58,283",
+        "en": "- 올라가자 - 5초, 5초",
+        "pa": "- ollagaja - 5cho, 5cho",
+        "vi": "Khoan khoan, cho tôi năm giây để thở, năm giây thôi."
+    },
+    {
+        "start": "00:26:58,366",
+        "end": "00:26:59,284",
+        "en": "5초만, 5초만",
+        "pa": "5choman, 5choman",
+        "vi": "Cậu ráng đứng dậy đi."
+    },
+    {
+        "start": "00:27:01,202",
+        "end": "00:27:02,954",
+        "en": "- 일어나요, 일어나",
+        "pa": "- il-eonayo, il-eona",
+        "vi": "-Dậy đi, đứng lên. -Không được rồi."
+    },
+    {
+        "start": "00:27:03,038",
+        "end": "00:27:03,955",
+        "en": "그게 아니고…",
+        "pa": "geuge anigo…",
+        "vi": ""
+    },
+    {
+        "start": "00:27:04,039",
+        "end": "00:27:05,206",
+        "en": "- 일어나 봐봐",
+        "pa": "- il-eona bwabwa",
+        "vi": "Cố đứng lên nào."
+    },
+    {
+        "start": "00:27:05,290",
+        "end": "00:27:06,708",
+        "en": "- 천천히, 천천히, 예",
+        "pa": "- cheoncheonhi, cheoncheonhi, ye",
+        "vi": "Từ từ, nhẹ thôi, đúng rồi."
+    },
+    {
+        "start": "00:27:09,794",
+        "end": "00:27:11,087",
+        "en": "- 밥들 드시죠",
+        "pa": "- babdeul deusijyo",
+        "vi": "Mọi người… vào ăn đi."
+    },
+    {
+        "start": "00:27:11,171",
+        "end": "00:27:13,340",
+        "en": "- 아, 예, 맛있게 드십시오 - 아, 예, 예",
+        "pa": "- a, ye, mas-issge deusibsio - a, ye, ye",
+        "vi": "-Anh vào ăn đi. -Cảm ơn."
+    },
+    {
+        "start": "00:27:14,090",
+        "end": "00:27:14,924",
+        "en": "여기…",
+        "pa": "yeogi…",
+        "vi": "Vào đây đi."
+    },
+    {
+        "start": "00:27:15,467",
+        "end": "00:27:16,384",
+        "en": "드시게요?",
+        "pa": "deusigeyo?",
+        "vi": "Anh tính ăn hả?"
+    },
+    {
+        "start": "00:27:17,761",
+        "end": "00:27:18,595",
+        "en": "네?",
+        "pa": "ne?",
+        "vi": "Hả?"
+    },
+    {
+        "start": "00:27:19,137",
+        "end": "00:27:20,305",
+        "en": "드실 거냐고요",
+        "pa": "deusil geonyagoyo",
+        "vi": "Anh có tính ăn không?"
+    },
+    {
+        "start": "00:27:21,765",
+        "end": "00:27:22,599",
+        "en": "아…",
+        "pa": "a…",
+        "vi": "Thì…"
+    },
+    {
+        "start": "00:27:23,933",
+        "end": "00:27:25,560",
+        "en": "4층 님, 왜 그래?",
+        "pa": "4cheung nim, wae geulae?",
+        "vi": "Tầng Bốn à, đừng vậy mà."
+    },
+    {
+        "start": "00:27:26,936",
+        "end": "00:27:29,898",
+        "en": "아니, 그, 솔직한 말로",
+        "pa": "ani, geu, soljighan mallo",
+        "vi": "Nói thiệt nha, theo như tôi nghĩ,"
+    },
+    {
+        "start": "00:27:29,981",
+        "end": "00:27:32,776",
+        "en": "오늘 드실 거면 3층 님이 드셔야 되는 거 아니에요?",
+        "pa": "oneul deusil geomyeon 3cheung nim-i deusyeoya doeneun geo anieyo?",
+        "vi": "hôm nay không phải nên để cho anh Tầng Ba ăn hay sao chứ?"
+    },
+    {
+        "start": "00:27:34,319",
+        "end": "00:27:35,695",
+        "en": "일을 안 하셨는데",
+        "pa": "il-eul an hasyeossneunde",
+        "vi": "Anh cũng không có làm việc, thì có thật sự cần ăn hai bữa hay không?"
+    },
+    {
+        "start": "00:27:36,237",
+        "end": "00:27:37,989",
+        "en": "하루에 두 끼씩 드실 이유가 있나?",
+        "pa": "halue du kkissig deusil iyuga issna?",
+        "vi": ""
+    },
+    {
+        "start": "00:27:41,284",
+        "end": "00:27:42,535",
+        "en": "말 재밌게 한다",
+        "pa": "mal jaemissge handa",
+        "vi": "Cô cũng tài lanh quá ha."
+    },
+    {
+        "start": "00:27:44,120",
+        "end": "00:27:46,206",
+        "en": "너희들 어차피 8층 거 하나 남잖아",
+        "pa": "neohuideul eochapi 8cheung geo hana namjanh-a",
+        "vi": "Dù gì cũng dư một phần vì Tầng Tám đâu ăn đâu."
+    },
+    {
+        "start": "00:27:47,957",
+        "end": "00:27:49,084",
+        "en": "왜 지랄이야?",
+        "pa": "wae jilal-iya?",
+        "vi": "Lo chuyện tào lao."
+    },
+    {
+        "start": "00:27:52,587",
+        "end": "00:27:54,923",
+        "en": "아니 그, 누가 먹지 말래요?",
+        "pa": "ani geu, nuga meogji mallaeyo?",
+        "vi": "Thì tôi… đâu có kêu là anh đừng có ăn."
+    },
+    {
+        "start": "00:27:55,632",
+        "end": "00:27:58,510",
+        "en": "어? 그냥 이게 맞나 싶어서 얘기한 거 갖고",
+        "pa": "eo? geunyang ige majna sip-eoseo yaegihan geo gajgo",
+        "vi": "Tôi chỉ nói làm vậy thì không công bằng thôi."
+    },
+    {
+        "start": "00:27:59,052",
+        "end": "00:28:00,470",
+        "en": "- 아, 아휴…",
+        "pa": "- a, ahyu…",
+        "vi": "Thiệt tình à."
+    },
+    {
+        "start": "00:28:01,513",
+        "end": "00:28:03,181",
+        "en": "- 밥 먹…",
+        "pa": "- bab meog…",
+        "vi": "Anh cứ ăn…"
+    },
+    {
+        "start": "00:28:14,484",
+        "end": "00:28:16,611",
+        "en": "3층 님, 들어가세요",
+        "pa": "3cheung nim, deul-eogaseyo",
+        "vi": "Cậu Tầng Ba, vào trong ăn đi."
+    },
+    {
+        "start": "00:28:16,695",
+        "end": "00:28:17,987",
+        "en": "저 대신 오늘 뛰셨는데",
+        "pa": "jeo daesin oneul ttwisyeossneunde",
+        "vi": "Hôm nay cậu chạy thay tôi mà."
+    },
+    {
+        "start": "00:28:19,114",
+        "end": "00:28:19,948",
+        "en": "네",
+        "pa": "ne",
+        "vi": "-Được. -Đừng có nói nhảm nhí vậy chứ."
+    },
+    {
+        "start": "00:28:20,031",
+        "end": "00:28:21,282",
+        "en": "말도 안 되는 소리 하지 마",
+        "pa": "maldo an doeneun soli haji ma",
+        "vi": ""
+    },
+    {
+        "start": "00:28:22,617",
+        "end": "00:28:24,828",
+        "en": "누가, 씨발, 그깟 밥 때문에 대신해 준 줄 알아?",
+        "pa": "nuga, ssibal, geukkas bab ttaemun-e daesinhae jun jul al-a?",
+        "vi": "Anh tưởng tụi tôi chạy thay anh là vì đồ ăn hả?"
+    },
+    {
+        "start": "00:28:25,328",
+        "end": "00:28:26,287",
+        "en": "- 이거 먹으면",
+        "pa": "- igeo meog-eumyeon",
+        "vi": "Anh nghĩ anh ấy nuốt trôi được mớ đó hay sao?"
+    },
+    {
+        "start": "00:28:26,371",
+        "end": "00:28:28,164",
+        "en": "얘가 마음이 편하겠냐고",
+        "pa": "yaega ma-eum-i pyeonhagessnyago",
+        "vi": ""
+    },
+    {
+        "start": "00:28:28,248",
+        "end": "00:28:29,082",
+        "en": "안 그래?",
+        "pa": "an geulae?",
+        "vi": "Có đúng không?"
+    },
+    {
+        "start": "00:28:31,668",
+        "end": "00:28:32,585",
+        "en": "네, 그럼요",
+        "pa": "ne, geuleom-yo",
+        "vi": "Ờ, cô nói đúng."
+    },
+    {
+        "start": "00:28:34,754",
+        "end": "00:28:36,172",
+        "en": "신경 끄고 들어가서 먹어",
+        "pa": "singyeong kkeugo deul-eogaseo meog-eo",
+        "vi": "Anh cứ mặc kệ họ mà ăn đi."
+    },
+    {
+        "start": "00:28:37,549",
+        "end": "00:28:40,719",
+        "en": "저 인간들 자기들이 힘들어서 지랄 난 거니까",
+        "pa": "jeo ingandeul jagideul-i himdeul-eoseo jilal nan geonikka",
+        "vi": "Họ làm mình làm mẩy, là tại vì kiệt sức với lại mệt trong người thôi."
+    },
+    {
+        "start": "00:28:43,346",
+        "end": "00:28:44,389",
+        "en": "네, 맞아요, 이게…",
+        "pa": "ne, maj-ayo, ige…",
+        "vi": "Ừ, phải rồi đó. Anh…"
+    },
+    {
+        "start": "00:28:45,557",
+        "end": "00:28:46,474",
+        "en": "들어가세요, 아저씨",
+        "pa": "deul-eogaseyo, ajeossi",
+        "vi": "Cứ vào ăn đi, anh Tầng Một. Chuyện không thể tránh được mà."
+    },
+    {
+        "start": "00:28:46,558",
+        "end": "00:28:48,727",
+        "en": "이게 상황이 어쩔 수 없는 거잖아요",
+        "pa": "ige sanghwang-i eojjeol su eobsneun geojanh-ayo",
+        "vi": ""
+    },
+    {
+        "start": "00:28:48,810",
+        "end": "00:28:50,895",
+        "en": "너무 마음 안 쓰셔도 돼요, 네",
+        "pa": "neomu ma-eum an sseusyeodo dwaeyo, ne",
+        "vi": "Anh… không cần để ý gì đến tôi đâu."
+    },
+    {
+        "start": "00:28:51,730",
+        "end": "00:28:53,189",
+        "en": "아니에요, 자…",
+        "pa": "anieyo, ja…",
+        "vi": "Không đâu. Cậu…"
+    },
+    {
+        "start": "00:28:57,736",
+        "end": "00:28:59,070",
+        "en": "네, 아니에요",
+        "pa": "ne, anieyo",
+        "vi": "-Vào đi, cậu phải ăn chứ. -Anh vào đi. Cứ đi ăn đi mà, đi."
+    },
+    {
+        "start": "00:28:59,154",
+        "end": "00:29:00,029",
+        "en": "- 들어가셔… - 아이…",
+        "pa": "- deul-eogasyeo… - ai…",
+        "vi": ""
+    },
+    {
+        "start": "00:29:00,113",
+        "end": "00:29:02,782",
+        "en": "그래, 들어가, 그래도 가",
+        "pa": "geulae, deul-eoga, geulaedo ga",
+        "vi": ""
+    },
+    {
+        "start": "00:29:02,866",
+        "end": "00:29:04,576",
+        "en": "- 3층 님, 고마워요 - 네",
+        "pa": "- 3cheung nim, gomawoyo - ne",
+        "vi": "-Cảm ơn cậu nha Tầng Ba. -Dạ."
+    },
+    {
+        "start": "00:29:04,659",
+        "end": "00:29:06,327",
+        "en": "- 어, 아니요, 근데 그게… - 얼른",
+        "pa": "- eo, aniyo, geunde geuge… - eolleun",
+        "vi": "-Nhưng mà cậu ấy, không được… -Đi vô đi. Anh"
+    },
+    {
+        "start": "00:29:06,411",
+        "end": "00:29:08,496",
+        "en": "얼른 먹어요, 괜찮다잖아",
+        "pa": "eolleun meog-eoyo, gwaenchanhdajanh-a",
+        "vi": "cứ ăn đi, cậu ấy nói không sao đâu mà."
+    },
+    {
+        "start": "00:29:10,790",
+        "end": "00:29:11,624",
+        "en": "괜찮지?",
+        "pa": "gwaenchanhji?",
+        "vi": "Anh ổn chứ?"
+    },
+    {
+        "start": "00:29:13,209",
+        "end": "00:29:14,586",
+        "en": "어, 그럼요, 네",
+        "pa": "eo, geuleom-yo, ne",
+        "vi": "Tất nhiên rồi."
+    },
+    {
+        "start": "00:29:14,669",
+        "end": "00:29:17,046",
+        "en": "내가 진짜 네 새끼 때문에",
+        "pa": "naega jinjja ne saekki ttaemun-e",
+        "vi": "Tất cả là tại anh đồ khốn nạn, tại anh mà tôi phải chết dí ở cái nơi này."
+    },
+    {
+        "start": "00:29:17,130",
+        "end": "00:29:19,299",
+        "en": "이상한 이런 데까지 와가지고, 씨",
+        "pa": "isanghan ileon dekkaji wagajigo, ssi",
+        "vi": ""
+    },
+    {
+        "start": "00:29:19,883",
+        "end": "00:29:22,469",
+        "en": "평생 오를 계단이라는 계단은 다 오르고",
+        "pa": "pyeongsaeng oleul gyedan-ilaneun gyedan-eun da oleugo",
+        "vi": "Làm tôi phải leo số bậc thang bằng người ta leo cả đời, mắc dịch thiệt chứ."
+    },
+    {
+        "start": "00:29:22,552",
+        "end": "00:29:23,678",
+        "en": "개같은 거, 씨",
+        "pa": "gaegat-eun geo, ssi",
+        "vi": ""
+    },
+    {
+        "start": "00:29:24,929",
+        "end": "00:29:26,514",
+        "en": "너 때문에 내가, 씨",
+        "pa": "neo ttaemun-e naega, ssi",
+        "vi": "Tại anh hết đó, thiệt tình."
+    },
+    {
+        "start": "00:29:30,643",
+        "end": "00:29:31,853",
+        "en": "아, 다리야",
+        "pa": "a, daliya",
+        "vi": "Ui da cái chân."
+    },
+    {
+        "start": "00:29:35,648",
+        "end": "00:29:36,524",
+        "en": "밥이다",
+        "pa": "bab-ida",
+        "vi": "Đồ ăn tới."
+    },
+    {
+        "start": "00:29:43,865",
+        "end": "00:29:45,074",
+        "en": "아, 뭐야, 이거?",
+        "pa": "a, mwoya, igeo?",
+        "vi": "Cái đống gì vậy?"
+    },
+    {
+        "start": "00:29:47,410",
+        "end": "00:29:49,204",
+        "en": "- 아, 이건 또 뭔데?",
+        "pa": "- a, igeon tto mwonde?",
+        "vi": "Trời ơi cái khỉ gì đây?"
+    },
+    {
+        "start": "00:29:49,287",
+        "end": "00:29:50,872",
+        "en": "- 3층 - 네",
+        "pa": "- 3cheung - ne",
+        "vi": "Tầng Ba."
+    },
+    {
+        "start": "00:29:51,456",
+        "end": "00:29:52,373",
+        "en": "아이…",
+        "pa": "ai…",
+        "vi": "Ừ?"
+    },
+    {
+        "start": "00:29:56,836",
+        "end": "00:29:57,879",
+        "en": "지금 뭐 내려왔지?",
+        "pa": "jigeum mwo naelyeowassji?",
+        "vi": "Có đồ gì xuống hả?"
+    },
+    {
+        "start": "00:29:58,379",
+        "end": "00:30:00,006",
+        "en": "네, 아니, 밥인 줄 알았는데",
+        "pa": "ne, ani, bab-in jul al-assneunde",
+        "vi": "Ừ, tôi tưởng đồ ăn nhưng…"
+    },
+    {
+        "start": "00:30:00,089",
+        "end": "00:30:01,966",
+        "en": "아니, 위에서 똥 봉투를 내렸어요",
+        "pa": "ani, wieseo ttong bongtuleul naelyeoss-eoyo",
+        "vi": "-Họ gửi mấy túi phân -xuống đây! Không tin nổi luôn."
+    },
+    {
+        "start": "00:30:02,050",
+        "end": "00:30:04,594",
+        "en": "- 아, 진짜, 씨 - 1층 아재가 내리라 그랬어",
+        "pa": "- a, jinjja, ssi - 1cheung ajaega naelila geulaess-eo",
+        "vi": "Là Tầng Một kêu gửi xuống đó."
+    },
+    {
+        "start": "00:30:05,094",
+        "end": "00:30:06,387",
+        "en": "- 제가 생각을 좀…",
+        "pa": "- jega saeng-gag-eul jom…",
+        "vi": "Tôi đã suy nghĩ suốt… một thời gian rồi."
+    },
+    {
+        "start": "00:30:06,471",
+        "end": "00:30:07,305",
+        "en": "해봤는데요",
+        "pa": "haebwassneundeyo",
+        "vi": ""
+    },
+    {
+        "start": "00:30:08,389",
+        "end": "00:30:10,183",
+        "en": "제가 일도 잘 못 하고",
+        "pa": "jega ildo jal mos hago",
+        "vi": "Vì… tôi không giỏi leo cầu thang,"
+    },
+    {
+        "start": "00:30:10,934",
+        "end": "00:30:12,477",
+        "en": "자꾸 이런 일이 생기고",
+        "pa": "jakku ileon il-i saeng-gigo",
+        "vi": "mọi người, cứ phải làm thay cho tôi,"
+    },
+    {
+        "start": "00:30:13,144",
+        "end": "00:30:16,564",
+        "en": "제가 할 수 있는 일이 뭘까 생각을 좀 해봤어요",
+        "pa": "jega hal su issneun il-i mwolkka saeng-gag-eul jom haebwass-eoyo",
+        "vi": "nên tôi cũng đã suy nghĩ xem mình có thể giúp được gì đó không, cuối cùng thì…"
+    },
+    {
+        "start": "00:30:16,648",
+        "end": "00:30:18,441",
+        "en": "근데 그…",
+        "pa": "geunde geu…",
+        "vi": ""
+    },
+    {
+        "start": "00:30:18,525",
+        "end": "00:30:20,193",
+        "en": "1층은 자기가 가진 장애로",
+        "pa": "1cheung-eun jagiga gajin jang-aelo",
+        "vi": "-thì… -Tầng Một cứ day dứt suốt về việc làm"
+    },
+    {
+        "start": "00:30:20,276",
+        "end": "00:30:22,862",
+        "en": "우리에게 피해를 끼친 걸 매우 괴로워했다고 한다",
+        "pa": "uliege pihaeleul kkichin geol maeu goelowohaessdago handa",
+        "vi": "mọi người bị chậm tiến độ, chỉ vì khiếm khuyết của mình."
+    },
+    {
+        "start": "00:30:22,946",
+        "end": "00:30:26,282",
+        "en": "배변 봉투라도 저한테 좀 내려주시면",
+        "pa": "baebyeon bongtulado jeohante jom naelyeojusimyeon",
+        "vi": "Để cho công bằng thì, tôi nghĩ là… mọi người hãy cứ…"
+    },
+    {
+        "start": "00:30:28,326",
+        "end": "00:30:29,744",
+        "en": "어떨까 해서요",
+        "pa": "eotteolkka haeseoyo",
+        "vi": "gửi túi chất thải cho tôi."
+    },
+    {
+        "start": "00:30:31,287",
+        "end": "00:30:32,205",
+        "en": "진짜요?",
+        "pa": "jinjjayo?",
+        "vi": "Có thật không?"
+    },
+    {
+        "start": "00:30:47,178",
+        "end": "00:30:48,555",
+        "en": "그래서 육체노동 대신",
+        "pa": "geulaeseo yugchenodong daesin",
+        "vi": "Trong lúc ngồi cân nhắc lại mọi việc, mình có thể làm gì được cho đội,"
+    },
+    {
+        "start": "00:30:48,638",
+        "end": "00:30:51,474",
+        "en": "자기가 할 수 있는 일이 뭘까 끊임없이 찾던 중",
+        "pa": "jagiga hal su issneun il-i mwolkka kkeunh-im-eobs-i chajdeon jung",
+        "vi": ""
+    },
+    {
+        "start": "00:30:51,558",
+        "end": "00:30:53,560",
+        "en": "배송구가 눈에 들어왔다고 했다",
+        "pa": "baesong-guga nun-e deul-eowassdago haessda",
+        "vi": "thay vì lao động chân tay, thì thang chuyển hàng,\n lại giúp anh ấy nảy ra ý tưởng đó."
+    },
+    {
+        "start": "00:30:55,520",
+        "end": "00:30:58,606",
+        "en": "'이 배송구로 어쩌면 도시락이 아닌 다른 것들도'",
+        "pa": "'i baesong-gulo eojjeomyeon dosilag-i anin daleun geosdeuldo'",
+        "vi": "Anh ấy ngộ ra được là, có thể gửi đi mấy thứ khác nữa,"
+    },
+    {
+        "start": "00:30:58,690",
+        "end": "00:31:01,651",
+        "en": "'아래층으로 내려보낼 수 있지 않을까?'라는 생각을",
+        "pa": "'alaecheung-eulo naelyeobonael su issji anh-eulkka?'laneun saeng-gag-eul",
+        "vi": "ngoài những phần cơm nước hàng ngày, bằng thang chuyển hàng."
+    },
+    {
+        "start": "00:31:04,404",
+        "end": "00:31:06,656",
+        "en": "1층의 제안과 승낙으로 그렇게",
+        "pa": "1cheung-ui jeangwa seungnag-eulo geuleohge",
+        "vi": "Đề nghị của Tầng Một được chấp thuận, một nhân viên vệ sinh, chính thức ra đời."
+    },
+    {
+        "start": "00:31:06,739",
+        "end": "00:31:08,616",
+        "en": "환경미화원이 탄생했다",
+        "pa": "hwangyeongmihwawon-i tansaenghaessda",
+        "vi": ""
+    },
+    {
+        "start": "00:31:11,160",
+        "end": "00:31:13,246",
+        "en": "모두가 각자의 역할을 다해낼 때",
+        "pa": "moduga gagjaui yeoghal-eul dahaenael ttae",
+        "vi": "Khi tất cả làm tròn công việc của mình,"
+    },
+    {
+        "start": "00:31:13,329",
+        "end": "00:31:15,790",
+        "en": "사회는 비로소 안정적으로 기능하기 시작한다",
+        "pa": "sahoeneun biloso anjeongjeog-eulo gineunghagi sijaghanda",
+        "vi": "xã hội đạt đến sự cân bằng và hoạt động trơn tru."
+    },
+    {
+        "start": "00:31:17,709",
+        "end": "00:31:19,419",
+        "en": "1층은 찾아낸 것이다",
+        "pa": "1cheung-eun chaj-anaen geos-ida",
+        "vi": "Tầng Một, tìm ra vai trò của mình."
+    },
+    {
+        "start": "00:31:21,254",
+        "end": "00:31:23,548",
+        "en": "교환 가능한 본인의 가치를",
+        "pa": "gyohwan ganeunghan bon-in-ui gachileul",
+        "vi": "Một giá trị của bản thân có thể trao đổi được."
+    },
+    {
+        "start": "00:31:39,105",
+        "end": "00:31:40,940",
+        "en": "허기에 강한 사람은 도시락을 나누고",
+        "pa": "heogie ganghan salam-eun dosilag-eul nanugo",
+        "vi": "CẢM ƠN NHÉ\n Ai nhịn đói giỏi hơn, sẽ chia sẻ đồ ăn…"
+    },
+    {
+        "start": "00:31:44,360",
+        "end": "00:31:45,194",
+        "en": "쉬고 있어",
+        "pa": "swigo iss-eo",
+        "vi": "Nghỉ ngơi đi."
+    },
+    {
+        "start": "00:31:47,071",
+        "end": "00:31:48,281",
+        "en": "- 내가 할 테니까",
+        "pa": "- naega hal tenikka",
+        "vi": "Để tôi làm cho."
+    },
+    {
+        "start": "00:31:48,364",
+        "end": "00:31:50,575",
+        "en": "체력이 강한 사람은 노동력을 나누고",
+        "pa": "chelyeog-i ganghan salam-eun nodonglyeog-eul nanugo",
+        "vi": "Ai có thể lực dồi dào, thì san sẻ sức lực của mình."
+    },
+    {
+        "start": "00:31:52,577",
+        "end": "00:31:55,496",
+        "en": "어느 것도 안 되는 사람은 환경을 서비스한다",
+        "pa": "eoneu geosdo an doeneun salam-eun hwangyeong-eul seobiseuhanda",
+        "vi": "Còn ai không làm gì được, thì giúp giữ vệ sinh môi trường."
+    },
+    {
+        "start": "00:31:56,539",
+        "end": "00:31:59,125",
+        "en": "어쩌면 제법 공평하다",
+        "pa": "eojjeomyeon jebeob gongpyeonghada",
+        "vi": "Tóm lại là, thỏa thuận cũng khá công bằng."
+    },
+    {
+        "start": "00:32:02,128",
+        "end": "00:32:02,962",
+        "en": "들어가십시오",
+        "pa": "deul-eogasibsio",
+        "vi": "Gặp lại sau."
+    },
+    {
+        "start": "00:32:04,005",
+        "end": "00:32:06,633",
+        "en": "1층 님, 안녕하세요, 네",
+        "pa": "1cheung nim, annyeonghaseyo, ne",
+        "vi": "Anh Tầng Một."
+    },
+    {
+        "start": "00:32:08,051",
+        "end": "00:32:10,219",
+        "en": "이렇게 하면, 좀 아이고, 편해지실 거예요",
+        "pa": "ileohge hamyeon, jom aigo, pyeonhaejisil geoyeyo",
+        "vi": "Nếu dời qua… sẽ có thêm chỗ."
+    },
+    {
+        "start": "00:32:10,845",
+        "end": "00:32:13,765",
+        "en": "아, 아니요, 그, 괜찮은데 저희는 괜찮아요, 이따 하셔도…",
+        "pa": "a, aniyo, geu, gwaenchanh-eunde jeohuineun gwaenchanh-ayo, itta hasyeodo…",
+        "vi": "Thôi khỏi, không cần đâu, ngồi được rồi mà. Không cần đâu."
+    },
+    {
+        "start": "00:32:14,974",
+        "end": "00:32:16,309",
+        "en": "아휴…",
+        "pa": "ahyu…",
+        "vi": ""
+    },
+    {
+        "start": "00:32:18,811",
+        "end": "00:32:20,605",
+        "en": "아휴, 씨…",
+        "pa": "ahyu, ssi…",
+        "vi": ""
+    },
+    {
+        "start": "00:32:24,108",
+        "end": "00:32:26,361",
+        "en": "아유, 3층 님, 다, 다 드셨어요?",
+        "pa": "ayu, 3cheung nim, da, da deusyeoss-eoyo?",
+        "vi": "Cậu Tầng Ba… ăn xong rồi đó hả?"
+    },
+    {
+        "start": "00:32:26,444",
+        "end": "00:32:27,528",
+        "en": "아니요",
+        "pa": "aniyo",
+        "vi": "Chưa xong."
+    },
+    {
+        "start": "00:32:27,612",
+        "end": "00:32:29,489",
+        "en": "급하게 먹었나 봐요 나 체기가 있어가지고",
+        "pa": "geubhage meog-eossna bwayo na chegiga iss-eogajigo",
+        "vi": "-Chắc do tôi -Ăn nhanh quá, thấy hơi đầy bụng."
+    },
+    {
+        "start": "00:32:29,572",
+        "end": "00:32:30,406",
+        "en": "아, 예",
+        "pa": "a, ye",
+        "vi": "Vậy sao?"
+    },
+    {
+        "start": "00:32:36,788",
+        "end": "00:32:37,997",
+        "en": "뭐, 뭐 보세요?",
+        "pa": "mwo, mwo boseyo?",
+        "vi": "Nè, anh tính gì vậy?"
+    },
+    {
+        "start": "00:32:38,081",
+        "end": "00:32:40,208",
+        "en": "아, 시간이 이게…",
+        "pa": "a, sigan-i ige…",
+        "vi": "Ờ, bảng thời gian, tôi thấy…"
+    },
+    {
+        "start": "00:32:41,918",
+        "end": "00:32:44,212",
+        "en": "글쎄, 이게 오르는 게 요즘따라 제멋대로네요",
+        "pa": "geulsse, ige oleuneun ge yojeumttala jemeosdaeloneyo",
+        "vi": "Gần đây thời gian tăng giảm có hơi thất thường."
+    },
+    {
+        "start": "00:32:45,964",
+        "end": "00:32:47,924",
+        "en": "어제는 자정 전에 한꺼번에 올라갔는데",
+        "pa": "eojeneun jajeong jeon-e hankkeobeon-e ollagassneunde",
+        "vi": "Nửa đêm hôm qua thì nó đã tăng lên, nhưng mà bây giờ thì đứng yên."
+    },
+    {
+        "start": "00:32:48,007",
+        "end": "00:32:49,258",
+        "en": "지금은 또 안 올라가고요",
+        "pa": "jigeum-eun tto an ollagagoyo",
+        "vi": ""
+    },
+    {
+        "start": "00:32:50,843",
+        "end": "00:32:53,388",
+        "en": "우리가 좀 덜 뛰어서 그런 걸까요?",
+        "pa": "uliga jom deol ttwieoseo geuleon geolkkayo?",
+        "vi": "Anh có nghĩ là do mình… leo chưa đủ không?"
+    },
+    {
+        "start": "00:32:53,471",
+        "end": "00:32:56,140",
+        "en": "글쎄요 다들 제대로 하고 계시는데",
+        "pa": "geulsseyo dadeul jedaelo hago gyesineunde",
+        "vi": "Không biết nữa, mọi người đang làm rất tốt mà."
+    },
+    {
+        "start": "00:33:02,563",
+        "end": "00:33:03,606",
+        "en": "- 지금, 어?",
+        "pa": "- jigeum, eo?",
+        "vi": "Mới đó kìa. Nhìn đi, thấy không? Nó mới… cộng thêm mười phút rồi."
+    },
+    {
+        "start": "00:33:03,690",
+        "end": "00:33:06,359",
+        "en": "보셨어요? 지금 10분 오르는, 올랐는데",
+        "pa": "bosyeoss-eoyo? jigeum 10bun oleuneun, ollassneunde",
+        "vi": ""
+    },
+    {
+        "start": "00:33:06,985",
+        "end": "00:33:07,944",
+        "en": "이게…",
+        "pa": "ige…",
+        "vi": "Nhưng mà,"
+    },
+    {
+        "start": "00:33:08,027",
+        "end": "00:33:10,405",
+        "en": "다들 지금 밥 먹고 좀 쉬고 있는데",
+        "pa": "dadeul jigeum bab meoggo jom swigo issneunde",
+        "vi": "mọi người đang nghỉ ngơi sau khi ăn mà. Có ai đi lên hả ta?"
+    },
+    {
+        "start": "00:33:10,488",
+        "end": "00:33:11,489",
+        "en": "누, 누가 올라가셨나?",
+        "pa": "nu, nuga ollagasyeossna?",
+        "vi": ""
+    },
+    {
+        "start": "00:33:26,713",
+        "end": "00:33:28,423",
+        "en": "- 아, 씨발",
+        "pa": "- a, ssibal",
+        "vi": "Mẹ nó!"
+    },
+    {
+        "start": "00:33:28,506",
+        "end": "00:33:29,590",
+        "en": "저거 왜 저래?",
+        "pa": "jeogeo wae jeolae?",
+        "vi": "Lại bị gì nữa vậy?"
+    },
+    {
+        "start": "00:33:32,051",
+        "end": "00:33:35,138",
+        "en": "제가 말했었잖아요 시간 계속 짜게 준다고",
+        "pa": "jega malhaess-eossjanh-ayo sigan gyesog jjage jundago",
+        "vi": "Tôi đã nói với mọi người rồi, càng ngày họ càng keo kiệt thời gian."
+    },
+    {
+        "start": "00:33:36,264",
+        "end": "00:33:37,348",
+        "en": "진짜 안 오르네",
+        "pa": "jinjja an oleune",
+        "vi": "Nó không lên chút nào."
+    },
+    {
+        "start": "00:33:38,266",
+        "end": "00:33:41,602",
+        "en": "아니, 뭐, 훈련 강도를 높이라는 거야, 뭐야?",
+        "pa": "ani, mwo, hunlyeon gangdoleul nop-ilaneun geoya, mwoya?",
+        "vi": "Không lẽ… người ta bắt mình tăng tốc độ leo lên hả?"
+    },
+    {
+        "start": "00:33:42,186",
+        "end": "00:33:43,855",
+        "en": "씨, 태릉선수촌이야?",
+        "pa": "ssi, taeleungseonsuchon-iya?",
+        "vi": "Có phải vận động viên Thế vận hội đâu."
+    },
+    {
+        "start": "00:33:46,607",
+        "end": "00:33:47,608",
+        "en": "나 안 해",
+        "pa": "na an hae",
+        "vi": "Tôi nghỉ đây."
+    },
+    {
+        "start": "00:33:48,943",
+        "end": "00:33:50,069",
+        "en": "네?",
+        "pa": "ne?",
+        "vi": "Sao?"
+    },
+    {
+        "start": "00:33:50,153",
+        "end": "00:33:52,447",
+        "en": "- 뭐? - 하기 싫다고요",
+        "pa": "- mwo? - hagi silhdagoyo",
+        "vi": "-Cái gì? -Tôi không leo thêm nữa đâu."
+    },
+    {
+        "start": "00:33:53,448",
+        "end": "00:33:56,117",
+        "en": "아니, 그렇다고 이거 안 하면 안 되는 거잖아요",
+        "pa": "ani, geuleohdago igeo an hamyeon an doeneun geojanh-ayo",
+        "vi": "-Nhưng chị đâu thể -Cứ như vậy mà ngưng làm việc được."
+    },
+    {
+        "start": "00:33:56,200",
+        "end": "00:33:57,285",
+        "en": "뭐 하자는 거야?",
+        "pa": "mwo hajaneun geoya?",
+        "vi": "Chị làm gì vậy?"
+    },
+    {
+        "start": "00:33:57,368",
+        "end": "00:33:59,078",
+        "en": "재미없어서 하기 싫어요, 이제",
+        "pa": "jaemieobs-eoseo hagi silh-eoyo, ije",
+        "vi": "Hết vui rồi nên không làm nữa."
+    },
+    {
+        "start": "00:33:59,620",
+        "end": "00:34:00,788",
+        "en": "세 분이서 알아서 하세요",
+        "pa": "se bun-iseo al-aseo haseyo",
+        "vi": "Ba người tự xử đi nha."
+    },
+    {
+        "start": "00:34:00,872",
+        "end": "00:34:02,498",
+        "en": "- 그냥 닥치고 좀 하지?",
+        "pa": "- geunyang dagchigo jom haji?",
+        "vi": "Chị bớt xàm lại giùm đi, làm đi!"
+    },
+    {
+        "start": "00:34:03,833",
+        "end": "00:34:04,876",
+        "en": "내가 왜요?",
+        "pa": "naega waeyo?",
+        "vi": "Sao tôi phải làm?"
+    },
+    {
+        "start": "00:34:08,421",
+        "end": "00:34:12,175",
+        "en": "야, 솔직히 너 남들보다 더 열심히 해야 되는 거 아니냐?",
+        "pa": "ya, soljighi neo namdeulboda deo yeolsimhi haeya doeneun geo aninya?",
+        "vi": "Nè. Không phải chị càng nên chăm chỉ hơn những người còn lại hay sao?"
+    },
+    {
+        "start": "00:34:12,675",
+        "end": "00:34:15,261",
+        "en": "우리하고 버는 액수부터가 다르잖아",
+        "pa": "ulihago beoneun aegsubuteoga daleujanh-a",
+        "vi": "Chị kiếm được nhiều tiền hơn người khác nữa mà?"
+    },
+    {
+        "start": "00:34:15,344",
+        "end": "00:34:18,139",
+        "en": "그럼 남들보다 조금이라도 더 할 생각 해야 되는 거 아니냐고",
+        "pa": "geuleom namdeulboda jogeum-ilado deo hal saeng-gag haeya doeneun geo aninyago",
+        "vi": "Không phải chị nên nỗ lực hơn những người khác một chút hay sao?"
+    },
+    {
+        "start": "00:34:22,060",
+        "end": "00:34:24,771",
+        "en": "오히려 2층 님이랑 밑에 분들이",
+        "pa": "ohilyeo 2cheung nim-ilang mit-e bundeul-i",
+        "vi": "Chứ không phải… cô và những người tầng dưới mới là người…"
+    },
+    {
+        "start": "00:34:25,480",
+        "end": "00:34:27,523",
+        "en": "일을 더 해야 하는 거 아니에요?",
+        "pa": "il-eul deo haeya haneun geo anieyo?",
+        "vi": "nên làm việc chăm chỉ hơn hả?"
+    },
+    {
+        "start": "00:34:27,607",
+        "end": "00:34:28,858",
+        "en": "뭐?",
+        "pa": "mwo?",
+        "vi": "Gì chứ?"
+    },
+    {
+        "start": "00:34:28,941",
+        "end": "00:34:29,984",
+        "en": "그렇잖아요",
+        "pa": "geuleohjanh-ayo",
+        "vi": "Thì cô cứ nghĩ đi."
+    },
+    {
+        "start": "00:34:30,568",
+        "end": "00:34:32,820",
+        "en": "다들 자기 돈 쓰기 아까워서",
+        "pa": "dadeul jagi don sseugi akkawoseo",
+        "vi": "Mấy người cũng vì tiếc tiền của bản thân, nên dùng thời gian chung để mua khăn ướt,"
+    },
+    {
+        "start": "00:34:32,904",
+        "end": "00:34:36,574",
+        "en": "공용 시간으로 휴지 사고, 물티슈 사고",
+        "pa": "gong-yong sigan-eulo hyuji sago, multisyu sago",
+        "vi": ""
+    },
+    {
+        "start": "00:34:36,657",
+        "end": "00:34:37,617",
+        "en": "다 사잖아요",
+        "pa": "da sajanh-ayo",
+        "vi": "mua giấy vệ sinh, các nhu yếu phẩm khác."
+    },
+    {
+        "start": "00:34:37,700",
+        "end": "00:34:39,869",
+        "en": "같은 시간 들여 사는 거면",
+        "pa": "gat-eun sigan deul-yeo saneun geomyeon",
+        "vi": "Nếu tính thời gian dùng để mua vật phẩm,"
+    },
+    {
+        "start": "00:34:40,453",
+        "end": "00:34:44,415",
+        "en": "우리 위층들이 훨씬 더 많이 쓰고 있는 거 아니에요?",
+        "pa": "uli wicheungdeul-i hwolssin deo manh-i sseugo issneun geo anieyo?",
+        "vi": "-thì không phải những người ở -tầng trên, chịu mất"
+    },
+    {
+        "start": "00:34:44,499",
+        "end": "00:34:45,666",
+        "en": "저 또라이…",
+        "pa": "jeo ttolai…",
+        "vi": "-tiền nhiều hơn hay sao? -Con nhỏ điên đó…"
+    },
+    {
+        "start": "00:34:45,750",
+        "end": "00:34:47,835",
+        "en": "여기서는 시간이 다 돈이잖아요",
+        "pa": "yeogiseoneun sigan-i da don-ijanh-ayo",
+        "vi": "Dù gì thời gian ở đây cũng là tiền bạc mà."
+    },
+    {
+        "start": "00:34:47,919",
+        "end": "00:34:49,462",
+        "en": "말이 맞다",
+        "pa": "mal-i majda",
+        "vi": "Nói cũng… không sai."
+    },
+    {
+        "start": "00:34:50,379",
+        "end": "00:34:51,589",
+        "en": "2층이 쓰는 한 시간은",
+        "pa": "2cheung-i sseuneun han sigan-eun",
+        "vi": "Một giờ của Tầng Hai chỉ có giá 1 triệu 200 won,"
+    },
+    {
+        "start": "00:34:51,672",
+        "end": "00:34:53,341",
+        "en": "- 불과 120만 원이지만",
+        "pa": "- bulgwa 120man won-ijiman",
+        "vi": ""
+    },
+    {
+        "start": "00:34:53,424",
+        "end": "00:34:54,759",
+        "en": "- 8층이 쓰는 한 시간은",
+        "pa": "- 8cheung-i sseuneun han sigan-eun",
+        "vi": "nhưng lại tốn của Tầng Tám, 20 triệu 400 won."
+    },
+    {
+        "start": "00:34:54,842",
+        "end": "00:34:56,094",
+        "en": "무려 2,040만 원",
+        "pa": "mulyeo 2,040man won",
+        "vi": ""
+    },
+    {
+        "start": "00:34:56,177",
+        "end": "00:34:57,804",
+        "en": "바이",
+        "pa": "bai",
+        "vi": "Tạm biệt."
+    },
+    {
+        "start": "00:34:57,887",
+        "end": "00:34:59,806",
+        "en": "그 시간을 공용 시간으로 써버리는 거니",
+        "pa": "geu sigan-eul gong-yong sigan-eulo sseobeolineun geoni",
+        "vi": "Vì mọi người tiêu xài bằng thời gian chung, thì đúng là,"
+    },
+    {
+        "start": "00:34:59,889",
+        "end": "00:35:02,517",
+        "en": "어찌 보면 위층일수록 돈을 낭비하는 게 된다",
+        "pa": "eojji bomyeon wicheung-ilsulog don-eul nangbihaneun ge doenda",
+        "vi": "người tầng trên mất nhiều thời gian hơn người tầng dưới."
+    },
+    {
+        "start": "00:35:03,392",
+        "end": "00:35:05,103",
+        "en": "머리 쓰는 거 싫어하는 줄 알았는데",
+        "pa": "meoli sseuneun geo silh-eohaneun jul al-assneunde",
+        "vi": "Cứ tưởng là một tiểu thư ngây ngô, nhưng lại rất nhạy bén."
+    },
+    {
+        "start": "00:35:05,186",
+        "end": "00:35:06,187",
+        "en": "의외로 예리하네?",
+        "pa": "uioelo yelihane?",
+        "vi": ""
+    },
+    {
+        "start": "00:35:06,771",
+        "end": "00:35:10,399",
+        "en": "이런 얘기 할 시간에 아, 그냥 좀 더 뛰기나 하죠?",
+        "pa": "ileon yaegi hal sigan-e a, geunyang jom deo ttwigina hajyo?",
+        "vi": "Chúng ta tiếp tục leo cầu thang, thay vì phí thời gian cãi nhau đi."
+    },
+    {
+        "start": "00:35:10,983",
+        "end": "00:35:13,653",
+        "en": "이러다 이 쇼 끝나게 생겼어요! 씨",
+        "pa": "ileoda i syo kkeutnage saeng-gyeoss-eoyo! ssi",
+        "vi": "-Cứ cái đà này -Thì chương trình sẽ kết thúc mất!"
+    },
+    {
+        "start": "00:35:13,736",
+        "end": "00:35:14,946",
+        "en": "우리, 우리도 같이 해요",
+        "pa": "uli, ulido gat-i haeyo",
+        "vi": "Hay mình cũng leo lên phụ họ đi."
+    },
+    {
+        "start": "00:35:15,530",
+        "end": "00:35:16,697",
+        "en": "도, 도와야지",
+        "pa": "do, dowayaji",
+        "vi": "-Đi, qua đó phụ đi! -Có chắc chắn… leo cầu thang,"
+    },
+    {
+        "start": "00:35:16,781",
+        "end": "00:35:19,617",
+        "en": "근데 이거 계단으로 시간 늘리는 거 맞는 거야?",
+        "pa": "geunde igeo gyedan-eulo sigan neullineun geo majneun geoya?",
+        "vi": "-sẽ cho ta thêm thời gian không? -Cái gì?"
+    },
+    {
+        "start": "00:35:19,700",
+        "end": "00:35:20,827",
+        "en": "뭐?",
+        "pa": "mwo?",
+        "vi": ""
+    },
+    {
+        "start": "00:35:20,910",
+        "end": "00:35:22,036",
+        "en": "이상하잖아",
+        "pa": "isanghajanh-a",
+        "vi": "Tôi thấy lạ lắm."
+    },
+    {
+        "start": "00:35:22,662",
+        "end": "00:35:25,414",
+        "en": "우리 계속 똑같이 했는데 안 그래?",
+        "pa": "uli gyesog ttoggat-i haessneunde an geulae?",
+        "vi": "Mình leo cầu thang, vẫn với tốc độ như mọi khi mà?"
+    },
+    {
+        "start": "00:35:31,921",
+        "end": "00:35:33,673",
+        "en": "- 저 미친년 진짜, 씨",
+        "pa": "- jeo michinnyeon jinjja, ssi",
+        "vi": "Thiệt tình, cái con mụ điên đó…"
+    },
+    {
+        "start": "00:35:53,818",
+        "end": "00:35:56,237",
+        "en": "아, 이게 시간이 이게 오히려 줄었어요, 지금",
+        "pa": "",
+        "vi": "Nhìn kìa, thời gian cạn dần thay vì phải tăng lên thêm."
+    },
+    {
+        "start": "00:35:57,280",
+        "end": "00:35:58,698",
+        "en": "아, 이거",
+        "pa": "a, igeo",
+        "vi": "Thôi xong. Lỡ đâu nó không tăng nữa thì sao đây?"
+    },
+    {
+        "start": "00:35:58,781",
+        "end": "00:36:00,992",
+        "en": "진짜 안 오르는 거 아니에요?",
+        "pa": "jinjja an oleuneun geo anieyo?",
+        "vi": ""
+    },
+    {
+        "start": "00:36:01,868",
+        "end": "00:36:02,869",
+        "en": "아, 그러게",
+        "pa": "a, geuleoge",
+        "vi": "Phải đó. Mình leo lên leo xuống hơn sáu tiếng rồi…"
+    },
+    {
+        "start": "00:36:03,661",
+        "end": "00:36:05,955",
+        "en": "우리가 지금까지 6시간을 넘게 했는데",
+        "pa": "uliga jigeumkkaji 6sigan-eul neomge haessneunde",
+        "vi": ""
+    },
+    {
+        "start": "00:36:06,038",
+        "end": "00:36:07,331",
+        "en": "아휴",
+        "pa": "ahyu",
+        "vi": ""
+    },
+    {
+        "start": "00:36:07,415",
+        "end": "00:36:08,499",
+        "en": "어떻게 1분도 안 올라?",
+        "pa": "eotteohge 1bundo an olla?",
+        "vi": "-nhưng lại không kiếm được phút nào. -Sắp nửa đêm rồi, đã đến giờ phải"
+    },
+    {
+        "start": "00:36:08,583",
+        "end": "00:36:10,793",
+        "en": "아, 이제 12시여가지고 방에도 들어가야 되는데",
+        "pa": "a, ije 12siyeogajigo bang-edo deul-eogaya doeneunde",
+        "vi": ""
+    },
+    {
+        "start": "00:36:11,377",
+        "end": "00:36:12,920",
+        "en": "이거 계단 더 할 수도 없고, 이거",
+        "pa": "igeo gyedan deo hal sudo eobsgo, igeo",
+        "vi": "về phòng. Hôm nay không thể làm thêm được nữa."
+    },
+    {
+        "start": "00:36:13,713",
+        "end": "00:36:14,714",
+        "en": "- 어?",
+        "pa": "- eo?",
+        "vi": "Nó vừa mới tăng lên kìa."
+    },
+    {
+        "start": "00:36:14,797",
+        "end": "00:36:15,923",
+        "en": "오, 올랐어요",
+        "pa": "o, ollass-eoyo",
+        "vi": ""
+    },
+    {
+        "start": "00:36:18,092",
+        "end": "00:36:19,969",
+        "en": "- 어! 어, 올랐어요! - 20, 20…",
+        "pa": "- eo! eo, ollass-eoyo! - 20, 20…",
+        "vi": ""
+    },
+    {
+        "start": "00:36:20,052",
+        "end": "00:36:21,179",
+        "en": "- 20분 올랐죠? - 어",
+        "pa": "- 20bun ollassjyo? - eo",
+        "vi": "-Tăng lên rồi kìa! -Vừa, vừa được 20 phút?"
+    },
+    {
+        "start": "00:36:21,262",
+        "end": "00:36:22,722",
+        "en": "20, 20분 오른 거 맞죠?",
+        "pa": "20, 20bun oleun geo maj-jyo?",
+        "vi": "-Ôi! Tăng rồi! -Tăng 20 phút đúng không?"
+    },
+    {
+        "start": "00:36:22,805",
+        "end": "00:36:24,348",
+        "en": "- 이게 좀 늦네",
+        "pa": "- ige jom neujne",
+        "vi": "Chắc hệ thống lỗi thôi."
+    },
+    {
+        "start": "00:36:24,432",
+        "end": "00:36:25,933",
+        "en": "- 이제서야 적립되나 보다",
+        "pa": "- ijeseoya jeoglibdoena boda",
+        "vi": "Nhiều khi giờ nó mới chạy đó."
+    },
+    {
+        "start": "00:36:26,017",
+        "end": "00:36:27,560",
+        "en": "아, 나, 씨 이럴 줄 알았어",
+        "pa": "a, na, ssi ileol jul al-ass-eo",
+        "vi": "Trúng phóc rồi. Làm hú hồn hú vía hà. Biết ngay là hệ thống trục trặc mà."
+    },
+    {
+        "start": "00:36:27,643",
+        "end": "00:36:29,896",
+        "en": "내가 괜히 쫄았네 내가 얘기하려다가",
+        "pa": "naega gwaenhi jjol-assne naega yaegihalyeodaga",
+        "vi": ""
+    },
+    {
+        "start": "00:36:29,979",
+        "end": "00:36:31,647",
+        "en": "- 아휴, 다행이다 - 아, 진짜",
+        "pa": "- ahyu, dahaeng-ida - a, jinjja",
+        "vi": "Nhẹ cả người."
+    },
+    {
+        "start": "00:36:31,731",
+        "end": "00:36:33,482",
+        "en": "아휴, 다행이야, 다행",
+        "pa": "ahyu, dahaeng-iya, dahaeng",
+        "vi": "-Trời ơi. -Trời ơi, tốt rồi, mừng quá."
+    },
+    {
+        "start": "00:36:34,442",
+        "end": "00:36:36,569",
+        "en": "뭐, 늦게라도 올라가겠지",
+        "pa": "mwo, neujgelado ollagagessji",
+        "vi": "Thôi, chắc chắn nó sẽ tăng dù có hơi chậm."
+    },
+    {
+        "start": "00:36:37,612",
+        "end": "00:36:38,571",
+        "en": "12시 됐다",
+        "pa": "12si dwaessda",
+        "vi": "Sắp nửa đêm rồi. Mọi người vào phòng đi."
+    },
+    {
+        "start": "00:36:40,072",
+        "end": "00:36:40,907",
+        "en": "다들 들어가요",
+        "pa": "dadeul deul-eogayo",
+        "vi": ""
+    },
+    {
+        "start": "00:36:41,782",
+        "end": "00:36:42,825",
+        "en": "수고했어",
+        "pa": "sugohaess-eo",
+        "vi": "Hôm nay làm tốt lắm."
+    },
+    {
+        "start": "00:36:49,457",
+        "end": "00:36:51,334",
+        "en": "올라가시죠, 고생하셨습니다",
+        "pa": "ollagasijyo, gosaenghasyeossseubnida",
+        "vi": "Vào trong đi. Vất vả nhiều rồi."
+    },
+    {
+        "start": "00:37:29,747",
+        "end": "00:37:33,000",
+        "en": "다, 다들 나와봐요 어? 다들 나와봐요!",
+        "pa": "da, dadeul nawabwayo eo? dadeul nawabwayo!",
+        "vi": "Mọi người ra ngoài này đi! Ra ngoài mau lên đi!"
+    },
+    {
+        "start": "00:37:34,460",
+        "end": "00:37:37,421",
+        "en": "시간 적립이 안 됐나 봐요 얼른 나와봐요!",
+        "pa": "sigan jeoglib-i an dwaessna bwayo eolleun nawabwayo!",
+        "vi": "Hình như không được thưởng thêm thời gian. Ra lẹ lẹ đi!"
+    },
+    {
+        "start": "00:37:37,505",
+        "end": "00:37:38,714",
+        "en": "다 뛰어요, 일단",
+        "pa": "da ttwieoyo, ildan",
+        "vi": "Tất cả chạy đi đã."
+    },
+    {
+        "start": "00:37:39,298",
+        "end": "00:37:40,132",
+        "en": "다들!",
+        "pa": "dadeul!",
+        "vi": "Chạy mau!"
+    },
+    {
+        "start": "00:37:40,216",
+        "end": "00:37:42,051",
+        "en": "다들 뛰어, 뛰어",
+        "pa": "dadeul ttwieo, ttwieo",
+        "vi": "Chạy mau. Mọi người, chạy đi."
+    },
+    {
+        "start": "00:37:42,718",
+        "end": "00:37:45,304",
+        "en": "아, 근데 이거 어제 뛴 것도 안 오른 건데",
+        "pa": "a, geunde igeo eoje ttwin geosdo an oleun geonde",
+        "vi": "-Nhưng mà hôm qua chạy, cũng -Không nhận được thêm thời gian."
+    },
+    {
+        "start": "00:37:45,388",
+        "end": "00:37:47,223",
+        "en": "- 또, 또 소용없는 거 아니에요?",
+        "pa": "- tto, tto soyong-eobsneun geo anieyo?",
+        "vi": "-Lỡ đâu không có ích gì thì sao? -Nhưng bây"
+    },
+    {
+        "start": "00:37:47,306",
+        "end": "00:37:49,392",
+        "en": "아, 그래도 방법이 이거밖에 없으니까",
+        "pa": "a, geulaedo bangbeob-i igeobakk-e eobs-eunikka",
+        "vi": "giờ cũng đâu có cách nào nữa."
+    },
+    {
+        "start": "00:37:49,475",
+        "end": "00:37:51,185",
+        "en": "저, 다들 일단 뛰시죠!",
+        "pa": "jeo, dadeul ildan ttwisijyo!",
+        "vi": "Mọi người bắt đầu leo cầu thang đi!"
+    },
+    {
+        "start": "00:37:52,019",
+        "end": "00:37:53,020",
+        "en": "에이, 씨",
+        "pa": "ei, ssi",
+        "vi": "Má nó!"
+    },
+    {
+        "start": "00:37:55,356",
+        "end": "00:37:56,607",
+        "en": "좆같네, 씨발!",
+        "pa": "jojgatne, ssibal!",
+        "vi": "Bà nội cha nó chứ."
+    },
+    {
+        "start": "00:38:07,326",
+        "end": "00:38:08,327",
+        "en": "- 어어!",
+        "pa": "- eoeo!",
+        "vi": ""
+    },
+    {
+        "start": "00:38:11,580",
+        "end": "00:38:13,249",
+        "en": "- 아, 뒤, 뒤로 넘어갔어요! - 4층 님!",
+        "pa": "- a, dwi, dwilo neom-eogass-eoyo! - 4cheung nim!",
+        "vi": "-Cô ấy ngã bật ngửa rồi! -Trời đất ơi. Tầng Bốn! Hả?"
+    },
+    {
+        "start": "00:38:13,332",
+        "end": "00:38:14,542",
+        "en": "- 네? - 뒤, 뒤로 그냥…",
+        "pa": "- ne? - dwi, dwilo geunyang…",
+        "vi": ""
+    },
+    {
+        "start": "00:38:14,625",
+        "end": "00:38:15,501",
+        "en": "어, 잠깐만요",
+        "pa": "eo, jamkkanman-yo",
+        "vi": "-Cô ấy ngã… -Cậu bình tĩnh đi. Cô ấy"
+    },
+    {
+        "start": "00:38:15,584",
+        "end": "00:38:17,378",
+        "en": "- 어, 뇌전증 발작이에요 - 네?",
+        "pa": "- eo, noejeonjeung baljag-ieyo - ne?",
+        "vi": "-đang lên cơn động kinh. -Hả?"
+    },
+    {
+        "start": "00:38:17,461",
+        "end": "00:38:20,006",
+        "en": "가, 간질, 간질, 간질이요 다들 건드리지 말아요",
+        "pa": "ga, ganjil, ganjil, ganjil-iyo dadeul geondeuliji mal-ayo",
+        "vi": "Bệnh động kinh, đây là bệnh động kinh. Đừng có đụng vào cô ấy làm gì."
+    },
+    {
+        "start": "00:38:20,715",
+        "end": "00:38:21,966",
+        "en": "가, 간질, 간질…",
+        "pa": "ga, ganjil, ganjil…",
+        "vi": "Động kinh hả? Động kinh."
+    },
+    {
+        "start": "00:38:22,049",
+        "end": "00:38:22,883",
+        "en": "잠깐만, 먼저…",
+        "pa": "jamkkanman, meonjeo…",
+        "vi": "-Đầu tiên là mình phải… -Chị có từng học qua sơ cứu không?"
+    },
+    {
+        "start": "00:38:22,967",
+        "end": "00:38:24,427",
+        "en": "의학적 지식이 있으신 거죠?",
+        "pa": "uihagjeog jisig-i iss-eusin geojyo?",
+        "vi": ""
+    },
+    {
+        "start": "00:38:25,219",
+        "end": "00:38:26,762",
+        "en": "네, 간호사였는데…",
+        "pa": "ne, ganhosayeossneunde…",
+        "vi": "Có, tôi từng là y tá."
+    },
+    {
+        "start": "00:38:26,846",
+        "end": "00:38:28,055",
+        "en": "약 같은 거 없어?",
+        "pa": "yag gat-eun geo eobs-eo?",
+        "vi": "Có thuốc điều trị không dạ?"
+    },
+    {
+        "start": "00:38:28,139",
+        "end": "00:38:29,432",
+        "en": "페, 페니토인이요",
+        "pa": "pe, penitoin-iyo",
+        "vi": "Cô ấy… cần uống Phenytoin."
+    },
+    {
+        "start": "00:38:37,732",
+        "end": "00:38:38,816",
+        "en": "그냥 있어",
+        "pa": "geunyang iss-eo",
+        "vi": "Đừng làm gì hết."
+    },
+    {
+        "start": "00:38:38,899",
+        "end": "00:38:39,734",
+        "en": "뭔 소리야?",
+        "pa": "mwon soliya?",
+        "vi": "Anh nói gì vậy?"
+    },
+    {
+        "start": "00:38:40,276",
+        "end": "00:38:41,736",
+        "en": "그냥 있으라고, 안 죽어",
+        "pa": "geunyang iss-eulago, an jug-eo",
+        "vi": "Ở yên đó đi, cô ta không chết đâu."
+    },
+    {
+        "start": "00:38:42,820",
+        "end": "00:38:43,654",
+        "en": "뭐?",
+        "pa": "mwo?",
+        "vi": "Cái gì?"
+    },
+    {
+        "start": "00:38:44,155",
+        "end": "00:38:45,781",
+        "en": "간질로 안 죽는다고",
+        "pa": "ganjillo an jugneundago",
+        "vi": "-Bệnh động kinh không có chết được đâu. -Cơn co giật kéo dài"
+    },
+    {
+        "start": "00:38:45,865",
+        "end": "00:38:48,242",
+        "en": "이렇게 오래 두면 뇌 손상이 올 수도 있어요",
+        "pa": "ileohge olae dumyeon noe sonsang-i ol sudo iss-eoyo",
+        "vi": "kiểu này, có thể sẽ gây tổn thương não đó."
+    },
+    {
+        "start": "00:38:48,326",
+        "end": "00:38:49,869",
+        "en": "약값이 얼마인데",
+        "pa": "yaggabs-i eolmainde",
+        "vi": "Giá cao lắm biết không?"
+    },
+    {
+        "start": "00:38:49,952",
+        "end": "00:38:52,204",
+        "en": "지금 몇 분 남았다고 시간 다 써버리면",
+        "pa": "jigeum myeoch bun nam-assdago sigan da sseobeolimyeon",
+        "vi": "Nếu dùng hết thời gian còn lại để mà mua thuốc, trò chơi sẽ kết thúc liền đó!"
+    },
+    {
+        "start": "00:38:52,288",
+        "end": "00:38:53,456",
+        "en": "이 게임 끝나는 거 몰라?",
+        "pa": "i geim kkeutnaneun geo molla?",
+        "vi": ""
+    },
+    {
+        "start": "00:38:53,539",
+        "end": "00:38:55,333",
+        "en": "너 사람 새끼 아니구나?",
+        "pa": "neo salam saekki aniguna?",
+        "vi": "Anh có còn là con người không đó?"
+    },
+    {
+        "start": "00:38:57,668",
+        "end": "00:38:58,794",
+        "en": "- 씨발, 비키라고",
+        "pa": "- ssibal, bikilago",
+        "vi": "-Má nó! Mau buông tay ra. -Đồ chó!"
+    },
+    {
+        "start": "00:38:58,878",
+        "end": "00:38:59,712",
+        "en": "씨…",
+        "pa": "ssi…",
+        "vi": ""
+    },
+    {
+        "start": "00:39:53,307",
+        "end": "00:39:56,018",
+        "en": "가, 간질약 간질, 간질약 주세요, 페니토인!",
+        "pa": "ga, ganjil-yag ganjil, ganjil-yag juseyo, penitoin!",
+        "vi": "Chúng tôi cần thuốc, cho bệnh nhân động kinh! Phenytoin!"
+    },
+    {
+        "start": "00:40:11,700",
+        "end": "00:40:12,993",
+        "en": "아, 웃겨",
+        "pa": "a, usgyeo",
+        "vi": "Mắc cười quá đi."
+    },
+    {
+        "start": "00:40:15,496",
+        "end": "00:40:17,373",
+        "en": "다들 저거 안 보여요?",
+        "pa": "dadeul jeogeo an boyeoyo?",
+        "vi": "Mọi người không thấy thứ tôi thấy hả?"
+    },
+    {
+        "start": "00:40:17,873",
+        "end": "00:40:19,583",
+        "en": "저거 안 보이냐고요",
+        "pa": "jeogeo an boinyagoyo",
+        "vi": "Không ai nhìn thấy hết sao?"
+    },
+    {
+        "start": "00:40:23,087",
+        "end": "00:40:24,922",
+        "en": "- 40시간",
+        "pa": "- 40sigan",
+        "vi": "Bốn mươi tiếng hả?"
+    },
+    {
+        "start": "00:40:26,924",
+        "end": "00:40:28,008",
+        "en": "아…",
+        "pa": "a…",
+        "vi": ""
+    },
+    {
+        "start": "00:40:28,092",
+        "end": "00:40:30,719",
+        "en": "나 이거 너무 재밌어, 진짜",
+        "pa": "na igeo neomu jaemiss-eo, jinjja",
+        "vi": "Đúng là cười muốn bể bụng luôn rồi."
+    },
+    {
+        "start": "00:40:30,803",
+        "end": "00:40:31,929",
+        "en": "계단이 아니었군요",
+        "pa": "gyedan-i anieossgun-yo",
+        "vi": "Cầu thang không phải thứ…"
+    },
+    {
+        "start": "00:40:33,848",
+        "end": "00:40:35,182",
+        "en": "시간이 느는 이유가",
+        "pa": "sigan-i neuneun iyuga",
+        "vi": "cho chúng ta thêm thời gian."
+    },
+    {
+        "start": "00:40:35,266",
+        "end": "00:40:36,267",
+        "en": "그럼요?",
+        "pa": "geuleom-yo?",
+        "vi": "Vậy thì cái gì?"
+    },
+    {
+        "start": "00:40:48,404",
+        "end": "00:40:49,363",
+        "en": "그럼 뭐냐고",
+        "pa": "geuleom mwonyago",
+        "vi": "Vậy thì đó là gì?"
+    },
+    {
+        "start": "00:40:50,364",
+        "end": "00:40:51,699",
+        "en": "시간 늘어나는 이유가",
+        "pa": "sigan neul-eonaneun iyuga",
+        "vi": "Cái gì cho chúng ta thêm thời gian vậy?"
+    },
+    {
+        "start": "00:40:52,700",
+        "end": "00:40:53,576",
+        "en": "보시기에…",
+        "pa": "bosigie…",
+        "vi": "Chắc là người xem…"
+    },
+    {
+        "start": "00:40:56,829",
+        "end": "00:40:57,913",
+        "en": "재미있어야겠죠",
+        "pa": "jaemiiss-eoyagessjyo",
+        "vi": "cảm thấy được giải trí."
+    },
+    {
+        "start": "00:41:39,747",
+        "end": "00:41:41,040",
+        "en": "",
+        "pa": "",
+        "vi": "PHENYTOIN"
+    },
+    {
+        "start": "00:41:45,336",
+        "end": "00:41:47,796",
+        "en": "",
+        "pa": "",
+        "vi": "CHƯƠNG TRÌNH SỐ 8 "
+    }
+]
