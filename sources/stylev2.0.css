@@ -1,0 +1,340 @@
+﻿/* CSS chung */
+
+.show-time-second {
+  float: right;
+  font-size: 10px;
+  color: green;
+}
+
+.sub_vi {
+  font-style: italic;
+}
+
+.phien_am {
+  font-weight: bold;
+}
+
+.speaker_en {
+  font-size: 10px;
+  color: green;
+}
+
+.speaker_vi {
+  font-size: 10px;
+  color: green;
+}
+
+/* Style cho độ chính xác */
+#recognition-result .accuracy {
+  font-weight: bold;
+  color: green;
+  font-size: 12px;
+}
+
+/* Style cho đánh giá */
+#recognition-result .rating {
+  font-size: 20px;
+  color: orange;
+}
+
+/* Style cho từ đúng */
+.correct {
+  color: green;
+  font-size: 20px;
+}
+
+/* Style cho từ sai */
+.incorrect {
+  color: red;
+  text-decoration: underline;
+  font-size: 20px;
+}
+
+/* Style cho nút đọc */
+#record-button {
+  cursor: pointer;
+}
+
+/* Style cho kết quả nhận dạng giọng nói */
+#recognition-result {
+  font-size: 20px;
+  color: blue;
+  margin: 10px;
+  text-align: center; /* Căn giữa theo chiều ngang */
+}
+
+/* Style cho nút nghe */
+#play-button {
+  cursor: pointer;
+}
+
+/* Style cho nút prev/next */
+.footer-button {
+  cursor: pointer;
+  margin: 0 30px; /* Khoảng cách giữa 2 nút */
+}
+
+#footer-content {
+  font-size: 20px;
+  text-align: center; /* Căn giữa theo chiều ngang */
+  padding: 20px; /* Thêm padding để căn giữa theo chiều dọc */
+}
+/* Style cho nút đóng */
+#close-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+}
+
+/* Style cho footer container */
+#fixed-footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 250px;
+  background-color: #f0f0f0;
+  display: none; /* Ẩn container mặc định */
+}
+
+.menu-container {
+  display: flex;
+  justify-content: space-around; /* Chia đều khoảng cách giữa các button */
+  padding: 5px 0; /* Khoảng cách nội dung bên trong thanh menu */
+  border-radius: 5px; /* Bo góc cho thanh menu */
+  width: 100%; /* Chiều rộng đầy màn hình */
+}
+
+.menu-container button {
+  color: green;
+  background-color: #fff; /* Màu nền cho button */
+  border: 1px solid green; /* Loại bỏ đường viền mặc định */
+  padding: 5px 10px; /* Khoảng cách nội dung bên trong button */
+  font-weight: bold; /* Chữ in đậm */
+  border-radius: 5px; /* Bo góc cho button */
+  cursor: pointer; /* Thay đổi con trỏ chuột khi di chuột */
+  transition: background-color 0.3s ease; /* Hiệu ứng chuyển đổi màu nền */
+}
+
+.menu-container button:hover {
+  background-color: green;
+  color: white;/* Màu nền khi di chuột */
+}
+
+
+/* Menu tốc độ đọc */
+.speed-menu {
+  display: flex;
+  align-items: center;
+}
+
+.speed-menu select {
+  appearance: none;
+  border: 1px solid green;
+  padding: 5px 10px;
+  font-size: 16px;
+  background-repeat: no-repeat;
+  background-size: 10px 10px;
+}
+
+.sub-line.highlight {
+  color: blue;
+}
+
+.search-container {
+  display: flex;
+  margin-bottom: 3px;
+  width: 100%;
+  /* Full width */
+}
+
+.search-container input {
+  flex: 1;
+  padding: 3px;
+  border: 1px solid #ccc;
+  border-radius: 4px 0 0 4px;
+  /* Bo tròn góc trái */
+}
+
+.search-container button {
+  padding: 5px 12px;
+  border: none;
+  border-radius: 0 4px 4px 0;
+  /* Bo tròn góc phải */
+  cursor: pointer;
+}
+
+
+.speaker_en, .speaker_vi {
+    cursor: pointer;
+  }
+
+/* Menu */
+.menu1 {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  padding: 5px;
+}
+
+.menu1 button {
+  background: none;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  font-size: 18px;
+  border: 1px solid green;
+  color: black;
+}
+
+.menu1 button.active {
+  background-color: green;
+  color: white;
+}
+
+/* Chế độ ngày */
+body.day-mode .tab-content {
+  background-color: #fff;
+  color: #000;
+}
+
+/* Chế độ đêm */
+body.night-mode .tab-content {
+  background-color: #222;
+  color: #fff;
+}
+
+.tab-content {
+  padding: 0px 6px 0px 2px;
+  border: none;
+  width: 100%;
+  height: 400px;
+  overflow-y: auto;
+}
+
+
+
+/* Các kiểu cho 4 cách hiển thị */
+.style1 { /* Cách 1 */
+  /* CSS cho cách hiển thị 1 */ 
+}
+
+.style1 .sub-line {
+  display: flex;
+}
+
+.style1 .sub-line > span {
+  padding: 3px;
+}
+
+.style1 .sub_vi {
+  display: none;
+}
+
+.style1 .sub_en,
+.style1 .phien_am {
+  flex: 1;
+  text-align: left;
+}
+
+.style1 .show-time-second {
+  flex: 0 0 11px;
+  text-align: right;
+}
+
+.style2 { /* Cách 2 */
+  /* CSS cho cách hiển thị 2 */
+}
+
+.style2 .sub-line {
+  display: flex;
+}
+
+.style2 .sub-line > span {
+  padding: 3px;
+}
+
+.style2 .sub_en {
+  display: none;
+}
+
+.style2 .sub_vi,
+.style2 .phien_am {
+  flex: 1;
+  text-align: left;
+}
+
+.style2 .show-time-second {
+  flex: 0 0 11px;
+  text-align: right;
+}
+
+.style3 { /* Cách 3 */
+  /* CSS cho cách hiển thị 3 */
+}
+
+.style3 .sub-line {
+  display: flex;
+}
+
+.style3 .sub-line > span {
+  padding: 3px;
+}
+
+.style3 .phien_am {
+  display: none;
+}
+
+.style3 .sub_en,
+.style3 .sub_vi {
+  flex: 1;
+  text-align: left;
+}
+
+.style3 .show-time-second {
+  flex: 0 0 11px;
+  text-align: right;
+}
+
+.style4 { /* Cách 4 */
+  /* CSS cho cách hiển thị 4 */
+}
+
+.style4 .sub-line {
+  display: flex;
+  flex-direction: column; /* Giữ nguyên dạng cột */
+  flex-wrap: wrap; /* Cho phép các phần tử tràn sang dòng tiếp theo */
+}
+
+.style4 .sub-line span {
+  display: inline-block; /* Thay đổi thành inline-block */
+}
+
+
+/* Menu */
+.menu {
+  padding: 5px 0px 0px 0px;
+  display: flex;
+  margin-bottom: 5px;
+  width: 100%;
+  border: none;
+}
+
+.menu button {
+  flex: 1;
+  padding: 3px;
+  cursor: pointer;
+  background-color: #f0f0f0;
+  text-align: center;
+  color: green;
+  border: none;
+  border-radius: 4px 4px 4px 4px;
+  border-bottom: 2px solid transparent;
+
+}
+
+.menu button.active {
+  background-color: #fff;
+  border-bottom: 3px solid #007bff;
+}
