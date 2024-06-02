@@ -1,0 +1,5287 @@
+[
+    {
+        "start": "00:00:15,382",
+        "end": "00:00:16,216",
+        "en": "爸",
+        "pa": "Bà",
+        "vi": "Bố."
+    },
+    {
+        "start": "00:00:17,117",
+        "end": "00:00:19,452",
+        "en": "你手机怎么了？ 为什么关机又不接电话？",
+        "pa": "Nǐ shǒujī zěnmeliǎo? Wèishéme guānjī yòu bù jiē diànhuà?",
+        "vi": "Điện thoại bố bị sao vậy? Sao bố lại tắt máy?"
+    },
+    {
+        "start": "00:00:19,519",
+        "end": "00:00:21,554",
+        "en": "-你在哪里？ -我来南部找朋友",
+        "pa": "-Nǐ zài nǎlǐ? -Wǒ lái nánbù zhǎo péngyǒu",
+        "vi": "- Bố đang ở đâu? - Bố xuống phía Nam tìm bạn."
+    },
+    {
+        "start": "00:00:22,355",
+        "end": "00:00:23,690",
+        "en": "要过一阵子才回去",
+        "pa": "Yàoguò yī zhènzi cái huíqù",
+        "vi": "Một thời gian nữa mới về."
+    },
+    {
+        "start": "00:00:24,290",
+        "end": "00:00:25,358",
+        "en": "这么突然？",
+        "pa": "Zhème túrán?",
+        "vi": "Sao lại đột ngột vậy?"
+    },
+    {
+        "start": "00:00:26,893",
+        "end": "00:00:28,161",
+        "en": "妈生病了",
+        "pa": "Mā shēngbìngle",
+        "vi": "Mẹ ốm rồi."
+    },
+    {
+        "start": "00:00:28,228",
+        "end": "00:00:29,629",
+        "en": "你们俩到底怎么了？",
+        "pa": "Nǐmen liǎ dàodǐ zěnmeliǎo?",
+        "vi": "Rốt cuộc bố và mẹ bị sao vậy?"
+    },
+    {
+        "start": "00:00:30,630",
+        "end": "00:00:31,598",
+        "en": "好好照顾你妈",
+        "pa": "Hǎohǎo zhàogù nǐ mā",
+        "vi": "Chăm sóc cho mẹ đi."
+    },
+    {
+        "start": "00:00:32,165",
+        "end": "00:00:32,999",
+        "en": "我很好",
+        "pa": "Wǒ hěn hǎo",
+        "vi": "Bố vẫn ổn."
+    },
+    {
+        "start": "00:00:33,066",
+        "end": "00:00:34,034",
+        "en": "你不要担心",
+        "pa": "Nǐ bùyào dānxīn",
+        "vi": "Đừng lo cho bố."
+    },
+    {
+        "start": "00:00:34,834",
+        "end": "00:00:36,036",
+        "en": "我会再跟你联络",
+        "pa": "Wǒ huì zài gēn nǐ liánluò",
+        "vi": "Bố sẽ giữ liên lạc."
+    },
+    {
+        "start": "00:00:53,686",
+        "end": "00:00:55,522",
+        "en": "不好意思",
+        "pa": "Bù hǎoyìsi",
+        "vi": "Tôi xin lỗi."
+    },
+    {
+        "start": "00:00:56,689",
+        "end": "00:00:57,657",
+        "en": "真的很不好意思",
+        "pa": "Zhēn de hěn bù hǎoyìsi",
+        "vi": "Tôi rất xin lỗi."
+    },
+    {
+        "start": "00:00:58,291",
+        "end": "00:00:59,692",
+        "en": "你是西药房老板",
+        "pa": "Nǐ shì xī yàofáng lǎobǎn",
+        "vi": "Ông là ông chủ hiệu thuốc."
+    },
+    {
+        "start": "00:01:00,460",
+        "end": "00:01:01,394",
+        "en": "对不起",
+        "pa": "Duìbùqǐ",
+        "vi": "Tôi xin lỗi."
+    },
+    {
+        "start": "00:01:01,895",
+        "end": "00:01:03,096",
+        "en": "真的很抱歉",
+        "pa": "Zhēn de hěn bàoqiàn",
+        "vi": "Tôi rất xin lỗi."
+    },
+    {
+        "start": "00:01:04,164",
+        "end": "00:01:05,765",
+        "en": "为什么你要跟我道歉啊？",
+        "pa": "Wèishéme nǐ yào gēn wǒ dàoqiàn a?",
+        "vi": "Sao ông lại xin lỗi tôi?"
+    },
+    {
+        "start": "00:01:06,433",
+        "end": "00:01:07,634",
+        "en": "当天你忽然这样冲出来",
+        "pa": "Dàngtiān nǐ hūrán zhèyàng chōng chūlái",
+        "vi": "Hôm đó cô bất ngờ lao ra."
+    },
+    {
+        "start": "00:01:08,668",
+        "end": "00:01:09,903",
+        "en": "但是我没有撞到你",
+        "pa": "Dànshì wǒ méiyǒu zhuàng dào nǐ",
+        "vi": "Nhưng tôi không có tông cô."
+    },
+    {
+        "start": "00:01:22,515",
+        "end": "00:01:23,950",
+        "en": "我听说你伤得很重",
+        "pa": "Wǒ tīng shuō nǐ shāng dé hěn zhòng",
+        "vi": "Nghe nói cô bị thương rất nặng"
+    },
+    {
+        "start": "00:01:24,517",
+        "end": "00:01:25,652",
+        "en": "想说我来看你",
+        "pa": "Xiǎng shuō wǒ lái kàn nǐ",
+        "vi": "nên tôi đến thăm."
+    },
+    {
+        "start": "00:01:26,286",
+        "end": "00:01:27,654",
+        "en": "你没事就好了",
+        "pa": "Nǐ méishì jiù hǎole",
+        "vi": "Cô không sao là tốt rồi."
+    },
+    {
+        "start": "00:01:28,588",
+        "end": "00:01:29,422",
+        "en": "你没事就好了",
+        "pa": "Nǐ méishì jiù hǎole",
+        "vi": "Vậy là tốt rồi."
+    },
+    {
+        "start": "00:01:30,023",
+        "end": "00:01:32,258",
+        "en": "当年我要你们帮我保守秘密 结果呢？",
+        "pa": "Dāngnián wǒ yào nǐmen bāng wǒ bǎoshǒu mìmì jiéguǒ ne?",
+        "vi": "Tôi bảo các cậu giữ bí mật, kết quả thế nào?"
+    },
+    {
+        "start": "00:01:32,325",
+        "end": "00:01:33,626",
+        "en": "我爸妈背叛我",
+        "pa": "Wǒ bà mā bèipàn wǒ",
+        "vi": "Bố mẹ phản bội tôi,"
+    },
+    {
+        "start": "00:01:33,693",
+        "end": "00:01:35,395",
+        "en": "你们也背叛伤害我",
+        "pa": "Nǐmen yě bèipàn shānghài wǒ",
+        "vi": "các cậu cũng đâm sau lưng tôi."
+    },
+    {
+        "start": "00:01:36,162",
+        "end": "00:01:37,464",
+        "en": "你不要再狡辩了",
+        "pa": "Nǐ bùyào zài jiǎobiànle",
+        "vi": "Đừng ngụy biện nữa!"
+    },
+    {
+        "start": "00:01:43,703",
+        "end": "00:01:45,004",
+        "en": "真的很抱歉",
+        "pa": "Zhēn de hěn bàoqiàn",
+        "vi": "Tôi rất xin lỗi."
+    },
+    {
+        "start": "00:01:45,572",
+        "end": "00:01:47,140",
+        "en": "我先走了\n 很抱歉",
+        "pa": "Wǒ xiān zǒule hěn bàoqiàn",
+        "vi": "Tôi đi đây. Xin lỗi."
+    },
+    {
+        "start": "00:01:47,707",
+        "end": "00:01:48,575",
+        "en": "对不起",
+        "pa": "Duìbùqǐ",
+        "vi": "Tôi xin lỗi."
+    },
+    {
+        "start": "00:01:59,085",
+        "end": "00:02:04,524",
+        "en": "NETFLIX 剧集",
+        "pa": "NETFLIX jù jí",
+        "vi": "LOẠT PHIM NETFLIX"
+    },
+    {
+        "start": "00:04:07,880",
+        "end": "00:04:09,082",
+        "en": "幸好伤口不深",
+        "pa": "Xìnghǎo shāngkǒu bù shēn",
+        "vi": "May mà chỉ bị thương nhẹ."
+    },
+    {
+        "start": "00:04:10,116",
+        "end": "00:04:11,150",
+        "en": "对不起",
+        "pa": "Duìbùqǐ",
+        "vi": "Tôi xin lỗi."
+    },
+    {
+        "start": "00:04:11,784",
+        "end": "00:04:12,986",
+        "en": "我一时激动",
+        "pa": "Wǒ yīshí jīdòng",
+        "vi": "Tôi kích động quá."
+    },
+    {
+        "start": "00:04:14,487",
+        "end": "00:04:15,421",
+        "en": "林先生",
+        "pa": "Lín xiānshēng",
+        "vi": "Ông Lâm."
+    },
+    {
+        "start": "00:04:16,889",
+        "end": "00:04:18,524",
+        "en": "绑架警察的后果",
+        "pa": "Bǎngjià jǐngchá de hòuguǒ",
+        "vi": "Ông có nghĩ đến hậu quả"
+    },
+    {
+        "start": "00:04:18,591",
+        "end": "00:04:19,826",
+        "en": "你有想过吗？",
+        "pa": "Nǐ yǒu xiǎngguò ma?",
+        "vi": "khi bắt cóc cảnh sát không?"
+    },
+    {
+        "start": "00:04:22,895",
+        "end": "00:04:24,364",
+        "en": "只要找到圣华",
+        "pa": "Zhǐyào zhǎodào shèng huá",
+        "vi": "Khi nào tìm được Thánh Hoa"
+    },
+    {
+        "start": "00:04:25,298",
+        "end": "00:04:26,699",
+        "en": "确定她平安无事",
+        "pa": "Quèdìng tā píng'ān wú shì",
+        "vi": "và xác nhận con bé vẫn ổn,"
+    },
+    {
+        "start": "00:04:27,767",
+        "end": "00:04:28,901",
+        "en": "我就会去自首",
+        "pa": "Wǒ jiù huì qù zìshǒu",
+        "vi": "tôi sẽ ra đầu thú."
+    },
+    {
+        "start": "00:04:30,036",
+        "end": "00:04:31,037",
+        "en": "到时候",
+        "pa": "Dào shíhòu",
+        "vi": "Đến lúc đó,"
+    },
+    {
+        "start": "00:04:32,038",
+        "end": "00:04:33,873",
+        "en": "我也会把谢志忠的命案",
+        "pa": "Wǒ yě huì bǎ xièzhìzhōng de mìng'àn",
+        "vi": "tôi sẽ giải thích rõ"
+    },
+    {
+        "start": "00:04:33,940",
+        "end": "00:04:35,341",
+        "en": "都交代清楚",
+        "pa": "Dōu jiāodài qīngchǔ",
+        "vi": "về cái chết của Tạ Chí Trung."
+    },
+    {
+        "start": "00:04:35,408",
+        "end": "00:04:36,976",
+        "en": "你一路掩护颜圣华",
+        "pa": "Nǐ yīlù yǎnhù yánshènghuá",
+        "vi": "Ông bao che cho Nhan Thánh Hoa"
+    },
+    {
+        "start": "00:04:37,043",
+        "end": "00:04:38,478",
+        "en": "是不是因为谢志忠的死",
+        "pa": "Shì bùshì yīnwèi xièzhìzhōng de sǐ",
+        "vi": "là vì cái chết của Tạ Chí Trung"
+    },
+    {
+        "start": "00:04:39,145",
+        "end": "00:04:40,380",
+        "en": "跟你有关？",
+        "pa": "Gēn nǐ yǒuguān?",
+        "vi": "có liên quan đến ông à?"
+    },
+    {
+        "start": "00:04:45,385",
+        "end": "00:04:46,452",
+        "en": "谢志忠",
+        "pa": "Xièzhìzhōng",
+        "vi": "Tạ Chí Trung…"
+    },
+    {
+        "start": "00:04:47,120",
+        "end": "00:04:48,354",
+        "en": "早就该死了！",
+        "pa": "Zǎo jiù gāisǐle!",
+        "vi": "lẽ ra phải chết từ lâu rồi!"
+    },
+    {
+        "start": "00:04:50,089",
+        "end": "00:04:51,791",
+        "en": "谢志忠跟你有什么恩怨？",
+        "pa": "Xièzhìzhōng gēn nǐ yǒu shé me ēnyuàn?",
+        "vi": "Ông có thù oán gì với Tạ Chí Trung?"
+    },
+    {
+        "start": "00:05:02,135",
+        "end": "00:05:03,770",
+        "en": "你办案这么久了",
+        "pa": "Nǐ bàn'àn zhème jiǔle",
+        "vi": "Cậu làm cảnh sát lâu vậy rồi,"
+    },
+    {
+        "start": "00:05:06,139",
+        "end": "00:05:07,774",
+        "en": "应该遇到不少坏人",
+        "pa": "Yīnggāi yù dào bù shǎo huàirén",
+        "vi": "chắc cũng gặp không ít kẻ xấu."
+    },
+    {
+        "start": "00:05:09,442",
+        "end": "00:05:10,777",
+        "en": "可是有一种人",
+        "pa": "Kěshì yǒuyī zhǒng rén",
+        "vi": "Nhưng có một loại người"
+    },
+    {
+        "start": "00:05:12,078",
+        "end": "00:05:13,646",
+        "en": "比坏人更可恶",
+        "pa": "Bǐ huàirén gèng kěwù",
+        "vi": "còn ghê tởm hơn kẻ xấu."
+    },
+    {
+        "start": "00:05:15,748",
+        "end": "00:05:17,650",
+        "en": "他们看起来面目和善",
+        "pa": "Tāmen kàn qǐlái miànmù héshàn",
+        "vi": "Chúng mang một vỏ bọc thiện lương."
+    },
+    {
+        "start": "00:05:19,018",
+        "end": "00:05:20,353",
+        "en": "谢志忠",
+        "pa": "Xièzhìzhōng",
+        "vi": "Tạ Chí Trung"
+    },
+    {
+        "start": "00:05:21,020",
+        "end": "00:05:22,422",
+        "en": "就是这种败类",
+        "pa": "Jiùshì zhè zhǒng bàilèi",
+        "vi": "là một kẻ cặn bã như thế."
+    },
+    {
+        "start": "00:05:22,488",
+        "end": "00:05:24,390",
+        "en": "谢志忠干了什么事情？",
+        "pa": "Xièzhìzhōng gànle shénme shìqíng?",
+        "vi": "Tạ Chí Trung đã làm gì?"
+    },
+    {
+        "start": "00:05:24,457",
+        "end": "00:05:25,758",
+        "en": "为什么你这么恨他？",
+        "pa": "Wèishéme nǐ zhème hèn tā?",
+        "vi": "Sao ông lại hận ông ta?"
+    },
+    {
+        "start": "00:05:31,764",
+        "end": "00:05:33,099",
+        "en": "等我去自首之后",
+        "pa": "Děng wǒ qù zìshǒu zhīhòu",
+        "vi": "Khi ra đầu thú,"
+    },
+    {
+        "start": "00:05:33,700",
+        "end": "00:05:35,635",
+        "en": "我就会把所有的事情都说出来",
+        "pa": "Wǒ jiù huì bǎ suǒyǒu de shìqíng dōu shuō chūlái",
+        "vi": "tôi sẽ kể hết mọi chuyện."
+    },
+    {
+        "start": "00:05:40,773",
+        "end": "00:05:41,607",
+        "en": "小刘人咧？",
+        "pa": "Xiǎo liú rén liě?",
+        "vi": "Tiểu Lưu đâu?"
+    },
+    {
+        "start": "00:05:41,674",
+        "end": "00:05:43,042",
+        "en": "怎么电话也不接？",
+        "pa": "Zěnme diànhuà yě bù jiē?",
+        "vi": "Sao lại không nghe điện thoại?"
+    },
+    {
+        "start": "00:05:43,109",
+        "end": "00:05:44,877",
+        "en": "可能手机没电吧？或没信号？",
+        "pa": "Kěnéng shǒujī méi diàn ba? Huò méi xìnhào?",
+        "vi": "Chắc là hết pin hoặc mất sóng."
+    },
+    {
+        "start": "00:05:45,445",
+        "end": "00:05:46,512",
+        "en": "应该等一下就进来了",
+        "pa": "Yīnggāi děng yīxià jiù jìnláile",
+        "vi": "Lát nữa sẽ đến thôi."
+    },
+    {
+        "start": "00:05:49,282",
+        "end": "00:05:51,017",
+        "en": "你觉得这个妹子怎么样？",
+        "pa": "Nǐ juédé zhège mèizi zěnme yàng?",
+        "vi": "Anh thấy cô này thế nào?"
+    },
+    {
+        "start": "00:05:51,084",
+        "end": "00:05:52,652",
+        "en": "这个太保守了",
+        "pa": "Zhège tài bǎoshǒule",
+        "vi": "Cô ấy quá bảo thủ."
+    },
+    {
+        "start": "00:05:53,653",
+        "end": "00:05:55,254",
+        "en": "那你觉得这个陈总会喜欢吗？",
+        "pa": "Nà nǐ juédé zhège chén zǒng huì xǐhuān ma?",
+        "vi": "Giám đốc Trần sẽ thích chứ?"
+    },
+    {
+        "start": "00:05:55,321",
+        "end": "00:05:56,289",
+        "en": "不会",
+        "pa": "Bù huì",
+        "vi": "Không đâu."
+    },
+    {
+        "start": "00:05:57,323",
+        "end": "00:05:59,125",
+        "en": "-那这个咧？ -这个不错",
+        "pa": "-Nà zhège liě? -Zhège bùcuò",
+        "vi": "- Cô này thì sao? - Cô này được đấy."
+    },
+    {
+        "start": "00:06:01,728",
+        "end": "00:06:02,895",
+        "en": "喂",
+        "pa": "Wèi",
+        "vi": "Này."
+    },
+    {
+        "start": "00:06:02,962",
+        "end": "00:06:04,230",
+        "en": "-干吗？ -你们知道业务部",
+        "pa": "-Gànma? -Nǐmen zhīdào yèwù bù",
+        "vi": "- Hả? - Bộ phận Kinh doanh"
+    },
+    {
+        "start": "00:06:04,297",
+        "end": "00:06:06,165",
+        "en": "私底下成立一个群组",
+        "pa": "Sī dǐxia chénglì yīgè qún zǔ",
+        "vi": "có một nhóm chat mật."
+    },
+    {
+        "start": "00:06:06,232",
+        "end": "00:06:07,433",
+        "en": "好像可以赚外快",
+        "pa": "Hǎoxiàng kěyǐ zhuàn wàikuài",
+        "vi": "Hình như có thể kiếm thêm."
+    },
+    {
+        "start": "00:06:08,034",
+        "end": "00:06:09,602",
+        "en": "什么？赚外快？",
+        "pa": "Shénme? Zhuàn wàikuài?",
+        "vi": "Cái gì? Kiếm thêm tiền?"
+    },
+    {
+        "start": "00:06:11,037",
+        "end": "00:06:12,705",
+        "en": "只要有客户应酬的场合",
+        "pa": "Zhǐyào yǒu kèhù yìngchóu de chǎnghé",
+        "vi": "Mỗi khi cần giao thiệp với khách,"
+    },
+    {
+        "start": "00:06:12,772",
+        "end": "00:06:15,708",
+        "en": "他们就会问有没有基层女员工 愿意去陪吃饭、喝酒",
+        "pa": "Tāmen jiù huì wèn yǒu méiyǒu jīcéng nǚ yuángōng yuànyì qù péi chīfàn, hējiǔ",
+        "vi": "họ sẽ hỏi có nhân viên nữ nào chịu đi uống rượu tiếp khách không."
+    },
+    {
+        "start": "00:06:15,775",
+        "end": "00:06:17,877",
+        "en": "但是你要先传照片\n 过第一关",
+        "pa": "Dànshì nǐ yào xiān chuán zhào piàn guò dì yī guān",
+        "vi": "Nhưng cậu phải gửi ảnh để qua vòng loại."
+    },
+    {
+        "start": "00:06:21,848",
+        "end": "00:06:23,883",
+        "en": "-业务部的经理说 -好扯喔",
+        "pa": "-Yèwù bù de jīnglǐ shuō -hǎo chě ō",
+        "vi": "- Trưởng Bộ phận Kinh doanh nói - Kỳ cục quá."
+    },
+    {
+        "start": "00:06:23,950",
+        "end": "00:06:26,586",
+        "en": "反正到时候都要找饭局妹",
+        "pa": "Fǎnzhèng dào shíhòu dōu yào zhǎo fànjú mèi",
+        "vi": "dù sao cũng phải tìm tiếp viên,"
+    },
+    {
+        "start": "00:06:26,652",
+        "end": "00:06:29,422",
+        "en": "还不如找我们公司员工自己赚",
+        "pa": "Hái bùrú zhǎo wǒmen gōngsī yuángōng zìjǐ zhuàn",
+        "vi": "chi bằng tìm nhân viên trong công ty."
+    },
+    {
+        "start": "00:06:30,857",
+        "end": "00:06:32,458",
+        "en": "真的假的？",
+        "pa": "Zhēn de jiǎ de?",
+        "vi": "Thật à?"
+    },
+    {
+        "start": "00:06:36,763",
+        "end": "00:06:38,030",
+        "en": "早安",
+        "pa": "Zǎo ān",
+        "vi": "Chào buổi sáng."
+    },
+    {
+        "start": "00:06:39,632",
+        "end": "00:06:40,466",
+        "en": "早\n （达通集团）",
+        "pa": "Zǎo (dá tōng jítuán)",
+        "vi": "Chào buổi sáng."
+    },
+    {
+        "start": "00:06:43,503",
+        "end": "00:06:44,737",
+        "en": "怎样？",
+        "pa": "Zěnyàng?",
+        "vi": "Sao thế?"
+    },
+    {
+        "start": "00:06:44,804",
+        "end": "00:06:46,339",
+        "en": "一大早就臭脸",
+        "pa": "Yī dà zǎo jiù chòu liǎn",
+        "vi": "Mới sáng sớm đã cau có."
+    },
+    {
+        "start": "00:06:46,406",
+        "end": "00:06:48,040",
+        "en": "谁又惹你生气啊？",
+        "pa": "Shéi yòu rě nǐ shēngqì a?",
+        "vi": "Ai chọc giận chị vậy?"
+    },
+    {
+        "start": "00:06:49,442",
+        "end": "00:06:51,677",
+        "en": "我刚听到其他女同事在八卦",
+        "pa": "Wǒ gāng tīng dào qítā nǚ tóngshì zài bāguà",
+        "vi": "Tôi vừa nghe các đồng nghiệp nữ khác tám chuyện."
+    },
+    {
+        "start": "00:06:51,744",
+        "end": "00:06:54,147",
+        "en": "说我们业务部 私下找其他女员工去陪客户喝酒",
+        "pa": "Shuō wǒmen yèwù bù sīxià zhǎo qítā nǚ yuángōng qù péi kèhù hējiǔ",
+        "vi": "Họ nói là Bộ phận Kinh doanh tìm nhân viên nữ"
+    },
+    {
+        "start": "00:06:54,213",
+        "end": "00:06:55,648",
+        "en": "",
+        "pa": "",
+        "vi": "đi uống rượu với khách."
+    },
+    {
+        "start": "00:06:55,715",
+        "end": "00:06:56,816",
+        "en": "真的有这种事吗？",
+        "pa": "Zhēn de yǒu zhè zhǒng shì ma?",
+        "vi": "Có thật vậy không?"
+    },
+    {
+        "start": "00:06:59,385",
+        "end": "00:07:00,586",
+        "en": "我不知道耶",
+        "pa": "Wǒ bù zhīdào yé",
+        "vi": "Em cũng không biết."
+    },
+    {
+        "start": "00:07:01,120",
+        "end": "00:07:03,122",
+        "en": "但那是业务部的事",
+        "pa": "Dàn nà shì yèwù bù de shì",
+        "vi": "Nhưng chuyện của Bộ phận Kinh doanh,"
+    },
+    {
+        "start": "00:07:03,189",
+        "end": "00:07:04,157",
+        "en": "管那么多干吗？",
+        "pa": "Guǎn nàme duō gànma?",
+        "vi": "chị quan tâm làm gì?"
+    },
+    {
+        "start": "00:07:04,223",
+        "end": "00:07:05,324",
+        "en": "不是啊",
+        "pa": "Bùshì a",
+        "vi": "Không phải."
+    },
+    {
+        "start": "00:07:05,391",
+        "end": "00:07:07,326",
+        "en": "你不觉得这些男人很过分吗？",
+        "pa": "Nǐ bù juédé zhèxiē nánrén hěn guòfèn ma?",
+        "vi": "Cô không thấy đám đàn ông đó quá đáng sao?"
+    },
+    {
+        "start": "00:07:07,393",
+        "end": "00:07:09,295",
+        "en": "把女人当作赚钱的工具",
+        "pa": "Bǎ nǚrén dàng zuò zhuànqián de gōngjù",
+        "vi": "Đem phụ nữ ra làm công cụ kiếm tiền."
+    },
+    {
+        "start": "00:07:09,362",
+        "end": "00:07:10,229",
+        "en": "真的",
+        "pa": "Zhēn de",
+        "vi": "Cũng phải."
+    },
+    {
+        "start": "00:07:11,230",
+        "end": "00:07:13,499",
+        "en": "张董经常找业务部训话",
+        "pa": "Zhāng dǒng jīngcháng zhǎo yèwù bù xùnhuà",
+        "vi": "Chủ tịch Trương hay răn dạy Bộ phận Kinh doanh rằng"
+    },
+    {
+        "start": "00:07:13,566",
+        "end": "00:07:15,802",
+        "en": "要他们不择手段替公司赚钱",
+        "pa": "Yào tāmen bùzéshǒuduàn tì gōngsī zhuànqián",
+        "vi": "phải kiếm tiền cho công ty bằng mọi giá."
+    },
+    {
+        "start": "00:07:16,936",
+        "end": "00:07:18,971",
+        "en": "他们业务部这一季不但达标",
+        "pa": "Tāmen yèwù bù zhè yījì bùdàn dábiāo",
+        "vi": "Họ không chỉ đạt chỉ tiêu của quý này"
+    },
+    {
+        "start": "00:07:19,038",
+        "end": "00:07:20,072",
+        "en": "还超过预期",
+        "pa": "Hái chāoguò yùqí",
+        "vi": "mà còn vượt nữa kìa."
+    },
+    {
+        "start": "00:07:20,873",
+        "end": "00:07:21,841",
+        "en": "重点是",
+        "pa": "Zhòngdiǎn shì",
+        "vi": "Vấn đề là"
+    },
+    {
+        "start": "00:07:22,341",
+        "end": "00:07:24,243",
+        "en": "那些女员工去陪酒",
+        "pa": "Nàxiē nǚ yuángōng qù péi jiǔ",
+        "vi": "các nhân viên nữ đều tự nguyện"
+    },
+    {
+        "start": "00:07:24,310",
+        "end": "00:07:25,511",
+        "en": "全部都是她们自愿",
+        "pa": "Quánbù dōu shì tāmen zìyuàn",
+        "vi": "đi uống rượu tiếp khách."
+    },
+    {
+        "start": "00:07:25,578",
+        "end": "00:07:26,612",
+        "en": "又没人强迫",
+        "pa": "Yòu méi rén qiǎngpò",
+        "vi": "Không ai ép họ cả."
+    },
+    {
+        "start": "00:07:27,613",
+        "end": "00:07:28,981",
+        "en": "而且方秘知道",
+        "pa": "Érqiě fāng mì zhīdào",
+        "vi": "Thư ký Phương cũng biết"
+    },
+    {
+        "start": "00:07:29,048",
+        "end": "00:07:30,183",
+        "en": "也没说什么啊",
+        "pa": "Yě méi shuō shénme a",
+        "vi": "và không nói gì cả."
+    },
+    {
+        "start": "00:07:30,249",
+        "end": "00:07:31,451",
+        "en": "罗晓南",
+        "pa": "Luōxiǎonán",
+        "vi": "La Hiểu Nam."
+    },
+    {
+        "start": "00:07:31,517",
+        "end": "00:07:33,319",
+        "en": "上个月报表 快一点",
+        "pa": "Shàng gè yuè bàobiǎo kuài yīdiǎn",
+        "vi": "Báo cáo tháng trước. Nhanh lên."
+    },
+    {
+        "start": "00:07:33,386",
+        "end": "00:07:34,353",
+        "en": "好",
+        "pa": "Hǎo",
+        "vi": "Được."
+    },
+    {
+        "start": "00:07:37,356",
+        "end": "00:07:40,326",
+        "en": "-您好 欢迎莅临钢琴独奏会 -叔叔",
+        "pa": "-Nín hǎo huānyíng lìlín gāngqín dúzòu huì -shūshu",
+        "vi": "- Chào mừng đến với buổi độc tấu piano. - Chú, lâu quá không gặp!"
+    },
+    {
+        "start": "00:07:40,393",
+        "end": "00:07:42,228",
+        "en": "-好久不见 -你好 好久不见\n 你好",
+        "pa": "-Hǎojiǔ bùjiàn -nǐ hǎo hǎojiǔ bùjiàn nǐ hǎo",
+        "vi": "Chào, lâu quá rồi nhỉ."
+    },
+    {
+        "start": "00:07:43,062",
+        "end": "00:07:44,130",
+        "en": "来 帮我带叔叔入座",
+        "pa": "Lái bāng wǒ dài shūshu rùzuò",
+        "vi": "Dẫn chú ấy vào ghế đi."
+    },
+    {
+        "start": "00:07:44,197",
+        "end": "00:07:45,131",
+        "en": "-好 -这边",
+        "pa": "-Hǎo -zhè biān",
+        "vi": "- Được. - Lối này."
+    },
+    {
+        "start": "00:07:45,631",
+        "end": "00:07:46,866",
+        "en": "-里面请 -好",
+        "pa": "-Lǐmiàn qǐng -hǎo",
+        "vi": "- Vào đi ạ. - Được."
+    },
+    {
+        "start": "00:07:46,933",
+        "end": "00:07:49,735",
+        "en": "（沉妤霖钢琴独奏会）",
+        "pa": "(Chén yú lín gāngqín dúzòu huì)",
+        "vi": "EVA THẨM DƯ LÂM, ĐỘC TẤU PIANO"
+    },
+    {
+        "start": "00:07:49,802",
+        "end": "00:07:52,171",
+        "en": "宝贝 等等有个叫关翔礼的人",
+        "pa": "Bǎobèi děng děng yǒu gè jiào guānxiánglǐ de rén",
+        "vi": "Con gái, lát nữa sẽ có một người tên Quan Tường Lễ"
+    },
+    {
+        "start": "00:07:52,238",
+        "end": "00:07:53,606",
+        "en": "会来听独奏会",
+        "pa": "Huì lái tīng dúzòu huì",
+        "vi": "đến xem biểu diễn."
+    },
+    {
+        "start": "00:07:53,673",
+        "end": "00:07:55,475",
+        "en": "是你爸朋友的儿子",
+        "pa": "Shì nǐ bà péngyǒu de érzi",
+        "vi": "Cậu ấy là con trai của bạn bố con."
+    },
+    {
+        "start": "00:07:55,541",
+        "end": "00:07:56,909",
+        "en": "好好照顾人家耶",
+        "pa": "Hǎohǎo zhàogù rénjiā yé",
+        "vi": "Chăm lo cho cậu ấy thật tốt."
+    },
+    {
+        "start": "00:07:58,344",
+        "end": "00:07:59,178",
+        "en": "欢迎",
+        "pa": "Huānyíng",
+        "vi": "Hoan nghênh."
+    },
+    {
+        "start": "00:07:59,946",
+        "end": "00:08:00,813",
+        "en": "杨佳缨",
+        "pa": "Yángjiā yīng",
+        "vi": "Dương Giai Anh."
+    },
+    {
+        "start": "00:08:03,516",
+        "end": "00:08:05,751",
+        "en": "之前的事我不会跟林晨说",
+        "pa": "Zhīqián de shì wǒ bù huì gēn lín chén shuō",
+        "vi": "Chuyện lúc trước tôi sẽ không nói với Lâm Thần."
+    },
+    {
+        "start": "00:08:07,553",
+        "end": "00:08:08,621",
+        "en": "我不在乎",
+        "pa": "Wǒ bùzàihū",
+        "vi": "Tôi không để tâm."
+    },
+    {
+        "start": "00:08:08,688",
+        "end": "00:08:10,623",
+        "en": "林晨曦怎么想",
+        "pa": "Lín chénxī zěnme xiǎng",
+        "vi": "Lâm Thần Hy nghĩ thế nào"
+    },
+    {
+        "start": "00:08:10,690",
+        "end": "00:08:11,824",
+        "en": "我都无所谓",
+        "pa": "Wǒ dū wúsuǒwèi",
+        "vi": "tôi đều không bận tâm."
+    },
+    {
+        "start": "00:08:13,259",
+        "end": "00:08:14,360",
+        "en": "是喔？",
+        "pa": "Shì ō?",
+        "vi": "Thế à?"
+    },
+    {
+        "start": "00:08:14,427",
+        "end": "00:08:16,295",
+        "en": "我以为你们的友谊正在重新开始",
+        "pa": "Wǒ yǐwéi nǐmen de yǒuyì zhèngzài chóngxīn kāishǐ",
+        "vi": "Tôi cứ tưởng các cô đã hàn gắn rồi."
+    },
+    {
+        "start": "00:08:17,029",
+        "end": "00:08:18,531",
+        "en": "所以你跟陈智苓",
+        "pa": "Suǒyǐ nǐ gēn chénzhìlíng",
+        "vi": "Dạo này cô và Trần Trí Linh"
+    },
+    {
+        "start": "00:08:18,598",
+        "end": "00:08:20,166",
+        "en": "最近没有跟林晨联络？",
+        "pa": "Zuìjìn méiyǒu gēn lín chén liánluò?",
+        "vi": "không liên lạc với Lâm Thần à?"
+    },
+    {
+        "start": "00:08:20,666",
+        "end": "00:08:21,501",
+        "en": "江原",
+        "pa": "Jiāngyuán",
+        "vi": "Giang Nguyên."
+    },
+    {
+        "start": "00:08:23,970",
+        "end": "00:08:26,038",
+        "en": "哇靠 太巧了吧？",
+        "pa": "Wa kào tài qiǎole ba?",
+        "vi": "Ôi trời. Trùng hợp quá!"
+    },
+    {
+        "start": "00:08:26,105",
+        "end": "00:08:27,340",
+        "en": "好久不见",
+        "pa": "Hǎojiǔ bùjiàn",
+        "vi": "Đã lâu không gặp."
+    },
+    {
+        "start": "00:08:27,406",
+        "end": "00:08:28,274",
+        "en": "好久不见",
+        "pa": "Hǎojiǔ bùjiàn",
+        "vi": "Đã lâu không gặp."
+    },
+    {
+        "start": "00:08:28,341",
+        "end": "00:08:30,309",
+        "en": "太巧了吧？你也来听音乐会？",
+        "pa": "Tài qiǎole ba? Nǐ yě lái tīng yīnyuè huì?",
+        "vi": "Trùng hợp quá. Cậu cũng đến xem biểu diễn à?"
+    },
+    {
+        "start": "00:08:30,376",
+        "end": "00:08:31,344",
+        "en": "-关翔礼？ -你也听…",
+        "pa": "-Guānxiánglǐ? -Nǐ yě tīng…",
+        "vi": "- Quan Tường Lễ? - Cậu…"
+    },
+    {
+        "start": "00:08:33,546",
+        "end": "00:08:34,580",
+        "en": "对啊",
+        "pa": "Duì a",
+        "vi": "Đúng vậy."
+    },
+    {
+        "start": "00:08:34,647",
+        "end": "00:08:36,315",
+        "en": "我们见过吗？",
+        "pa": "Wǒmen jiànguò ma?",
+        "vi": "Chúng ta từng gặp nhau à?"
+    },
+    {
+        "start": "00:08:36,382",
+        "end": "00:08:37,383",
+        "en": "有点巧合",
+        "pa": "Yǒudiǎn qiǎohé",
+        "vi": "Có chút trùng hợp."
+    },
+    {
+        "start": "00:08:37,450",
+        "end": "00:08:38,951",
+        "en": "之后再跟你解释",
+        "pa": "Zhīhòu zài gēn nǐ jiěshì",
+        "vi": "Tôi sẽ giải thích sau."
+    },
+    {
+        "start": "00:08:39,018",
+        "end": "00:08:40,620",
+        "en": "前排贵宾席还有个位置",
+        "pa": "Qián pái guìbīn xí hái yǒu gè wèizhì",
+        "vi": "Còn một ghế trống ở hàng đầu."
+    },
+    {
+        "start": "00:08:40,686",
+        "end": "00:08:41,954",
+        "en": "让我带你过去？",
+        "pa": "Ràng wǒ dài nǐ guòqù?",
+        "vi": "Tôi dẫn anh vào trong nhé?"
+    },
+    {
+        "start": "00:08:43,289",
+        "end": "00:08:44,390",
+        "en": "好啊",
+        "pa": "Hǎo a",
+        "vi": "Được thôi."
+    },
+    {
+        "start": "00:08:46,392",
+        "end": "00:08:47,793",
+        "en": "-先进去 -好好欣赏",
+        "pa": "-Xiān jìnqù -hǎohǎo xīnshǎng",
+        "vi": "- Tôi vào đây. - Xem vui vẻ."
+    },
+    {
+        "start": "00:08:59,839",
+        "end": "00:09:02,508",
+        "en": "-这才发现你的真的是链条耶 -特别啊",
+        "pa": "-Zhè cái fāxiàn nǐ de zhēn de shì liàntiáo yé -tèbié a",
+        "vi": "- Tôi mới phát hiện của cô là sợi xích. - Đặc biệt lắm đấy."
+    },
+    {
+        "start": "00:09:02,575",
+        "end": "00:09:04,010",
+        "en": "-好看吗？ -会不会痛啊？好看",
+        "pa": "-Hǎokàn ma? -Huì bù huì tòng a? Hǎokàn",
+        "vi": "- Đẹp đấy. - Đau không? Hay đấy."
+    },
+    {
+        "start": "00:09:04,076",
+        "end": "00:09:05,645",
+        "en": "-最近业绩压力很大 -你就在这里扯",
+        "pa": "-Zuìjìn yèjī yālì hěn dà -nǐ jiù zài zhèlǐ chě",
+        "vi": "- Áp lực doanh số quá. - Kéo ở đây."
+    },
+    {
+        "start": "00:09:05,711",
+        "end": "00:09:07,413",
+        "en": "-每天都在喝酒 -我真只有一扯而已啦",
+        "pa": "-Měitiān dū zài hējiǔ -wǒ zhēn zhǐyǒu yī chě éryǐ la",
+        "vi": "- Ngày nào cũng uống. - Giật là xong."
+    },
+    {
+        "start": "00:09:07,480",
+        "end": "00:09:08,948",
+        "en": "-喝太多了 真的受不了 -真的吗？",
+        "pa": "-Hē tài duōle zhēn de shòu bùliǎo -zhēn de ma?",
+        "vi": "- Tôi uống hết nổi rồi. - Thật à?"
+    },
+    {
+        "start": "00:09:09,015",
+        "end": "00:09:10,483",
+        "en": "-你等下要帮我挡酒 -一直这样不是办法",
+        "pa": "-Nǐ děng xià yào bāng wǒ dǎng jiǔ -yīzhí zhèyàng bùshì bànfǎ",
+        "vi": "- Tí uống hộ nhé. - Không thể vậy mãi."
+    },
+    {
+        "start": "00:09:10,550",
+        "end": "00:09:12,251",
+        "en": "-好 -你啦 我还帮你扛回家",
+        "pa": "-Hǎo -nǐ la wǒ hái bāng nǐ káng huí jiā",
+        "vi": "- Ừ. - Tôi còn phải cõng cô về."
+    },
+    {
+        "start": "00:09:12,318",
+        "end": "00:09:14,153",
+        "en": "-你都忘记了 -晓南",
+        "pa": "-Nǐ dōu wàngjìle -xiǎo nán",
+        "vi": "- Cô quên rồi à? - Hiểu Nam."
+    },
+    {
+        "start": "00:09:14,220",
+        "end": "00:09:16,289",
+        "en": "-晓南来了 -等你好久喔",
+        "pa": "-Xiǎo nán láile -děng nǐ hǎojiǔ ō",
+        "vi": "- Hiểu Nam kìa. - Đợi cô nãy giờ."
+    },
+    {
+        "start": "00:09:16,355",
+        "end": "00:09:17,690",
+        "en": "-天啊 你们一个比一个还辣耶 -嗨",
+        "pa": "-Tiān a nǐmen yīgè bǐ yīgè hái là yé -hāi",
+        "vi": "- Ai cũng gợi cảm quá. - Chào."
+    },
+    {
+        "start": "00:09:17,757",
+        "end": "00:09:18,891",
+        "en": "-你才是吧？ -那些女员工去陪酒",
+        "pa": "-Nǐ cái shì ba? -Nàxiē nǚ yuángōng qù péi jiǔ",
+        "vi": "Cô mới gợi cảm ấy."
+    },
+    {
+        "start": "00:09:18,958",
+        "end": "00:09:20,660",
+        "en": "",
+        "pa": "",
+        "vi": "Các nhân viên nữ đều tự nguyện"
+    },
+    {
+        "start": "00:09:20,726",
+        "end": "00:09:21,928",
+        "en": "全部都是她们自愿",
+        "pa": "Quánbù dōu shì tāmen zìyuàn",
+        "vi": "đi uống rượu tiếp khách."
+    },
+    {
+        "start": "00:09:21,994",
+        "end": "00:09:22,962",
+        "en": "又没人强迫",
+        "pa": "Yòu méi rén qiǎngpò",
+        "vi": "Không ai ép họ cả."
+    },
+    {
+        "start": "00:09:23,029",
+        "end": "00:09:24,163",
+        "en": "而且方秘知道",
+        "pa": "Érqiě fāng mì zhīdào",
+        "vi": "Thư ký Phương cũng biết"
+    },
+    {
+        "start": "00:09:24,230",
+        "end": "00:09:25,264",
+        "en": "也没说什么啊",
+        "pa": "Yě méi shuō shénme a",
+        "vi": "và không nói gì cả."
+    },
+    {
+        "start": "00:09:25,331",
+        "end": "00:09:26,499",
+        "en": "今天谁挡酒？",
+        "pa": "Jīntiān shéi dǎng jiǔ?",
+        "vi": "Hôm nay ai uống thay nào?"
+    },
+    {
+        "start": "00:09:26,566",
+        "end": "00:09:28,434",
+        "en": "-你？ -他 他帮你挡酒",
+        "pa": "-Nǐ? -Tā tā bāng nǐ dǎng jiǔ",
+        "vi": "- Cô à? - Anh ấy sẽ uống thay cô."
+    },
+    {
+        "start": "00:09:28,501",
+        "end": "00:09:30,269",
+        "en": "-男生嘛 -差不多 该走了",
+        "pa": "-Nánshēng ma -chàbùduō gāi zǒule",
+        "vi": "- Con trai mà. - Đến lúc đi rồi."
+    },
+    {
+        "start": "00:09:30,836",
+        "end": "00:09:31,837",
+        "en": "今天帮我挡喔",
+        "pa": "Jīntiān bāng wǒ dǎng ō",
+        "vi": "Uống giúp tôi nhé."
+    },
+    {
+        "start": "00:09:31,904",
+        "end": "00:09:32,772",
+        "en": "好啦",
+        "pa": "Hǎo la",
+        "vi": "Được rồi."
+    },
+    {
+        "start": "00:09:49,422",
+        "end": "00:09:51,023",
+        "en": "你是不是很喜欢那个包啊？",
+        "pa": "Nǐ shì bùshì hěn xǐhuān nàgè bāo a?",
+        "vi": "Em thích cái túi đó lắm à?"
+    },
+    {
+        "start": "00:09:51,090",
+        "end": "00:09:53,392",
+        "en": "-对啊 -改天买给你 没问题",
+        "pa": "-Duì a -gǎitiān mǎi gěi nǐ méi wèntí",
+        "vi": "- Phải. - Để anh mua cho, không thành vấn đề."
+    },
+    {
+        "start": "00:09:53,893",
+        "end": "00:09:55,261",
+        "en": "没有问题",
+        "pa": "Méiyǒu wèntí",
+        "vi": "- Thật à? - Không thành vấn đề."
+    },
+    {
+        "start": "00:09:58,898",
+        "end": "00:10:00,600",
+        "en": "听说那个林董很难搞啊",
+        "pa": "Tīng shuō nàgè lín dǒng hěn nán gǎo a",
+        "vi": "Nghe nói Chủ tịch Lâm rất khó nhằn."
+    },
+    {
+        "start": "00:10:00,666",
+        "end": "00:10:02,635",
+        "en": "-真的假的啊？ -每次到了房间都要炒饭",
+        "pa": "-Zhēn de jiǎ de a? -Měi cì dàole fángjiān dōu yào chǎofàn",
+        "vi": "- Thật à? - Cứ vào phòng là đòi làm tình."
+    },
+    {
+        "start": "00:10:02,702",
+        "end": "00:10:04,303",
+        "en": "对啊 你不知道喔？",
+        "pa": "Duì a nǐ bù zhīdào ō?",
+        "vi": "Đúng vậy. Cô không biết à?"
+    },
+    {
+        "start": "00:10:05,638",
+        "end": "00:10:06,806",
+        "en": "林董…",
+        "pa": "Lín dǒng…",
+        "vi": "Mấy ngày nay…"
+    },
+    {
+        "start": "00:10:08,507",
+        "end": "00:10:09,775",
+        "en": "",
+        "pa": "",
+        "vi": "Ông ta tiếng xấu đồn xa."
+    },
+    {
+        "start": "00:10:11,377",
+        "end": "00:10:13,746",
+        "en": "-你买这干吗？赶快丢掉啦 -他等下喝醉乱搞怎么办？",
+        "pa": "-Nǐ mǎi zhè gànma? Gǎnkuài diūdiào la -tā děng xià hē zuì luàn gǎo zěnme bàn?",
+        "vi": "- Mua làm gì? Vứt đi. - Lão uống rồi làm bậy thì sao?"
+    },
+    {
+        "start": "00:10:16,782",
+        "end": "00:10:18,317",
+        "en": "-穿得很辣耶 -你也是啊",
+        "pa": "-Chuān dé hěn là yé -nǐ yěshì a",
+        "vi": "- Cô gợi cảm thật. - Cô cũng vậy."
+    },
+    {
+        "start": "00:10:19,485",
+        "end": "00:10:21,554",
+        "en": "-差不多了 该进去了 -快点走啊",
+        "pa": "-Chàbùduōle gāi jìnqùle -kuài diǎn zǒu a",
+        "vi": "Đến lúc rồi. Mình vào trong thôi."
+    },
+    {
+        "start": "00:10:21,621",
+        "end": "00:10:22,922",
+        "en": "柯迪 走啰",
+        "pa": "Kē dí zǒu luō",
+        "vi": "Đi thôi, Kody."
+    },
+    {
+        "start": "00:10:43,609",
+        "end": "00:10:45,378",
+        "en": "你没看见我正在忙吗？",
+        "pa": "Nǐ méi kànjiàn wǒ zhèngzài máng ma?",
+        "vi": "Không thấy tôi đang bận à?"
+    },
+    {
+        "start": "00:10:50,149",
+        "end": "00:10:51,450",
+        "en": "我要离职",
+        "pa": "Wǒ yào lízhí",
+        "vi": "Tôi muốn nghỉ việc."
+    },
+    {
+        "start": "00:10:58,124",
+        "end": "00:10:59,225",
+        "en": "这么快就放弃了？",
+        "pa": "Zhème kuài jiù fàngqìle?",
+        "vi": "Chưa gì đã bỏ cuộc rồi?"
+    },
+    {
+        "start": "00:11:00,292",
+        "end": "00:11:02,928",
+        "en": "你不打算坚持到试用期结束吗？",
+        "pa": "Nǐ bù dǎsuàn jiānchí dào shìyòng qí jiéshù ma?",
+        "vi": "Cô không định cố gắng đến hết thời gian thử việc à?"
+    },
+    {
+        "start": "00:11:03,696",
+        "end": "00:11:06,899",
+        "en": "我没办法在践踏女性尊严的公司上班",
+        "pa": "Wǒ méi bànfǎ zài jiàntà nǚxìng zūnyán de gōngsī shàngbān",
+        "vi": "Tôi không thể làm việc ở một công ty xem thường phụ nữ."
+    },
+    {
+        "start": "00:11:07,400",
+        "end": "00:11:09,735",
+        "en": "尤其业务部利用女性员工",
+        "pa": "Yóuqí yèwù bù lìyòng nǚxìng yuángōng",
+        "vi": "Nhất là khi Bộ phận Kinh doanh lợi dụng nhân viên nữ"
+    },
+    {
+        "start": "00:11:09,802",
+        "end": "00:11:11,070",
+        "en": "跟客户喝酒、吃饭",
+        "pa": "Gēn kèhù hējiǔ, chīfàn",
+        "vi": "đi uống rượu với khách hàng"
+    },
+    {
+        "start": "00:11:11,137",
+        "end": "00:11:12,338",
+        "en": "替公司赚业绩这种事情",
+        "pa": "Tì gōngsī zhuàn yèjī zhè zhǒng shìqíng",
+        "vi": "để kiếm tiền cho công ty."
+    },
+    {
+        "start": "00:11:12,405",
+        "end": "00:11:14,206",
+        "en": "我完全没办法接受",
+        "pa": "Wǒ wánquán méi bànfǎ jiēshòu",
+        "vi": "Tôi không thể chấp nhận được."
+    },
+    {
+        "start": "00:11:15,408",
+        "end": "00:11:16,375",
+        "en": "你说什么？",
+        "pa": "Nǐ shuō shénme?",
+        "vi": "Cô nói gì?"
+    },
+    {
+        "start": "00:11:17,009",
+        "end": "00:11:18,577",
+        "en": "什么陪客户喝酒、吃饭？",
+        "pa": "Shénme péi kèhù hējiǔ, chīfàn?",
+        "vi": "Uống rượu với khách là sao?"
+    },
+    {
+        "start": "00:11:20,346",
+        "end": "00:11:21,747",
+        "en": "方秘 你不知道这件事？",
+        "pa": "Fāng mì nǐ bù zhīdào zhè jiàn shì?",
+        "vi": "Thư ký Phương không biết à?"
+    },
+    {
+        "start": "00:12:17,737",
+        "end": "00:12:19,205",
+        "en": "你怎么会知道我在这儿？",
+        "pa": "Nǐ zěnme huì zhīdào wǒ zài zhè'er?",
+        "vi": "Sao chị biết tôi ở đây?"
+    },
+    {
+        "start": "00:12:20,773",
+        "end": "00:12:22,374",
+        "en": "我问过你部门的同事",
+        "pa": "Wǒ wènguò nǐ bùmén de tóngshì",
+        "vi": "Tôi có hỏi đồng nghiệp của cậu."
+    },
+    {
+        "start": "00:12:22,441",
+        "end": "00:12:24,710",
+        "en": "他们就说你偶尔会来这里打工",
+        "pa": "Tāmen jiù shuō nǐ ǒu'ěr huì lái zhèlǐ dǎgōng",
+        "vi": "Họ nói thỉnh thoảng cậu sẽ đến đây làm việc"
+    },
+    {
+        "start": "00:12:25,377",
+        "end": "00:12:27,213",
+        "en": "所以我就来碰碰运气啰",
+        "pa": "Suǒyǐ wǒ jiù lái pèng pèng yùnqì luō",
+        "vi": "nên tôi muốn thử vận may."
+    },
+    {
+        "start": "00:12:30,750",
+        "end": "00:12:33,486",
+        "en": "但你不用担心 以后在公司看到我会尴尬啦",
+        "pa": "Dàn nǐ bùyòng dānxīn yǐhòu zài gōngsī kàn dào wǒ huì gāngà la",
+        "vi": "Cậu đừng lo sẽ thấy khó xử khi gặp tôi ở công ty."
+    },
+    {
+        "start": "00:12:35,154",
+        "end": "00:12:36,388",
+        "en": "我离职了",
+        "pa": "Wǒ lízhíle",
+        "vi": "Tôi nghỉ việc rồi."
+    },
+    {
+        "start": "00:12:40,760",
+        "end": "00:12:43,696",
+        "en": "罗晓南她说她家境不好",
+        "pa": "Luōxiǎonán tā shuō tā jiājìng bù hǎo",
+        "vi": "La Hiểu Nam nói nhà cô ấy rất nghèo"
+    },
+    {
+        "start": "00:12:43,763",
+        "end": "00:12:46,432",
+        "en": "所以跟业务部吃饭是为了钱",
+        "pa": "Suǒyǐ gēn yèwù bù chīfàn shì wèile qián",
+        "vi": "nên mới đi ăn với Bộ phận Kinh doanh để kiếm tiền."
+    },
+    {
+        "start": "00:12:48,100",
+        "end": "00:12:49,168",
+        "en": "你也是？",
+        "pa": "Nǐ yěshì?",
+        "vi": "Cậu cũng vậy à?"
+    },
+    {
+        "start": "00:12:52,605",
+        "end": "00:12:53,839",
+        "en": "刚开始",
+        "pa": "Gāng kāishǐ",
+        "vi": "Ban đầu,"
+    },
+    {
+        "start": "00:12:53,906",
+        "end": "00:12:55,841",
+        "en": "业务部的经理说",
+        "pa": "Yèwù bù de jīnglǐ shuō",
+        "vi": "Trưởng Bộ phận Kinh doanh nói"
+    },
+    {
+        "start": "00:12:55,908",
+        "end": "00:12:58,477",
+        "en": "会帮我在公司争取更好的职位",
+        "pa": "Huì bāng wǒ zài gōngsī zhēngqǔ gèng hǎo de zhíwèi",
+        "vi": "sẽ giúp tôi thăng chức trong công ty."
+    },
+    {
+        "start": "00:13:00,279",
+        "end": "00:13:03,048",
+        "en": "后来我偶尔会进去那些饭局",
+        "pa": "Hòulái wǒ ǒu'ěr huì jìnqù nàxiē fànjú",
+        "vi": "Dần dần tôi cũng tham gia mấy buổi tụ hội"
+    },
+    {
+        "start": "00:13:04,250",
+        "end": "00:13:07,753",
+        "en": "在里面看那些客户的嘴脸",
+        "pa": "Zài lǐmiàn kàn nàxiē kèhù de zuǐliǎn",
+        "vi": "và chiều theo ý các khách hàng ở đó."
+    },
+    {
+        "start": "00:13:09,755",
+        "end": "00:13:12,525",
+        "en": "然后也会看到公司的女同事",
+        "pa": "Ránhòu yě huì kàn dào gōngsī de nǚ tóngshì",
+        "vi": "Sau này tôi cũng thấy các đồng nghiệp nữ"
+    },
+    {
+        "start": "00:13:13,692",
+        "end": "00:13:14,894",
+        "en": "被吃豆腐",
+        "pa": "Bèi chī dòufu",
+        "vi": "bị sàm sỡ."
+    },
+    {
+        "start": "00:13:18,164",
+        "end": "00:13:19,565",
+        "en": "我没有家世背景",
+        "pa": "Wǒ méiyǒu jiāshì bèijǐng",
+        "vi": "Tôi không có chỗ dựa."
+    },
+    {
+        "start": "00:13:20,332",
+        "end": "00:13:21,934",
+        "en": "在职场上",
+        "pa": "Zài zhíchǎng shàng",
+        "vi": "Ở chỗ làm,"
+    },
+    {
+        "start": "00:13:22,001",
+        "end": "00:13:23,636",
+        "en": "光是努力 没有人脉",
+        "pa": "Guāng shì nǔlì méiyǒu rénmài",
+        "vi": "chỉ nỗ lực, không có quan hệ"
+    },
+    {
+        "start": "00:13:23,702",
+        "end": "00:13:25,004",
+        "en": "根本就不会成功",
+        "pa": "Gēnběn jiù bù huì chénggōng",
+        "vi": "sẽ không thể thành công đâu."
+    },
+    {
+        "start": "00:13:25,671",
+        "end": "00:13:27,540",
+        "en": "如果不妥协的话",
+        "pa": "Rúguǒ bù tuǒxié dehuà",
+        "vi": "Nếu không thỏa hiệp,"
+    },
+    {
+        "start": "00:13:28,140",
+        "end": "00:13:29,975",
+        "en": "我要怎么继续往上爬？",
+        "pa": "Wǒ yào zěnme jìxù wǎng shàng pá?",
+        "vi": "làm sao tôi tiếp tục thăng tiến được?"
+    },
+    {
+        "start": "00:13:32,511",
+        "end": "00:13:34,146",
+        "en": "难道你这一辈子",
+        "pa": "Nándào nǐ zhè yībèizi",
+        "vi": "Chẳng lẽ cả đời này,"
+    },
+    {
+        "start": "00:13:34,747",
+        "end": "00:13:36,482",
+        "en": "都没有做错过什么事吗？",
+        "pa": "Dōu méiyǒu zuò cuòguò shèn me shì ma?",
+        "vi": "chị chưa từng làm gì sai à?"
+    },
+    {
+        "start": "00:13:38,617",
+        "end": "00:13:40,186",
+        "en": "当然有犯过错啊",
+        "pa": "Dāngrán yǒu fàn guòcuò a",
+        "vi": "Tất nhiên là có."
+    },
+    {
+        "start": "00:13:44,757",
+        "end": "00:13:47,893",
+        "en": "我曾经伤害跟我最要好的高中同学",
+        "pa": "Wǒ céngjīng shānghài gēn wǒ zuì yàohǎo de gāozhōng tóngxué",
+        "vi": "Hồi cấp ba, tôi từng tổn thương người bạn thân nhất."
+    },
+    {
+        "start": "00:14:02,241",
+        "end": "00:14:03,542",
+        "en": "很漂亮啊 干吗？",
+        "pa": "Hěn piàoliang a gànma?",
+        "vi": "Em xinh lắm. Sao thế?"
+    },
+    {
+        "start": "00:14:05,477",
+        "end": "00:14:06,545",
+        "en": "给拍一下",
+        "pa": "Gěi pāi yīxià",
+        "vi": "Để anh quay một chút."
+    },
+    {
+        "start": "00:14:23,896",
+        "end": "00:14:25,364",
+        "en": "（亚历克斯：这视频拍得很浪唉）",
+        "pa": "(Yà lì kè sī: Zhè shìpín pāi dé hěn làng āi)",
+        "vi": "ALEX: VIDEO NÓNG BỎNG THẬT ĐẤY"
+    },
+    {
+        "start": "00:14:25,431",
+        "end": "00:14:26,465",
+        "en": "（欧文：你女人身材不错喔）",
+        "pa": "(Ōuwén: Nǐ nǚrén shēn cai bùcuò ō)",
+        "vi": "OWEN: GỢI CẢM QUÁ ĐI"
+    },
+    {
+        "start": "00:14:26,532",
+        "end": "00:14:27,800",
+        "en": "（狄克生：这女的有料喔）",
+        "pa": "(Dí kè shēng: Zhè nǚ de yǒuliào ō)",
+        "vi": "DICKSON: CÔ TA THẠO NGHỀ ĐẤY"
+    },
+    {
+        "start": "00:14:27,867",
+        "end": "00:14:29,401",
+        "en": "（柳：太屌了 兄弟 山德：有空一起出来玩一下啊）",
+        "pa": "(Liǔ: Tài diǎole xiōngdì shān dé: Yǒu kòng yīqǐ chūlái wán yīxià a)",
+        "vi": "RYO: GIỎI LẮM ANH BẠN XANDER: CÓ RẢNH THÌ ĐI CHƠI"
+    },
+    {
+        "start": "00:14:29,468",
+        "end": "00:14:31,337",
+        "en": "（亚历克斯：哇靠 输了 雷：妈的 硬爆）",
+        "pa": "(Yà lì kè sī: Wa kào shūle léi: Mā de yìng bào)",
+        "vi": "ALEX: CHÀ, TÔI THUA RỒI RAY: CHÀO CỜ RỒI"
+    },
+    {
+        "start": "00:14:31,403",
+        "end": "00:14:32,238",
+        "en": "（雷：那不是那个谁的女儿吗？）",
+        "pa": "(Léi: Nà bùshì nàgè shéi de nǚ'ér ma?)",
+        "vi": "RAY: PHẢI CON GÁI AI KIA KHÔNG?"
+    },
+    {
+        "start": "00:14:32,304",
+        "end": "00:14:33,239",
+        "en": "（狄克生：真假？追不上哥）",
+        "pa": "(Dí kè shēng: Zhēn jiǎ? Zhuī bù shàng gē)",
+        "vi": "DICKSON: THẾ À? CẬU GHÊ GỚM THẬT!"
+    },
+    {
+        "start": "00:14:33,305",
+        "end": "00:14:34,473",
+        "en": "（柳：有钱人的女儿真会玩）",
+        "pa": "(Liǔ: Yǒu qián rén de nǚ'ér zhēn huì wán)",
+        "vi": "RYO: GÁI NHÀ GIÀU CHỊU CHƠI QUÁ"
+    },
+    {
+        "start": "00:14:46,418",
+        "end": "00:14:48,587",
+        "en": "你是不是把我们的视频 传给你朋友看？",
+        "pa": "Nǐ shì bùshì bǎ wǒmen de shìpín chuán gěi nǐ péngyǒu kàn?",
+        "vi": "Anh gửi video của chúng ta cho bạn anh xem à?"
+    },
+    {
+        "start": "00:14:50,222",
+        "end": "00:14:52,658",
+        "en": "你不是答应我你不会外流的吗？",
+        "pa": "Nǐ bùshì dāyìng wǒ nǐ bù huì wàiliú de ma?",
+        "vi": "Anh đã hứa sẽ không để lộ mà?"
+    },
+    {
+        "start": "00:14:55,327",
+        "end": "00:14:56,996",
+        "en": "没有外流",
+        "pa": "Méiyǒu wàiliú",
+        "vi": "Anh đâu có để lộ."
+    },
+    {
+        "start": "00:14:57,062",
+        "end": "00:15:00,699",
+        "en": "那些人都是我从小一起长大的好死党",
+        "pa": "Nàxiē rén dōu shì wǒ cóngxiǎo yīqǐ zhǎng dà de hǎo sǐdǎng",
+        "vi": "Họ là bạn thân của anh từ nhỏ đến lớn."
+    },
+    {
+        "start": "00:15:00,766",
+        "end": "00:15:02,268",
+        "en": "我们就是在一个群组里面",
+        "pa": "Wǒmen jiùshì zài yīgè qún zǔ lǐmiàn",
+        "vi": "Chỉ ở trong nhóm chat thôi."
+    },
+    {
+        "start": "00:15:02,334",
+        "end": "00:15:03,235",
+        "en": "而且",
+        "pa": "Érqiě",
+        "vi": "Với lại,"
+    },
+    {
+        "start": "00:15:03,302",
+        "end": "00:15:05,204",
+        "en": "他们也没干吗 也没传什么…",
+        "pa": "Tāmen yě méi gànma yě méi chuán shénme…",
+        "vi": "họ cũng có chia sẻ hay làm gì đâu."
+    },
+    {
+        "start": "00:15:05,271",
+        "end": "00:15:07,039",
+        "en": "你为什么要骗我？",
+        "pa": "Nǐ wèishéme yào piàn wǒ?",
+        "vi": "Sao anh lại lừa tôi?"
+    },
+    {
+        "start": "00:15:08,440",
+        "end": "00:15:10,609",
+        "en": "你叫他们把视频给我删掉喔",
+        "pa": "Nǐ jiào tāmen bǎ shìpín gěi wǒ shān diào ō",
+        "vi": "Bảo họ xóa video đi."
+    },
+    {
+        "start": "00:15:13,312",
+        "end": "00:15:14,313",
+        "en": "你真的生气喔？",
+        "pa": "Nǐ zhēn de shēngqì ō?",
+        "vi": "Em giận thật à?"
+    },
+    {
+        "start": "00:15:21,553",
+        "end": "00:15:23,255",
+        "en": "你生气起来的样子真的很漂亮",
+        "pa": "Nǐ shēngqì qǐlái de yàngzi zhēn de hěn piàoliang",
+        "vi": "Em nổi giận đẹp lắm."
+    },
+    {
+        "start": "00:15:24,523",
+        "end": "00:15:27,026",
+        "en": "叫他们把视频给我删掉！",
+        "pa": "Jiào tāmen bǎ shìpín gěi wǒ shān diào!",
+        "vi": "Bảo họ xóa video đi!"
+    },
+    {
+        "start": "00:15:31,964",
+        "end": "00:15:34,066",
+        "en": "有必要这么生气吗？",
+        "pa": "Yǒu bìyào zhème shēngqì ma?",
+        "vi": "Có gì mà phải giận đến thế?"
+    },
+    {
+        "start": "00:15:34,800",
+        "end": "00:15:36,001",
+        "en": "怎么样？",
+        "pa": "Zěnme yàng?",
+        "vi": "Sao hả?"
+    },
+    {
+        "start": "00:15:36,068",
+        "end": "00:15:37,336",
+        "en": "刚没穿的时候",
+        "pa": "Gāng méi chuān de shíhòu",
+        "vi": "Lúc không mặc gì"
+    },
+    {
+        "start": "00:15:37,403",
+        "end": "00:15:38,404",
+        "en": "就可以被拍",
+        "pa": "Jiù kěyǐ bèi pāi",
+        "vi": "thì chịu quay."
+    },
+    {
+        "start": "00:15:38,938",
+        "end": "00:15:40,172",
+        "en": "现在有穿了",
+        "pa": "Xiànzài yǒu chuānle",
+        "vi": "Mặc quần áo vào rồi"
+    },
+    {
+        "start": "00:15:40,239",
+        "end": "00:15:41,473",
+        "en": "就当圣女喔？",
+        "pa": "Jiù dāng shèng nǚ ō?",
+        "vi": "lại làm thánh nữ à?"
+    },
+    {
+        "start": "00:15:44,510",
+        "end": "00:15:46,478",
+        "en": "我同意你可以拍摄",
+        "pa": "Wǒ tóngyì nǐ kěyǐ pāishè",
+        "vi": "Tôi đồng ý để anh quay tôi"
+    },
+    {
+        "start": "00:15:47,947",
+        "end": "00:15:50,849",
+        "en": "不代表你可以把视频到处散布",
+        "pa": "Bù dàibiǎo nǐ kěyǐ bǎ shìpín dàochù sànbù",
+        "vi": "không có nghĩa là anh có thể đăng khắp nơi."
+    },
+    {
+        "start": "00:15:54,320",
+        "end": "00:15:55,287",
+        "en": "没有",
+        "pa": "Méiyǒu",
+        "vi": "Anh không có."
+    },
+    {
+        "start": "00:15:56,488",
+        "end": "00:15:58,023",
+        "en": "干吗啦？",
+        "pa": "Gànma la?",
+        "vi": "Gì vậy hả?"
+    },
+    {
+        "start": "00:15:58,524",
+        "end": "00:15:59,391",
+        "en": "喂",
+        "pa": "Wèi",
+        "vi": "Này."
+    },
+    {
+        "start": "00:16:00,659",
+        "end": "00:16:02,194",
+        "en": "-好 -不要碰我！",
+        "pa": "-Hǎo -bùyào pèng wǒ!",
+        "vi": "- Được rồi. - Đừng chạm vào tôi!"
+    },
+    {
+        "start": "00:16:02,261",
+        "end": "00:16:03,796",
+        "en": "-好 -不要碰我！",
+        "pa": "-Hǎo -bùyào pèng wǒ!",
+        "vi": "- Được rồi. - Đừng chạm vào tôi!"
+    },
+    {
+        "start": "00:16:04,596",
+        "end": "00:16:05,431",
+        "en": "不然这样好不好？",
+        "pa": "Bùrán zhèyàng hǎobù hǎo?",
+        "vi": "Hay là thế này."
+    },
+    {
+        "start": "00:16:05,497",
+        "end": "00:16:06,332",
+        "en": "不然这样",
+        "pa": "Bùrán zhèyàng",
+        "vi": "Thế này đi."
+    },
+    {
+        "start": "00:16:08,667",
+        "end": "00:16:11,270",
+        "en": "我也把我朋友跟他女朋友的传给你呀",
+        "pa": "Wǒ yě bǎ wǒ péngyǒu gēn tā nǚ péngyǒu de chuán gěi nǐ ya",
+        "vi": "Anh sẽ gửi cho em video của bạn anh và bạn gái nó."
+    },
+    {
+        "start": "00:16:15,708",
+        "end": "00:16:16,709",
+        "en": "我跟你讲",
+        "pa": "Wǒ gēn nǐ jiǎng",
+        "vi": "Tôi nói cho anh biết."
+    },
+    {
+        "start": "00:16:18,510",
+        "end": "00:16:19,345",
+        "en": "你…",
+        "pa": "Nǐ…",
+        "vi": "Anh"
+    },
+    {
+        "start": "00:16:20,212",
+        "end": "00:16:21,246",
+        "en": "还有你朋友",
+        "pa": "Hái yǒu nǐ péngyǒu",
+        "vi": "và bạn anh"
+    },
+    {
+        "start": "00:16:22,848",
+        "end": "00:16:24,450",
+        "en": "最好把视频给我删掉",
+        "pa": "Zuì hǎo bǎ shìpín gěi wǒ shān diào",
+        "vi": "khôn hồn thì xóa clip đi,"
+    },
+    {
+        "start": "00:16:26,585",
+        "end": "00:16:28,253",
+        "en": "不然我会告死你",
+        "pa": "Bùrán wǒ huì gào sǐ nǐ",
+        "vi": "không thì tôi sẽ kiện chết anh."
+    },
+    {
+        "start": "00:16:31,123",
+        "end": "00:16:32,691",
+        "en": "我真的会告死你",
+        "pa": "Wǒ zhēn de huì gào sǐ nǐ",
+        "vi": "Tôi sẽ kiện anh thật đấy."
+    },
+    {
+        "start": "00:16:39,732",
+        "end": "00:16:41,266",
+        "en": "气消了我再打给你啊",
+        "pa": "Qì xiāole wǒ zài dǎ gěi nǐ a",
+        "vi": "Anh sẽ gọi điện khi em hết giận."
+    },
+    {
+        "start": "00:16:42,301",
+        "end": "00:16:43,869",
+        "en": "老板 拜托啦",
+        "pa": "Lǎobǎn bàituō la",
+        "vi": "Đi mà chị chủ."
+    },
+    {
+        "start": "00:16:43,936",
+        "end": "00:16:45,170",
+        "en": "再多送我一个嘛",
+        "pa": "Zài duō sòng wǒ yīgè ma",
+        "vi": "Tặng em một cái đi."
+    },
+    {
+        "start": "00:16:45,237",
+        "end": "00:16:46,839",
+        "en": "-好吧 -谢谢老板",
+        "pa": "-Hǎo ba -xièxiè lǎobǎn",
+        "vi": "- Được. - Cảm ơn chị."
+    },
+    {
+        "start": "00:16:46,905",
+        "end": "00:16:48,240",
+        "en": "那我下次一定会再来买",
+        "pa": "Nà wǒ xià cì yīdìng huì zàilái mǎi",
+        "vi": "Em sẽ quay lại mua thêm."
+    },
+    {
+        "start": "00:16:48,307",
+        "end": "00:16:49,808",
+        "en": "-拜拜 -拜拜",
+        "pa": "-Bàibài -bàibài",
+        "vi": "- Tạm biệt. - Tạm biệt."
+    },
+    {
+        "start": "00:16:54,146",
+        "end": "00:16:55,347",
+        "en": "今天生意还好吗？",
+        "pa": "Jīntiān shēngyì hái hǎo ma?",
+        "vi": "Hôm nay buôn bán được chứ?"
+    },
+    {
+        "start": "00:16:55,848",
+        "end": "00:16:56,749",
+        "en": "晨曦？",
+        "pa": "Chénxī?",
+        "vi": "Thần Hy?"
+    },
+    {
+        "start": "00:16:56,815",
+        "end": "00:16:59,585",
+        "en": "我刚看那高中女生好像买了很多",
+        "pa": "Wǒ gāng kàn nà gāozhōng nǚshēng hǎoxiàng mǎile hěnduō",
+        "vi": "Tớ thấy hình như em nữ sinh đó mua nhiều lắm."
+    },
+    {
+        "start": "00:17:00,486",
+        "end": "00:17:03,122",
+        "en": "其实那是我送她的",
+        "pa": "Qíshí nà shì wǒ sòng tā de",
+        "vi": "Thật ra là tớ tặng em ấy đấy."
+    },
+    {
+        "start": "00:17:03,689",
+        "end": "00:17:05,157",
+        "en": "她说她很喜欢",
+        "pa": "Tā shuō tā hěn xǐhuān",
+        "vi": "Em ấy nói mình rất thích"
+    },
+    {
+        "start": "00:17:05,224",
+        "end": "00:17:06,692",
+        "en": "可是钱不够",
+        "pa": "Kěshì qián bùgòu",
+        "vi": "nhưng không có đủ tiền."
+    },
+    {
+        "start": "00:17:07,259",
+        "end": "00:17:09,461",
+        "en": "她看起来不像是没钱的样子",
+        "pa": "Tā kàn qǐlái bu xiàng shì méi qián de yàngzi",
+        "vi": "Trông em ấy cũng đâu có nghèo."
+    },
+    {
+        "start": "00:17:10,529",
+        "end": "00:17:11,397",
+        "en": "我知道啊",
+        "pa": "Wǒ zhīdào a",
+        "vi": "Tớ biết chứ."
+    },
+    {
+        "start": "00:17:11,997",
+        "end": "00:17:14,033",
+        "en": "虽然她说话很诚恳",
+        "pa": "Suīrán tā shuōhuà hěn chéngkěn",
+        "vi": "Em ấy có vẻ rất chân thành,"
+    },
+    {
+        "start": "00:17:14,633",
+        "end": "00:17:16,301",
+        "en": "但听得出来她在说谎",
+        "pa": "Dàn tīng dé chūlái tā zài shuōhuǎng",
+        "vi": "nhưng tớ biết em ấy đang nói dối."
+    },
+    {
+        "start": "00:17:17,036",
+        "end": "00:17:18,537",
+        "en": "你听得出来她说谎？",
+        "pa": "Nǐ tīng dé chūlái tā shuōhuǎng?",
+        "vi": "Cậu biết em ấy đang nói dối?"
+    },
+    {
+        "start": "00:17:18,604",
+        "end": "00:17:19,438",
+        "en": "",
+        "pa": "",
+        "vi": "Ừ."
+    },
+    {
+        "start": "00:17:20,005",
+        "end": "00:17:23,475",
+        "en": "从语调、顿点、速度",
+        "pa": "Cóng yǔdiào, dùn diǎn, sùdù",
+        "vi": "Tớ có thể đoán được qua giọng điệu,"
+    },
+    {
+        "start": "00:17:23,542",
+        "end": "00:17:24,910",
+        "en": "都可以察觉得到",
+        "pa": "Dōu kěyǐ chájué dédào",
+        "vi": "cách ngắt câu và tốc độ nói."
+    },
+    {
+        "start": "00:17:25,411",
+        "end": "00:17:27,446",
+        "en": "一个人说谎不可能没有破绽",
+        "pa": "Yīgè rén shuōhuǎng bù kěnéng méiyǒu pòzhàn",
+        "vi": "Không ai nói dối mà không có sơ hở."
+    },
+    {
+        "start": "00:17:45,597",
+        "end": "00:17:47,566",
+        "en": "副理\n 你还好吗？",
+        "pa": "Fù lǐ nǐ hái hǎo ma?",
+        "vi": "Phó giám đốc, cô vẫn ổn chứ?"
+    },
+    {
+        "start": "00:17:48,801",
+        "end": "00:17:50,202",
+        "en": "什么意思？",
+        "pa": "Shénme yìsi?",
+        "vi": "Ý cô là sao?"
+    },
+    {
+        "start": "00:17:50,702",
+        "end": "00:17:52,905",
+        "en": "不知道是谁在网络上",
+        "pa": "Bù zhīdào shì shéi zài wǎngluò shàng",
+        "vi": "Tôi cũng không biết ai đã tìm được"
+    },
+    {
+        "start": "00:17:52,971",
+        "end": "00:17:54,740",
+        "en": "发现这些照片",
+        "pa": "Fāxiàn zhèxiē zhàopiàn",
+        "vi": "mấy bức ảnh này trên mạng."
+    },
+    {
+        "start": "00:17:55,574",
+        "end": "00:17:56,875",
+        "en": "大家一早就在疯传",
+        "pa": "Dàjiā yì zǎo jiù zài fēng chuán",
+        "vi": "Mọi người đều nói"
+    },
+    {
+        "start": "00:17:56,942",
+        "end": "00:17:58,977",
+        "en": "这个照片的女主角就是你",
+        "pa": "Zhège zhàopiàn de nǚ zhǔjiǎo jiùshì nǐ",
+        "vi": "rằng cô gái trong ảnh này là cô."
+    },
+    {
+        "start": "00:18:00,446",
+        "end": "00:18:02,347",
+        "en": "这当然不是我啊",
+        "pa": "Zhè dāngrán bùshì wǒ a",
+        "vi": "Tất nhiên không phải là tôi rồi."
+    },
+    {
+        "start": "00:18:02,414",
+        "end": "00:18:03,749",
+        "en": "这也太恶心了吧？",
+        "pa": "Zhè yě tài ěxīnle ba?",
+        "vi": "Trông buồn nôn quá."
+    },
+    {
+        "start": "00:18:04,383",
+        "end": "00:18:05,451",
+        "en": "我去一下洗手间",
+        "pa": "Wǒ qù yīxià xǐshǒujiān",
+        "vi": "Tôi đi vệ sinh nhé."
+    },
+    {
+        "start": "00:18:46,725",
+        "end": "00:18:49,361",
+        "en": "（妈咪来电）",
+        "pa": "(Mā mī láidiàn)",
+        "vi": "MẸ"
+    },
+    {
+        "start": "00:19:00,639",
+        "end": "00:19:02,774",
+        "en": "你今天听起来不太开心",
+        "pa": "Nǐ jīntiān tīng qǐlái bu tài kāixīn",
+        "vi": "Hình như hôm nay cậu không được vui,"
+    },
+    {
+        "start": "00:19:03,275",
+        "end": "00:19:04,643",
+        "en": "就跟以前一样",
+        "pa": "Jiù gēn yǐqián yīyàng",
+        "vi": "giống như lúc trước vậy."
+    },
+    {
+        "start": "00:19:05,711",
+        "end": "00:19:06,845",
+        "en": "我没事啦",
+        "pa": "Wǒ méishì la",
+        "vi": "Tớ không sao cả."
+    },
+    {
+        "start": "00:19:08,714",
+        "end": "00:19:09,548",
+        "en": "对了",
+        "pa": "Duìle",
+        "vi": "Phải rồi."
+    },
+    {
+        "start": "00:19:09,615",
+        "end": "00:19:11,617",
+        "en": "上次跟我一起来的那个小刘",
+        "pa": "Shàng cì gēn wǒ yī qǐlái dì nàgè xiǎo liú",
+        "vi": "Cái anh Tiểu Lưu đi cùng tớ lần trước"
+    },
+    {
+        "start": "00:19:11,683",
+        "end": "00:19:12,918",
+        "en": "他还有再来找你吗？",
+        "pa": "Tā hái yǒu zàilái zhǎo nǐ ma?",
+        "vi": "có đến tìm cậu nữa không?"
+    },
+    {
+        "start": "00:19:13,819",
+        "end": "00:19:14,953",
+        "en": "没有耶",
+        "pa": "Méiyǒu yé",
+        "vi": "Không có."
+    },
+    {
+        "start": "00:19:15,020",
+        "end": "00:19:15,854",
+        "en": "怎么了吗？",
+        "pa": "Zěnmeliǎo ma?",
+        "vi": "Có chuyện gì à?"
+    },
+    {
+        "start": "00:19:18,357",
+        "end": "00:19:19,291",
+        "en": "没有",
+        "pa": "Méiyǒu",
+        "vi": "Không."
+    },
+    {
+        "start": "00:19:24,796",
+        "end": "00:19:26,832",
+        "en": "陈智苓有跟你联络吗？",
+        "pa": "Chénzhìlíng yǒu gēn nǐ liánluò ma?",
+        "vi": "Trần Trí Linh có liên lạc với em không?"
+    },
+    {
+        "start": "00:19:26,899",
+        "end": "00:19:28,934",
+        "en": "我听说杨佳缨出事了",
+        "pa": "Wǒ tīng shuō yángjiā yīng chūshìle",
+        "vi": "Nghe nói Dương Giai Anh gặp chuyện rồi."
+    },
+    {
+        "start": "00:19:29,835",
+        "end": "00:19:31,803",
+        "en": "我先走了 下次再来找你",
+        "pa": "Wǒ xiān zǒule xià cì zàilái zhǎo nǐ",
+        "vi": "Tớ phải đi đây. Lần sau tớ lại đến."
+    },
+    {
+        "start": "00:19:31,870",
+        "end": "00:19:32,738",
+        "en": "好",
+        "pa": "Hǎo",
+        "vi": "Được."
+    },
+    {
+        "start": "00:19:33,505",
+        "end": "00:19:34,406",
+        "en": "拜拜",
+        "pa": "Bàibài",
+        "vi": "Tạm biệt."
+    },
+    {
+        "start": "00:19:44,483",
+        "end": "00:19:45,517",
+        "en": "杨佳缨",
+        "pa": "Yángjiā yīng",
+        "vi": "Dương Giai Anh."
+    },
+    {
+        "start": "00:19:51,023",
+        "end": "00:19:52,391",
+        "en": "（陈智苓：你开门 我在外面）",
+        "pa": "(Chénzhìlíng: Nǐ kāimén wǒ zài wàimiàn)",
+        "vi": "TRẦN TRÍ LINH: MỞ CỬA! TỚ ĐÂY."
+    },
+    {
+        "start": "00:19:52,457",
+        "end": "00:19:53,692",
+        "en": "（杨佳缨 拜托你快开门）",
+        "pa": "(Yángjiā yīng bàituō nǐ kuài kāimén)",
+        "vi": "DƯƠNG GIAI ANH! MỞ CỬA RA!"
+    },
+    {
+        "start": "00:20:00,265",
+        "end": "00:20:01,133",
+        "en": "杨佳缨",
+        "pa": "Yángjiā yīng",
+        "vi": "Dương Giai Anh."
+    },
+    {
+        "start": "00:20:01,733",
+        "end": "00:20:02,834",
+        "en": "你开门喔",
+        "pa": "Nǐ kāimén ō",
+        "vi": "Mở cửa ra."
+    },
+    {
+        "start": "00:20:02,901",
+        "end": "00:20:04,503",
+        "en": "你不要做傻事喔 开门",
+        "pa": "Nǐ bùyào zuò shǎ shì ō kāimén",
+        "vi": "Đừng làm gì dại dột. Mở cửa ra."
+    },
+    {
+        "start": "00:20:05,170",
+        "end": "00:20:06,138",
+        "en": "杨佳缨",
+        "pa": "Yángjiā yīng",
+        "vi": "Dương Giai Anh!"
+    },
+    {
+        "start": "00:20:07,105",
+        "end": "00:20:08,207",
+        "en": "杨佳缨",
+        "pa": "Yángjiā yīng",
+        "vi": "Dương Giai Anh!"
+    },
+    {
+        "start": "00:20:13,278",
+        "end": "00:20:14,279",
+        "en": "怎么办？",
+        "pa": "Zěnme bàn?",
+        "vi": "Tớ phải làm sao đây?"
+    },
+    {
+        "start": "00:20:14,346",
+        "end": "00:20:16,215",
+        "en": "所有人都看到了",
+        "pa": "Suǒyǒu rén dōu kàn dàole",
+        "vi": "Mọi người đều thấy hết rồi."
+    },
+    {
+        "start": "00:20:16,915",
+        "end": "00:20:20,319",
+        "en": "我爸妈说他们要跟我断绝关系",
+        "pa": "Wǒ bà mā shuō tāmen yào gēn wǒ duànjué guānxì",
+        "vi": "Bố mẹ tớ nói muốn cắt đứt quan hệ với tớ."
+    },
+    {
+        "start": "00:20:21,920",
+        "end": "00:20:22,854",
+        "en": "你先冷静一下",
+        "pa": "Nǐ xiān lěngjìng yīxià",
+        "vi": "Cậu bình tĩnh lại"
+    },
+    {
+        "start": "00:20:22,921",
+        "end": "00:20:24,289",
+        "en": "然后我们再一起想办法",
+        "pa": "Ránhòu wǒmen zài yīqǐ xiǎng bànfǎ",
+        "vi": "rồi mình cùng nhau nghĩ cách."
+    },
+    {
+        "start": "00:20:24,356",
+        "end": "00:20:25,724",
+        "en": "没有办法",
+        "pa": "Méiyǒu bànfǎ",
+        "vi": "Không có cách nào cả."
+    },
+    {
+        "start": "00:20:25,791",
+        "end": "00:20:27,826",
+        "en": "视频一定会被所有人看到",
+        "pa": "Shìpín yīdìng huì bèi suǒyǒu rén kàn dào",
+        "vi": "Rồi ai cũng sẽ thấy video đó"
+    },
+    {
+        "start": "00:20:28,427",
+        "end": "00:20:30,996",
+        "en": "而且永远都删不掉",
+        "pa": "Érqiě yǒngyuǎn dōu shān bù diào",
+        "vi": "và tiếp tục lan truyền không xóa hết được."
+    },
+    {
+        "start": "00:20:32,364",
+        "end": "00:20:33,498",
+        "en": "杨佳缨",
+        "pa": "Yángjiā yīng",
+        "vi": "Dương Giai Anh."
+    },
+    {
+        "start": "00:20:34,299",
+        "end": "00:20:35,367",
+        "en": "还好吗？",
+        "pa": "Hái hǎo ma?",
+        "vi": "Cậu vẫn ổn chứ?"
+    },
+    {
+        "start": "00:20:36,301",
+        "end": "00:20:37,302",
+        "en": "你来这里干吗？",
+        "pa": "Nǐ lái zhèlǐ gànma?",
+        "vi": "Cậu đến đây làm gì?"
+    },
+    {
+        "start": "00:20:37,970",
+        "end": "00:20:40,172",
+        "en": "你不要来这边跟我假惺惺 好不好？",
+        "pa": "Nǐ bùyào lái zhè biān gēn wǒ jiǎxīngxīng hǎobù hǎo?",
+        "vi": "Đừng giả vờ quan tâm tôi, được không?"
+    },
+    {
+        "start": "00:20:40,239",
+        "end": "00:20:42,274",
+        "en": "-杨佳缨 -不是吗？",
+        "pa": "-Yángjiā yīng -bùshì ma?",
+        "vi": "- Dương Giai Anh. - Không phải à?"
+    },
+    {
+        "start": "00:20:42,341",
+        "end": "00:20:44,743",
+        "en": "林晨曦来这里假装关心我",
+        "pa": "Lín chénxī lái zhèlǐ jiǎzhuāng guānxīn wǒ",
+        "vi": "Lâm Thần Hy đến đây giả vờ quan tâm tớ."
+    },
+    {
+        "start": "00:20:44,810",
+        "end": "00:20:46,545",
+        "en": "她其实心里高兴得很",
+        "pa": "Tā qíshí xīnlǐ gāoxìng dé hěn",
+        "vi": "Thật ra nó đang mở cờ trong bụng"
+    },
+    {
+        "start": "00:20:46,612",
+        "end": "00:20:49,114",
+        "en": "因为我终于破掉、脏掉啦",
+        "pa": "Yīnwèi wǒ zhōngyú pò diào, zàng diào la",
+        "vi": "vì cuối cùng tớ cũng bị hủy hoại và vấy bẩn rồi."
+    },
+    {
+        "start": "00:20:49,181",
+        "end": "00:20:50,482",
+        "en": "你有病啊？",
+        "pa": "Nǐ yǒu bìng a?",
+        "vi": "Cậu điên rồi à?"
+    },
+    {
+        "start": "00:20:50,549",
+        "end": "00:20:51,883",
+        "en": "谁会这样讲？",
+        "pa": "Shéi huì zhèyàng jiǎng?",
+        "vi": "Ai lại ăn nói như vậy?"
+    },
+    {
+        "start": "00:20:52,851",
+        "end": "00:20:54,319",
+        "en": "所以我应该要高兴",
+        "pa": "Suǒyǐ wǒ yīnggāi yào gāoxìng",
+        "vi": "Thế nên tớ phải vui vẻ vì"
+    },
+    {
+        "start": "00:20:54,386",
+        "end": "00:20:57,489",
+        "en": "林晨曦她以过来人的身份关心我吗？",
+        "pa": "Lín chénxī tā yǐ guòláirén de shēnfèn guānxīn wǒ ma?",
+        "vi": "Lâm Thần Hy lấy tư cách là người từng trải đến đây quan tâm tớ à?"
+    },
+    {
+        "start": "00:20:57,556",
+        "end": "00:20:59,124",
+        "en": "可是我高兴不起来耶",
+        "pa": "Kěshì wǒ gāoxìng bù qǐlái yé",
+        "vi": "Nhưng tôi không hề thấy vui."
+    },
+    {
+        "start": "00:20:59,191",
+        "end": "00:21:01,460",
+        "en": "这是我第一次觉得自己赢过你",
+        "pa": "Zhè shì wǒ dì yī cì juédé zìjǐ yíngguò nǐ",
+        "vi": "Đây là lần đầu tiên tôi thấy mình thắng cậu."
+    },
+    {
+        "start": "00:21:01,526",
+        "end": "00:21:03,862",
+        "en": "杨佳缨 林晨曦什么都不记得了",
+        "pa": "Yángjiā yīng lín chénxī shénme dōu bù jìdéliǎo",
+        "vi": "Dương Giai Anh, Lâm Thần Hy không nhớ gì cả."
+    },
+    {
+        "start": "00:21:03,929",
+        "end": "00:21:06,098",
+        "en": "我怎么知道她真失忆还假失忆啊？",
+        "pa": "Wǒ zěnme zhīdào tā zhēn shīyì hái jiǎ shīyì a?",
+        "vi": "Ai biết nó mất trí nhớ thật hay giả?"
+    },
+    {
+        "start": "00:21:06,164",
+        "end": "00:21:08,133",
+        "en": "你们走 好不好？",
+        "pa": "Nǐmen zǒu hǎobù hǎo?",
+        "vi": "Các cậu đi đi được không? Đừng đứng đây nữa!"
+    },
+    {
+        "start": "00:21:08,200",
+        "end": "00:21:09,501",
+        "en": "-你们不要在这里 好不好？ -杨佳缨\n 等一下",
+        "pa": "-Nǐmen bùyào zài zhèlǐ hǎobù hǎo? -Yángjiā yīng děng yīxià",
+        "vi": "- Dương Giai Anh! - Khoan đã!"
+    },
+    {
+        "start": "00:21:13,772",
+        "end": "00:21:15,641",
+        "en": "我们让她冷静一下好了",
+        "pa": "Wǒmen ràng tā lěngjìng yīxià hǎole",
+        "vi": "Để cậu ấy bình tĩnh lại đã."
+    },
+    {
+        "start": "00:21:17,876",
+        "end": "00:21:19,344",
+        "en": "为什么她说我是过来人？",
+        "pa": "Wèishéme tā shuō wǒ shì guòláirén?",
+        "vi": "Cậu ấy nói tớ từng trải là sao?"
+    },
+    {
+        "start": "00:21:25,517",
+        "end": "00:21:27,152",
+        "en": "以前到底发生什么事？",
+        "pa": "Yǐqián dàodǐ fāshēng shénme shì?",
+        "vi": "Lúc trước đã xảy ra chuyện gì?"
+    },
+    {
+        "start": "00:21:30,155",
+        "end": "00:21:31,823",
+        "en": "没事 你不要放在心上",
+        "pa": "Méishì nǐ bùyào fàng zàixīn shàng",
+        "vi": "Không có gì đâu, cậu đừng để bụng."
+    },
+    {
+        "start": "00:21:32,424",
+        "end": "00:21:34,026",
+        "en": "她情绪失控之后",
+        "pa": "Tā qíngxù shīkòng zhīhòu",
+        "vi": "Khi cậu ấy mất bình tĩnh"
+    },
+    {
+        "start": "00:21:34,092",
+        "end": "00:21:35,060",
+        "en": "就会这样口不择言",
+        "pa": "Jiù huì zhèyàng kǒu bù zé yán",
+        "vi": "hay nói vớ vẩn lắm."
+    },
+    {
+        "start": "00:21:35,127",
+        "end": "00:21:36,662",
+        "en": "所以你不要放在心上",
+        "pa": "Suǒyǐ nǐ bùyào fàng zàixīn shàng",
+        "vi": "Cậu đừng để bụng làm gì."
+    },
+    {
+        "start": "00:21:36,728",
+        "end": "00:21:37,729",
+        "en": "我现在头脑一团乱",
+        "pa": "Wǒ xiànzài tóunǎo yī tuán luàn",
+        "vi": "Tớ rối quá."
+    },
+    {
+        "start": "00:21:37,796",
+        "end": "00:21:39,398",
+        "en": "-我也不知道怎么帮她 -我想起来车祸那天",
+        "pa": "-Wǒ yě bù zhīdào zěnme bāng tā -wǒ xiǎng qǐlái chēhuò nèitiān",
+        "vi": "- Làm sao giúp… - Tớ nhớ hôm tai nạn"
+    },
+    {
+        "start": "00:21:39,464",
+        "end": "00:21:40,532",
+        "en": "你有打电话给我",
+        "pa": "Nǐ yǒu dǎ diànhuà gěi wǒ",
+        "vi": "cậu có gọi cho tớ."
+    },
+    {
+        "start": "00:21:41,967",
+        "end": "00:21:43,368",
+        "en": "你一直要我原谅你",
+        "pa": "Nǐ yīzhí yào wǒ yuánliàng nǐ",
+        "vi": "Cậu muốn tớ tha thứ cho cậu."
+    },
+    {
+        "start": "00:21:43,869",
+        "end": "00:21:46,038",
+        "en": "还说当年的秘密不是你说出去的",
+        "pa": "Hái shuō dāngnián de mìmì bùshì nǐ shuō chūqù de",
+        "vi": "Cậu nói lúc trước không phải cậu làm lộ bí mật."
+    },
+    {
+        "start": "00:21:49,274",
+        "end": "00:21:51,743",
+        "en": "我毕业之后一直想要找你道歉",
+        "pa": "Wǒ bìyè zhīhòu yīzhí xiǎng yào zhǎo nǐ dàoqiàn",
+        "vi": "Sau khi tốt nghiệp, tớ vẫn luôn muốn xin lỗi cậu."
+    },
+    {
+        "start": "00:21:53,078",
+        "end": "00:21:55,414",
+        "en": "前几个月大家说要办高中同学会",
+        "pa": "Qián jǐ gè yuè dàjiā shuō yào bàn gāozhōng tóngxué huì",
+        "vi": "Vài tháng trước, tớ nghe nói sắp họp lớp cấp ba"
+    },
+    {
+        "start": "00:21:55,480",
+        "end": "00:21:57,849",
+        "en": "我才鼓起勇气打给你",
+        "pa": "Wǒ cái gǔ qǐ yǒngqì dǎ gěi nǐ",
+        "vi": "nên mới lấy hết dũng khí gọi cho cậu."
+    },
+    {
+        "start": "00:21:59,384",
+        "end": "00:22:02,020",
+        "en": "可是你就说道歉不能改变过去啊",
+        "pa": "Kěshì nǐ jiù shuō dao qiàn bùnéng gǎibiàn guòqù a",
+        "vi": "Nhưng cậu nói là xin lỗi cũng không thay đổi được gì."
+    },
+    {
+        "start": "00:22:03,722",
+        "end": "00:22:05,223",
+        "en": "你还为了你爸的事情",
+        "pa": "Nǐ hái wèile nǐ bà de shìqíng",
+        "vi": "Vì chuyện của bố cậu"
+    },
+    {
+        "start": "00:22:05,290",
+        "end": "00:22:07,592",
+        "en": "去跟你的老师、师母道歉",
+        "pa": "Qù gēn nǐ de lǎoshī, shīmǔ dàoqiàn",
+        "vi": "mà cậu còn phải xin lỗi vợ chồng thầy Tạ."
+    },
+    {
+        "start": "00:22:07,659",
+        "end": "00:22:09,561",
+        "en": "我听得出来你心情不好",
+        "pa": "Wǒ tīng dé chūlái nǐ xīnqíng bù hǎo",
+        "vi": "Tớ nghe ra tâm trạng của cậu không tốt,"
+    },
+    {
+        "start": "00:22:09,628",
+        "end": "00:22:11,463",
+        "en": "我不该顾着讲自己以前的事情",
+        "pa": "Wǒ bù gāi gù zhuó jiǎng zìjǐ yǐqián de shìqíng",
+        "vi": "tớ không nên nhắc lại chuyện quá khứ."
+    },
+    {
+        "start": "00:22:11,530",
+        "end": "00:22:13,432",
+        "en": "我去找老师跟师母？",
+        "pa": "Wǒ qù zhǎo lǎoshī gēn shīmǔ?",
+        "vi": "Tớ đi gặp thầy Tạ cô Tạ à?"
+    },
+    {
+        "start": "00:22:14,499",
+        "end": "00:22:16,301",
+        "en": "为了我爸什么事情道歉？",
+        "pa": "Wèile wǒ bà shénme shìqíng dàoqiàn?",
+        "vi": "Sao tớ phải thay bố xin lỗi?"
+    },
+    {
+        "start": "00:22:18,036",
+        "end": "00:22:20,339",
+        "en": "我不知道 你电话里面说得很混乱",
+        "pa": "Wǒ bù zhīdào nǐ diànhuà li miàn shuō dé hěn hǔnluàn",
+        "vi": "Tớ không biết, cậu nói lung tung hết cả lên."
+    },
+    {
+        "start": "00:22:23,775",
+        "end": "00:22:26,244",
+        "en": "所以你没有完全想起以前的事？",
+        "pa": "Suǒyǐ nǐ méiyǒu wánquán xiǎngqǐ yǐqián de shì?",
+        "vi": "Vậy là cậu vẫn chưa nhớ lại hết à?"
+    },
+    {
+        "start": "00:22:29,448",
+        "end": "00:22:31,249",
+        "en": "我到底应该想起些什么？",
+        "pa": "Wǒ dàodǐ yīnggāi xiǎngqǐ xiē shénme?",
+        "vi": "Tớ còn phải nhớ thêm gì nữa?"
+    },
+    {
+        "start": "00:22:33,819",
+        "end": "00:22:35,887",
+        "en": "我不知道",
+        "pa": "Wǒ bù zhīdào",
+        "vi": "Tớ không biết."
+    },
+    {
+        "start": "00:22:36,755",
+        "end": "00:22:38,156",
+        "en": "陈…",
+        "pa": "Chén…",
+        "vi": "Trần…"
+    },
+    {
+        "start": "00:22:40,258",
+        "end": "00:22:41,860",
+        "en": "陈智苓 你打给我干什么？",
+        "pa": "Chénzhìlíng nǐ dǎ gěi wǒ gànshénme?",
+        "vi": "Trần Trí Linh, gọi cho tôi làm gì?"
+    },
+    {
+        "start": "00:22:42,627",
+        "end": "00:22:45,564",
+        "en": "我说了我不想要跟你们联络了",
+        "pa": "Wǒ shuōle wǒ bùxiǎng yào gēn nǐmen liánluòle",
+        "vi": "Tôi đã nói là không muốn liên lạc với các cậu rồi."
+    },
+    {
+        "start": "00:22:45,630",
+        "end": "00:22:47,132",
+        "en": "当年我要你们帮我保守秘密",
+        "pa": "Dāngnián wǒ yào nǐmen bāng wǒ bǎoshǒu mìmì",
+        "vi": "Tôi bảo các cậu giữ bí mật,"
+    },
+    {
+        "start": "00:22:47,199",
+        "end": "00:22:48,133",
+        "en": "结果呢？",
+        "pa": "Jiéguǒ ne?",
+        "vi": "kết quả thế nào?"
+    },
+    {
+        "start": "00:22:49,901",
+        "end": "00:22:50,836",
+        "en": "我爸妈背叛我",
+        "pa": "Wǒ bà mā bèipàn wǒ",
+        "vi": "Bố mẹ phản bội tôi,"
+    },
+    {
+        "start": "00:22:50,902",
+        "end": "00:22:52,504",
+        "en": "你们也背叛伤害我",
+        "pa": "Nǐmen yě bèipàn shānghài wǒ",
+        "vi": "các cậu cũng đâm sau lưng tôi."
+    },
+    {
+        "start": "00:22:53,238",
+        "end": "00:22:54,740",
+        "en": "你不要再狡辩了",
+        "pa": "Nǐ bùyào zài jiǎobiànle",
+        "vi": "Đừng ngụy biện nữa!"
+    },
+    {
+        "start": "00:23:19,965",
+        "end": "00:23:20,799",
+        "en": "晨曦？",
+        "pa": "Chénxī?",
+        "vi": "Thần Hy à?"
+    },
+    {
+        "start": "00:23:21,900",
+        "end": "00:23:22,868",
+        "en": "师母",
+        "pa": "Shīmǔ",
+        "vi": "Cô Tạ."
+    },
+    {
+        "start": "00:23:23,602",
+        "end": "00:23:26,104",
+        "en": "我发生车祸那天是不是有去找你？",
+        "pa": "Wǒ fāshēng chēhuò nèitiān shì bùshì yǒu qù zhǎo nǐ?",
+        "vi": "Hôm gặp tai nạn em có đến tìm cô không?"
+    },
+    {
+        "start": "00:23:26,738",
+        "end": "00:23:27,906",
+        "en": "是啊",
+        "pa": "Shì a",
+        "vi": "Có."
+    },
+    {
+        "start": "00:23:27,973",
+        "end": "00:23:30,909",
+        "en": "我有跟你还是老师说什么吗？",
+        "pa": "Wǒ yǒu gēn nǐ háishì lǎoshī shuō shénme ma?",
+        "vi": "Em có nói gì với thầy cô không?"
+    },
+    {
+        "start": "00:23:30,976",
+        "end": "00:23:32,010",
+        "en": "就…",
+        "pa": "Jiù…",
+        "vi": "Chỉ…"
+    },
+    {
+        "start": "00:23:32,511",
+        "end": "00:23:33,512",
+        "en": "话家常啊",
+        "pa": "Huà jiācháng a",
+        "vi": "tán gẫu này nọ thôi."
+    },
+    {
+        "start": "00:23:33,578",
+        "end": "00:23:36,314",
+        "en": "我不是有跟你说\n 我们的感情很好吗？",
+        "pa": "Wǒ bùshì yǒu gēn nǐ shuō wǒmen de gǎnqíng hěn hǎo ma?",
+        "vi": "Chẳng phải cô đã nói là chúng ta rất thân thiết à?"
+    },
+    {
+        "start": "00:23:36,381",
+        "end": "00:23:38,383",
+        "en": "那我现在方便过去找你吗？",
+        "pa": "Nà wǒ xiànzài fāngbiàn guòqù zhǎo nǐ ma?",
+        "vi": "Vậy bây giờ em đến tìm cô được không?"
+    },
+    {
+        "start": "00:23:39,718",
+        "end": "00:23:40,786",
+        "en": "好啊",
+        "pa": "Hǎo a",
+        "vi": "Được chứ."
+    },
+    {
+        "start": "00:23:40,852",
+        "end": "00:23:43,121",
+        "en": "你要来找师母 随时欢迎",
+        "pa": "Nǐ yào lái zhǎo shīmǔ suíshí huānyíng",
+        "vi": "Em muốn đến tìm cô lúc nào cũng được."
+    },
+    {
+        "start": "00:23:44,222",
+        "end": "00:23:45,323",
+        "en": "我等你啊",
+        "pa": "Wǒ děng nǐ a",
+        "vi": "Cô sẽ đợi em."
+    },
+    {
+        "start": "00:23:45,390",
+        "end": "00:23:46,958",
+        "en": "-好 -拜拜",
+        "pa": "-Hǎo -bàibài",
+        "vi": "- Vâng. - Tạm biệt."
+    },
+    {
+        "start": "00:24:15,587",
+        "end": "00:24:19,057",
+        "en": "从语调、顿点、速度",
+        "pa": "Cóng yǔdiào, dùn diǎn, sùdù",
+        "vi": "Tớ có thể đoán được qua giọng điệu,"
+    },
+    {
+        "start": "00:24:19,124",
+        "end": "00:24:20,525",
+        "en": "都可以察觉得到",
+        "pa": "Dōu kěyǐ chájué dédào",
+        "vi": "cách ngắt câu và tốc độ nói."
+    },
+    {
+        "start": "00:24:21,092",
+        "end": "00:24:23,261",
+        "en": "一个人说谎不可能没有破绽",
+        "pa": "Yīgè rén shuōhuǎng bù kěnéng méiyǒu pòzhàn",
+        "vi": "Không ai nói dối mà không có sơ hở."
+    },
+    {
+        "start": "00:24:23,762",
+        "end": "00:24:24,863",
+        "en": "老师很疼你",
+        "pa": "Lǎoshī hěn téng nǐ",
+        "vi": "Ông ấy rất thương em."
+    },
+    {
+        "start": "00:24:24,930",
+        "end": "00:24:26,965",
+        "en": "以前你几乎都在我们家",
+        "pa": "Yǐqián nǐ jīhū dōu zài wǒmen jiā",
+        "vi": "Lúc trước em ở nhà thầy cô suốt."
+    },
+    {
+        "start": "00:24:27,032",
+        "end": "00:24:28,533",
+        "en": "大概也因为这样",
+        "pa": "Dàgài yě yīnwèi zhèyàng",
+        "vi": "Có lẽ vì thế"
+    },
+    {
+        "start": "00:24:28,600",
+        "end": "00:24:30,469",
+        "en": "你爸妈非常不高兴",
+        "pa": "Nǐ bà mā fēicháng bù gāoxìng",
+        "vi": "mà bố mẹ em thấy không vui."
+    },
+    {
+        "start": "00:24:30,535",
+        "end": "00:24:32,771",
+        "en": "师母真的只能靠你了",
+        "pa": "Shīmǔ zhēn de zhǐ néng kào nǐle",
+        "vi": "Cô chỉ tin được mỗi em thôi."
+    },
+    {
+        "start": "00:25:02,400",
+        "end": "00:25:04,302",
+        "en": "我听说你们这两天在家",
+        "pa": "Wǒ tīng shuō nǐmen zhè liǎng tiān zàijiā",
+        "vi": "Em nghe nói mấy ngày nay thầy cô ở nhà."
+    },
+    {
+        "start": "00:25:05,270",
+        "end": "00:25:06,171",
+        "en": "怎么会是你来？",
+        "pa": "Zěnme huì shì nǐ lái?",
+        "vi": "Sao lại là cô?"
+    },
+    {
+        "start": "00:25:06,671",
+        "end": "00:25:09,040",
+        "en": "应该是林永晟来道歉才对啊",
+        "pa": "Yīnggāi shì línyǒngchéng lái dàoqiàn cái duì a",
+        "vi": "Lâm Vĩnh Thịnh mới là người phải xin lỗi."
+    },
+    {
+        "start": "00:25:11,076",
+        "end": "00:25:12,477",
+        "en": "我爸他不会来",
+        "pa": "Wǒ bà tā bù huì lái",
+        "vi": "Bố em sẽ không đến"
+    },
+    {
+        "start": "00:25:12,544",
+        "end": "00:25:13,845",
+        "en": "所以我代替他",
+        "pa": "Suǒyǐ wǒ dàitì tā",
+        "vi": "nên em đến thay ông ấy."
+    },
+    {
+        "start": "00:25:15,280",
+        "end": "00:25:16,381",
+        "en": "你怎么代替？",
+        "pa": "Nǐ zěnme dàitì?",
+        "vi": "Cô thay kiểu gì?"
+    },
+    {
+        "start": "00:25:17,215",
+        "end": "00:25:19,017",
+        "en": "你知道你爸有多流氓吗？",
+        "pa": "Nǐ zhīdào nǐ bà yǒu duō liúmáng ma?",
+        "vi": "Cô biết bố mình man rợ thế nào không?"
+    },
+    {
+        "start": "00:25:19,684",
+        "end": "00:25:21,419",
+        "en": "我难得推老师出来走一走",
+        "pa": "Wǒ nándé tuī lǎoshī chūlái zǒu yī zǒu",
+        "vi": "Tôi đưa chồng mình ra ngoài đi dạo."
+    },
+    {
+        "start": "00:25:21,486",
+        "end": "00:25:22,721",
+        "en": "大白天在路上遇到",
+        "pa": "Dà báitiān zài lùshàng yù dào",
+        "vi": "Giữa ban ngày ban mặt,"
+    },
+    {
+        "start": "00:25:22,787",
+        "end": "00:25:24,289",
+        "en": "他冲过来打他",
+        "pa": "Tā chōng guòlái dǎ tā",
+        "vi": "ông ta xông đến đánh chồng tôi."
+    },
+    {
+        "start": "00:25:24,356",
+        "end": "00:25:26,758",
+        "en": "还让他从轮椅上摔下来",
+        "pa": "Hái ràng tā cóng lúnyǐ shàng shuāi xiàlái",
+        "vi": "Còn khiến ông ấy ngã khỏi xe lăn."
+    },
+    {
+        "start": "00:25:26,825",
+        "end": "00:25:28,293",
+        "en": "不要怪她",
+        "pa": "Bùyào guài tā",
+        "vi": "Đừng trách con bé."
+    },
+    {
+        "start": "00:25:28,894",
+        "end": "00:25:29,794",
+        "en": "来",
+        "pa": "Lái",
+        "vi": "Lại đây."
+    },
+    {
+        "start": "00:25:31,196",
+        "end": "00:25:32,197",
+        "en": "过来坐",
+        "pa": "Guòlái zuò",
+        "vi": "Ngồi xuống đi."
+    },
+    {
+        "start": "00:25:34,466",
+        "end": "00:25:36,635",
+        "en": "张立委说跟你们道歉就不用赔偿金",
+        "pa": "Zhānglìwěi shuō gēn nǐmen dàoqiàn jiù bùyòng péicháng jīn",
+        "vi": "Ủy viên Trương nói xin lỗi thì không cần đền bù."
+    },
+    {
+        "start": "00:25:37,502",
+        "end": "00:25:38,703",
+        "en": "我爸果园负债",
+        "pa": "Wǒ bà guǒyuán fùzhài",
+        "vi": "Vườn cây còn nợ tiền."
+    },
+    {
+        "start": "00:25:42,073",
+        "end": "00:25:43,141",
+        "en": "对不起",
+        "pa": "Duìbùqǐ",
+        "vi": "Em xin lỗi."
+    },
+    {
+        "start": "00:25:44,009",
+        "end": "00:25:45,076",
+        "en": "这样可以了吗？",
+        "pa": "Zhèyàng kěyǐle ma?",
+        "vi": "Như vậy đã được chưa?"
+    },
+    {
+        "start": "00:25:46,244",
+        "end": "00:25:47,846",
+        "en": "老师不怪你",
+        "pa": "Lǎoshī bù guài nǐ",
+        "vi": "Thầy không trách em."
+    },
+    {
+        "start": "00:25:49,481",
+        "end": "00:25:50,815",
+        "en": "去切水果",
+        "pa": "Qù qiè shuǐguǒ",
+        "vi": "Bà đi cắt trái cây đi."
+    },
+    {
+        "start": "00:26:05,564",
+        "end": "00:26:07,232",
+        "en": "你都没变啊？",
+        "pa": "Nǐ dōu méi biàn a?",
+        "vi": "Em chẳng thay đổi gì cả."
+    },
+    {
+        "start": "00:26:07,999",
+        "end": "00:26:09,367",
+        "en": "过得好不好？",
+        "pa": "Guò dé hǎobù hǎo?",
+        "vi": "Em vẫn khỏe chứ?"
+    },
+    {
+        "start": "00:26:12,504",
+        "end": "00:26:13,438",
+        "en": "来",
+        "pa": "Lái",
+        "vi": "Lại đây."
+    },
+    {
+        "start": "00:26:13,505",
+        "end": "00:26:14,806",
+        "en": "过来坐",
+        "pa": "Guòlái zuò",
+        "vi": "Ngồi xuống đi."
+    },
+    {
+        "start": "00:26:15,840",
+        "end": "00:26:17,075",
+        "en": "过来",
+        "pa": "Guòlái",
+        "vi": "Lại đây."
+    },
+    {
+        "start": "00:26:17,142",
+        "end": "00:26:18,076",
+        "en": "进来啊",
+        "pa": "Jìnlái a",
+        "vi": "Vào đây."
+    },
+    {
+        "start": "00:26:19,678",
+        "end": "00:26:21,046",
+        "en": "来啊",
+        "pa": "Lái a",
+        "vi": "Nào."
+    },
+    {
+        "start": "00:26:25,116",
+        "end": "00:26:27,118",
+        "en": "志忠 你没事吧？怎么会这样？",
+        "pa": "Zhì zhōng nǐ méishì ba? Zěnme huì zhèyàng?",
+        "vi": "Chí Trung, ông có sao không? Sao lại thế này?"
+    },
+    {
+        "start": "00:26:28,753",
+        "end": "00:26:30,055",
+        "en": "你可以走了吗？",
+        "pa": "Nǐ kěyǐ zǒule ma?",
+        "vi": "Cô đi được chưa?"
+    },
+    {
+        "start": "00:26:32,390",
+        "end": "00:26:34,292",
+        "en": "你跟颜圣华勾引我老公还不够",
+        "pa": "Nǐ gēn yánshènghuá gōuyǐn wǒ lǎogōng hái bùgòu",
+        "vi": "Cô và Nhan Thánh Hoa quyến rũ chồng tôi."
+    },
+    {
+        "start": "00:26:34,359",
+        "end": "00:26:36,027",
+        "en": "你现在还想害死他 是不是？",
+        "pa": "Nǐ xiànzài hái xiǎng hài sǐ tā shì bùshì?",
+        "vi": "Giờ cô còn muốn hại chết ông ấy à?"
+    },
+    {
+        "start": "00:26:36,094",
+        "end": "00:26:37,796",
+        "en": "你可以放过我们吗？",
+        "pa": "Nǐ kěyǐ fàngguò wǒmen ma?",
+        "vi": "Cô tha cho chúng tôi được không?"
+    },
+    {
+        "start": "00:26:39,698",
+        "end": "00:26:41,333",
+        "en": "你有没有一点羞耻心啊？",
+        "pa": "Nǐ yǒu méiyǒu yīdiǎn xiūchǐ xīn a?",
+        "vi": "Cô không biết xấu hổ à?"
+    },
+    {
+        "start": "00:26:55,680",
+        "end": "00:26:57,949",
+        "en": "当年我要你们帮我保守秘密",
+        "pa": "Dāngnián wǒ yào nǐmen bāng wǒ bǎoshǒu mìmì",
+        "vi": "Tôi bảo các cậu giữ bí mật,"
+    },
+    {
+        "start": "00:26:58,016",
+        "end": "00:26:58,984",
+        "en": "结果呢？",
+        "pa": "Jiéguǒ ne?",
+        "vi": "kết quả thế nào?"
+    },
+    {
+        "start": "00:26:59,050",
+        "end": "00:27:00,585",
+        "en": "我爸妈背叛我",
+        "pa": "Wǒ bà mā bèipàn wǒ",
+        "vi": "Bố mẹ phản bội tôi,"
+    },
+    {
+        "start": "00:27:00,652",
+        "end": "00:27:02,287",
+        "en": "你们也背叛伤害我",
+        "pa": "Nǐmen yě bèipàn shānghài wǒ",
+        "vi": "các cậu cũng đâm sau lưng tôi."
+    },
+    {
+        "start": "00:27:31,816",
+        "end": "00:27:32,651",
+        "en": "妈",
+        "pa": "Mā",
+        "vi": "Mẹ."
+    },
+    {
+        "start": "00:27:37,656",
+        "end": "00:27:39,357",
+        "en": "爸为什么要去打谢老师？",
+        "pa": "Bà wèishéme yào qù dǎ xiè lǎoshī?",
+        "vi": "Sao bố lại đánh thầy Tạ?"
+    },
+    {
+        "start": "00:27:44,029",
+        "end": "00:27:46,865",
+        "en": "我们家以前跟谢老师 到底是什么关系？",
+        "pa": "Wǒmen jiā yǐqián gēn xiè lǎoshī dàodǐ shì shénme guānxì?",
+        "vi": "Quan hệ giữa nhà mình và nhà thầy Tạ là như thế nào?"
+    },
+    {
+        "start": "00:27:46,931",
+        "end": "00:27:48,667",
+        "en": "为什么爸要这样子做？",
+        "pa": "Wèishéme bà yào zhèyàng zi zuò?",
+        "vi": "Sao bố lại làm thế?"
+    },
+    {
+        "start": "00:27:55,040",
+        "end": "00:27:57,242",
+        "en": "你都想起来了？",
+        "pa": "Nǐ dōu xiǎng qǐláile?",
+        "vi": "Con nhớ lại hết rồi à?"
+    },
+    {
+        "start": "00:27:58,309",
+        "end": "00:27:59,911",
+        "en": "妈 你先回答我",
+        "pa": "Mā nǐ xiān huídá wǒ",
+        "vi": "Mẹ, mẹ trả lời con đã."
+    },
+    {
+        "start": "00:28:04,049",
+        "end": "00:28:05,316",
+        "en": "你想起了什么？",
+        "pa": "Nǐ xiǎngqǐle shénme?",
+        "vi": "Con nhớ được gì rồi?"
+    },
+    {
+        "start": "00:28:09,120",
+        "end": "00:28:11,890",
+        "en": "我想起我去谢老师家道歉",
+        "pa": "Wǒ xiǎngqǐ wǒ qù xiè lǎoshī jiā dàoqiàn",
+        "vi": "Con nhớ ra mình đã đến nhà thầy Tạ xin lỗi."
+    },
+    {
+        "start": "00:28:11,956",
+        "end": "00:28:13,058",
+        "en": "我在哭",
+        "pa": "Wǒ zài kū",
+        "vi": "Con khóc."
+    },
+    {
+        "start": "00:28:13,124",
+        "end": "00:28:14,993",
+        "en": "我刚莫名其妙还在马路上面",
+        "pa": "Wǒ gāng mòmíngqímiào hái zài mǎlù shàngmiàn",
+        "vi": "Con không biết tại sao mình lại ra đường."
+    },
+    {
+        "start": "00:28:15,060",
+        "end": "00:28:16,728",
+        "en": "我不知道我自己到底怎么了",
+        "pa": "Wǒ bù zhīdào wǒ zìjǐ dàodǐ zěnmeliǎo",
+        "vi": "Con không biết mình bị gì nữa."
+    },
+    {
+        "start": "00:28:19,297",
+        "end": "00:28:22,434",
+        "en": "我也不知道为什么谢师母\n 跟我讲一些莫名其妙的话",
+        "pa": "Wǒ yě bù zhīdào wèishéme xiè shīmǔ gēn wǒ jiǎng yīxiē mòmíngqímiào dehuà",
+        "vi": "Con cũng không biết tại sao cô Tạ lại nói với con những lời khó hiểu."
+    },
+    {
+        "start": "00:28:23,068",
+        "end": "00:28:24,803",
+        "en": "许慧珍跟你有联络？",
+        "pa": "Xǔhuìzhēn gēn nǐ yǒu liánluò?",
+        "vi": "Từ Huệ Trân đã liên lạc với con?"
+    },
+    {
+        "start": "00:28:25,470",
+        "end": "00:28:26,671",
+        "en": "她跟你讲什么？",
+        "pa": "Tā gēn nǐ jiǎng shénme?",
+        "vi": "Bà ta đã nói gì với con?"
+    },
+    {
+        "start": "00:28:28,673",
+        "end": "00:28:29,774",
+        "en": "她说…",
+        "pa": "Tā shuō…",
+        "vi": "Cô Tạ nói…"
+    },
+    {
+        "start": "00:28:29,841",
+        "end": "00:28:31,776",
+        "en": "她说颜圣华是凶手",
+        "pa": "Tā shuō yánshènghuá shì xiōngshǒu",
+        "vi": "Cô Tạ nói Nhan Thánh Hoa là hung thủ."
+    },
+    {
+        "start": "00:28:31,843",
+        "end": "00:28:33,812",
+        "en": "她说爸在帮她",
+        "pa": "Tā shuō bà zài bāng tā",
+        "vi": "Cô Tạ nói là bố đang giúp chị ấy."
+    },
+    {
+        "start": "00:28:35,380",
+        "end": "00:28:36,781",
+        "en": "她还说我跟颜圣华",
+        "pa": "Tā hái shuō wǒ gēn yánshènghuá",
+        "vi": "Cô Tạ còn nói con và chị ấy"
+    },
+    {
+        "start": "00:28:36,848",
+        "end": "00:28:38,550",
+        "en": "介入她跟谢老师的婚姻",
+        "pa": "Jièrù tā gēn xiè lǎoshī de hūnyīn",
+        "vi": "xen vào hôn nhân của thầy cô."
+    },
+    {
+        "start": "00:28:38,616",
+        "end": "00:28:41,119",
+        "en": "那个女人说的话你可以信啊？",
+        "pa": "Nàgè nǚrén shuō dehuà nǐ kěyǐ xìn a?",
+        "vi": "Lời mụ đàn bà đó nói mà con cũng tin à?"
+    },
+    {
+        "start": "00:28:41,853",
+        "end": "00:28:44,589",
+        "en": "我只是想到一些片段而已啊",
+        "pa": "Wǒ zhǐshì xiǎngdào yīxiē piànduàn éryǐ a",
+        "vi": "Con chỉ nhớ được vài đoạn ngắn thôi."
+    },
+    {
+        "start": "00:28:44,656",
+        "end": "00:28:46,257",
+        "en": "我什么都不清楚",
+        "pa": "Wǒ shénme dōu bù qīngchǔ",
+        "vi": "Con chẳng hiểu gì cả!"
+    },
+    {
+        "start": "00:28:46,825",
+        "end": "00:28:47,726",
+        "en": "林震烨",
+        "pa": "Línzhènyè",
+        "vi": "Lâm Chấn Diệp!"
+    },
+    {
+        "start": "00:28:47,792",
+        "end": "00:28:50,562",
+        "en": "你说我刚说的到底是对的还是不对？",
+        "pa": "Nǐ shuō wǒ gāng shuō de dàodǐ shì duì de háishì bùduì?",
+        "vi": "Những gì chị nói là đúng hay sai thế?"
+    },
+    {
+        "start": "00:28:51,930",
+        "end": "00:28:53,298",
+        "en": "-我… -你说呀！",
+        "pa": "-Wǒ… -nǐ shuō ya!",
+        "vi": "- Nói đi! - Chị…"
+    },
+    {
+        "start": "00:28:53,364",
+        "end": "00:28:55,033",
+        "en": "你先进房间 好不好？",
+        "pa": "Nǐ xiānjìn fángjiān hǎobù hǎo?",
+        "vi": "Chị về phòng trước đã, được không?"
+    },
+    {
+        "start": "00:28:55,100",
+        "end": "00:28:56,768",
+        "en": "你回答我啊",
+        "pa": "Nǐ huídá wǒ a",
+        "vi": "Trả lời chị đi."
+    },
+    {
+        "start": "00:28:57,535",
+        "end": "00:28:59,738",
+        "en": "这个家到底有什么秘密啊？",
+        "pa": "Zhège jiā dàodǐ yǒu shé me mìmì a?",
+        "vi": "Rốt cuộc cái nhà này đang che giấu bí mật gì?"
+    },
+    {
+        "start": "00:28:59,804",
+        "end": "00:29:01,673",
+        "en": "我已经快要崩溃了",
+        "pa": "Wǒ yǐjīng kuàiyào bēngkuìle",
+        "vi": "Chị sắp phát điên mất rồi."
+    },
+    {
+        "start": "00:29:01,740",
+        "end": "00:29:03,041",
+        "en": "我们先回房间",
+        "pa": "Wǒmen xiān huí fángjiān",
+        "vi": "Mình về phòng đi."
+    },
+    {
+        "start": "00:29:03,108",
+        "end": "00:29:06,077",
+        "en": "-我们先回房间 好不好？ -林…\n 林震烨 你告诉我好不好？拜托啦",
+        "pa": "-Wǒmen xiān huí fángjiān hǎobù hǎo? -Lín… línzhènyè nǐ gàosù wǒ hǎobù hǎo? Bàituō la",
+        "vi": "- Mình về phòng nhé chị? - Lâm Chấn Diệp, nói cho chị đi."
+    },
+    {
+        "start": "00:29:06,144",
+        "end": "00:29:07,278",
+        "en": "",
+        "pa": "",
+        "vi": "Chị xin em đấy."
+    },
+    {
+        "start": "00:29:07,345",
+        "end": "00:29:08,446",
+        "en": "我告诉你！",
+        "pa": "Wǒ gàosù nǐ!",
+        "vi": "Mẹ nói cho con!"
+    },
+    {
+        "start": "00:29:11,216",
+        "end": "00:29:13,418",
+        "en": "我告诉你这个家发生什么事情",
+        "pa": "Wǒ gàosù nǐ zhège jiā fāshēng shénme shìqíng",
+        "vi": "Mẹ nói cho con biết nhà mình đã xảy ra chuyện gì."
+    },
+    {
+        "start": "00:29:13,485",
+        "end": "00:29:14,552",
+        "en": "妈 不可以！",
+        "pa": "Mā bù kěyǐ!",
+        "vi": "Mẹ, không được!"
+    },
+    {
+        "start": "00:29:14,619",
+        "end": "00:29:15,954",
+        "en": "林震烨！",
+        "pa": "Línzhènyè!",
+        "vi": "Lâm Chấn Diệp!"
+    },
+    {
+        "start": "00:29:16,020",
+        "end": "00:29:17,322",
+        "en": "你先回房间 好不好？",
+        "pa": "Nǐ xiān huí fángjiān hǎobù hǎo?",
+        "vi": "Chị về phòng đi, được không?"
+    },
+    {
+        "start": "00:29:17,388",
+        "end": "00:29:19,424",
+        "en": "-你先回房间 冷静 -我不要！",
+        "pa": "-Nǐ xiān huí fángjiān lěngjìng -wǒ bùyào!",
+        "vi": "- Về phòng, bình tĩnh đã. - Chị không muốn!"
+    },
+    {
+        "start": "00:29:20,358",
+        "end": "00:29:21,626",
+        "en": "你们都不告诉我答案",
+        "pa": "Nǐmen dōu bù gàosù wǒ dá'àn",
+        "vi": "Nếu hai người không nói ra,"
+    },
+    {
+        "start": "00:29:21,693",
+        "end": "00:29:22,660",
+        "en": "我自己去找",
+        "pa": "Wǒ zìjǐ qù zhǎo",
+        "vi": "tôi sẽ tự đi tìm!"
+    },
+    {
+        "start": "00:29:22,727",
+        "end": "00:29:24,596",
+        "en": "你要去哪里找？",
+        "pa": "Nǐ yào qù nǎlǐ zhǎo?",
+        "vi": "Chị đi đâu tìm chứ?"
+    },
+    {
+        "start": "00:29:24,662",
+        "end": "00:29:25,597",
+        "en": "我自己有办法",
+        "pa": "Wǒ zìjǐ yǒu bànfǎ",
+        "vi": "Chị sẽ tự có cách!"
+    },
+    {
+        "start": "00:29:25,663",
+        "end": "00:29:26,831",
+        "en": "放开我！",
+        "pa": "Fàng kāi wǒ!",
+        "vi": "Buông ra!"
+    },
+    {
+        "start": "00:29:28,533",
+        "end": "00:29:29,434",
+        "en": "姐！",
+        "pa": "Jiě!",
+        "vi": "Chị!"
+    },
+    {
+        "start": "00:29:32,103",
+        "end": "00:29:33,204",
+        "en": "林晨曦",
+        "pa": "Lín chénxī",
+        "vi": "Lâm Thần Hy."
+    },
+    {
+        "start": "00:29:41,446",
+        "end": "00:29:42,380",
+        "en": "林晨曦",
+        "pa": "Lín chénxī",
+        "vi": "Lâm Thần Hy."
+    },
+    {
+        "start": "00:30:10,942",
+        "end": "00:30:12,177",
+        "en": "漂亮啦 我赢了！",
+        "pa": "Piàoliang la wǒ yíngle!",
+        "vi": "Tuyệt, em thắng rồi!"
+    },
+    {
+        "start": "00:30:13,144",
+        "end": "00:30:14,579",
+        "en": "我是为了闪你耶",
+        "pa": "Wǒ shì wèile shǎn nǐ yé",
+        "vi": "Do chị muốn tránh em thôi."
+    },
+    {
+        "start": "00:30:14,646",
+        "end": "00:30:16,581",
+        "en": "输了还找借口喔？",
+        "pa": "Shūle hái zhǎo jièkǒu ō?",
+        "vi": "Thua rồi thì viện cớ à?"
+    },
+    {
+        "start": "00:30:16,648",
+        "end": "00:30:18,249",
+        "en": "你打球小心一点",
+        "pa": "Nǐ dǎqiú xiǎoxīn yīdiǎn",
+        "vi": "Em chơi bóng cẩn thận một chút."
+    },
+    {
+        "start": "00:30:18,316",
+        "end": "00:30:19,851",
+        "en": "你补习才认真一点咧",
+        "pa": "Nǐ bǔxí cái rènzhēn yīdiǎn liě",
+        "vi": "Chị nên tập trung học hành đi."
+    },
+    {
+        "start": "00:30:19,918",
+        "end": "00:30:21,820",
+        "en": "我只是理化差你一点而已",
+        "pa": "Wǒ zhǐshì lǐhuà chā nǐ yīdiǎn éryǐ",
+        "vi": "Điểm lý hóa chỉ thấp hơn em một chút."
+    },
+    {
+        "start": "00:30:21,886",
+        "end": "00:30:23,721",
+        "en": "差一点校排就差很多了 好不好？",
+        "pa": "Chà yīdiǎn xiào pái jiù chà hěnduōle hǎobù hǎo?",
+        "vi": "Một chút là hạng thấp hơn rất nhiều đấy."
+    },
+    {
+        "start": "00:30:26,624",
+        "end": "00:30:27,659",
+        "en": "不要太晚回家",
+        "pa": "Bùyào tài wǎn huí jiā",
+        "vi": "Đừng về muộn quá."
+    },
+    {
+        "start": "00:30:28,159",
+        "end": "00:30:30,128",
+        "en": "不然我要去球场找你耶",
+        "pa": "Bùrán wǒ yào qù qiúchǎng zhǎo nǐ yé",
+        "vi": "Không thì chị sẽ ra sân bóng tìm em đấy."
+    },
+    {
+        "start": "00:30:36,668",
+        "end": "00:30:37,735",
+        "en": "-好漂亮喔 -好了",
+        "pa": "-Hǎo piàoliang ō -hǎole",
+        "vi": "- Đẹp quá. - Xong rồi."
+    },
+    {
+        "start": "00:30:37,802",
+        "end": "00:30:39,771",
+        "en": "-看起来好好吃喔 -超漂亮的耶",
+        "pa": "-Kàn qǐlái hǎo hào chī ō -chāo piàoliang de yé",
+        "vi": "- Trông ngon quá. - Đẹp nữa."
+    },
+    {
+        "start": "00:30:40,605",
+        "end": "00:30:41,806",
+        "en": "香",
+        "pa": "Xiāng",
+        "vi": "Thơm quá đi."
+    },
+    {
+        "start": "00:30:41,873",
+        "end": "00:30:43,208",
+        "en": "来 把门关上",
+        "pa": "Lái bǎmén guānshàng",
+        "vi": "Đóng cửa lại đi."
+    },
+    {
+        "start": "00:30:43,908",
+        "end": "00:30:46,077",
+        "en": "来吃蛋糕啰",
+        "pa": "Lái chī dàngāo luō",
+        "vi": "Ăn bánh thôi."
+    },
+    {
+        "start": "00:30:48,313",
+        "end": "00:30:49,781",
+        "en": "这个最大块",
+        "pa": "Zhège zuìdà kuài",
+        "vi": "Đây là miếng to nhất."
+    },
+    {
+        "start": "00:30:49,848",
+        "end": "00:30:51,249",
+        "en": "给颜圣华",
+        "pa": "Gěi yánshènghuá",
+        "vi": "Cho Nhan Thánh Hoa."
+    },
+    {
+        "start": "00:30:51,316",
+        "end": "00:30:53,418",
+        "en": "老师 你偏心",
+        "pa": "Lǎoshī nǐ piānxīn",
+        "vi": "Thầy thiên vị quá."
+    },
+    {
+        "start": "00:30:53,484",
+        "end": "00:30:54,752",
+        "en": "因为颜圣华的奶奶",
+        "pa": "Yīnwèi yánshènghuá de nǎinai",
+        "vi": "Vì bà Nhan Thánh Hoa"
+    },
+    {
+        "start": "00:30:54,819",
+        "end": "00:30:56,788",
+        "en": "做萝卜糕给大家吃啊",
+        "pa": "Zuò luóbo gāo gěi dàjiā chī a",
+        "vi": "làm bánh củ cải cho chúng ta mà."
+    },
+    {
+        "start": "00:30:56,855",
+        "end": "00:30:58,056",
+        "en": "奶奶太客气了",
+        "pa": "Nǎinai tài kèqìle",
+        "vi": "Bà em khách sáo quá."
+    },
+    {
+        "start": "00:30:58,122",
+        "end": "00:31:00,024",
+        "en": "跟她说以后不要做 太累了",
+        "pa": "Gēn tā shuō yǐhòu bùyào zuò tài lèile",
+        "vi": "Bảo bà em đừng làm nữa, mệt lắm."
+    },
+    {
+        "start": "00:31:00,825",
+        "end": "00:31:02,427",
+        "en": "我们先吃蛋糕",
+        "pa": "Wǒmen xiān chī dàngāo",
+        "vi": "Chúng ta ăn bánh trước,"
+    },
+    {
+        "start": "00:31:02,493",
+        "end": "00:31:03,928",
+        "en": "休息半小时",
+        "pa": "Xiūxí bàn xiǎoshí",
+        "vi": "sau đó nghỉ nửa tiếng"
+    },
+    {
+        "start": "00:31:03,995",
+        "end": "00:31:05,196",
+        "en": "继续写测验",
+        "pa": "Jìxù xiě cèyàn",
+        "vi": "rồi làm trắc nghiệm tiếp."
+    },
+    {
+        "start": "00:31:05,263",
+        "end": "00:31:06,397",
+        "en": "写完回家",
+        "pa": "Xiě wán huí jiā",
+        "vi": "Làm xong rồi về."
+    },
+    {
+        "start": "00:31:08,633",
+        "end": "00:31:10,001",
+        "en": "-不想写 -没问题",
+        "pa": "-Bùxiǎng xiě -méi wèntí",
+        "vi": "- Em không muốn làm. - Được ạ."
+    },
+    {
+        "start": "00:31:10,635",
+        "end": "00:31:12,237",
+        "en": "林晨曦就是这么认真啦",
+        "pa": "Lín chénxī jiùshì zhème rènzhēn la",
+        "vi": "Lâm Thần Hy, cậu nghiêm túc quá."
+    },
+    {
+        "start": "00:31:12,303",
+        "end": "00:31:13,638",
+        "en": "-认真鬼 -认真鬼",
+        "pa": "-Rènzhēn guǐ -rènzhēn guǐ",
+        "vi": "- Mọt sách. - Mọt sách."
+    },
+    {
+        "start": "00:31:14,572",
+        "end": "00:31:16,074",
+        "en": "好了 可以吃了",
+        "pa": "Hǎole kěyǐ chīle",
+        "vi": "Được rồi, ăn đi."
+    },
+    {
+        "start": "00:31:17,742",
+        "end": "00:31:19,244",
+        "en": "-师母 -好 来 我洗",
+        "pa": "-Shīmǔ -hǎo lái wǒ xǐ",
+        "vi": "- Cô Tạ. - Được rồi, để cô rửa."
+    },
+    {
+        "start": "00:31:19,310",
+        "end": "00:31:20,645",
+        "en": "-谢谢 -不会",
+        "pa": "-Xièxiè -bù huì",
+        "vi": "- Cảm ơn cô. - Không có gì."
+    },
+    {
+        "start": "00:31:21,813",
+        "end": "00:31:23,915",
+        "en": "你应该念高中考大学",
+        "pa": "Nǐ yīnggāi niàn gāo zhōngkǎo dàxué",
+        "vi": "Em nên vào cấp ba rồi thi lên đại học."
+    },
+    {
+        "start": "00:31:24,549",
+        "end": "00:31:26,351",
+        "en": "怎么跑去念护专呢？",
+        "pa": "Zěnme pǎo qù niàn hù zhuān ne?",
+        "vi": "Sao em lại đi học nghề y tá?"
+    },
+    {
+        "start": "00:31:26,918",
+        "end": "00:31:27,752",
+        "en": "我…",
+        "pa": "Wǒ…",
+        "vi": "Em…"
+    },
+    {
+        "start": "00:31:29,120",
+        "end": "00:31:30,822",
+        "en": "你以后真的想当护士啊？",
+        "pa": "Nǐ yǐhòu zhēn de xiǎng dāng hùshì a?",
+        "vi": "Em thật sự muốn trở thành y tá à?"
+    },
+    {
+        "start": "00:31:32,891",
+        "end": "00:31:33,791",
+        "en": "",
+        "pa": "",
+        "vi": "Vâng."
+    },
+    {
+        "start": "00:31:35,260",
+        "end": "00:31:37,795",
+        "en": "如果你担心奶奶赚钱辛苦",
+        "pa": "Rúguǒ nǐ dānxīn nǎinai zhuànqián xīnkǔ",
+        "vi": "Nếu em lo bà mình làm việc quá vất vả,"
+    },
+    {
+        "start": "00:31:37,862",
+        "end": "00:31:40,531",
+        "en": "学费老师跟师母会帮你",
+        "pa": "Xuéfèi lǎoshī gēn shīmǔ huì bāng nǐ",
+        "vi": "thầy cô có thể giúp em đóng học phí."
+    },
+    {
+        "start": "00:31:40,598",
+        "end": "00:31:42,634",
+        "en": "你听过陈奕迅的新歌吗？",
+        "pa": "Nǐ tīngguò chényìxùn de xīngē ma?",
+        "vi": "Có nghe bài hát mới của Trần Dịch Tấn chưa?"
+    },
+    {
+        "start": "00:31:42,700",
+        "end": "00:31:44,068",
+        "en": "你是说《谢谢侬》那张吗？",
+        "pa": "Nǐ shì shuō “xièxiè nóng” nà zhāng ma?",
+        "vi": "Bài \"Cảm ơn\" ấy à?"
+    },
+    {
+        "start": "00:31:44,135",
+        "end": "00:31:46,170",
+        "en": "对啊 可是我比较喜欢《你的背包》",
+        "pa": "Duì a kěshì wǒ bǐjiào xǐhuān “nǐ de bèibāo”",
+        "vi": "Ừ, nhưng tớ thích \"Ba lô của em\" hơn."
+    },
+    {
+        "start": "00:31:46,237",
+        "end": "00:31:47,305",
+        "en": "花痴",
+        "pa": "Huā chī",
+        "vi": "Mê trai."
+    },
+    {
+        "start": "00:31:47,372",
+        "end": "00:31:48,973",
+        "en": "真的超花痴",
+        "pa": "Zhēn de chāo huā chī",
+        "vi": "Đúng là mê trai."
+    },
+    {
+        "start": "00:31:49,040",
+        "end": "00:31:51,042",
+        "en": "拜托 莫文蔚才好听好不好？",
+        "pa": "Bàituō mòwénwèi cái hǎotīng hǎobù hǎo?",
+        "vi": "Thôi đi, nhạc Mạc Văn Úy hay hơn nhiều."
+    },
+    {
+        "start": "00:31:51,109",
+        "end": "00:31:52,710",
+        "en": "-她有出新专辑喔？ -哪一张啊？",
+        "pa": "-Tā yǒu chū xīn zhuānjí ō? -Nǎ yī zhāng a?",
+        "vi": "- Cô ấy ra album mới rồi? - Cái nào?"
+    },
+    {
+        "start": "00:31:52,777",
+        "end": "00:31:53,678",
+        "en": "《i》啊",
+        "pa": "",
+        "vi": "Album [i] ấy."
+    },
+    {
+        "start": "00:31:53,745",
+        "end": "00:31:55,313",
+        "en": "里面每一首歌都超好听",
+        "pa": "Lǐmiàn měi yī shǒu gē dōu chāo hǎotīng",
+        "vi": "Bài nào trong đó cũng hay."
+    },
+    {
+        "start": "00:31:55,380",
+        "end": "00:31:56,848",
+        "en": "主要是你自己要加油",
+        "pa": "Zhǔyào shi nǐ zìjǐ yào jiāyóu",
+        "vi": "Nhưng chủ yếu là phải chăm chỉ,"
+    },
+    {
+        "start": "00:31:57,582",
+        "end": "00:31:58,816",
+        "en": "把成绩赶上来",
+        "pa": "Bǎ chéngjī gǎn shànglái",
+        "vi": "cố nâng cao thành tích."
+    },
+    {
+        "start": "00:31:59,450",
+        "end": "00:32:00,285",
+        "en": "知道吗？",
+        "pa": "Zhīdào ma?",
+        "vi": "Đã biết chưa?"
+    },
+    {
+        "start": "00:32:02,820",
+        "end": "00:32:03,721",
+        "en": "好",
+        "pa": "Hǎo",
+        "vi": "Vâng."
+    },
+    {
+        "start": "00:32:03,788",
+        "end": "00:32:05,023",
+        "en": "谢谢老师",
+        "pa": "Xièxiè lǎoshī",
+        "vi": "Em cảm ơn thầy."
+    },
+    {
+        "start": "00:32:08,393",
+        "end": "00:32:10,595",
+        "en": "吃完啦？来 给师母",
+        "pa": "Chī wán la? Lái gěi shīmǔ",
+        "vi": "Ăn xong rồi à? Đưa cho cô."
+    },
+    {
+        "start": "00:32:10,662",
+        "end": "00:32:11,496",
+        "en": "老师",
+        "pa": "Lǎoshī",
+        "vi": "Thầy ơi."
+    },
+    {
+        "start": "00:32:11,562",
+        "end": "00:32:13,331",
+        "en": "这次月考我错了几题 一直搞不懂",
+        "pa": "Zhè cì yuè kǎo wǒ cuòle jǐ tí yīzhí gǎo bù dǒng",
+        "vi": "Bài kiểm tra tháng này có vài câu hỏi"
+    },
+    {
+        "start": "00:32:13,398",
+        "end": "00:32:14,399",
+        "en": "",
+        "pa": "",
+        "vi": "em không hiểu lắm."
+    },
+    {
+        "start": "00:32:14,465",
+        "end": "00:32:16,200",
+        "en": "等一下我可以留下来问你吗？",
+        "pa": "Děng yīxià wǒ kěyǐ liú xiàlái wèn nǐ ma?",
+        "vi": "Em có thể ở lại hỏi thầy không?"
+    },
+    {
+        "start": "00:32:16,267",
+        "end": "00:32:17,502",
+        "en": "当然可以啊",
+        "pa": "Dāngrán kěyǐ a",
+        "vi": "Tất nhiên là có thể."
+    },
+    {
+        "start": "00:32:17,568",
+        "end": "00:32:20,738",
+        "en": "如果每个同学都像你那么认真就好了",
+        "pa": "Rúguǒ měi gè tóngxué dōu xiàng nǐ nàme rènzhēn jiù hǎole",
+        "vi": "Nếu học sinh nào cũng nghiêm túc như em thì tốt quá rồi."
+    },
+    {
+        "start": "00:32:20,805",
+        "end": "00:32:22,373",
+        "en": "如果讨论到太晚的话",
+        "pa": "Rúguǒ tǎolùn dào tài wǎn dehuà",
+        "vi": "Nếu thảo luận đến muộn quá"
+    },
+    {
+        "start": "00:32:22,440",
+        "end": "00:32:23,508",
+        "en": "留下来吃饭",
+        "pa": "Liú xiàlái chīfàn",
+        "vi": "thì ở lại ăn tối luôn."
+    },
+    {
+        "start": "00:32:23,574",
+        "end": "00:32:24,842",
+        "en": "我再打电话给妈妈",
+        "pa": "Wǒ zài dǎ diànhuà gěi māmā",
+        "vi": "Cô sẽ gọi cho mẹ em."
+    },
+    {
+        "start": "00:32:25,343",
+        "end": "00:32:26,778",
+        "en": "-谢谢师母 -不会",
+        "pa": "-Xièxiè shīmǔ -bù huì",
+        "vi": "- Em cảm ơn cô. - Không có gì."
+    },
+    {
+        "start": "00:32:32,517",
+        "end": "00:32:33,551",
+        "en": "回家小心喔",
+        "pa": "Huí jiā xiǎoxīn ō",
+        "vi": "Về cẩn thận nhé."
+    },
+    {
+        "start": "00:32:33,618",
+        "end": "00:32:34,886",
+        "en": "-我们先走啰 -拜拜",
+        "pa": "-Wǒmen xiān zǒu luō -bàibài",
+        "vi": "- Bọn em về ạ. - Tạm biệt."
+    },
+    {
+        "start": "00:32:34,953",
+        "end": "00:32:36,220",
+        "en": "-再见 -拜拜",
+        "pa": "-Zàijiàn -bàibài",
+        "vi": "- Tạm biệt. - Tạm biệt."
+    },
+    {
+        "start": "00:32:36,287",
+        "end": "00:32:37,488",
+        "en": "-骑车注意安全 -谢谢师母做的蛋糕",
+        "pa": "-Qí chē zhùyì ānquán -xièxiè shīmǔ zuò de dàngāo",
+        "vi": "Đạp xe về cẩn thận!"
+    },
+    {
+        "start": "00:32:37,555",
+        "end": "00:32:38,790",
+        "en": "好",
+        "pa": "Hǎo",
+        "vi": "- Cảm ơn bánh của cô. - Ừ."
+    },
+    {
+        "start": "00:32:38,856",
+        "end": "00:32:39,857",
+        "en": "-拜拜 -再见",
+        "pa": "-Bàibài -zàijiàn",
+        "vi": "- Tạm biệt. - Tạm biệt."
+    },
+    {
+        "start": "00:32:40,825",
+        "end": "00:32:41,793",
+        "en": "师母 拜拜",
+        "pa": "Shīmǔ bàibài",
+        "vi": "Tạm biệt cô."
+    },
+    {
+        "start": "00:32:42,927",
+        "end": "00:32:44,629",
+        "en": "回去谢谢奶奶的萝卜糕",
+        "pa": "Huíqù xièxiè nǎinai de luóbo gāo",
+        "vi": "Về nhà cảm ơn bánh của bà em nhé."
+    },
+    {
+        "start": "00:32:45,229",
+        "end": "00:32:46,097",
+        "en": "好",
+        "pa": "Hǎo",
+        "vi": "Vâng ạ."
+    },
+    {
+        "start": "00:33:04,882",
+        "end": "00:33:07,218",
+        "en": "你这两个公式顺序错了",
+        "pa": "Nǐ zhè liǎng gè gōngshì shùnxù cuòle",
+        "vi": "Hai công thức này sai thứ tự rồi."
+    },
+    {
+        "start": "00:33:07,285",
+        "end": "00:33:09,420",
+        "en": "对调一下结果就不一样",
+        "pa": "Duìdiào yīxià jiéguǒ jiù bù yīyàng",
+        "vi": "Đổi cho nhau thì kết quả sẽ khác ngay."
+    },
+    {
+        "start": "00:33:10,421",
+        "end": "00:33:11,856",
+        "en": "原来是这样喔",
+        "pa": "Yuánlái shì zhèyàng ō",
+        "vi": "Thì ra là thế."
+    },
+    {
+        "start": "00:33:12,690",
+        "end": "00:33:14,492",
+        "en": "难怪我怎么解就是不对",
+        "pa": "Nánguài wǒ zěnme jiě jiùshì bùduì",
+        "vi": "Bảo sao em giải mãi không ra."
+    },
+    {
+        "start": "00:33:15,393",
+        "end": "00:33:16,694",
+        "en": "你算一次给我看",
+        "pa": "Nǐ suàn yīcì gěi wǒ kàn",
+        "vi": "Em tính lại cho thầy xem."
+    },
+    {
+        "start": "00:33:42,920",
+        "end": "00:33:44,822",
+        "en": "老师 答案对了",
+        "pa": "Lǎoshī dá'àn duìle",
+        "vi": "Thầy ơi, đáp án đúng rồi."
+    },
+    {
+        "start": "00:33:44,889",
+        "end": "00:33:45,857",
+        "en": "我会了",
+        "pa": "Wǒ huìle",
+        "vi": "Em biết làm rồi."
+    },
+    {
+        "start": "00:33:46,958",
+        "end": "00:33:48,092",
+        "en": "很好",
+        "pa": "Hěn hǎo",
+        "vi": "Tốt lắm."
+    },
+    {
+        "start": "00:33:48,159",
+        "end": "00:33:50,194",
+        "en": "要不是老师教我 我也不会",
+        "pa": "Yào bùshì lǎoshī jiào wǒ wǒ yě bù huì",
+        "vi": "Thầy không dạy thì em cũng không biết làm."
+    },
+    {
+        "start": "00:33:52,030",
+        "end": "00:33:53,598",
+        "en": "现在换下一题喔",
+        "pa": "Xiànzài huàn xià yī tí ō",
+        "vi": "Sang câu tiếp theo thôi."
+    },
+    {
+        "start": "00:33:56,567",
+        "end": "00:33:57,835",
+        "en": "谢谢老师",
+        "pa": "Xièxiè lǎoshī",
+        "vi": "Em cảm ơn thầy."
+    },
+    {
+        "start": "00:33:57,902",
+        "end": "00:34:00,138",
+        "en": "你跟师母说我下次再留下来吃饭",
+        "pa": "Nǐ gēn shīmǔ shuō wǒ xià cì zài liú xiàlái chīfàn",
+        "vi": "Thầy nói với cô lần sau em sẽ ở lại ăn cơm."
+    },
+    {
+        "start": "00:34:00,204",
+        "end": "00:34:01,672",
+        "en": "好 路上小心",
+        "pa": "Hǎo lùshàng xiǎoxīn",
+        "vi": "Được, đi cẩn thận nhé."
+    },
+    {
+        "start": "00:34:06,577",
+        "end": "00:34:07,912",
+        "en": "怎么没气了？",
+        "pa": "Zěnme méi qìle?",
+        "vi": "Sao lốp xe bị xịt rồi?"
+    },
+    {
+        "start": "00:34:12,450",
+        "end": "00:34:13,684",
+        "en": "我去拿打气筒",
+        "pa": "Wǒ qù ná dǎ qìtǒng",
+        "vi": "Thầy đi lấy bơm."
+    },
+    {
+        "start": "00:34:20,992",
+        "end": "00:34:22,760",
+        "en": "你这样要打到什么时候啊？",
+        "pa": "Nǐ zhèyàng yào dǎ dào shénme shíhòu a?",
+        "vi": "Thế này thì bơm đến bao giờ?"
+    },
+    {
+        "start": "00:34:23,628",
+        "end": "00:34:24,629",
+        "en": "来",
+        "pa": "Lái",
+        "vi": "Để thầy."
+    },
+    {
+        "start": "00:34:24,695",
+        "end": "00:34:25,763",
+        "en": "这样 你看",
+        "pa": "Zhèyàng nǐ kàn",
+        "vi": "Làm thế này, em xem."
+    },
+    {
+        "start": "00:34:28,599",
+        "end": "00:34:29,567",
+        "en": "到底",
+        "pa": "Dàodǐ",
+        "vi": "Đè sát xuống."
+    },
+    {
+        "start": "00:34:30,968",
+        "end": "00:34:31,969",
+        "en": "你试试看",
+        "pa": "Nǐ shì shìkàn",
+        "vi": "Em làm thử đi."
+    },
+    {
+        "start": "00:35:03,034",
+        "end": "00:35:05,369",
+        "en": "所有同学里面老师觉得你最特别",
+        "pa": "Suǒyǒu tóngxué lǐmiàn lǎoshī juédé nǐ zuì tèbié",
+        "vi": "Trong các học sinh, thầy thấy em là đặc biệt nhất."
+    },
+    {
+        "start": "00:35:06,104",
+        "end": "00:35:07,338",
+        "en": "好好用功",
+        "pa": "Hǎohǎo yònggōng",
+        "vi": "Học hành chăm chỉ nhé."
+    },
+    {
+        "start": "00:35:07,405",
+        "end": "00:35:08,473",
+        "en": "不要分心",
+        "pa": "Bùyào fēn xīn",
+        "vi": "Đừng để bị phân tâm."
+    },
+    {
+        "start": "00:35:09,073",
+        "end": "00:35:11,509",
+        "en": "以后有什么问题都可以问老师",
+        "pa": "Yǐhòu yǒu shé me wèntí dōu kěyǐ wèn lǎoshī",
+        "vi": "Có vấn đề gì đều có thể hỏi thầy."
+    },
+    {
+        "start": "00:35:12,877",
+        "end": "00:35:13,811",
+        "en": "好",
+        "pa": "Hǎo",
+        "vi": "Vâng ạ."
+    },
+    {
+        "start": "00:35:13,878",
+        "end": "00:35:14,879",
+        "en": "谢谢老师",
+        "pa": "Xièxiè lǎoshī",
+        "vi": "Em cảm ơn thầy."
+    },
+    {
+        "start": "00:35:41,372",
+        "end": "00:35:43,007",
+        "en": "休息一下 吃水果",
+        "pa": "Xiūxí yīxià chī shuǐguǒ",
+        "vi": "Nghỉ ngơi ăn trái cây đi."
+    },
+    {
+        "start": "00:35:43,074",
+        "end": "00:35:44,375",
+        "en": "吃完记得刷牙",
+        "pa": "Chī wán jìdé shuāyá",
+        "vi": "Ăn xong thì đi đánh răng."
+    },
+    {
+        "start": "00:35:46,077",
+        "end": "00:35:46,944",
+        "en": "妈",
+        "pa": "Mā",
+        "vi": "Mẹ."
+    },
+    {
+        "start": "00:35:47,645",
+        "end": "00:35:50,681",
+        "en": "你以前跟谢老师太太是小学同学喔？",
+        "pa": "Nǐ yǐqián gēn xiè lǎoshī tàitài shì xiǎoxué tóngxué ō?",
+        "vi": "Ngày xưa mẹ học tiểu học chung với cô Tạ phải không?"
+    },
+    {
+        "start": "00:35:50,748",
+        "end": "00:35:51,582",
+        "en": "是啊",
+        "pa": "Shì a",
+        "vi": "Phải."
+    },
+    {
+        "start": "00:35:51,649",
+        "end": "00:35:53,518",
+        "en": "我们以前还蛮好的",
+        "pa": "Wǒmen yǐqián hái mán hǎo de",
+        "vi": "Mẹ và cô từng rất thân."
+    },
+    {
+        "start": "00:35:53,584",
+        "end": "00:35:56,721",
+        "en": "你谢师母就命好\n 嫁给谢老师",
+        "pa": "Nǐ xiè shīmǔ jiù mìng hǎo jià gěi xiè lǎoshī",
+        "vi": "Cô Tạ của con tốt số, gả cho thầy Tạ."
+    },
+    {
+        "start": "00:35:57,822",
+        "end": "00:36:00,424",
+        "en": "谢老师个性好",
+        "pa": "Xiè lǎoshī gèxìng hǎo",
+        "vi": "Thầy Tạ rất tốt bụng, luôn tử tế với người khác."
+    },
+    {
+        "start": "00:36:00,491",
+        "end": "00:36:03,728",
+        "en": "对人又好\n 他们两个啊\n 是大家眼中的模范夫妻",
+        "pa": "Duì rén yòu hǎo tāmen liǎng gè a shì dàjiā yǎnzhōng de mófàn fūqī",
+        "vi": "Hai người họ là vợ chồng mẫu mực trong mắt người khác."
+    },
+    {
+        "start": "00:36:04,595",
+        "end": "00:36:06,230",
+        "en": "可惜啊 就是生不出小孩来",
+        "pa": "Kěxí a jiùshì shēng bù chū xiǎohái lái",
+        "vi": "Chỉ tiếc là họ không có con."
+    },
+    {
+        "start": "00:36:09,767",
+        "end": "00:36:10,601",
+        "en": "林晨曦",
+        "pa": "Lín chénxī",
+        "vi": "Lâm Thần Hy."
+    },
+    {
+        "start": "00:36:11,369",
+        "end": "00:36:14,338",
+        "en": "谢老师可是得过优良教师奖喔",
+        "pa": "Xiè lǎoshī kěshì déguò yōuliáng jiàoshī jiǎng ō",
+        "vi": "Thầy Tạ từng đạt giải Giáo viên Xuất sắc."
+    },
+    {
+        "start": "00:36:14,839",
+        "end": "00:36:17,141",
+        "en": "你上课要好好表现知道吗？",
+        "pa": "Nǐ shàngkè yào hǎo hào biǎoxiàn zhīdào ma?",
+        "vi": "Con đi học cho nghiêm túc vào, biết chưa?"
+    },
+    {
+        "start": "00:36:17,208",
+        "end": "00:36:18,209",
+        "en": "好",
+        "pa": "Hǎo",
+        "vi": "Vâng ạ."
+    },
+    {
+        "start": "00:36:19,810",
+        "end": "00:36:20,711",
+        "en": "还有",
+        "pa": "Hái yǒu",
+        "vi": "Còn nữa."
+    },
+    {
+        "start": "00:36:21,546",
+        "end": "00:36:24,682",
+        "en": "在学校不要跟男生走太近",
+        "pa": "Zài xuéxiào bùyào gēn nánshēng zǒu tài jìn",
+        "vi": "Đừng đi chơi với đám con trai trong trường."
+    },
+    {
+        "start": "00:36:24,749",
+        "end": "00:36:26,551",
+        "en": "要专心念书考高中了",
+        "pa": "Yào zhuānxīn niànshū kǎo gāozhōngle",
+        "vi": "Tập trung học hành thi vào cấp ba đi."
+    },
+    {
+        "start": "00:36:27,318",
+        "end": "00:36:28,252",
+        "en": "我知道",
+        "pa": "Wǒ zhīdào",
+        "vi": "Con biết rồi."
+    },
+    {
+        "start": "00:36:30,888",
+        "end": "00:36:34,058",
+        "en": "隔壁的张妈妈说 你们学校出现暴露狂耶",
+        "pa": "Gébì de zhāng māmā shuō nǐmen xuéxiào chūxiàn bàolù kuáng yé",
+        "vi": "Dì Trương hàng xóm nói trong trường con có biến thái."
+    },
+    {
+        "start": "00:36:34,125",
+        "end": "00:36:35,993",
+        "en": "你上下学要小心陌生人",
+        "pa": "Nǐ shàngxià xué yào xiǎoxīn mòshēng rén",
+        "vi": "Đi học nhớ cẩn thận người lạ."
+    },
+    {
+        "start": "00:36:36,060",
+        "end": "00:36:38,329",
+        "en": "然后最好跟林震烨一起走",
+        "pa": "Ránhòu zuì hǎo gēn línzhènyè yīqǐ zǒu",
+        "vi": "Tốt nhất là đi cùng Lâm Chấn Diệp."
+    },
+    {
+        "start": "00:36:38,396",
+        "end": "00:36:39,330",
+        "en": "好啦",
+        "pa": "Hǎo la",
+        "vi": "Con biết rồi."
+    },
+    {
+        "start": "00:36:39,397",
+        "end": "00:36:40,498",
+        "en": "我会注意安全",
+        "pa": "Wǒ huì zhùyì ānquán",
+        "vi": "Con sẽ cẩn thận."
+    },
+    {
+        "start": "00:36:41,532",
+        "end": "00:36:42,366",
+        "en": "好 快吃",
+        "pa": "Hǎo kuài chī",
+        "vi": "Được rồi, ăn đi."
+    },
+    {
+        "start": "00:36:48,940",
+        "end": "00:36:52,210",
+        "en": "（英华楼）",
+        "pa": "(Yīng huá lóu)",
+        "vi": "TÒA NHÀ ANH HOA"
+    },
+    {
+        "start": "00:36:52,276",
+        "end": "00:36:54,712",
+        "en": "（学生停车处）",
+        "pa": "(Xuéshēng tíngchē chù)",
+        "vi": "BÃI ĐỖ XE HỌC SINH"
+    },
+    {
+        "start": "00:36:54,779",
+        "end": "00:36:55,880",
+        "en": "快点啦",
+        "pa": "Kuài diǎn la",
+        "vi": "Nhanh lên."
+    },
+    {
+        "start": "00:36:56,581",
+        "end": "00:36:57,515",
+        "en": "林震烨",
+        "pa": "Línzhènyè",
+        "vi": "Lâm Chấn Diệp."
+    },
+    {
+        "start": "00:36:58,049",
+        "end": "00:36:59,050",
+        "en": "你等我",
+        "pa": "Nǐ děng wǒ",
+        "vi": "Đợi chị với."
+    },
+    {
+        "start": "00:36:59,116",
+        "end": "00:37:00,685",
+        "en": "-漂亮啊 -你姐姐",
+        "pa": "-Piàoliang a -nǐ jiějiě",
+        "vi": "- Xinh quá đi. - Chị cậu kìa."
+    },
+    {
+        "start": "00:37:00,751",
+        "end": "00:37:02,954",
+        "en": "-林震烨 等我 -怎么了啦？走开啦",
+        "pa": "-Línzhènyè děng wǒ -zěnmeliǎo la? Zǒu kāi la",
+        "vi": "- \"Lâm Chấn Diệp, đợi chị với\". - Gì? Tránh ra."
+    },
+    {
+        "start": "00:37:03,020",
+        "end": "00:37:04,355",
+        "en": "林震烨 等我",
+        "pa": "Línzhènyè děng wǒ",
+        "vi": "\"Lâm Chấn Diệp, đợi chị với\"."
+    },
+    {
+        "start": "00:37:04,422",
+        "end": "00:37:05,890",
+        "en": "-自己回去啦 -林震烨",
+        "pa": "-Zìjǐ huíqù la -línzhènyè",
+        "vi": "- Chị tự về đi. - Lâm Chấn Diệp."
+    },
+    {
+        "start": "00:37:05,957",
+        "end": "00:37:07,058",
+        "en": "-等一下姐姐啊 -等姐姐啊",
+        "pa": "-Děng yīxià jiějiě a -děng jiějiě a",
+        "vi": "- Đợi chị kìa. - Đợi đi."
+    },
+    {
+        "start": "00:37:07,124",
+        "end": "00:37:08,793",
+        "en": "-老师 再见 -拜拜 骑慢一点喔",
+        "pa": "",
+        "vi": "- Chào cô! - Chào. Chạy chậm thôi."
+    },
+    {
+        "start": "00:37:08,859",
+        "end": "00:37:10,194",
+        "en": "-拜拜 -等一下嘛",
+        "pa": "-Bàibài -děng yīxià ma",
+        "vi": "- Tạm biệt. - Chờ với!"
+    },
+    {
+        "start": "00:37:10,261",
+        "end": "00:37:11,462",
+        "en": "你不要再吵了",
+        "pa": "Nǐ bùyào zài chǎole",
+        "vi": "Im đi."
+    },
+    {
+        "start": "00:37:14,899",
+        "end": "00:37:15,733",
+        "en": "老师 再见",
+        "pa": "Lǎoshī zàijiàn",
+        "vi": "Chào cô ạ."
+    },
+    {
+        "start": "00:37:17,001",
+        "end": "00:37:18,069",
+        "en": "林晨曦",
+        "pa": "Lín chénxī",
+        "vi": "Lâm Thần Hy."
+    },
+    {
+        "start": "00:37:18,569",
+        "end": "00:37:20,071",
+        "en": "老师好",
+        "pa": "Lǎoshī hǎo",
+        "vi": "Em chào thầy."
+    },
+    {
+        "start": "00:37:20,137",
+        "end": "00:37:21,305",
+        "en": "今天比较晚喔",
+        "pa": "Jīntiān bǐjiào wǎn ō",
+        "vi": "Hôm nay em về muộn thế?"
+    },
+    {
+        "start": "00:37:21,372",
+        "end": "00:37:22,206",
+        "en": "对啊",
+        "pa": "Duì a",
+        "vi": "Vâng ạ."
+    },
+    {
+        "start": "00:37:22,707",
+        "end": "00:37:23,541",
+        "en": "老师",
+        "pa": "Lǎoshī",
+        "vi": "Thầy ơi."
+    },
+    {
+        "start": "00:37:23,608",
+        "end": "00:37:25,443",
+        "en": "听说你今天在一班教历届试题",
+        "pa": "Tīng shuō nǐ jīntiān zài yī bān jiào lìjiè shìtí",
+        "vi": "Nghe nói hôm nay thầy phát bộ đề cũ."
+    },
+    {
+        "start": "00:37:25,509",
+        "end": "00:37:26,744",
+        "en": "可以给我一份吗？",
+        "pa": "",
+        "vi": "Em xin một phần được không?"
+    },
+    {
+        "start": "00:37:26,811",
+        "end": "00:37:27,812",
+        "en": "可以啊",
+        "pa": "Kěyǐ a",
+        "vi": "Được chứ."
+    },
+    {
+        "start": "00:37:28,479",
+        "end": "00:37:30,815",
+        "en": "本来想这礼拜补习的时候拿给你",
+        "pa": "",
+        "vi": "Thầy cũng định cho em ở buổi học thêm tuần này."
+    },
+    {
+        "start": "00:37:31,882",
+        "end": "00:37:33,584",
+        "en": "还是你要到办公室拿？",
+        "pa": "Háishì nǐ yào dào bàngōngshì ná?",
+        "vi": "Hay là em muốn đến văn phòng lấy?"
+    },
+    {
+        "start": "00:37:33,651",
+        "end": "00:37:34,752",
+        "en": "好啊",
+        "pa": "Hǎo a",
+        "vi": "Vâng ạ."
+    },
+    {
+        "start": "00:37:34,819",
+        "end": "00:37:35,987",
+        "en": "现在跟老师去拿",
+        "pa": "",
+        "vi": "Em theo thầy đi lấy."
+    },
+    {
+        "start": "00:37:43,961",
+        "end": "00:37:49,533",
+        "en": "",
+        "pa": "",
+        "vi": "TẠ CHÍ TRUNG"
+    },
+    {
+        "start": "00:37:49,600",
+        "end": "00:37:54,472",
+        "en": "",
+        "pa": "",
+        "vi": "TẠ CHÍ TRUNG"
+    },
+    {
+        "start": "00:37:54,538",
+        "end": "00:37:56,107",
+        "en": "看起来好难喔",
+        "pa": "",
+        "vi": "Trông có vẻ khó ghê."
+    },
+    {
+        "start": "00:37:57,608",
+        "end": "00:37:58,676",
+        "en": "你这么聪明",
+        "pa": "Nǐ zhème cōngmíng",
+        "vi": "Em thông minh thế này."
+    },
+    {
+        "start": "00:37:59,310",
+        "end": "00:38:01,746",
+        "en": "静下心来\n 没有题目难得倒你啦",
+        "pa": "Jìng xiàxīn lái méiyǒu tímù nándé dào nǐ la",
+        "vi": "Tập trung làm thì không đề nào có thể làm khó em cả."
+    },
+    {
+        "start": "00:38:03,614",
+        "end": "00:38:04,982",
+        "en": "老师 你最好了",
+        "pa": "Lǎoshī nǐ zuì hǎole",
+        "vi": "Thầy là số một."
+    },
+    {
+        "start": "00:38:05,049",
+        "end": "00:38:06,384",
+        "en": "每次都称赞我",
+        "pa": "Měi cì dōu chēngzàn wǒ",
+        "vi": "Lần nào cũng khen em."
+    },
+    {
+        "start": "00:38:09,086",
+        "end": "00:38:10,755",
+        "en": "这礼拜补习要晚一点",
+        "pa": "",
+        "vi": "Buổi học tuần này muộn một chút nhé."
+    },
+    {
+        "start": "00:38:11,322",
+        "end": "00:38:13,324",
+        "en": "老师临时要参加一个研习",
+        "pa": "Lǎoshī línshí yào cānjiā yīgè yánxí",
+        "vi": "Thầy phải tham gia tập huấn đột xuất."
+    },
+    {
+        "start": "00:38:14,225",
+        "end": "00:38:15,126",
+        "en": "是喔？",
+        "pa": "Shì ō?",
+        "vi": "Vậy à?"
+    },
+    {
+        "start": "00:38:15,993",
+        "end": "00:38:17,695",
+        "en": "老师 你真辛苦",
+        "pa": "Lǎoshī nǐ zhēn xīnkǔ",
+        "vi": "Thầy vất vả rồi."
+    },
+    {
+        "start": "00:38:17,762",
+        "end": "00:38:20,264",
+        "en": "要上课又要去研习",
+        "pa": "Yào shàngkè yòu yào qù yánxí",
+        "vi": "Vừa phải dạy vừa phải tập huấn."
+    },
+    {
+        "start": "00:38:28,139",
+        "end": "00:38:29,407",
+        "en": "老师",
+        "pa": "Lǎoshī",
+        "vi": "Thầy ơi,"
+    },
+    {
+        "start": "00:38:29,473",
+        "end": "00:38:32,276",
+        "en": "这几题你之前才帮我们复习耶",
+        "pa": "Zhè jǐ tí nǐ zhīqián cái bāng wǒmen fùxí yé",
+        "vi": "mấy câu này thầy có ôn cho bọn em rồi."
+    },
+    {
+        "start": "00:38:32,343",
+        "end": "00:38:34,712",
+        "en": "如果今年考 我一定会",
+        "pa": "Rúguǒ jīnnián kǎo wǒ yīdìng huì",
+        "vi": "Nếu năm nay có ra, chắc chắn em sẽ làm được."
+    },
+    {
+        "start": "00:39:33,637",
+        "end": "00:39:35,106",
+        "en": "老师没有小孩",
+        "pa": "Lǎoshī méiyǒu xiǎohái",
+        "vi": "Thầy không có con."
+    },
+    {
+        "start": "00:39:35,773",
+        "end": "00:39:37,475",
+        "en": "把你当是自己的女儿",
+        "pa": "Bǎ nǐ dāng shì zìjǐ de nǚ'ér",
+        "vi": "Thầy xem em như con gái mình."
+    },
+    {
+        "start": "00:39:38,275",
+        "end": "00:39:39,210",
+        "en": "你知道吧？",
+        "pa": "Nǐ zhīdào ba?",
+        "vi": "Em cũng biết mà?"
+    },
+    {
+        "start": "00:39:41,779",
+        "end": "00:39:42,747",
+        "en": "我知道",
+        "pa": "Wǒ zhīdào",
+        "vi": "Em biết."
+    },
+    {
+        "start": "00:39:46,784",
+        "end": "00:39:47,618",
+        "en": "好",
+        "pa": "Hǎo",
+        "vi": "Tốt."
+    },
+    {
+        "start": "00:39:50,588",
+        "end": "00:39:51,522",
+        "en": "路上小心",
+        "pa": "Lùshàng xiǎoxīn",
+        "vi": "Về nhà cẩn thận."
+    },
+    {
+        "start": "00:39:57,628",
+        "end": "00:39:58,863",
+        "en": "我们礼拜六见",
+        "pa": "Wǒmen lǐbài liù jiàn",
+        "vi": "Thứ Bảy này gặp sau."
+    },
+    {
+        "start": "00:39:59,730",
+        "end": "00:40:00,698",
+        "en": "老师 再见",
+        "pa": "Lǎoshī zàijiàn",
+        "vi": "Tạm biệt thầy."
+    },
+    {
+        "start": "00:40:05,870",
+        "end": "00:40:07,471",
+        "en": "林震烨 多吃点青菜",
+        "pa": "Línzhènyè duō chī diǎn qīngcài",
+        "vi": "Lâm Chấn Diệp, ăn rau đi con."
+    },
+    {
+        "start": "00:40:13,878",
+        "end": "00:40:14,845",
+        "en": "林晨曦",
+        "pa": "Lín chénxī",
+        "vi": "Lâm Thần Hy."
+    },
+    {
+        "start": "00:40:14,912",
+        "end": "00:40:16,247",
+        "en": "怎么不多吃点啊？",
+        "pa": "Zěnme bù duō chī diǎn a?",
+        "vi": "Sau con ăn ít thế?"
+    },
+    {
+        "start": "00:40:16,947",
+        "end": "00:40:18,082",
+        "en": "身体不舒服吗？",
+        "pa": "Shēntǐ bú shūfú ma?",
+        "vi": "Con thấy không khỏe à?"
+    },
+    {
+        "start": "00:40:19,950",
+        "end": "00:40:20,785",
+        "en": "没有啦",
+        "pa": "Méiyǒu la",
+        "vi": "Không có."
+    },
+    {
+        "start": "00:40:20,851",
+        "end": "00:40:23,287",
+        "en": "她今天从学校回来就这个样子",
+        "pa": "Tā jīntiān cóng xuéxiào huílái jiù zhège yàngzi",
+        "vi": "Từ lúc đi học về đến giờ nó cứ như vậy."
+    },
+    {
+        "start": "00:40:23,821",
+        "end": "00:40:25,189",
+        "en": "问她她也不回答",
+        "pa": "Wèn tā tā yě bù huídá",
+        "vi": "Hỏi thì không chịu nói."
+    },
+    {
+        "start": "00:40:26,023",
+        "end": "00:40:27,591",
+        "en": "可能最近功课压力太大了",
+        "pa": "Kěnéng zuìjìn gōngkè yālì tài dàle",
+        "vi": "Chắc là do áp lực học tập lớn quá."
+    },
+    {
+        "start": "00:40:28,159",
+        "end": "00:40:29,827",
+        "en": "是吗？考试考不好喔？",
+        "pa": "Shì ma? Kǎoshì kǎo bù hǎo ō?",
+        "vi": "Vậy à? Chị làm bài không tốt à?"
+    },
+    {
+        "start": "00:40:29,894",
+        "end": "00:40:31,095",
+        "en": "哪一科？我教你啊",
+        "pa": "Nǎ yī kē? Wǒ jiào nǐ a",
+        "vi": "Môn gì? Em dạy cho chị."
+    },
+    {
+        "start": "00:40:35,699",
+        "end": "00:40:37,101",
+        "en": "爸、妈",
+        "pa": "Bà, mā",
+        "vi": "Bố, mẹ."
+    },
+    {
+        "start": "00:40:37,768",
+        "end": "00:40:39,703",
+        "en": "那个教理化的谢老师",
+        "pa": "Nàgè jiàolǐ huà de xiè lǎoshī",
+        "vi": "Thầy Tạ dạy lý với hóa ấy,"
+    },
+    {
+        "start": "00:40:39,770",
+        "end": "00:40:42,106",
+        "en": "-他今天跟我… -谢老师我知道",
+        "pa": "-Tā jīntiān gēn wǒ… -xiè lǎoshī wǒ zhīdào",
+        "vi": "- hôm nay thầy bảo con… - Bố biết thầy Tạ."
+    },
+    {
+        "start": "00:40:42,173",
+        "end": "00:40:43,808",
+        "en": "我前两天还碰到他",
+        "pa": "Wǒ qián liǎng tiān hái pèng dào tā",
+        "vi": "Hai hôm trước bố tình cờ gặp được."
+    },
+    {
+        "start": "00:40:43,874",
+        "end": "00:40:45,209",
+        "en": "他一直跟我称赞你",
+        "pa": "Tā yīzhí gēn wǒ chēngzàn nǐ",
+        "vi": "Thầy ấy cứ khen con mãi."
+    },
+    {
+        "start": "00:40:45,276",
+        "end": "00:40:47,945",
+        "en": "很聪明\n 上课也很认真",
+        "pa": "Hěn cōngmíng shàngkè yě hěn rènzhēn",
+        "vi": "Nói là con rất thông minh, học hành rất nghiêm túc."
+    },
+    {
+        "start": "00:40:48,012",
+        "end": "00:40:49,547",
+        "en": "他不是对你很好吗？",
+        "pa": "Tā bùshì duì nǐ hěn hǎo ma?",
+        "vi": "Thầy ấy tốt với con lắm nhỉ?"
+    },
+    {
+        "start": "00:40:52,283",
+        "end": "00:40:54,518",
+        "en": "谢老师他今天有给我历届试题",
+        "pa": "Xiè lǎoshī tā jīntiān yǒu gěi wǒ lìjiè shìtí",
+        "vi": "Hôm nay thầy Tạ cho con một bộ đề cũ."
+    },
+    {
+        "start": "00:40:54,585",
+        "end": "00:40:56,220",
+        "en": "为什么你那么好会有历届试题？",
+        "pa": "Wèishéme nǐ nàme hǎo huì yǒu lìjiè shìtí?",
+        "vi": "Sao chị có được hay thế?"
+    },
+    {
+        "start": "00:40:56,287",
+        "end": "00:40:57,688",
+        "en": "那你等一下看完借我看",
+        "pa": "Nà nǐ děng yīxià kàn wán jiè wǒ kàn",
+        "vi": "Chị xem xong cho em mượn nhé."
+    },
+    {
+        "start": "00:40:59,023",
+        "end": "00:41:01,158",
+        "en": "那谢老师这么照顾我们晨曦",
+        "pa": "Nà xiè lǎoshī zhème zhàogù wǒmen chénxī",
+        "vi": "Thầy Tạ thương Thần Hy thế này,"
+    },
+    {
+        "start": "00:41:01,225",
+        "end": "00:41:04,195",
+        "en": "我们是不是应该买点什么东西",
+        "pa": "Wǒmen shì bùshì yīnggāi mǎidiǎn shénme dōngxī",
+        "vi": "hay là mình mua gì đó để cảm ơn thầy ấy đi?"
+    },
+    {
+        "start": "00:41:04,261",
+        "end": "00:41:05,095",
+        "en": "去跟人家表示感谢一下？\n 应该的",
+        "pa": "Qù gēn rénjiā biǎoshì gǎnxiè yīxià? Yīnggāi de",
+        "vi": "Tất nhiên rồi."
+    },
+    {
+        "start": "00:41:05,162",
+        "end": "00:41:06,664",
+        "en": "那我这礼拜可以跟同学去打篮球？",
+        "pa": "Nà wǒ zhè lǐbài kěyǐ gēn tóngxué qù dǎ lánqiú?",
+        "vi": "Tuần này con đi chơi bóng rổ nhé?"
+    },
+    {
+        "start": "00:41:06,730",
+        "end": "00:41:07,998",
+        "en": "林震烨",
+        "pa": "Línzhènyè",
+        "vi": "Lâm Chấn Diệp."
+    },
+    {
+        "start": "00:41:08,065",
+        "end": "00:41:09,200",
+        "en": "快考高中了",
+        "pa": "Kuài kǎo gāozhōngle",
+        "vi": "Sắp thi tuyển sinh rồi."
+    },
+    {
+        "start": "00:41:09,266",
+        "end": "00:41:10,367",
+        "en": "你多用点心在你课业上",
+        "pa": "Nǐ duōyòng diǎnxīn zài nǐ kèyè shàng",
+        "vi": "Lo mà học hành đi."
+    },
+    {
+        "start": "00:41:10,434",
+        "end": "00:41:11,502",
+        "en": "我一定考得上啊",
+        "pa": "Wǒ yīdìng kǎo dé shàng a",
+        "vi": "Con đỗ là cái chắc."
+    },
+    {
+        "start": "00:41:11,569",
+        "end": "00:41:13,904",
+        "en": "-你先关心姐啦 -那等你考上再说",
+        "pa": "-Nǐ xiān guānxīn jiě la -nà děng nǐ kǎo shàng zàishuō",
+        "vi": "- Bố lo cho chị đi. - Đỗ đi rồi nói."
+    },
+    {
+        "start": "00:41:18,442",
+        "end": "00:41:21,045",
+        "en": "你是不是应该到谢老师家去补习了？",
+        "pa": "Nǐ shì bùshì yīnggāi dào xiè lǎoshī jiā qù bǔxíle?",
+        "vi": "Đến giờ con sang nhà thầy Tạ học thêm rồi mà?"
+    },
+    {
+        "start": "00:41:21,846",
+        "end": "00:41:23,514",
+        "en": "老师说他今天要去研习",
+        "pa": "Lǎoshī shuō tā jīntiān yào qù yánxí",
+        "vi": "Thầy nói hôm nay phải đi tập huấn"
+    },
+    {
+        "start": "00:41:23,581",
+        "end": "00:41:24,915",
+        "en": "今天会晚一点开始",
+        "pa": "Jīntiān huì wǎn yīdiǎn kāishǐ",
+        "vi": "nên lùi giờ học lại."
+    },
+    {
+        "start": "00:41:24,982",
+        "end": "00:41:27,518",
+        "en": "我昨天在菜市场遇到谢师母",
+        "pa": "Wǒ zuótiān zài cài shìchǎng yù dào xiè shīmǔ",
+        "vi": "Hôm qua mẹ gặp cô Tạ ở chợ."
+    },
+    {
+        "start": "00:41:27,585",
+        "end": "00:41:29,119",
+        "en": "她说研习取消了",
+        "pa": "Tā shuō yánxí qǔxiāole",
+        "vi": "Cô ấy nói là không tập huấn nữa."
+    },
+    {
+        "start": "00:41:29,186",
+        "end": "00:41:30,354",
+        "en": "你赶快去",
+        "pa": "Nǐ gǎnkuài qù",
+        "vi": "Đi mau đi."
+    },
+    {
+        "start": "00:41:30,421",
+        "end": "00:41:31,555",
+        "en": "快迟到了吧？",
+        "pa": "Kuài chídàole ba?",
+        "vi": "Sắp muộn rồi đấy."
+    },
+    {
+        "start": "00:41:33,557",
+        "end": "00:41:34,625",
+        "en": "妈",
+        "pa": "Mā",
+        "vi": "Mẹ,"
+    },
+    {
+        "start": "00:41:34,692",
+        "end": "00:41:36,360",
+        "en": "我这礼拜不想要去补习",
+        "pa": "Wǒ zhè lǐbài bùxiǎng yào qù bǔxí",
+        "vi": "tuần này con không muốn đi học thêm."
+    },
+    {
+        "start": "00:41:37,294",
+        "end": "00:41:38,262",
+        "en": "为什么？",
+        "pa": "Wèishéme?",
+        "vi": "Tại sao?"
+    },
+    {
+        "start": "00:41:39,096",
+        "end": "00:41:40,364",
+        "en": "人家谢老师这么认真",
+        "pa": "Rénjiā xiè lǎoshī zhème rènzhēn",
+        "vi": "Thầy Tạ nghiêm túc như thế"
+    },
+    {
+        "start": "00:41:40,431",
+        "end": "00:41:41,432",
+        "en": "你怎么可以偷懒？",
+        "pa": "Nǐ zěnme kěyǐ tōulǎn?",
+        "vi": "mà con lại lười à?"
+    },
+    {
+        "start": "00:41:42,032",
+        "end": "00:41:43,367",
+        "en": "你妈说得没错",
+        "pa": "Nǐ mā shuō dé méi cuò",
+        "vi": "Mẹ con nói đúng đấy."
+    },
+    {
+        "start": "00:41:44,168",
+        "end": "00:41:46,170",
+        "en": "你最近理化进步这么多",
+        "pa": "Nǐ zuìjìn lǐhuà jìnbù zhème duō",
+        "vi": "Dạo này điểm lý hóa của con tiến bộ hơn rồi."
+    },
+    {
+        "start": "00:41:46,237",
+        "end": "00:41:47,638",
+        "en": "都是谢老师的功劳",
+        "pa": "Dōu shì xiè lǎoshī de gōngláo",
+        "vi": "Tất cả là nhờ thầy Tạ đấy."
+    },
+    {
+        "start": "00:41:47,705",
+        "end": "00:41:48,639",
+        "en": "赶快去",
+        "pa": "Gǎnkuài qù",
+        "vi": "Mau đi đi."
+    },
+    {
+        "start": "00:41:49,707",
+        "end": "00:41:50,708",
+        "en": "收一收赶快走",
+        "pa": "Shōu yī shōu gǎnkuài zǒu",
+        "vi": "Chuẩn bị đi đi."
+    },
+    {
+        "start": "00:42:06,056",
+        "end": "00:42:06,891",
+        "en": "学姐",
+        "pa": "Xué jiě",
+        "vi": "Đàn chị."
+    },
+    {
+        "start": "00:42:07,491",
+        "end": "00:42:08,792",
+        "en": "你不去补习吗？",
+        "pa": "Nǐ bù qù bǔxí ma?",
+        "vi": "Chị không đi học thêm à?"
+    },
+    {
+        "start": "00:42:10,394",
+        "end": "00:42:12,296",
+        "en": "我今天要帮我奶奶卖菜",
+        "pa": "Wǒ jīntiān yào bāng wǒ nǎinai mài cài",
+        "vi": "Hôm nay chị phải giúp bà bán rau."
+    },
+    {
+        "start": "00:42:12,897",
+        "end": "00:42:14,999",
+        "en": "你有跟谢老师请假吗？",
+        "pa": "Nǐ yǒu gēn xiè lǎoshī qǐngjià ma?",
+        "vi": "Chị có xin phép thầy nghỉ chưa?"
+    },
+    {
+        "start": "00:42:19,336",
+        "end": "00:42:20,271",
+        "en": "我…",
+        "pa": "Wǒ…",
+        "vi": "Chị…"
+    },
+    {
+        "start": "00:42:25,743",
+        "end": "00:42:26,610",
+        "en": "那我先走啰",
+        "pa": "Nà wǒ xiān zǒu luō",
+        "vi": "Em đi trước nhé."
+    },
+    {
+        "start": "00:42:29,547",
+        "end": "00:42:30,381",
+        "en": "我…",
+        "pa": "Wǒ…",
+        "vi": "Chị…"
+    },
+    {
+        "start": "00:42:52,570",
+        "end": "00:42:53,737",
+        "en": "老师 对不起 我迟到了",
+        "pa": "Lǎoshī duìbùqǐ wǒ chídàole",
+        "vi": "Em xin lỗi vì đến muộn."
+    },
+    {
+        "start": "00:42:54,838",
+        "end": "00:42:55,773",
+        "en": "没有啦",
+        "pa": "Méiyǒu la",
+        "vi": "Không muộn đâu."
+    },
+    {
+        "start": "00:42:55,839",
+        "end": "00:42:57,374",
+        "en": "大家都还没有来",
+        "pa": "Dàjiā dōu hái méiyǒu lái",
+        "vi": "Chưa có ai đến cả."
+    },
+    {
+        "start": "00:42:57,441",
+        "end": "00:42:59,176",
+        "en": "我也是刚研习回来",
+        "pa": "Wǒ yěshì gāng yánxí huílái",
+        "vi": "Thầy cũng vừa đi tập huấn về."
+    },
+    {
+        "start": "00:43:00,578",
+        "end": "00:43:01,979",
+        "en": "你怎么淋成这样？",
+        "pa": "Nǐ zěnme lín chéng zhèyàng?",
+        "vi": "Sao lại ướt hết cả rồi?"
+    },
+    {
+        "start": "00:43:02,513",
+        "end": "00:43:04,048",
+        "en": "没有穿个雨衣啊？",
+        "pa": "Méiyǒu chuān gè yǔyī a?",
+        "vi": "Em không mặc áo mưa à?"
+    },
+    {
+        "start": "00:43:04,114",
+        "end": "00:43:05,716",
+        "en": "因为刚才突然下雨",
+        "pa": "Yīnwèi gāngcái túrán xià yǔ",
+        "vi": "Vì trời đột nhiên đổ mưa."
+    },
+    {
+        "start": "00:43:08,886",
+        "end": "00:43:10,921",
+        "en": "我帮你拿件师母的衣服换一下",
+        "pa": "Wǒ bāng nǐ ná jiàn shīmǔ de yīfú huàn yīxià",
+        "vi": "Thầy đi lấy quần áo của cô cho em thay."
+    },
+    {
+        "start": "00:43:12,022",
+        "end": "00:43:13,123",
+        "en": "老师 不用啦",
+        "pa": "Lǎoshī bùyòng la",
+        "vi": "Không cần đâu ạ."
+    },
+    {
+        "start": "00:43:14,058",
+        "end": "00:43:14,925",
+        "en": "没关系",
+        "pa": "Méiguānxì",
+        "vi": "Không sao đâu."
+    },
+    {
+        "start": "00:43:14,992",
+        "end": "00:43:15,893",
+        "en": "她去买个点心 等下就回来啦",
+        "pa": "Tā qù mǎi gè diǎnxīn děng xià jiù huílái la",
+        "vi": "Cô đi mua đồ ăn vặt"
+    },
+    {
+        "start": "00:43:15,960",
+        "end": "00:43:17,127",
+        "en": "",
+        "pa": "",
+        "vi": "lát nữa sẽ về."
+    },
+    {
+        "start": "00:43:18,596",
+        "end": "00:43:19,964",
+        "en": "你去书房等我",
+        "pa": "Nǐ qù shūfáng děng wǒ",
+        "vi": "Vào phòng làm việc đợi thầy."
+    },
+    {
+        "start": "00:43:20,030",
+        "end": "00:43:21,465",
+        "en": "老师 真的不用",
+        "pa": "Lǎoshī zhēn de bùyòng",
+        "vi": "Không cần đâu thầy."
+    },
+    {
+        "start": "00:44:17,087",
+        "end": "00:44:17,921",
+        "en": "先擦一下",
+        "pa": "Xiān cā yīxià",
+        "vi": "Em lau khô đi đã."
+    },
+    {
+        "start": "00:44:19,156",
+        "end": "00:44:19,990",
+        "en": "谢谢",
+        "pa": "Xièxiè",
+        "vi": "Cảm ơn thầy."
+    },
+    {
+        "start": "00:44:29,600",
+        "end": "00:44:30,701",
+        "en": "我帮你擦",
+        "pa": "Wǒ bāng nǐ cā",
+        "vi": "Để thầy giúp em."
+    },
+    {
+        "start": "00:44:39,743",
+        "end": "00:44:40,778",
+        "en": "老师 我自己来",
+        "pa": "Lǎoshī wǒ zìjǐ lái",
+        "vi": "Em tự làm được mà."
+    },
+    {
+        "start": "00:44:42,246",
+        "end": "00:44:43,313",
+        "en": "没关系 我来",
+        "pa": "Méiguānxì wǒ lái",
+        "vi": "Không sao đâu, để thầy."
+    },
+    {
+        "start": "00:44:51,255",
+        "end": "00:44:52,489",
+        "en": "老师",
+        "pa": "Lǎoshī",
+        "vi": "Thầy."
+    },
+    {
+        "start": "00:45:11,542",
+        "end": "00:45:14,044",
+        "en": "忍耐一下",
+        "pa": "Rěnnài yīxià",
+        "vi": "Cố chịu một chút…"
+    },
+    {
+        "start": "00:46:26,049",
+        "end": "00:46:28,952",
+        "en": "",
+        "pa": "",
+        "vi": "Những đóa hoa đâu mất rồi?"
+    },
+    {
+        "start": "00:46:29,853",
+        "end": "00:46:32,322",
+        "en": "",
+        "pa": "",
+        "vi": "Đã lâu lắm rồi"
+    },
+    {
+        "start": "00:46:33,357",
+        "end": "00:46:36,927",
+        "en": "",
+        "pa": "",
+        "vi": "Những đóa hoa đâu mất rồi?"
+    },
+    {
+        "start": "00:46:36,994",
+        "end": "00:46:39,797",
+        "en": "",
+        "pa": "",
+        "vi": "Xưa thật xưa"
+    },
+    {
+        "start": "00:46:40,597",
+        "end": "00:46:43,834",
+        "en": "",
+        "pa": "",
+        "vi": "Những đóa hoa đâu mất rồi?"
+    },
+    {
+        "start": "00:46:43,901",
+        "end": "00:46:47,237",
+        "en": "",
+        "pa": "",
+        "vi": "Những thiếu nữ đã hái mất rồi"
+    },
+    {
+        "start": "00:46:48,005",
+        "end": "00:46:51,008",
+        "en": "",
+        "pa": "",
+        "vi": "Khi nào thì họ mới hiểu được?"
+    },
+    {
+        "start": "00:46:51,642",
+        "end": "00:46:55,512",
+        "en": "",
+        "pa": "",
+        "vi": "Khi nào thì họ mới hiểu được?"
+    },
+    {
+        "start": "00:46:58,782",
+        "end": "00:47:02,586",
+        "en": "",
+        "pa": "",
+        "vi": "Những thiếu nữ đâu mất rồi?"
+    },
+    {
+        "start": "00:47:02,653",
+        "end": "00:47:04,822",
+        "en": "",
+        "pa": "",
+        "vi": "Đã lâu lắm rồi"
+    },
+    {
+        "start": "00:47:06,256",
+        "end": "00:47:09,259",
+        "en": "",
+        "pa": "",
+        "vi": "Những thiếu nữ đâu mất rồi?"
+    },
+    {
+        "start": "00:47:09,960",
+        "end": "00:47:12,462",
+        "en": "",
+        "pa": "",
+        "vi": "Xưa thật xưa"
+    },
+    {
+        "start": "00:47:13,931",
+        "end": "00:47:17,334",
+        "en": "",
+        "pa": "",
+        "vi": "Những thiếu nữ đâu mất rồi?"
+    },
+    {
+        "start": "00:47:17,401",
+        "end": "00:47:20,938",
+        "en": "",
+        "pa": "",
+        "vi": "Họ đến với những chàng trai trẻ"
+    },
+    {
+        "start": "00:47:21,839",
+        "end": "00:47:24,975",
+        "en": "",
+        "pa": "",
+        "vi": "Khi nào thì họ mới hiểu được?"
+    },
+    {
+        "start": "00:47:25,809",
+        "end": "00:47:29,880",
+        "en": "",
+        "pa": "",
+        "vi": "Khi nào thì họ mới hiểu được?"
+    },
+    {
+        "start": "00:47:56,240",
+        "end": "00:47:57,341",
+        "en": "要不要讲清楚",
+        "pa": "Yào bùyào jiǎng qīngchǔ",
+        "vi": "Ông có thể giải thích"
+    },
+    {
+        "start": "00:47:58,208",
+        "end": "00:47:59,676",
+        "en": "你到底发生什么事？",
+        "pa": "Nǐ dàodǐ fāshēng shénme shì?",
+        "vi": "ông đã gặp phải chuyện gì không?"
+    },
+    {
+        "start": "00:48:00,277",
+        "end": "00:48:01,879",
+        "en": "我女儿为什么会这么说呢？",
+        "pa": "Wǒ nǚ'ér wèishéme huì zhème shuō ne?",
+        "vi": "Sao con gái tôi lại nói thế?"
+    },
+    {
+        "start": "00:48:01,945",
+        "end": "00:48:03,380",
+        "en": "我刚才已经说过了",
+        "pa": "Wǒ gāngcái yǐjīng shuōguòle",
+        "vi": "Tôi đã nói rồi."
+    },
+    {
+        "start": "00:48:03,447",
+        "end": "00:48:04,815",
+        "en": "没有这件事情",
+        "pa": "Méiyǒu zhè jiàn shìqíng",
+        "vi": "Không hề có chuyện đó."
+    },
+    {
+        "start": "00:48:04,882",
+        "end": "00:48:06,950",
+        "en": "你为什么不相信我？",
+        "pa": "Nǐ wèishéme bù xiāngxìn wǒ?",
+        "vi": "Sao bố không tin con chứ?"
+    },
+    {
+        "start": "00:48:07,017",
+        "end": "00:48:08,085",
+        "en": "谢老师",
+        "pa": "Xiè lǎoshī",
+        "vi": "Thầy Tạ"
+    },
+    {
+        "start": "00:48:08,719",
+        "end": "00:48:10,187",
+        "en": "是不是也对你…",
+        "pa": "Shì bùshì yě duì nǐ…",
+        "vi": "cũng làm thế với em à?"
+    },
+    {
+        "start": "00:48:11,521",
+        "end": "00:48:13,624",
+        "en": "（下集预告）\n 你为什么要接近林晨曦？",
+        "pa": "(Xià jí yùgào) nǐ wèishéme yào jiējìn lín chénxī?",
+        "vi": "Sao bà dám tiếp cận Thần Hy?"
+    },
+    {
+        "start": "00:48:13,690",
+        "end": "00:48:15,559",
+        "en": "我一定会杀了你 我发誓！",
+        "pa": "Wǒ yīdìng huì shāle nǐ wǒ fāshì!",
+        "vi": "Tôi chắc chắn sẽ giết bà. Tôi thề!"
+    },
+    {
+        "start": "00:48:16,326",
+        "end": "00:48:17,961",
+        "en": "你要去哪？",
+        "pa": "Nǐ yào qù nǎ?",
+        "vi": "Cậu đi đâu đấy?"
+    },
+    {
+        "start": "00:48:18,028",
+        "end": "00:48:19,096",
+        "en": "颜圣华",
+        "pa": "Yánshènghuá",
+        "vi": "Nhan Thánh Hoa"
+    },
+    {
+        "start": "00:48:19,162",
+        "end": "00:48:20,330",
+        "en": "刚来自首了",
+        "pa": "Gāng láizì shǒule",
+        "vi": "vừa ra đầu thú rồi."
+    },
+    {
+        "start": "00:48:20,397",
+        "end": "00:48:21,632",
+        "en": "一定是她杀了我先生的",
+        "pa": "Yīdìng shì tā shāle wǒ xiānshēng de",
+        "vi": "Chính nó đã giết chồng tôi."
+    },
+    {
+        "start": "00:48:21,698",
+        "end": "00:48:23,433",
+        "en": "你愿意帮我保守秘密吗？",
+        "pa": "Nǐ yuànyì bāng wǒ bǎoshǒu mìmì ma?",
+        "vi": "Cậu giữ bí mật cho tớ nhé?"
+    },
+    {
+        "start": "00:48:23,500",
+        "end": "00:48:24,668",
+        "en": "我就是见不得林晨曦好",
+        "pa": "Wǒ jiùshì jiànbùdé lín chénxī hǎo",
+        "vi": "Tớ không muốn nó vui vẻ,"
+    },
+    {
+        "start": "00:48:24,735",
+        "end": "00:48:26,069",
+        "en": "我就是要毁掉她 怎么样？",
+        "pa": "Wǒ jiùshì yào huǐ diào tā zěnme yàng?",
+        "vi": "muốn hủy hoại nó, thì sao?"
+    },
+    {
+        "start": "00:49:30,968",
+        "end": "00:49:35,973",
+        "en": "字幕翻译：陈凯欣 ",
+        "pa": "Zìmù fānyì: Chénkǎixīn",
+        "vi": "Biên dịch: Lâm Nguyệt Quỳnh"
+    }
+]
