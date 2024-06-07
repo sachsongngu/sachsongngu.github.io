@@ -1,0 +1,3033 @@
+[
+    {
+        "start": "00:00:06,680",
+        "end": "00:00:09,440",
+        "en": "EN NETFLIXSERIE",
+        "pa": "",
+        "vi": "LOẠT PHIM NETFLIX"
+    },
+    {
+        "start": "00:01:12,320",
+        "end": "00:01:15,960",
+        "en": "Hej. Du! Vänta! Vad ska du göra?",
+        "pa": "",
+        "vi": "Này, đợi đã!\n Chú làm gì đấy?"
+    },
+    {
+        "start": "00:01:17,840",
+        "end": "00:01:19,440",
+        "en": "Du tänker väl inte hoppa?",
+        "pa": "",
+        "vi": "Chú không định nhảy đấy chứ?"
+    },
+    {
+        "start": "00:01:22,480",
+        "end": "00:01:25,280",
+        "en": "Jag heter Jack. Vad heter du?",
+        "pa": "",
+        "vi": "Cháu là Jack. Tên chú là gì?"
+    },
+    {
+        "start": "00:01:27,560",
+        "end": "00:01:31,680",
+        "en": "Min pappa, Jim, är polis. Han är bra att prata med om man har problem.",
+        "pa": "",
+        "vi": "Bố cháu, Jim, là cảnh sát. Nếu chú có vấn đề, bố cháu biết lắng nghe lắm."
+    },
+    {
+        "start": "00:01:31,760",
+        "end": "00:01:34,680",
+        "en": "Du kan få prata med honom. Jag har hans telefonnummer.",
+        "pa": "",
+        "vi": "Chú có thể nói chuyện với bố cháu. Cháu có số đây."
+    },
+    {
+        "start": "00:01:40,160",
+        "end": "00:01:42,320",
+        "en": "Kan du lämna in det här på banken?",
+        "pa": "",
+        "vi": "Cháu gửi cái này đến ngân hàng nhé?"
+    },
+    {
+        "start": "00:01:46,040",
+        "end": "00:01:47,840",
+        "en": "Om du lovar att inte hoppa.",
+        "pa": "",
+        "vi": "Nếu chú hứa không nhảy."
+    },
+    {
+        "start": "00:01:54,360",
+        "end": "00:01:55,520",
+        "en": "Okej.",
+        "pa": "",
+        "vi": "Được."
+    },
+    {
+        "start": "00:01:59,120",
+        "end": "00:02:00,200",
+        "en": "Nej!",
+        "pa": "",
+        "vi": "Không!"
+    },
+    {
+        "start": "00:02:25,080",
+        "end": "00:02:26,640",
+        "en": "-Hallå där. -God morgon, pappa.",
+        "pa": "",
+        "vi": "- Chào. - Chào buổi sáng."
+    },
+    {
+        "start": "00:02:26,720",
+        "end": "00:02:30,120",
+        "en": "-Var det en skön tur, Jack? -Ja, det var friskt.",
+        "pa": "",
+        "vi": "- Con chạy tốt chứ? - Vâng, sảng khoái lắm ạ."
+    },
+    {
+        "start": "00:02:30,840",
+        "end": "00:02:32,520",
+        "en": "-Vad härligt. -Faktiskt.",
+        "pa": "",
+        "vi": "- Hay quá. - Vâng."
+    },
+    {
+        "start": "00:02:32,600",
+        "end": "00:02:35,600",
+        "en": "-Följ med nästa gång. -Jag kan inte med mitt knä.",
+        "pa": "",
+        "vi": "- Lần sau chạy cùng con. - Đầu gối không cho phép bố."
+    },
+    {
+        "start": "00:02:35,680",
+        "end": "00:02:37,160",
+        "en": "-Ditt knä? -Ja.",
+        "pa": "",
+        "vi": "- Đầu gối à? - Ừ."
+    },
+    {
+        "start": "00:02:38,240",
+        "end": "00:02:42,560",
+        "en": "Alltså du kan inte skylla på det där knäet längre, pappa. Det är…",
+        "pa": "",
+        "vi": "Bố không thể mãi đổ lỗi cho cái đầu gối được. Đó…"
+    },
+    {
+        "start": "00:02:42,640",
+        "end": "00:02:45,680",
+        "en": "Varför inte? Det har ju fungerat i alla år.",
+        "pa": "",
+        "vi": "Sao không? Bao năm qua đều được mà."
+    },
+    {
+        "start": "00:02:45,760",
+        "end": "00:02:49,760",
+        "en": "Tänk om du måste jaga nån. Det kan ju vara ett mord eller…",
+        "pa": "",
+        "vi": "Nhỡ bố phải đuổi theo ai đó thì sao? Có thể có án mạng."
+    },
+    {
+        "start": "00:02:49,840",
+        "end": "00:02:52,680",
+        "en": "Nån mördar nån och springer iväg. Vad gör du då?",
+        "pa": "",
+        "vi": "Có một kẻ giết người rồi bỏ chạy. Thì bố làm gì?"
+    },
+    {
+        "start": "00:02:52,760",
+        "end": "00:02:55,560",
+        "en": "-Då springer inte du. -Jag har ju dig, eller hur?",
+        "pa": "",
+        "vi": "- Bố không đuổi à? - Không, bố có con mà."
+    },
+    {
+        "start": "00:02:55,640",
+        "end": "00:03:00,400",
+        "en": "Jag ropar på förstärkning från bilen. Då kommer du och springer efter mördaren.",
+        "pa": "",
+        "vi": "Bố sẽ về xe gọi hỗ trợ, rồi con sẽ đuổi theo tên giết người."
+    },
+    {
+        "start": "00:03:00,480",
+        "end": "00:03:02,960",
+        "en": "Jag sitter bara och skriker.",
+        "pa": "",
+        "vi": "Bố chỉ ngồi la hét thôi."
+    },
+    {
+        "start": "00:03:03,040",
+        "end": "00:03:04,920",
+        "en": "Eller så kan du lära dig att springa.",
+        "pa": "",
+        "vi": "Hoặc bố có thể học chạy."
+    },
+    {
+        "start": "00:03:05,000",
+        "end": "00:03:07,120",
+        "en": "Vad tänker du göra i morgon?",
+        "pa": "",
+        "vi": "Mai con có việc gì không?"
+    },
+    {
+        "start": "00:03:07,200",
+        "end": "00:03:09,280",
+        "en": "Ja, det blir väl",
+        "pa": "",
+        "vi": "Chắc là"
+    },
+    {
+        "start": "00:03:09,760",
+        "end": "00:03:11,880",
+        "en": "att vara här hemma med dig.",
+        "pa": "",
+        "vi": "con sẽ ở đây với bố."
+    },
+    {
+        "start": "00:03:11,960",
+        "end": "00:03:15,800",
+        "en": "Vad trevligt. \"Same procedure as last year\".",
+        "pa": "",
+        "vi": "Hay quá.\n \"Quy trình như năm ngoái\"."
+    },
+    {
+        "start": "00:03:16,360",
+        "end": "00:03:19,320",
+        "en": "Det hoppas jag väl inte egentligen.",
+        "pa": "",
+        "vi": "Con thật lòng mong là không."
+    },
+    {
+        "start": "00:03:20,920",
+        "end": "00:03:23,280",
+        "en": "Jag tänker på det där med syrran.",
+        "pa": "",
+        "vi": "Con đang nghĩ về em."
+    },
+    {
+        "start": "00:03:25,280",
+        "end": "00:03:31,000",
+        "en": "Som jag minns det så satt du och deppade hela kvällen över att Jill inte kom.",
+        "pa": "",
+        "vi": "Theo con nhớ,\n bố dành cả buổi tối hờn dỗi vì Jill không về."
+    },
+    {
+        "start": "00:03:35,480",
+        "end": "00:03:39,680",
+        "en": "Vi måste ju ha nåt gott att äta i morgon. Det är ju i alla fall nyår.",
+        "pa": "",
+        "vi": "Ta cần món gì đó ngon để ăn ngày mai. Đêm giao thừa mà."
+    },
+    {
+        "start": "00:03:42,120",
+        "end": "00:03:43,400",
+        "en": "Absolut.",
+        "pa": "",
+        "vi": "Được."
+    },
+    {
+        "start": "00:03:44,200",
+        "end": "00:03:47,200",
+        "en": "-Vi kan väl handla ihop efter jobbet? -Ja, det blir bra.",
+        "pa": "",
+        "vi": "- Xong việc đi mua sắm nhé. - Nghe hay đấy."
+    },
+    {
+        "start": "00:03:47,280",
+        "end": "00:03:48,840",
+        "en": "-Det blir skitbra. -Jättebra.",
+        "pa": "",
+        "vi": "- Tuyệt lắm. - Được."
+    },
+    {
+        "start": "00:03:49,640",
+        "end": "00:03:50,680",
+        "en": "Super.",
+        "pa": "",
+        "vi": "Tuyệt."
+    },
+    {
+        "start": "00:03:52,640",
+        "end": "00:03:55,480",
+        "en": "-Vad gott det luktar. Jag ska bara duscha. -Okej.",
+        "pa": "",
+        "vi": "- Mùi thơm quá. Con tắm đây. - Ừ."
+    },
+    {
+        "start": "00:04:05,840",
+        "end": "00:04:11,320",
+        "en": "",
+        "pa": "",
+        "vi": "NHÀ THAM QUAN"
+    },
+    {
+        "start": "00:04:35,640",
+        "end": "00:04:39,120",
+        "en": "Nej, nej, nej. Helvete. Snälla.",
+        "pa": "",
+        "vi": "Không. Chết tiệt."
+    },
+    {
+        "start": "00:04:39,200",
+        "end": "00:04:43,280",
+        "en": "-Du behöver inte oroa dig. -Ser du inte att hon är gravid?",
+        "pa": "",
+        "vi": "- Đừng lo về họ. - Em không thấy cô ta có thai à?"
+    },
+    {
+        "start": "00:04:43,360",
+        "end": "00:04:47,080",
+        "en": "Gravida kvinnor är irrationella. Hon kommer att förstöra allt.",
+        "pa": "",
+        "vi": "Phụ nữ có thai khó lường lắm. Sẽ hủy hoại mọi thứ."
+    },
+    {
+        "start": "00:04:47,160",
+        "end": "00:04:50,520",
+        "en": "Så länge vi håller oss till planen kommer allt att gå bra.",
+        "pa": "",
+        "vi": "Miễn là ta làm đúng kế hoạch thì sẽ ổn thôi."
+    },
+    {
+        "start": "00:04:51,800",
+        "end": "00:04:53,480",
+        "en": "Ingen är bättre än du på det här.",
+        "pa": "",
+        "vi": "Không ai giỏi hơn anh."
+    },
+    {
+        "start": "00:04:54,840",
+        "end": "00:04:56,680",
+        "en": "Hör du. Va?",
+        "pa": "",
+        "vi": "Này."
+    },
+    {
+        "start": "00:04:57,640",
+        "end": "00:04:59,160",
+        "en": "Ja, visst.",
+        "pa": "",
+        "vi": "Được."
+    },
+    {
+        "start": "00:04:59,240",
+        "end": "00:05:01,360",
+        "en": "Men det är ingen stress, vi är ju här.",
+        "pa": "",
+        "vi": "Đừng bực bội. Ta đến rồi."
+    },
+    {
+        "start": "00:05:01,440",
+        "end": "00:05:04,960",
+        "en": "Okej, men det här kan ju vara sista chansen vi får.",
+        "pa": "",
+        "vi": "Đây có thể là cơ hội cuối cùng của chúng ta."
+    },
+    {
+        "start": "00:05:09,280",
+        "end": "00:05:10,240",
+        "en": "Hej.",
+        "pa": "",
+        "vi": "Xin chào."
+    },
+    {
+        "start": "00:05:12,240",
+        "end": "00:05:13,760",
+        "en": "Kommer du ensam?",
+        "pa": "",
+        "vi": "Cô đi một mình à?"
+    },
+    {
+        "start": "00:05:14,800",
+        "end": "00:05:16,320",
+        "en": "Ja, precis.",
+        "pa": "",
+        "vi": "Vâng, đúng thế."
+    },
+    {
+        "start": "00:05:17,200",
+        "end": "00:05:20,120",
+        "en": "Det är en stor våning för en ensam person.",
+        "pa": "",
+        "vi": "Nhà này một người ở thì rộng quá."
+    },
+    {
+        "start": "00:05:21,120",
+        "end": "00:05:22,360",
+        "en": "Men, Gud.",
+        "pa": "",
+        "vi": "Chúa ơi."
+    },
+    {
+        "start": "00:05:22,440",
+        "end": "00:05:23,880",
+        "en": "-Hej, hej. -Hej.",
+        "pa": "",
+        "vi": "- Xin chào. - Chào."
+    },
+    {
+        "start": "00:05:34,320",
+        "end": "00:05:39,040",
+        "en": "Oj, du, är det inte väldigt… Alltså det är väldigt kort nu här bak.",
+        "pa": "",
+        "vi": "Chẳng phải quá…"
+    },
+    {
+        "start": "00:05:39,720",
+        "end": "00:05:42,520",
+        "en": "-Längst ner här är det väldigt… -Men snälla Jack.",
+        "pa": "",
+        "vi": "Ở sau gáy ngắn quá.\n - Chỗ dưới cùng đây này. - Làm ơn, Jack."
+    },
+    {
+        "start": "00:05:42,600",
+        "end": "00:05:45,000",
+        "en": "Klipper du dig en gång i halvåret",
+        "pa": "",
+        "vi": "Nếu sáu tháng anh mới cắt tóc một lần"
+    },
+    {
+        "start": "00:05:45,080",
+        "end": "00:05:48,680",
+        "en": "kan du inte förvänta dig att jag ska trimma det lite bara.",
+        "pa": "",
+        "vi": "thì đừng mong tôi chỉ cắt tỉa một chút chứ."
+    },
+    {
+        "start": "00:05:48,760",
+        "end": "00:05:50,840",
+        "en": "Då kommer du att ha hår till arslet.",
+        "pa": "",
+        "vi": "Thế thì tóc anh sẽ dài đến mông."
+    },
+    {
+        "start": "00:05:50,920",
+        "end": "00:05:56,720",
+        "en": "-Titta på din pappa. Han blev väl fin? -Ja, det blev bra, men det är ovant.",
+        "pa": "",
+        "vi": "- Nhìn bố anh đi. Trông đẹp mà. - Ừ, nhưng tôi không quen."
+    },
+    {
+        "start": "00:05:57,760",
+        "end": "00:06:02,880",
+        "en": "Vad fint att Jill kommer hit så att ni får fira nyår ihop.",
+        "pa": "",
+        "vi": "Thật tuyệt khi Jill sắp về để cả nhà đón giao thừa cùng nhau."
+    },
+    {
+        "start": "00:06:05,000",
+        "end": "00:06:06,280",
+        "en": "Vänta… Jill?",
+        "pa": "",
+        "vi": "Khoan đã. Jill?"
+    },
+    {
+        "start": "00:06:06,760",
+        "end": "00:06:08,600",
+        "en": "Kommer min syrra hit?",
+        "pa": "",
+        "vi": "Em tôi sắp về à?"
+    },
+    {
+        "start": "00:06:09,360",
+        "end": "00:06:13,120",
+        "en": "Ja. Fan, förlåt. Det var din pappa som sa det.",
+        "pa": "",
+        "vi": "Ừ, khỉ thật, xin lỗi. Bố anh nói với tôi."
+    },
+    {
+        "start": "00:06:13,200",
+        "end": "00:06:16,920",
+        "en": "Vad sa han? Har han köpt biljett till henne eller skickat pengar?",
+        "pa": "",
+        "vi": "Ông ấy nói gì? Ông ấy mua vé hay gửi tiền cho nó?"
+    },
+    {
+        "start": "00:06:17,000",
+        "end": "00:06:19,920",
+        "en": "Jag vet inte, men bli inte arg på honom nu.",
+        "pa": "",
+        "vi": "Tôi không biết, nhưng đừng giận ông ấy."
+    },
+    {
+        "start": "00:06:20,000",
+        "end": "00:06:22,280",
+        "en": "Han vill ju bara att ni ska samlas.",
+        "pa": "",
+        "vi": "Ông ấy chỉ muốn cả nhà đoàn tụ."
+    },
+    {
+        "start": "00:06:22,840",
+        "end": "00:06:26,240",
+        "en": "Men om hon kommer hit så kan jag pyssla om henne…",
+        "pa": "",
+        "vi": "Nếu cô ấy đến đây trước, tôi có thể chăm sóc cô ấy."
+    },
+    {
+        "start": "00:06:30,080",
+        "end": "00:06:33,800",
+        "en": "Jag swishar dig direkt så ses vi vid fyratiden.",
+        "pa": "",
+        "vi": "Bố sẽ chuyển tiền ngay. Hẹn gặp con tầm bốn giờ."
+    },
+    {
+        "start": "00:06:38,440",
+        "end": "00:06:40,760",
+        "en": "-Snyggt. Annorlunda. -Pappa.",
+        "pa": "",
+        "vi": "- Hay đấy. Khác biệt. - Bố."
+    },
+    {
+        "start": "00:06:41,440",
+        "end": "00:06:46,920",
+        "en": "-Har du skickat pengar till Jill nu igen? -Ja, hon kommer hit i eftermiddag.",
+        "pa": "",
+        "vi": "Bố lại gửi tiền cho Jill à?"
+    },
+    {
+        "start": "00:06:47,000",
+        "end": "00:06:51,120",
+        "en": "Hon ska precis ta tåget från Stockholm. Hon vill fira med oss i morgon. Kul, va?",
+        "pa": "",
+        "vi": "Ừ, chiều nay nó về.\n Nó bắt tàu từ Stockholm. Nó muốn đón năm mới với chúng ta. Tuyệt!"
+    },
+    {
+        "start": "00:06:53,160",
+        "end": "00:06:58,160",
+        "en": "Alltså… Du vet ju själv att hon inte kommer den här gången heller.",
+        "pa": "",
+        "vi": "Bố phải biết là lần này nó cũng không về chứ."
+    },
+    {
+        "start": "00:06:58,240",
+        "end": "00:07:00,240",
+        "en": "Det vet du ju om, eller hur?",
+        "pa": "",
+        "vi": "Bố biết mà, phải không?"
+    },
+    {
+        "start": "00:07:00,920",
+        "end": "00:07:04,840",
+        "en": "Jag tänkte vi skulle ha marängsviss till efterrätt, vad säger du om det?",
+        "pa": "",
+        "vi": "Bố định tráng miệng tối nay là bánh meringue với kem và sô-cô-la."
+    },
+    {
+        "start": "00:07:04,920",
+        "end": "00:07:05,840",
+        "en": "Alltså…",
+        "pa": "",
+        "vi": "Vậy…"
+    },
+    {
+        "start": "00:07:07,160",
+        "end": "00:07:10,680",
+        "en": "Pengarna går till knark, och det är samma sak varje gång.",
+        "pa": "",
+        "vi": "tiền sẽ dùng để mua ma túy. Lần nào cũng thế."
+    },
+    {
+        "start": "00:07:10,760",
+        "end": "00:07:12,920",
+        "en": "-Det har hänt tusen gånger nu. -Nej.",
+        "pa": "",
+        "vi": "- Cả ngàn lần rồi. - Không."
+    },
+    {
+        "start": "00:07:13,000",
+        "end": "00:07:18,000",
+        "en": "Hon lät väldigt glad och pigg. Hon kommer. Nu har vi pratat klart om det här. Okej?",
+        "pa": "",
+        "vi": "Giọng nó rất vui vẻ và tỉnh táo. Nó sẽ về. Nói thế đủ rồi nhé?"
+    },
+    {
+        "start": "00:07:18,080",
+        "end": "00:07:20,480",
+        "en": "-Kan du lyssna på mig, pappa? -Säg inte ett ord.",
+        "pa": "",
+        "vi": "- Nghe con đi bố. - Không lời nào nữa."
+    },
+    {
+        "start": "00:07:20,560",
+        "end": "00:07:23,600",
+        "en": "Jo, fattar du inte att du finansierar hennes missbruk?",
+        "pa": "",
+        "vi": "Bố không hiểu lần nào cũng gửi tiền là nuôi thói quen nghiện ngập của nó à?"
+    },
+    {
+        "start": "00:07:23,680",
+        "end": "00:07:25,640",
+        "en": "Genom att skicka pengar hela tiden.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:07:25,720",
+        "end": "00:07:29,440",
+        "en": "Hur kan du vara så negativ till din egen syster?",
+        "pa": "",
+        "vi": "Sao nói về em gái mà con tiêu cực thế nhỉ?"
+    },
+    {
+        "start": "00:07:37,440",
+        "end": "00:07:38,640",
+        "en": "Ta en nummerlapp.",
+        "pa": "",
+        "vi": "Xin hãy lấy vé."
+    },
+    {
+        "start": "00:07:40,200",
+        "end": "00:07:41,600",
+        "en": "Ursäkta, kan du ta…",
+        "pa": "",
+        "vi": "Xin lỗi…"
+    },
+    {
+        "start": "00:07:48,000",
+        "end": "00:07:50,720",
+        "en": "Jag… Jag har inga pengar.",
+        "pa": "",
+        "vi": "Tôi… tôi không có tiền."
+    },
+    {
+        "start": "00:07:51,320",
+        "end": "00:07:52,920",
+        "en": "Det finns inga pengar här!",
+        "pa": "",
+        "vi": "Ở đây không có tiền."
+    },
+    {
+        "start": "00:07:55,520",
+        "end": "00:07:59,600",
+        "en": "Vi är en kontantfri bank. No money, no dinero…",
+        "pa": "",
+        "vi": "NGÂN HÀNG KHÔNG TIỀN MẶT\n Ngân hàng không tiền mặt.\n Không có tiền đâu."
+    },
+    {
+        "start": "00:07:59,680",
+        "end": "00:08:02,960",
+        "en": "-Det är ditt kött och blod. -Jag längtar efter den riktiga Jill…",
+        "pa": "",
+        "vi": "- Nó là ruột thịt với con đấy. - Con nhớ Jill thật sự."
+    },
+    {
+        "start": "00:08:03,040",
+        "end": "00:08:05,320",
+        "en": "Njet money!",
+        "pa": "",
+        "vi": "Không có tiền!"
+    },
+    {
+        "start": "00:08:08,160",
+        "end": "00:08:11,560",
+        "en": "Jag har inga pengar. Snälla, jag vill inte dö.",
+        "pa": "",
+        "vi": "Tôi không có tiền. Làm ơn, tôi không muốn chết."
+    },
+    {
+        "start": "00:08:11,640",
+        "end": "00:08:14,160",
+        "en": "Förra gången stack hon efter två dagar.",
+        "pa": "",
+        "vi": "Lần trước nó bỏ đi sau hai ngày."
+    },
+    {
+        "start": "00:08:14,240",
+        "end": "00:08:16,800",
+        "en": "-Herregud. - Hon har sagt att hon går med på…",
+        "pa": "",
+        "vi": "- Chúa ơi! Có cướp… - Bố đã đồng ý cho nó đi cai nghiện."
+    },
+    {
+        "start": "00:08:16,880",
+        "end": "00:08:18,920",
+        "en": "-Det är en rånare… - Det är nya läkare.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:08:19,000",
+        "end": "00:08:21,360",
+        "en": "Jag har inga pengar, jag lovar!",
+        "pa": "",
+        "vi": "Tôi không có tiền, tôi thề!"
+    },
+    {
+        "start": "00:08:22,360",
+        "end": "00:08:24,000",
+        "en": "-Hjälp! -Det är ett rån!",
+        "pa": "",
+        "vi": "- Cứu! - Có cướp!"
+    },
+    {
+        "start": "00:08:24,080",
+        "end": "00:08:28,280",
+        "en": "-Jack, Jim, det är ett rån! -Förlåt, jag ska betala såklart.",
+        "pa": "",
+        "vi": "- Jack, Jim, có cướp! - Xin lỗi, tôi sẽ trả tiền."
+    },
+    {
+        "start": "00:08:28,360",
+        "end": "00:08:30,000",
+        "en": "-Nej, bakom er! -Va?",
+        "pa": "",
+        "vi": "- Không, sau lưng anh. - Gì?"
+    },
+    {
+        "start": "00:08:30,080",
+        "end": "00:08:33,640",
+        "en": "Det är en rånare på banken. Där! Spring!",
+        "pa": "",
+        "vi": "Có kẻ cướp ngân hàng. Kia kìa!"
+    },
+    {
+        "start": "00:08:34,760",
+        "end": "00:08:38,360",
+        "en": "- Vänta, rånaren kan vara beväpnad! -Polis! Stanna!",
+        "pa": "",
+        "vi": "Chạy!\n - Khoan, hắn có thể có vũ khí. - Cảnh sát đây. Đứng lại!"
+    },
+    {
+        "start": "00:08:39,360",
+        "end": "00:08:44,280",
+        "en": "Hjälp! Jag har blivit rånad. Han riktade pistolen rakt mot huvudet…",
+        "pa": "",
+        "vi": "Cứu, tôi bị cướp. Hắn chĩa súng vào đầu tôi."
+    },
+    {
+        "start": "00:08:44,360",
+        "end": "00:08:46,840",
+        "en": "Han är beväpnad! Jack, vänta!",
+        "pa": "",
+        "vi": "Hắn có vũ khí! Jack, đợi đã!"
+    },
+    {
+        "start": "00:08:46,920",
+        "end": "00:08:50,720",
+        "en": "-Du, ta det lugnt. -Ta hit ett vapen då för helvete.",
+        "pa": "",
+        "vi": "- Bình tĩnh. - Mang vũ khí ra đây."
+    },
+    {
+        "start": "00:08:55,200",
+        "end": "00:08:57,040",
+        "en": "Stanna! Polis!",
+        "pa": "",
+        "vi": "Đứng lại. Cảnh sát đây!"
+    },
+    {
+        "start": "00:09:03,320",
+        "end": "00:09:05,440",
+        "en": "Han är där inne. Vad ska vi göra?",
+        "pa": "",
+        "vi": "Hắn ở trong đó. Làm gì đây?"
+    },
+    {
+        "start": "00:09:05,520",
+        "end": "00:09:08,640",
+        "en": "Bevaka dörren. Jag har kallat på förstärkning.",
+        "pa": "",
+        "vi": "Canh cửa. Bố gọi hỗ trợ rồi."
+    },
+    {
+        "start": "00:09:15,440",
+        "end": "00:09:17,080",
+        "en": "-Jag kollar baksidan. -Ja.",
+        "pa": "",
+        "vi": "- Bố kiểm tra phía sau. - Dạ."
+    },
+    {
+        "start": "00:09:18,440",
+        "end": "00:09:19,720",
+        "en": "Jack.",
+        "pa": "",
+        "vi": "Jack."
+    },
+    {
+        "start": "00:09:21,720",
+        "end": "00:09:24,400",
+        "en": "-Bra. Backa lite från porten. -Absolut.",
+        "pa": "",
+        "vi": "- Tốt. Tránh xa cửa ra. - Được."
+    },
+    {
+        "start": "00:09:25,000",
+        "end": "00:09:28,240",
+        "en": "Du ser inte klok ut. Får jag ta andra sidan?",
+        "pa": "",
+        "vi": "Trông anh ngố quá. Tôi cắt bên kia nhé?"
+    },
+    {
+        "start": "00:09:28,320",
+        "end": "00:09:31,400",
+        "en": "-Inte nu, tack. Kan du backa lite grann? -Backa?",
+        "pa": "",
+        "vi": "- Không phải bây giờ. Lùi lại đi. - Lùi lại?"
+    },
+    {
+        "start": "00:09:34,800",
+        "end": "00:09:37,480",
+        "en": "Kommer vi inte in här? Aj, aj, aj.",
+        "pa": "",
+        "vi": "Không được vào, nhé?"
+    },
+    {
+        "start": "00:09:38,080",
+        "end": "00:09:39,840",
+        "en": "-Helvete. -Ni hörde. Backa.",
+        "pa": "",
+        "vi": "Au!\n - Chết tiệt. - Đó. Lùi lại."
+    },
+    {
+        "start": "00:09:39,920",
+        "end": "00:09:42,680",
+        "en": "-Vad gör vi? -Cecilia, kan du komma hit?",
+        "pa": "",
+        "vi": "- Làm gì đây? - Cecilia, đến đây nhé?"
+    },
+    {
+        "start": "00:09:42,760",
+        "end": "00:09:44,760",
+        "en": "Stora trappan vid Stortorget.",
+        "pa": "",
+        "vi": "Bậc thang cạnh Stortorget."
+    },
+    {
+        "start": "00:09:51,280",
+        "end": "00:09:54,120",
+        "en": "Luktar det inte lite mögel här, Roger?",
+        "pa": "",
+        "vi": "Có mùi hơi ẩm mốc nhỉ, Roger?"
+    },
+    {
+        "start": "00:09:54,200",
+        "end": "00:09:56,400",
+        "en": "-Känner du? -Ja, det kanske det gör.",
+        "pa": "",
+        "vi": "- Đúng không? - Ừ, có thể em nói đúng."
+    },
+    {
+        "start": "00:09:57,000",
+        "end": "00:09:59,600",
+        "en": "Hörde du, Julia? Det är mögel i lägenheten.",
+        "pa": "",
+        "vi": "Nghe thấy chưa, Julia? Nhà này có nấm mốc."
+    },
+    {
+        "start": "00:09:59,680",
+        "end": "00:10:02,640",
+        "en": "Det tar vi upp med mäklaren. Det ska stå i prospektet.",
+        "pa": "",
+        "vi": "Phải nói chuyện với môi giới. Quảng cáo phải đăng."
+    },
+    {
+        "start": "00:10:07,000",
+        "end": "00:10:10,240",
+        "en": "Hur kan man begära fyra miljoner för den här våningen?",
+        "pa": "",
+        "vi": "NHÀ THAM QUAN\n Sao họ dám đòi bốn triệu cho căn hộ này được?"
+    },
+    {
+        "start": "00:10:10,320",
+        "end": "00:10:12,040",
+        "en": "Överpris, om du frågar mig.",
+        "pa": "",
+        "vi": "Giá đúng là chặt chém."
+    },
+    {
+        "start": "00:10:14,000",
+        "end": "00:10:15,280",
+        "en": "Vilket jävla liv.",
+        "pa": "",
+        "vi": "- Tiếng ồn gì thế? - May mà bọn trẻ ra ở riêng rồi."
+    },
+    {
+        "start": "00:10:15,360",
+        "end": "00:10:18,080",
+        "en": "Tur att barnen har flyttat hemifrån.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:10:18,160",
+        "end": "00:10:20,240",
+        "en": "Det var en snabb titt.",
+        "pa": "",
+        "vi": "Đó gọi là tham quan nhanh."
+    },
+    {
+        "start": "00:10:20,320",
+        "end": "00:10:26,000",
+        "en": "- Det är skadligt för småbarn. - Ja du, för vuxna också.",
+        "pa": "",
+        "vi": "- Có hại cho trẻ nhỏ. - Và người lớn."
+    },
+    {
+        "start": "00:10:27,240",
+        "end": "00:10:31,240",
+        "en": "-Nej! -Det är ett rån! Vi blir rånade.",
+        "pa": "",
+        "vi": "- Không! - Cướp! Chúng ta bị cướp!"
+    },
+    {
+        "start": "00:10:32,800",
+        "end": "00:10:37,200",
+        "en": "Vad fan var det? Vad i helvete…? Var kan det vara nånstans?",
+        "pa": "",
+        "vi": "Không!\n Cái quái gì vậy? Cái gì…"
+    },
+    {
+        "start": "00:10:37,880",
+        "end": "00:10:39,880",
+        "en": "Öh… Nej, vi får kolla runt.",
+        "pa": "",
+        "vi": "Tiếng động từ đâu ra?"
+    },
+    {
+        "start": "00:10:42,640",
+        "end": "00:10:44,760",
+        "en": "-Skjut inte! - Ta det lugnt!",
+        "pa": "",
+        "vi": "- Đừng bắn! - Bình tĩnh."
+    },
+    {
+        "start": "00:10:44,840",
+        "end": "00:10:49,000",
+        "en": "-Skjut inte. Har du kontanter i väskan? -Ser jag ut som en knarklangare?",
+        "pa": "",
+        "vi": "- Đừng bắn. Cô có tiền mặt không? - Tôi trông giống dân buôn ma túy à?"
+    },
+    {
+        "start": "00:10:49,600",
+        "end": "00:10:52,080",
+        "en": "Alla lägger sig ner. Lägg er ner!",
+        "pa": "",
+        "vi": "Tất cả nằm xuống sàn. Nằm xuống!"
+    },
+    {
+        "start": "00:10:52,160",
+        "end": "00:10:54,400",
+        "en": "Ska min gravida fru ligga på ett trägolv?",
+        "pa": "",
+        "vi": "Vợ tôi có thai, không nằm sàn gỗ được."
+    },
+    {
+        "start": "00:10:54,480",
+        "end": "00:10:57,240",
+        "en": "-Gör som han säger. -Han har inte sagt ett jävla skit.",
+        "pa": "",
+        "vi": "- Bảo thì làm đi. - Hắn có bảo gì đâu."
+    },
+    {
+        "start": "00:10:57,320",
+        "end": "00:10:59,480",
+        "en": "Det är så man gör! Ligg ner!",
+        "pa": "",
+        "vi": "Làm đi. Nằm xuống!"
+    },
+    {
+        "start": "00:11:00,040",
+        "end": "00:11:02,480",
+        "en": "Ett möjligt gisslandrama här i värsta fall.",
+        "pa": "",
+        "vi": "Trường hợp tệ nhất, có một vụ bắt con tin."
+    },
+    {
+        "start": "00:11:02,560",
+        "end": "00:11:04,400",
+        "en": "Vad fan ska vi göra? Vad gör vi?",
+        "pa": "",
+        "vi": "Làm gì đây?"
+    },
+    {
+        "start": "00:11:04,480",
+        "end": "00:11:07,280",
+        "en": "Vi får kolla vilka som bor i huset och sedan utrymma.",
+        "pa": "",
+        "vi": "Phải kiểm tra ai sống ở đây và sơ tán tòa nhà."
+    },
+    {
+        "start": "00:11:07,360",
+        "end": "00:11:09,480",
+        "en": "- Jim, vad händer? -Hej, Cecilia.",
+        "pa": "",
+        "vi": "- Jim, có chuyện gì? - Chào Cecilia."
+    },
+    {
+        "start": "00:11:09,560",
+        "end": "00:11:12,000",
+        "en": "Vi har en möjlig gisslansituation här.",
+        "pa": "",
+        "vi": "Có khả năng có một vụ bắt con tin."
+    },
+    {
+        "start": "00:11:12,080",
+        "end": "00:11:16,320",
+        "en": "Kan du ringa till mäklarfirman och kolla hur många som befinner sig på visningen?",
+        "pa": "",
+        "vi": "Gọi môi giới địa ốc hỏi xem có bao nhiêu người đến xem nhà."
+    },
+    {
+        "start": "00:11:16,400",
+        "end": "00:11:18,480",
+        "en": "-Se till att få undan folk här. -Yes.",
+        "pa": "",
+        "vi": "- Và bảo mọi người lùi lại. - Được."
+    },
+    {
+        "start": "00:11:18,560",
+        "end": "00:11:22,640",
+        "en": "Jack, du ansvarar för bevakning och avspärrning. Börja där nere.",
+        "pa": "",
+        "vi": "Jack, con phụ trách giám sát và lập rào chắn khu vực. Bắt đầu ở đó."
+    },
+    {
+        "start": "00:11:22,720",
+        "end": "00:11:24,360",
+        "en": "Jonsson, följ med mig ner.",
+        "pa": "",
+        "vi": "Jonsson, đi với tôi."
+    },
+    {
+        "start": "00:11:24,440",
+        "end": "00:11:26,800",
+        "en": "Vad är det som händer här?",
+        "pa": "",
+        "vi": "Có chuyện gì vậy?"
+    },
+    {
+        "start": "00:11:26,880",
+        "end": "00:11:29,720",
+        "en": "Vi har inga kommentarer i nuläget. Kan ni backa undan?",
+        "pa": "",
+        "vi": "Bây giờ chưa có gì để nói. Xin hãy lùi lại."
+    },
+    {
+        "start": "00:11:29,800",
+        "end": "00:11:33,360",
+        "en": "-Nånting är det ju. -Björn, jag kan inte säga nåt just nu.",
+        "pa": "",
+        "vi": "- Có biến. - Tôi không thể nói gì bây giờ."
+    },
+    {
+        "start": "00:11:33,440",
+        "end": "00:11:36,760",
+        "en": "-Nån slags kommentar…? -Jag sa nej. Okej?",
+        "pa": "",
+        "vi": "- Bình luận ngắn thôi? - Tôi nói không. Được chứ?"
+    },
+    {
+        "start": "00:11:36,840",
+        "end": "00:11:38,840",
+        "en": "-Men jag vet. -Berätta.",
+        "pa": "",
+        "vi": "- Tôi biết đấy. - Nói đi."
+    },
+    {
+        "start": "00:11:38,920",
+        "end": "00:11:42,520",
+        "en": "Ja. Det var en bankrånare. Han var i banken.",
+        "pa": "",
+        "vi": "Có một vụ cướp ngân hàng. Hắn ở trong ngân hàng."
+    },
+    {
+        "start": "00:11:42,600",
+        "end": "00:11:46,080",
+        "en": "-Har det varit ett bankrån? -Ja, skriv. Han hade pistol i handen.",
+        "pa": "",
+        "vi": "- Có cướp ngân hàng à? - Đúng, viết đi. Hắn có súng."
+    },
+    {
+        "start": "00:11:46,160",
+        "end": "00:11:49,720",
+        "en": "-Sen sprang han ut från banken. - Flytta er bakom här, tack.",
+        "pa": "",
+        "vi": "- Rồi hắn chạy khỏi ngân hàng. - Làm ơn, lùi lại."
+    },
+    {
+        "start": "00:11:49,800",
+        "end": "00:11:53,240",
+        "en": "-Bakom här, tack. -Jag såg Jack och Jim stå utanför.",
+        "pa": "",
+        "vi": "- Lại đây, làm ơn. - Tôi thấy Jack và Jim bên ngoài."
+    },
+    {
+        "start": "00:11:53,320",
+        "end": "00:11:56,040",
+        "en": "Jag skrek åt dem att vända sig, och då vände de sig.",
+        "pa": "",
+        "vi": "Tôi hét lên gọi họ quay lại và họ quay lại."
+    },
+    {
+        "start": "00:11:56,120",
+        "end": "00:11:58,480",
+        "en": "Stod de här och gjorde ingenting?",
+        "pa": "",
+        "vi": "Họ cứ đứng đó không làm gì?"
+    },
+    {
+        "start": "00:11:58,560",
+        "end": "00:12:01,880",
+        "en": "Jag vet, de missade hela skiten, men jag skrek och då vände de sig.",
+        "pa": "",
+        "vi": "Họ bỏ lỡ cả vụ việc, nhưng khi tôi hét lên, họ quay lại."
+    },
+    {
+        "start": "00:12:01,960",
+        "end": "00:12:05,600",
+        "en": "Vi kommer ju inte in i porten. Vi måste ha koden. Järngatan 1.",
+        "pa": "",
+        "vi": "Không vào được. Cần mật mã. Järngatan 1."
+    },
+    {
+        "start": "00:12:05,680",
+        "end": "00:12:08,840",
+        "en": "-Okej? -Nu har vi bevakning på baksidan.",
+        "pa": "",
+        "vi": "- Được chứ? - Đã có giám sát phía sau."
+    },
+    {
+        "start": "00:12:08,920",
+        "end": "00:12:10,400",
+        "en": "-Fick ni tag i mäklaren? -Nej.",
+        "pa": "",
+        "vi": "- Gọi môi giới? - Chưa."
+    },
+    {
+        "start": "00:12:10,480",
+        "end": "00:12:13,680",
+        "en": "-Jag väntar på portkoden. Vi måste in. -Ja.",
+        "pa": "",
+        "vi": "Bố đang đợi mã. Phải vào đó."
+    },
+    {
+        "start": "00:12:18,080",
+        "end": "00:12:21,240",
+        "en": "-Ro, jag är jätterädd. -Det är lugnt.",
+        "pa": "",
+        "vi": "- Ro. - Ta sẽ ổn thôi."
+    },
+    {
+        "start": "00:12:27,080",
+        "end": "00:12:29,000",
+        "en": "-Sluta med det där, för fan. -Tyst.",
+        "pa": "",
+        "vi": "- Thôi đi. - Suỵt."
+    },
+    {
+        "start": "00:12:29,080",
+        "end": "00:12:32,600",
+        "en": "Sluta, sa jag. Aj!",
+        "pa": "",
+        "vi": "Tôi bảo thôi đi."
+    },
+    {
+        "start": "00:12:32,680",
+        "end": "00:12:36,760",
+        "en": "Ta det lugnt. Alla tar fram sina mobiler och lägger dem på golvet.",
+        "pa": "",
+        "vi": "Bình tĩnh. Mọi người để điện thoại lên sàn."
+    },
+    {
+        "start": "00:12:36,840",
+        "end": "00:12:38,400",
+        "en": "Lägg dem på golvet, så.",
+        "pa": "",
+        "vi": "Để lên sàn."
+    },
+    {
+        "start": "00:12:40,960",
+        "end": "00:12:46,120",
+        "en": "Alla mobiler fram. Ingen spelar hjälte nu.",
+        "pa": "",
+        "vi": "Lấy hết điện thoại ra. Không nên có ai làm anh hùng."
+    },
+    {
+        "start": "00:12:47,960",
+        "end": "00:12:50,160",
+        "en": "Ingen spelar hjälte.",
+        "pa": "",
+        "vi": "Đừng ai thử làm anh hùng."
+    },
+    {
+        "start": "00:13:10,720",
+        "end": "00:13:14,040",
+        "en": "Stanna, stanna. Ner för helvete.",
+        "pa": "",
+        "vi": "- Dừng lại. - Sao?"
+    },
+    {
+        "start": "00:13:14,120",
+        "end": "00:13:17,160",
+        "en": "-Bomb. Där. -Varför skulle det vara det?",
+        "pa": "",
+        "vi": "- Quả bom. Kia. - Sao lại có quả bom?"
+    },
+    {
+        "start": "00:13:20,920",
+        "end": "00:13:25,040",
+        "en": "-Jag tror att det är en bomb. -Varför skulle det vara det?",
+        "pa": "",
+        "vi": "- Con nghĩ đó là quả bom. - Sao lại thế?"
+    },
+    {
+        "start": "00:13:25,120",
+        "end": "00:13:27,400",
+        "en": "Det ser ut som en bomb. Titta själv, för fan.",
+        "pa": "",
+        "vi": "Trông giống bom. Bố nhìn đi."
+    },
+    {
+        "start": "00:13:27,480",
+        "end": "00:13:31,040",
+        "en": "-Vi får ringa till bombgruppen. -Nej, skit i det där.",
+        "pa": "",
+        "vi": "- Phải gọi đội phá bom. - Không. Kệ nó đi."
+    },
+    {
+        "start": "00:13:31,120",
+        "end": "00:13:36,600",
+        "en": "Du går ingenstans. Det kan vara en bomb som rånaren har placerat ut. Kom nu.",
+        "pa": "",
+        "vi": "Bố không được đi đâu cả.\n Có thể tên cướp đã đặt quả bom ở đó. Thôi nào."
+    },
+    {
+        "start": "00:13:37,920",
+        "end": "00:13:40,720",
+        "en": "-Har vi inte gjort bort oss tillräckligt? -Kom.",
+        "pa": "",
+        "vi": "Ta bẽ mặt bên ngoài chưa đủ sao?\n Đi nào."
+    },
+    {
+        "start": "00:13:47,800",
+        "end": "00:13:50,800",
+        "en": "Vi avvaktar. Det finns inte så mycket mer vi kan göra.",
+        "pa": "",
+        "vi": "Chúng ta phải đợi thôi. Giờ không làm gì khác được."
+    },
+    {
+        "start": "00:13:50,880",
+        "end": "00:13:55,560",
+        "en": "Gisslantagaren har barrikaderat sig där och det är en bomb i trapphuset, som sagt.",
+        "pa": "",
+        "vi": "Kẻ bắt giữ con tin đã nhốt mình trong đó và có một quả bom trên cầu thang."
+    },
+    {
+        "start": "00:13:55,640",
+        "end": "00:13:56,680",
+        "en": "Vi kan inte gå in.",
+        "pa": "",
+        "vi": "Không vào được."
+    },
+    {
+        "start": "00:13:57,320",
+        "end": "00:14:01,360",
+        "en": "-Nej, han har inte ställt några krav, men… -Här. Te.",
+        "pa": "",
+        "vi": "- Hắn chưa ra yêu sách nào, nhưng… - Đây. Trà."
+    },
+    {
+        "start": "00:14:01,440",
+        "end": "00:14:05,920",
+        "en": "Tack. Hur lång tid tror ni att det tar? En timme eller mer?",
+        "pa": "",
+        "vi": "Cảm ơn. Sẽ mất bao lâu? Một giờ, có thể hơn?"
+    },
+    {
+        "start": "00:14:06,000",
+        "end": "00:14:07,920",
+        "en": "-Vem pratar du med? -Vad sa du?",
+        "pa": "",
+        "vi": "- Gọi ai đấy? - Xin lỗi?"
+    },
+    {
+        "start": "00:14:08,000",
+        "end": "00:14:10,120",
+        "en": "-Vem pratar du med? -Vänta ett tag.",
+        "pa": "",
+        "vi": "- Con đang gọi ai? - Đợi chút."
+    },
+    {
+        "start": "00:14:10,760",
+        "end": "00:14:14,600",
+        "en": "Stockholmspolisen är här om två timmar. Jag var tvungen att…",
+        "pa": "",
+        "vi": "Cảnh sát Stockholm. Họ sẽ đến đây trong hai tiếng. Con phải…"
+    },
+    {
+        "start": "00:14:14,680",
+        "end": "00:14:17,280",
+        "en": "Jim Johansson här. Jag har varit polis i 30 år.",
+        "pa": "",
+        "vi": "Jim Johansson đây. Tôi đã làm cảnh sát 30 năm."
+    },
+    {
+        "start": "00:14:17,360",
+        "end": "00:14:21,600",
+        "en": "Tjena, Bosse här. Vi är på väg med insatsstyrkan, så ta det bara lugnt.",
+        "pa": "",
+        "vi": "Chào, Bosse đang nói đây. Chúng tôi sẽ đến cùng đội SWAT, nên bình tĩnh."
+    },
+    {
+        "start": "00:14:21,680",
+        "end": "00:14:25,480",
+        "en": "Vi är helt lugna. Vi har situationen helt under kontroll.",
+        "pa": "",
+        "vi": "Chúng tôi đang rất bình tĩnh. Mọi thứ đang trong tầm kiểm soát."
+    },
+    {
+        "start": "00:14:28,880",
+        "end": "00:14:32,040",
+        "en": "-Är det lugnt, eller? -Det är bra. Backa! Backa undan.",
+        "pa": "",
+        "vi": "Chết tiệt!\n - Bố không sao chứ? - Lùi lại. Lùi lại!"
+    },
+    {
+        "start": "00:14:32,120",
+        "end": "00:14:34,640",
+        "en": "Backa. Det här är ingen säker plats. Backa.",
+        "pa": "",
+        "vi": "Lùi lại. Ở đây không an toàn."
+    },
+    {
+        "start": "00:14:35,440",
+        "end": "00:14:37,240",
+        "en": "- Backa. -Utöka avspärrningen.",
+        "pa": "",
+        "vi": "- Lùi lại. - Mở rộng hàng rào."
+    },
+    {
+        "start": "00:14:37,320",
+        "end": "00:14:39,840",
+        "en": "-Backa undan, för helvete. -Backa.",
+        "pa": "",
+        "vi": "- Lùi lại, chết tiệt. - Lùi lại."
+    },
+    {
+        "start": "00:14:39,920",
+        "end": "00:14:41,080",
+        "en": "Jävlar i helvete.",
+        "pa": "",
+        "vi": "Khỉ gió."
+    },
+    {
+        "start": "00:14:43,560",
+        "end": "00:14:45,040",
+        "en": "-Hallå…",
+        "pa": "",
+        "vi": "A lô. A lô?"
+    },
+    {
+        "start": "00:14:45,120",
+        "end": "00:14:45,960",
+        "en": "Hallå?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:14:46,040",
+        "end": "00:14:48,080",
+        "en": "-Håll inne den lilla på sidan. -Ja.",
+        "pa": "",
+        "vi": "- Bấm nút bên cạnh. - Được."
+    },
+    {
+        "start": "00:14:48,920",
+        "end": "00:14:52,800",
+        "en": "Hallå, det här är Jim Johansson. Är alla oskadda?",
+        "pa": "",
+        "vi": "A lô, đây là Jim Johansson. Mọi người đều bình an chứ?"
+    },
+    {
+        "start": "00:14:55,880",
+        "end": "00:14:59,920",
+        "en": "Varför drog du in polisen i Stockholm? Vi har ju fullständig kontroll.",
+        "pa": "",
+        "vi": "Sao con lại gọi cảnh sát Stockholm? Mọi thứ đang trong tầm kiểm soát."
+    },
+    {
+        "start": "00:15:00,000",
+        "end": "00:15:02,920",
+        "en": "Vi måsta ha nån här som har koll på läget på riktigt.",
+        "pa": "",
+        "vi": "Ta cần người có chuyên môn đến đây."
+    },
+    {
+        "start": "00:15:03,000",
+        "end": "00:15:06,320",
+        "en": "-Vi kan ju inget om sånt här. -Jag har erfarenhet. Okej?",
+        "pa": "",
+        "vi": "- Ta không biết gì. - Bố có kinh nghiệm, nhé?"
+    },
+    {
+        "start": "00:15:08,880",
+        "end": "00:15:15,280",
+        "en": "Ja, hallå. Det är Jim Johansson här igen. Jag vill veta om alla är oskadda.",
+        "pa": "",
+        "vi": "A lô. Lại là Jim Johansson đây. Hãy xác nhận không có ai bị thương."
+    },
+    {
+        "start": "00:15:15,360",
+        "end": "00:15:17,040",
+        "en": "Kan ni ge oss ett tecken?",
+        "pa": "",
+        "vi": "Nếu đó là sự thật, cho chúng tôi dấu hiệu nhé?"
+    },
+    {
+        "start": "00:15:17,640",
+        "end": "00:15:19,000",
+        "en": "Ifall så är fallet.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:15:24,920",
+        "end": "00:15:26,240",
+        "en": "Okej, bra.",
+        "pa": "",
+        "vi": "Được, tuyệt lắm."
+    },
+    {
+        "start": "00:15:27,160",
+        "end": "00:15:28,160",
+        "en": "Vad gör vi nu?",
+        "pa": "",
+        "vi": "Làm gì bây giờ?"
+    },
+    {
+        "start": "00:15:30,600",
+        "end": "00:15:31,480",
+        "en": "Avvaktar.",
+        "pa": "",
+        "vi": "Ta đợi."
+    },
+    {
+        "start": "00:15:33,600",
+        "end": "00:15:36,200",
+        "en": "Alla gisslantagare ställer krav förr eller senare.",
+        "pa": "",
+        "vi": "Kiểu gì kẻ bắt con tin cũng ra yêu sách."
+    },
+    {
+        "start": "00:15:37,280",
+        "end": "00:15:38,600",
+        "en": "Jaha, okej.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:16:01,000",
+        "end": "00:16:04,560",
+        "en": "-Nu är hon kvart över. -Vi avvaktar en stund till.",
+        "pa": "",
+        "vi": "- Hơn 15 phút rồi. - Hãy đợi thêm chút nữa."
+    },
+    {
+        "start": "00:16:10,560",
+        "end": "00:16:11,720",
+        "en": "Jag tänker ju på Jill.",
+        "pa": "",
+        "vi": "Con nghĩ về Jill."
+    },
+    {
+        "start": "00:16:14,200",
+        "end": "00:16:16,360",
+        "en": "Hon borde ju ha varit här för längesen.",
+        "pa": "",
+        "vi": "Lẽ ra nó phải đến đây từ lâu rồi."
+    },
+    {
+        "start": "00:16:25,280",
+        "end": "00:16:27,000",
+        "en": "Fan, förlåt pappa",
+        "pa": "",
+        "vi": "Khỉ thật. Bố, con xin lỗi"
+    },
+    {
+        "start": "00:16:27,680",
+        "end": "00:16:31,600",
+        "en": "att jag skällde på dig. Men du måste förstå att hon inte kommer att komma.",
+        "pa": "",
+        "vi": "vì quát bố.\n Bố phải chấp nhận là nó sẽ không về."
+    },
+    {
+        "start": "00:16:32,120",
+        "end": "00:16:34,280",
+        "en": "Så är det bara. Det är bättre att man bara",
+        "pa": "",
+        "vi": "Chuyện là thế đấy. Chấp nhận thì tốt hơn."
+    },
+    {
+        "start": "00:16:35,240",
+        "end": "00:16:37,240",
+        "en": "accepterar att det är så.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:16:39,920",
+        "end": "00:16:42,080",
+        "en": "Det är ju så svårt det här…",
+        "pa": "",
+        "vi": "Bố thấy khó chấp nhận quá."
+    },
+    {
+        "start": "00:16:45,720",
+        "end": "00:16:48,120",
+        "en": "Jag kan inte fatta att hon skulle ljuga och…",
+        "pa": "",
+        "vi": "Không hiểu nổi sao nó lại nói dối."
+    },
+    {
+        "start": "00:16:51,040",
+        "end": "00:16:52,680",
+        "en": "Nej, men…",
+        "pa": "",
+        "vi": "Vâng, nhưng…"
+    },
+    {
+        "start": "00:16:54,040",
+        "end": "00:16:56,680",
+        "en": "Hon är inte sig själv, pappa. Det är så.",
+        "pa": "",
+        "vi": "nó không phải như bình thường."
+    },
+    {
+        "start": "00:16:57,280",
+        "end": "00:17:01,480",
+        "en": "Du måste tänka på det. Hon måste själv vilja ta sig ur det här.",
+        "pa": "",
+        "vi": "Bố phải nhớ điều đó. Nó phải muốn cai nghiện."
+    },
+    {
+        "start": "00:17:01,560",
+        "end": "00:17:05,800",
+        "en": "-Annars kommer hon inte att kunna… -Jag vill bara hjälpa henne på mitt sätt.",
+        "pa": "",
+        "vi": "- Nếu không, nó sẽ không… - Bố chỉ muốn giúp nó."
+    },
+    {
+        "start": "00:17:06,440",
+        "end": "00:17:09,320",
+        "en": "-Jag… -Jag fattar, pappa. Jag förstår precis.",
+        "pa": "",
+        "vi": "- Bố… - Con hiểu mà bố. Con hoàn toàn hiểu."
+    },
+    {
+        "start": "00:17:09,400",
+        "end": "00:17:11,040",
+        "en": " Mm.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:17:13,480",
+        "end": "00:17:15,240",
+        "en": "När man vill hjälpa men inte kan.",
+        "pa": "",
+        "vi": "Bố muốn giúp, nhưng không được."
+    },
+    {
+        "start": "00:17:17,720",
+        "end": "00:17:18,800",
+        "en": "Mm…",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:17:22,320",
+        "end": "00:17:23,480",
+        "en": "Fan, jag hatar det här.",
+        "pa": "",
+        "vi": "Con ghét thế này."
+    },
+    {
+        "start": "00:17:23,560",
+        "end": "00:17:27,120",
+        "en": "Man sitter och väntar och kan inte göra ett jävla skit.",
+        "pa": "",
+        "vi": "Cứ ngồi đây chờ đợi, không làm được gì."
+    },
+    {
+        "start": "00:17:27,600",
+        "end": "00:17:30,880",
+        "en": "Det är då det gäller att vara stresstålig och ha tålamod.",
+        "pa": "",
+        "vi": "Nên biết kiềm chế căng thẳng và kiên nhẫn là quan trọng."
+    },
+    {
+        "start": "00:17:31,520",
+        "end": "00:17:33,680",
+        "en": "Ja. Men alltså…",
+        "pa": "",
+        "vi": "Vâng, nhưng…"
+    },
+    {
+        "start": "00:17:34,320",
+        "end": "00:17:37,800",
+        "en": "Han kanske börjar skjuta där uppe. Det kan ju hända vad fan som helst.",
+        "pa": "",
+        "vi": "Hắn có thể nổ súng trên đó. Điều gì cũng có thể xảy ra."
+    },
+    {
+        "start": "00:17:37,880",
+        "end": "00:17:39,960",
+        "en": "-Vi måste ju liksom… -Nej, ta det lugnt.",
+        "pa": "",
+        "vi": "- Ta cần… - Cứ bình tĩnh."
+    },
+    {
+        "start": "00:17:40,560",
+        "end": "00:17:44,440",
+        "en": "Ring och blås av Stockholm. Vi klarar det här själva.",
+        "pa": "",
+        "vi": "Và bảo cảnh sát Stockholm đừng đến nữa. Ta có thể tự giải quyết."
+    },
+    {
+        "start": "00:17:45,960",
+        "end": "00:17:47,920",
+        "en": "Du och jag, Jack. Vi klarar det här.",
+        "pa": "",
+        "vi": "Con và bố. Ta làm được."
+    },
+    {
+        "start": "00:17:48,560",
+        "end": "00:17:49,400",
+        "en": "Visst?",
+        "pa": "",
+        "vi": "Nhỉ?"
+    },
+    {
+        "start": "00:17:57,600",
+        "end": "00:18:00,480",
+        "en": "Vi har alltså en beväpnad gisslantagare.",
+        "pa": "",
+        "vi": "Có một kẻ bắt giữ con tin có vũ khí."
+    },
+    {
+        "start": "00:18:00,560",
+        "end": "00:18:05,960",
+        "en": "Dessutom vet man inte hur många som befinner sig i visningslägenheten.",
+        "pa": "",
+        "vi": "Không biết có bao nhiêu người trong căn hộ."
+    },
+    {
+        "start": "00:18:06,040",
+        "end": "00:18:09,360",
+        "en": "Det har gått mer än en timme, och man har fortfarande inte lyckats…",
+        "pa": "",
+        "vi": "Hơn một giờ đã trôi qua và vẫn chưa thể…"
+    },
+    {
+        "start": "00:18:09,440",
+        "end": "00:18:11,720",
+        "en": "Jim, kan du ge mig nåt? Vad händer?",
+        "pa": "",
+        "vi": "Jim, có tiến triển gì không? Sao rồi?"
+    },
+    {
+        "start": "00:18:11,800",
+        "end": "00:18:13,760",
+        "en": "Jag har varit och pissat. Det har hänt.",
+        "pa": "",
+        "vi": "Tôi vừa đi tiểu thôi."
+    },
+    {
+        "start": "00:18:14,800",
+        "end": "00:18:17,680",
+        "en": "-Jaha. Vad är klockan? -Kvart över.",
+        "pa": "",
+        "vi": "- Mấy giờ rồi? - Thêm 15 phút nữa."
+    },
+    {
+        "start": "00:18:21,720",
+        "end": "00:18:25,760",
+        "en": "Nu kommer det nån. Det kommer nån. Rånaren vill ha kontakt nu.",
+        "pa": "",
+        "vi": "Có người ra kìa."
+    },
+    {
+        "start": "00:18:26,560",
+        "end": "00:18:27,960",
+        "en": "-Ta det lugnt. -Ja, ja.",
+        "pa": "",
+        "vi": "Tên cướp muốn liên lạc.\n - Cứ bình tĩnh. - Được."
+    },
+    {
+        "start": "00:18:28,040",
+        "end": "00:18:29,680",
+        "en": "Jävlar i helvete.",
+        "pa": "",
+        "vi": "Quỷ tha ma bắt."
+    },
+    {
+        "start": "00:18:31,200",
+        "end": "00:18:32,840",
+        "en": "Vad ska vi göra?",
+        "pa": "",
+        "vi": "Làm gì đây?"
+    },
+    {
+        "start": "00:18:33,560",
+        "end": "00:18:36,200",
+        "en": "Hallå? Det här är Jim Johansson.",
+        "pa": "",
+        "vi": "A lô? Jim Johansson đây."
+    },
+    {
+        "start": "00:18:36,280",
+        "end": "00:18:38,960",
+        "en": "-Det är batteritorsk. Det är slut på… -Jävla skit!",
+        "pa": "",
+        "vi": "- Hết pin rồi. - Khỉ gió!"
+    },
+    {
+        "start": "00:18:39,040",
+        "end": "00:18:42,400",
+        "en": "Det här är Jim Johansson. Jag vill veta om alla mår bra.",
+        "pa": "",
+        "vi": "A lô. Jim Johansson đây. Hãy xác nhận mọi người đều ổn."
+    },
+    {
+        "start": "00:18:42,480",
+        "end": "00:18:43,360",
+        "en": "Ja.",
+        "pa": "",
+        "vi": "Được."
+    },
+    {
+        "start": "00:18:46,360",
+        "end": "00:18:48,520",
+        "en": "-Aj, aj, aj. Satan. -Vad hände?",
+        "pa": "",
+        "vi": "- Khỉ thật. - Gì thế?"
+    },
+    {
+        "start": "00:18:48,600",
+        "end": "00:18:53,480",
+        "en": "Jag fick nåt i ansiktet. Vad i helvete? Aj som fan.",
+        "pa": "",
+        "vi": "Có cái gì đập vào mặt con. Cái quái gì vậy?"
+    },
+    {
+        "start": "00:18:54,240",
+        "end": "00:18:55,640",
+        "en": "Vad fan var det där?",
+        "pa": "",
+        "vi": "Cái quái gì vậy?"
+    },
+    {
+        "start": "00:19:01,440",
+        "end": "00:19:03,920",
+        "en": "Är det en lime? Vad håller de på med?",
+        "pa": "",
+        "vi": "Quả chanh à? Họ đang làm quái gì vậy?"
+    },
+    {
+        "start": "00:19:06,760",
+        "end": "00:19:07,720",
+        "en": "Han vill ha pizza.",
+        "pa": "",
+        "vi": "Hắn muốn ăn pizza."
+    },
+    {
+        "start": "00:19:09,440",
+        "end": "00:19:10,880",
+        "en": "Va? Pizza?",
+        "pa": "",
+        "vi": "Sao? Pizza?"
+    },
+    {
+        "start": "00:19:11,720",
+        "end": "00:19:12,680",
+        "en": "Det är ett krav.",
+        "pa": "",
+        "vi": "Yêu sách đấy."
+    },
+    {
+        "start": "00:19:14,760",
+        "end": "00:19:18,400",
+        "en": "-Ska vi gå med på kravet? -Det är klart. Då får vi ju kontakt.",
+        "pa": "",
+        "vi": "- Ta chấp thuận không? - Tất nhiên. Rồi ta thiết lập liên lạc."
+    },
+    {
+        "start": "00:19:18,480",
+        "end": "00:19:20,880",
+        "en": "Jag fixar beställningen. Ta hand om det här.",
+        "pa": "",
+        "vi": "Bố đặt hàng đây. Con lo nhé."
+    },
+    {
+        "start": "00:19:21,920",
+        "end": "00:19:24,760",
+        "en": "-Vad är det som händer? -Jag fick en lime i nyllet.",
+        "pa": "",
+        "vi": "- Sao vậy? - Có người ném quả chanh vào tôi."
+    },
+    {
+        "start": "00:19:24,840",
+        "end": "00:19:27,160",
+        "en": "-Han går och beställer pizza till dem. -Okej.",
+        "pa": "",
+        "vi": "- Hắn gọi pizza cho họ. - Được."
+    },
+    {
+        "start": "00:19:27,240",
+        "end": "00:19:31,360",
+        "en": "Jag ska försöka ta mig upp där så att jag kan se in. Ta den här.",
+        "pa": "",
+        "vi": "Tôi sẽ cố lên đó để nhìn rõ hơn căn hộ."
+    },
+    {
+        "start": "00:19:33,400",
+        "end": "00:19:35,120",
+        "en": "-Akta er. - Jack?",
+        "pa": "",
+        "vi": "- Xin hãy lùi lại. - Jack!"
+    },
+    {
+        "start": "00:19:35,200",
+        "end": "00:19:38,000",
+        "en": "Nej, jag kan inte prata nu. Inga kommentarer.",
+        "pa": "",
+        "vi": "Giờ tôi không nói được. Miễn bình luận."
+    },
+    {
+        "start": "00:19:41,480",
+        "end": "00:19:45,680",
+        "en": "-Fyra capricciosa klara. -Jag måste tyvärr… Jag ber om ursäkt.",
+        "pa": "",
+        "vi": "- Bốn cái Capricciosa! - Tôi phải… Tôi xin lỗi."
+    },
+    {
+        "start": "00:19:45,760",
+        "end": "00:19:48,480",
+        "en": "-Det är inte din… -Nej, jag vet.",
+        "pa": "",
+        "vi": "- Không phải của ông… - Tôi biết."
+    },
+    {
+        "start": "00:19:51,720",
+        "end": "00:19:52,840",
+        "en": "-Kebabpizza… -Ursäkta…",
+        "pa": "",
+        "vi": "Một pizza kebab. Làm ơn im lặng."
+    },
+    {
+        "start": "00:19:52,920",
+        "end": "00:19:54,360",
+        "en": "Kan du vara tyst?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:19:54,440",
+        "end": "00:19:57,320",
+        "en": "En djungelpizza. Utan skinka plus jordnötter.",
+        "pa": "",
+        "vi": "Một pizza rừng rậm. Không thịt nguội, thêm lạc."
+    },
+    {
+        "start": "00:19:57,400",
+        "end": "00:20:00,400",
+        "en": "En Al Tonno utan lök. Två pizza Al Funghi. Kan du greja det?",
+        "pa": "",
+        "vi": "Một Al tonno, không hành. Hai pizza Al funghi nhé?"
+    },
+    {
+        "start": "00:20:00,480",
+        "end": "00:20:05,360",
+        "en": "-Vi har ingen kebabpizza. -Ta lite skinka och stek den lite extra.",
+        "pa": "",
+        "vi": "- Không có pizza kebab. - Cứ dùng thịt nguội rán thêm một chút."
+    },
+    {
+        "start": "00:20:06,720",
+        "end": "00:20:07,840",
+        "en": "Fy fan…",
+        "pa": "",
+        "vi": "Khỉ thật."
+    },
+    {
+        "start": "00:20:16,400",
+        "end": "00:20:18,440",
+        "en": "In med skiten.",
+        "pa": "",
+        "vi": "Cứ ném vào lò."
+    },
+    {
+        "start": "00:20:19,560",
+        "end": "00:20:24,360",
+        "en": "Kan vi peta bort de här räkorna? De behövs inte. Kolla på listan.",
+        "pa": "",
+        "vi": "Bỏ tôm được không? Không cần tôm. Kiểm tra ghi chú đi."
+    },
+    {
+        "start": "00:20:24,440",
+        "end": "00:20:26,800",
+        "en": "-Ta bort räkorna. -Ursäkta…",
+        "pa": "",
+        "vi": "- Không tôm nhỉ? - Xin lỗi."
+    },
+    {
+        "start": "00:20:26,880",
+        "end": "00:20:30,000",
+        "en": "-Kan jag ta en av de här åtta? -Nej, det kan du inte!",
+        "pa": "",
+        "vi": "- Tôi lấy một cái nhé? - Không được!"
+    },
+    {
+        "start": "00:20:30,080",
+        "end": "00:20:33,120",
+        "en": "Åtta pizzor måste jag ha, och det är ögona bums.",
+        "pa": "",
+        "vi": "Tôi cần tám cái pizza, ngay lập tức!"
+    },
+    {
+        "start": "00:20:34,840",
+        "end": "00:20:38,560",
+        "en": "Hej. Har du mamma eller pappa hemma?",
+        "pa": "",
+        "vi": "Chào. Bố hay mẹ cháu có nhà không?"
+    },
+    {
+        "start": "00:20:39,160",
+        "end": "00:20:40,440",
+        "en": "Nej.",
+        "pa": "",
+        "vi": "Không ạ."
+    },
+    {
+        "start": "00:20:41,600",
+        "end": "00:20:45,360",
+        "en": "Skulle jag kunna få komma in till er en sväng?",
+        "pa": "",
+        "vi": "Cho chú vào một lát nhé?"
+    },
+    {
+        "start": "00:20:45,440",
+        "end": "00:20:47,640",
+        "en": "-Jag ska se ut genom ett fönster och… -Nej.",
+        "pa": "",
+        "vi": "- Chú cần nhìn ra ngoài cửa sổ… - Không."
+    },
+    {
+        "start": "00:20:49,080",
+        "end": "00:20:51,600",
+        "en": "Det är jätteviktigt. Jag är polis.",
+        "pa": "",
+        "vi": "Việc quan trọng lắm. Chú là cảnh sát."
+    },
+    {
+        "start": "00:20:52,360",
+        "end": "00:20:54,800",
+        "en": "-Eh… -Du kanske är en ful gubbe.",
+        "pa": "",
+        "vi": "Nhỡ chú là lão già bệnh hoạn?"
+    },
+    {
+        "start": "00:20:55,480",
+        "end": "00:20:58,840",
+        "en": "Pizzorna är levererade. Jim går upp med dem nu. Kom.",
+        "pa": "",
+        "vi": "Pizza đã đến. Jim đang mang lên. Hết."
+    },
+    {
+        "start": "00:20:59,960",
+        "end": "00:21:02,480",
+        "en": "-Jack, vad händer. -Jag kan inte prata nu, Björn.",
+        "pa": "",
+        "vi": "- Jack, có chuyện gì? - Giờ tôi không nói được."
+    },
+    {
+        "start": "00:21:03,280",
+        "end": "00:21:04,280",
+        "en": "Ursäkta.",
+        "pa": "",
+        "vi": "Xin lỗi."
+    },
+    {
+        "start": "00:21:05,480",
+        "end": "00:21:07,960",
+        "en": "-Varför lät du honom gå upp? -Han är chefen.",
+        "pa": "",
+        "vi": "- Sao lại để bố tôi lên? - Ông ấy là sếp mà."
+    },
+    {
+        "start": "00:21:08,040",
+        "end": "00:21:11,760",
+        "en": "Det finns för fan en bomb där, om du har missat det. Gubbjävel.",
+        "pa": "",
+        "vi": "Nhưng có bom trên đó.\n Ông già này."
+    },
+    {
+        "start": "00:21:16,600",
+        "end": "00:21:17,480",
+        "en": "Pappa?",
+        "pa": "",
+        "vi": "Bố!"
+    },
+    {
+        "start": "00:21:19,200",
+        "end": "00:21:20,200",
+        "en": "Pappa?",
+        "pa": "",
+        "vi": "Bố?"
+    },
+    {
+        "start": "00:21:26,720",
+        "end": "00:21:29,280",
+        "en": "Vad fan håller du på med? Du skulle ju inte gå upp.",
+        "pa": "",
+        "vi": "Bố đang làm gì thế? Bố không được lên."
+    },
+    {
+        "start": "00:21:31,120",
+        "end": "00:21:32,080",
+        "en": "Va?",
+        "pa": "",
+        "vi": "Đúng không?"
+    },
+    {
+        "start": "00:21:33,120",
+        "end": "00:21:34,680",
+        "en": "Jag pratade med rånaren.",
+        "pa": "",
+        "vi": "Bố đã nói chuyện với hắn."
+    },
+    {
+        "start": "00:21:35,440",
+        "end": "00:21:39,040",
+        "en": "-Vad sa han? Eller hur såg han ut? -Han hade rånarluva på.",
+        "pa": "",
+        "vi": "- Hắn nói gì? Hắn trông thế nào? - Hắn đội mũ trùm kín đầu."
+    },
+    {
+        "start": "00:21:39,120",
+        "end": "00:21:41,400",
+        "en": "Jag levererade pizzorna bara.",
+        "pa": "",
+        "vi": "Bố chỉ giao pizza thôi."
+    },
+    {
+        "start": "00:21:41,480",
+        "end": "00:21:45,560",
+        "en": "-Kan du ge mig lite info? Var nån skadad? -Nej, ingen var skadad.",
+        "pa": "",
+        "vi": "- Có tin gì không? Có ai bị thương không? - Không, không ai bị thương."
+    },
+    {
+        "start": "00:21:46,520",
+        "end": "00:21:50,280",
+        "en": "-Nähä. Släpper han gisslan nu då? -Ett krav till.",
+        "pa": "",
+        "vi": "- Hắn sẽ thả con tin chứ? - Một yêu sách nữa."
+    },
+    {
+        "start": "00:21:50,360",
+        "end": "00:21:53,840",
+        "en": "Fyrverkerier ska avfyras. Då släpps gisslan.",
+        "pa": "",
+        "vi": "Hắn muốn bắn pháo hoa. Rồi con tin sẽ được thả."
+    },
+    {
+        "start": "00:21:55,560",
+        "end": "00:22:00,400",
+        "en": "Vänta nu. Först pizza och sen fyrverkerier. Alltså… Varför då?",
+        "pa": "",
+        "vi": "Đợi đã. Đầu tiên là pizza, giờ đến pháo hoa. Tại sao?"
+    },
+    {
+        "start": "00:22:00,480",
+        "end": "00:22:03,240",
+        "en": "-Vad är det som sker här? -Jag vet inte.",
+        "pa": "",
+        "vi": "- Có chuyện gì vậy? - Bố không biết."
+    },
+    {
+        "start": "00:22:04,880",
+        "end": "00:22:09,040",
+        "en": "Hur fan kunde du gå upp då? Du tog en jävla risk med bomben där.",
+        "pa": "",
+        "vi": "Nhưng sao bố lại lên đó? Khá mạo hiểm vì có bom đấy."
+    },
+    {
+        "start": "00:22:09,120",
+        "end": "00:22:11,440",
+        "en": "Det var tur att vi inte kallade på bombgruppen.",
+        "pa": "",
+        "vi": "May mà không gọi đội phá bom."
+    },
+    {
+        "start": "00:22:12,240",
+        "end": "00:22:14,920",
+        "en": "Det var ingen bomb, det var julgransbelysning.",
+        "pa": "",
+        "vi": "Không phải bom, đó là đèn Giáng sinh thôi."
+    },
+    {
+        "start": "00:22:16,600",
+        "end": "00:22:20,600",
+        "en": "Och du… Ring och blås av Stockholm.",
+        "pa": "",
+        "vi": "Và bảo cảnh sát Stockholm đừng đến nữa."
+    },
+    {
+        "start": "00:22:20,680",
+        "end": "00:22:24,800",
+        "en": "Om vi bara gör som rånaren säger kommer det här att gå kanon.",
+        "pa": "",
+        "vi": "Nếu làm theo yêu sách của tên cướp thì sẽ ổn thôi."
+    },
+    {
+        "start": "00:22:24,880",
+        "end": "00:22:28,160",
+        "en": "Jag måste fixa fyrverkerier.",
+        "pa": "",
+        "vi": "Bố phải đi lấy pháo hoa."
+    },
+    {
+        "start": "00:22:28,880",
+        "end": "00:22:30,040",
+        "en": "Ja, men…",
+        "pa": "",
+        "vi": "Được, nhưng…"
+    },
+    {
+        "start": "00:22:35,480",
+        "end": "00:22:37,080",
+        "en": "Ja, men det är kanon.",
+        "pa": "",
+        "vi": "- Thế là hoàn hảo. - Vâng."
+    },
+    {
+        "start": "00:22:38,080",
+        "end": "00:22:42,000",
+        "en": "-Är det ordentligt tryck i de där? -Det hoppas jag verkligen.",
+        "pa": "",
+        "vi": "- Cái này nổ có to không? - Mong là có."
+    },
+    {
+        "start": "00:22:42,640",
+        "end": "00:22:44,000",
+        "en": "-Superbra. -Yes.",
+        "pa": "",
+        "vi": "- Tuyệt. - Vâng."
+    },
+    {
+        "start": "00:22:44,080",
+        "end": "00:22:46,080",
+        "en": "Du, Jack. Jack?",
+        "pa": "",
+        "vi": "Này Jack. Jack?"
+    },
+    {
+        "start": "00:22:46,160",
+        "end": "00:22:51,080",
+        "en": "Nu kommer Stockholmspolisen, och du ser ut som ett marsvin med självskadebeteende.",
+        "pa": "",
+        "vi": "Cảnh sát Stockholm đang đến\n và trông anh như con chuột lang chán sống vậy."
+    },
+    {
+        "start": "00:22:51,160",
+        "end": "00:22:55,160",
+        "en": "-Det är sant. Kan jag bara få göra klart? -Inte just nu.",
+        "pa": "",
+        "vi": "- Nghiêm túc đấy. Để tôi cắt nốt nhé? - Không phải bây giờ."
+    },
+    {
+        "start": "00:22:55,240",
+        "end": "00:22:59,920",
+        "en": "Det kommer att gå fort, jag lovar. Sätt dig och låt mig få titta lite här.",
+        "pa": "",
+        "vi": "Tôi làm nhanh thôi, tôi hứa. Cứ ngồi xuống để tôi xem."
+    },
+    {
+        "start": "00:23:00,800",
+        "end": "00:23:03,200",
+        "en": "-Det får gå fort då. -Det är inte fult, men…",
+        "pa": "",
+        "vi": "- Được, làm nhanh nhé. - Không xấu lắm…"
+    },
+    {
+        "start": "00:23:03,280",
+        "end": "00:23:04,360",
+        "en": "Har du tändare?",
+        "pa": "",
+        "vi": "Có bật lửa không?"
+    },
+    {
+        "start": "00:23:05,280",
+        "end": "00:23:06,880",
+        "en": "-Tänder du på där? -Okej.",
+        "pa": "",
+        "vi": "- Châm ngòi nhé? - Vâng."
+    },
+    {
+        "start": "00:23:20,600",
+        "end": "00:23:24,680",
+        "en": "De kommer ut, pappa! Kom, de kommer, för fan.",
+        "pa": "",
+        "vi": "Họ đang ra, bố ơi. Thôi nào, họ đang ra!"
+    },
+    {
+        "start": "00:23:24,760",
+        "end": "00:23:27,400",
+        "en": "-Det kunde väl ha väntat… -Inte nu. Vänta ett tag.",
+        "pa": "",
+        "vi": "Không phải bây giờ. Đợi chút."
+    },
+    {
+        "start": "00:23:31,080",
+        "end": "00:23:33,880",
+        "en": "-Ser du hur många det är? -Nej, jag vet inte.",
+        "pa": "",
+        "vi": "- Có bao nhiêu người? - Không biết."
+    },
+    {
+        "start": "00:23:34,360",
+        "end": "00:23:37,080",
+        "en": "Visst är det sex, eller står det nån bakom?",
+        "pa": "",
+        "vi": "Chắc là sáu, hay có người sau lưng họ?"
+    },
+    {
+        "start": "00:23:42,360",
+        "end": "00:23:45,280",
+        "en": "Vänta lite nu. Vänta ett tag.",
+        "pa": "",
+        "vi": "Đợi đã. Chờ một chút."
+    },
+    {
+        "start": "00:23:50,480",
+        "end": "00:23:53,640",
+        "en": "Visst är det sex? Är gärningsmannen där också eller?",
+        "pa": "",
+        "vi": "Có sáu người, đúng không? Cả thủ phạm nữa à?"
+    },
+    {
+        "start": "00:23:53,720",
+        "end": "00:23:54,880",
+        "en": "Nej.",
+        "pa": "",
+        "vi": "Không."
+    },
+    {
+        "start": "00:23:57,720",
+        "end": "00:23:59,720",
+        "en": "Flytta på er, hitåt nu.",
+        "pa": "",
+        "vi": "Tránh đường."
+    },
+    {
+        "start": "00:24:07,520",
+        "end": "00:24:08,960",
+        "en": "Stoppade du inte Stockholm?",
+        "pa": "",
+        "vi": "Bảo họ không đến nữa mà?"
+    },
+    {
+        "start": "00:24:09,720",
+        "end": "00:24:14,400",
+        "en": "Nej, för vi har fortfarande en rånare kvar där uppe, och vi kan inte ta det själva.",
+        "pa": "",
+        "vi": "Không, vì trên đó có một tên cướp và ta không tự giải quyết được."
+    },
+    {
+        "start": "00:24:15,360",
+        "end": "00:24:16,800",
+        "en": "Statusläge?",
+        "pa": "",
+        "vi": "Tình hình sao?"
+    },
+    {
+        "start": "00:24:18,360",
+        "end": "00:24:22,480",
+        "en": "Ni kom nog i onödan, tyvärr. Gisslan släpps ju nu.",
+        "pa": "",
+        "vi": "Tôi nghĩ các anh đến mất công rồi vì các con tin đang được thả."
+    },
+    {
+        "start": "00:24:22,560",
+        "end": "00:24:25,000",
+        "en": "-Jaså? - Nu kommer de. Kolla!",
+        "pa": "",
+        "vi": "- Thật à? - Họ kia kìa. Nhìn đi."
+    },
+    {
+        "start": "00:24:25,080",
+        "end": "00:24:28,240",
+        "en": "- Nu kommer de ut. - Nu får vi ta hand om dem.",
+        "pa": "",
+        "vi": "- Các con tin đang được thả. - Ta phải chăm sóc họ."
+    },
+    {
+        "start": "00:24:28,320",
+        "end": "00:24:29,640",
+        "en": "Hjälp till här.",
+        "pa": "",
+        "vi": "Tôi cần giúp."
+    },
+    {
+        "start": "00:24:31,480",
+        "end": "00:24:32,680",
+        "en": "Vilket pådrag.",
+        "pa": "",
+        "vi": "Họ mang thứ dữ tới."
+    },
+    {
+        "start": "00:24:43,720",
+        "end": "00:24:46,760",
+        "en": "-Visst var det andra våningen? -Ja.",
+        "pa": "",
+        "vi": "- Tầng hai phải không? - Vâng."
+    },
+    {
+        "start": "00:24:46,840",
+        "end": "00:24:50,000",
+        "en": "-Norra lägenheten? -Ja, upp till vänster på andra våningen.",
+        "pa": "",
+        "vi": "- Ở phía bắc. - Vâng, tầng hai bên trái."
+    },
+    {
+        "start": "00:24:50,080",
+        "end": "00:24:54,080",
+        "en": "Killar, vi går in. Gärningsmannen anses vara beväpnad.",
+        "pa": "",
+        "vi": "Các anh, chúng ta sẽ vào. Đối tượng được cho là có vũ trang."
+    },
+    {
+        "start": "00:24:54,160",
+        "end": "00:24:58,200",
+        "en": "-Oj, vad många de var. -Skarpt läge, andra våningen. 14-02.",
+        "pa": "",
+        "vi": "- Đông quá. - Cẩn thận. Tầng hai. Số 14-02."
+    },
+    {
+        "start": "00:24:59,680",
+        "end": "00:25:02,160",
+        "en": "- Okej. -Vad ska ni göra?",
+        "pa": "",
+        "vi": "- Được. - Làm gì đấy?"
+    },
+    {
+        "start": "00:25:02,240",
+        "end": "00:25:07,440",
+        "en": "Jag har glömt mitt huvud i lägenheten. Jag måste få tillbaka mitt huvud.",
+        "pa": "",
+        "vi": "Tôi để cái đầu trong căn hộ. Tôi cần lấy lại nó."
+    },
+    {
+        "start": "00:25:07,520",
+        "end": "00:25:11,120",
+        "en": "-Vi ska till stationen först. -Om man inte har tid med det, då?",
+        "pa": "",
+        "vi": "- Ta sẽ đến đồn cảnh sát. - Nhỡ tôi không có thời gian?"
+    },
+    {
+        "start": "00:25:11,200",
+        "end": "00:25:14,840",
+        "en": "Jim, det rör sig i lägenheten. Det kan vara gisslantagaren.",
+        "pa": "",
+        "vi": "Jim, tôi thấy chuyển động trong căn hộ. Có thể là kẻ bắt con tin."
+    },
+    {
+        "start": "00:25:14,920",
+        "end": "00:25:17,600",
+        "en": "Gisslantagaren kan vara kvar i lägenheten.",
+        "pa": "",
+        "vi": "Hắn vẫn có thể ở trong căn hộ."
+    },
+    {
+        "start": "00:25:18,240",
+        "end": "00:25:19,640",
+        "en": "-Yes, det är uppfattat. -Shh!",
+        "pa": "",
+        "vi": "Rõ."
+    },
+    {
+        "start": "00:25:48,080",
+        "end": "00:25:52,560",
+        "en": "-Polis! -Polis!",
+        "pa": "",
+        "vi": "Cảnh sát đây!\n Cảnh sát đây!"
+    },
+    {
+        "start": "00:25:58,920",
+        "end": "00:26:01,400",
+        "en": "- Klart vänster. -Klart vänster.",
+        "pa": "",
+        "vi": "- Bên trái trống. - Bên trái trống."
+    },
+    {
+        "start": "00:26:01,480",
+        "end": "00:26:03,560",
+        "en": "-Klart höger. -Allt klart!",
+        "pa": "",
+        "vi": "- Bên phải trống. - Bên phải trống."
+    },
+    {
+        "start": "00:26:04,640",
+        "end": "00:26:08,480",
+        "en": "-Allt säkrat. Det är tomt. -Tomt? Det kan ju inte vara tomt.",
+        "pa": "",
+        "vi": "- Đã kiểm tra hết. Trống. - Trống? Không thể nào."
+    },
+    {
+        "start": "00:26:08,560",
+        "end": "00:26:11,400",
+        "en": "-Är det tomt så är det tomt. -Då har de inte letat.",
+        "pa": "",
+        "vi": "- Nếu trống tức là trống. - Họ chưa tìm kỹ rồi."
+    },
+    {
+        "start": "00:26:11,480",
+        "end": "00:26:13,360",
+        "en": "Det fanns en bakdörr.",
+        "pa": "",
+        "vi": "Có cả cửa sau nữa."
+    },
+    {
+        "start": "00:26:15,360",
+        "end": "00:26:17,760",
+        "en": "- Du skulle inte ha ringt dem. - Tomt?",
+        "pa": "",
+        "vi": "- Lẽ ra không nên gọi họ. - Trống?"
+    },
+    {
+        "start": "00:26:24,200",
+        "end": "00:26:27,200",
+        "en": "Cecilia, är du säker på att du såg nån i fönstret nyss?",
+        "pa": "",
+        "vi": "Cecilia, cô chắc là thấy người trên cửa sổ chứ?"
+    },
+    {
+        "start": "00:26:27,280",
+        "end": "00:26:28,520",
+        "en": "Alltså…",
+        "pa": "",
+        "vi": "Ý tôi là…"
+    },
+    {
+        "start": "00:26:29,040",
+        "end": "00:26:31,640",
+        "en": "Jag är inte helt hundra att jag såg en person",
+        "pa": "",
+        "vi": "Tôi không thể khẳng định đó là người,"
+    },
+    {
+        "start": "00:26:31,720",
+        "end": "00:26:33,920",
+        "en": "men jag tyckte ändå att nåt rörde sig.",
+        "pa": "",
+        "vi": "nhưng tôi thấy cái gì đó chuyển động."
+    },
+    {
+        "start": "00:26:34,000",
+        "end": "00:26:37,200",
+        "en": "Ja, det var nåt som rörde sig, men inte nån person, precis.",
+        "pa": "",
+        "vi": "Đúng, có thứ gì chuyển động, không phải người."
+    },
+    {
+        "start": "00:26:37,280",
+        "end": "00:26:42,200",
+        "en": "-Nej, det såg jag faktiskt inte. -Du, är Cecilia astigmatisk?",
+        "pa": "",
+        "vi": "- Tôi không thể nói là thấy người. -  Cecilia bị loạn thị à?"
+    },
+    {
+        "start": "00:26:42,880",
+        "end": "00:26:47,200",
+        "en": "-Alltså gråstarr, närsynt? -Jag vet inte. Det…",
+        "pa": "",
+        "vi": "- Bị đục thủy tinh thể, cận thị? - Tôi không biết."
+    },
+    {
+        "start": "00:26:47,280",
+        "end": "00:26:48,600",
+        "en": "Det kanske var korsdrag.",
+        "pa": "",
+        "vi": "Có lẽ là gió."
+    },
+    {
+        "start": "00:26:51,080",
+        "end": "00:26:54,280",
+        "en": "Där borta är en dörr till en trappa. Har ni haft koll på den?",
+        "pa": "",
+        "vi": "Đằng kia có cửa dẫn ra cầu thang. Có theo dõi nó không?"
+    },
+    {
+        "start": "00:26:54,360",
+        "end": "00:26:58,440",
+        "en": "Det finns en bakre ingång, och vi har haft bevakning.",
+        "pa": "",
+        "vi": "Có cửa sau mà chúng tôi đã theo dõi từ đầu."
+    },
+    {
+        "start": "00:26:58,520",
+        "end": "00:27:02,120",
+        "en": "-Är det du som är ansvarig för det? -Ja, det är jag.",
+        "pa": "",
+        "vi": "- Anh chịu trách nhiệm việc đó? - Vâng."
+    },
+    {
+        "start": "00:27:02,200",
+        "end": "00:27:04,200",
+        "en": "Det är jag som är ansvarig här.",
+        "pa": "",
+        "vi": "Tôi phụ trách ở đây."
+    },
+    {
+        "start": "00:27:05,440",
+        "end": "00:27:09,400",
+        "en": "Då kan ni ha en konferens i morgon om vem som är bäst på att vara sämst.",
+        "pa": "",
+        "vi": "Ngày mai hai người có thể họp để xem ai là người tệ nhất."
+    },
+    {
+        "start": "00:27:11,520",
+        "end": "00:27:12,720",
+        "en": "Ursäkta.",
+        "pa": "",
+        "vi": "Xin phép."
+    },
+    {
+        "start": "00:27:16,880",
+        "end": "00:27:19,960",
+        "en": "Jag måste bara, innan jag går, ge dig en eloge för din frisyr.",
+        "pa": "",
+        "vi": "Trước khi tôi đi, bái phục kiểu tóc của anh."
+    },
+    {
+        "start": "00:27:20,040",
+        "end": "00:27:23,200",
+        "en": "Jag måste uppmärksamma den. Den ser helt fantastisk ut.",
+        "pa": "",
+        "vi": "Thật sự nổi bật đấy. Trông ấn tượng lắm."
+    },
+    {
+        "start": "00:27:23,280",
+        "end": "00:27:27,920",
+        "en": "Den liksom skär rätt igenom ditt ansikte och landar i ett babyface",
+        "pa": "",
+        "vi": "Nó cắt ngang mặt anh và tạo thành kiểu mặt ngây thơ"
+    },
+    {
+        "start": "00:27:28,000",
+        "end": "00:27:30,760",
+        "en": "med en mopedmustasch jag aldrig har sett tidigare.",
+        "pa": "",
+        "vi": "với ria mép chắp vá phong cách chưa từng thấy."
+    },
+    {
+        "start": "00:27:31,400",
+        "end": "00:27:33,920",
+        "en": "-Vem har klippt dig, förresten? -Milou.",
+        "pa": "",
+        "vi": "- Ai cắt đấy? - Milou."
+    },
+    {
+        "start": "00:27:34,000",
+        "end": "00:27:36,120",
+        "en": "Milou? Känslig sax.",
+        "pa": "",
+        "vi": "Milou? Kỹ năng cắt điêu luyện đấy."
+    },
+    {
+        "start": "00:27:37,240",
+        "end": "00:27:38,720",
+        "en": "Jag säger fem plus på den.",
+        "pa": "",
+        "vi": "Năm sao."
+    },
+    {
+        "start": "00:27:40,040",
+        "end": "00:27:41,080",
+        "en": "Hej på dig.",
+        "pa": "",
+        "vi": "Chào."
+    },
+    {
+        "start": "00:27:44,880",
+        "end": "00:27:46,800",
+        "en": "Skit i det där. Skit i det.",
+        "pa": "",
+        "vi": "Đừng tự ái."
+    },
+    {
+        "start": "00:27:50,360",
+        "end": "00:27:53,600",
+        "en": "Jag åker med gisslan till stationen.",
+        "pa": "",
+        "vi": "Tôi đưa các con tin đến đồn cảnh sát đây."
+    },
+    {
+        "start": "00:27:53,680",
+        "end": "00:27:55,640",
+        "en": "Bra, släpp ingen. Vi måste höra alla.",
+        "pa": "",
+        "vi": "Đừng để ai đi. Ta cần thẩm vấn tất cả."
+    },
+    {
+        "start": "00:27:55,720",
+        "end": "00:27:59,920",
+        "en": "Vi måste spärra av lägenheten här. Det finns blod på golvet,",
+        "pa": "",
+        "vi": "Ta phải niêm phong quanh căn hộ. Có máu trên sàn nhà"
+    },
+    {
+        "start": "00:28:00,000",
+        "end": "00:28:03,120",
+        "en": "och så ligger det en revolver här som måste undersökas.",
+        "pa": "",
+        "vi": "và có một khẩu súng cần khám nghiệm."
+    },
+    {
+        "start": "00:28:03,200",
+        "end": "00:28:04,440",
+        "en": "Kan du fixa det, eller?",
+        "pa": "",
+        "vi": "Cô làm được không?"
+    },
+    {
+        "start": "00:28:04,520",
+        "end": "00:28:07,440",
+        "en": "-Ja, absolut. -Bra, vi kommer nu.",
+        "pa": "",
+        "vi": "- Được, không vấn đề gì. - Tuyệt, chúng tôi đến ngay."
+    },
+    {
+        "start": "00:28:07,520",
+        "end": "00:28:11,560",
+        "en": "-Säg åt Milou att komma med saxen också. -Ja, självklart.",
+        "pa": "",
+        "vi": "- Bảo Milou mang kéo đến. - Tất nhiên."
+    },
+    {
+        "start": "00:28:21,000",
+        "end": "00:28:27,320",
+        "en": "Okej, om jag tar Anna-Lena, Ro, Estelle och Roger…",
+        "pa": "",
+        "vi": "Được, con phụ trách Anna-Lena, Ro, Estelle và Roger."
+    },
+    {
+        "start": "00:28:27,400",
+        "end": "00:28:33,480",
+        "en": "Okej? Så tar du Sara, Julia, Maria och han Lennart. Pyjamaskillen där.",
+        "pa": "",
+        "vi": "Nhé? Bố phụ trách Sara, Julia, Maria và Lennart, người mặc đồ ngủ."
+    },
+    {
+        "start": "00:28:33,560",
+        "end": "00:28:37,880",
+        "en": "Vad då pyjamas? Menar du han med kanindräkten?",
+        "pa": "",
+        "vi": "Người mặc đồ ngủ là ai? Người mặc bộ hóa trang thỏ á?"
+    },
+    {
+        "start": "00:28:37,960",
+        "end": "00:28:41,640",
+        "en": "-Vill du ta honom, eller? -Ja, jag tar kaninen.",
+        "pa": "",
+        "vi": "- Bố muốn thẩm vấn không? - Có, bố sẽ thẩm vấn con thỏ."
+    },
+    {
+        "start": "00:28:42,320",
+        "end": "00:28:44,600",
+        "en": "-Skickar du in hon Ro till mig, då? -Ja.",
+        "pa": "",
+        "vi": "- Gọi Ro vào nhé? - Được."
+    },
+    {
+        "start": "00:28:45,120",
+        "end": "00:28:47,200",
+        "en": "Jag har blivit rånad förr, och då…",
+        "pa": "",
+        "vi": "Tôi từng bị cướp. Bảo gì thì làm nấy thôi."
+    },
+    {
+        "start": "00:28:47,280",
+        "end": "00:28:52,600",
+        "en": "Då gör man liksom bara som de säger. Ögonkontakt uppfattas som provocerande.",
+        "pa": "",
+        "vi": "Đừng giao tiếp mắt, vì có thể bị coi là khiêu khích."
+    },
+    {
+        "start": "00:28:53,240",
+        "end": "00:28:57,280",
+        "en": "-Nånting måste du väl ändå ha sett? -Nej, jag stirrade ner på golvet.",
+        "pa": "",
+        "vi": "- Được. Chắc có nhìn thấy gì đó? - Không, tôi nhìn xuống sàn nhà."
+    },
+    {
+        "start": "00:28:58,800",
+        "end": "00:29:01,680",
+        "en": "Kan du berätta lite om gisslansituationen? Vad minns du?",
+        "pa": "",
+        "vi": "Kể cho tôi về vụ bắt con tin. Cô nhớ những gì?"
+    },
+    {
+        "start": "00:29:01,760",
+        "end": "00:29:06,160",
+        "en": "Vi var tvungna att ligga på golvet och jag hade ansiktet mot väggen.",
+        "pa": "",
+        "vi": "Chúng tôi phải nằm xuống sàn và tôi úp mặt vào tường."
+    },
+    {
+        "start": "00:29:06,800",
+        "end": "00:29:08,200",
+        "en": "Stackare.",
+        "pa": "",
+        "vi": "Tội nghiệp."
+    },
+    {
+        "start": "00:29:08,800",
+        "end": "00:29:11,520",
+        "en": "Skulle du kunna beskriva hur gärningsmannen såg ut?",
+        "pa": "",
+        "vi": "Bà mô tả được kẻ bắt con tin không?"
+    },
+    {
+        "start": "00:29:11,600",
+        "end": "00:29:14,280",
+        "en": "Jag tittade inte upp över huvud taget, sa jag ju.",
+        "pa": "",
+        "vi": "Tôi không hề nhìn lên, tôi nói rồi."
+    },
+    {
+        "start": "00:29:14,360",
+        "end": "00:29:16,800",
+        "en": "Minns du nånting som du kan berätta?",
+        "pa": "",
+        "vi": "Bà nhớ điều gì có thể nói với tôi không?"
+    },
+    {
+        "start": "00:29:16,880",
+        "end": "00:29:19,800",
+        "en": "Vår bil står ju utanför. Jag har inte betalat.",
+        "pa": "",
+        "vi": "Xe chúng tôi đỗ bên ngoài. Tôi chưa trả tiền đỗ xe."
+    },
+    {
+        "start": "00:29:19,880",
+        "end": "00:29:20,760",
+        "en": "Betalat?",
+        "pa": "",
+        "vi": "Tiền đỗ xe?"
+    },
+    {
+        "start": "00:29:20,840",
+        "end": "00:29:25,960",
+        "en": "Kan staten ta betalningen för P-böter i en gisslansituation? Snälla.",
+        "pa": "",
+        "vi": "Nhà nước sẽ chi trả\n tiền phạt đỗ xe nếu có bắt cóc con tin chứ? Làm ơn?"
+    },
+    {
+        "start": "00:29:26,040",
+        "end": "00:29:29,960",
+        "en": "-Hur såg han ut? -Jag minns inte. Jag minns ingenting.",
+        "pa": "",
+        "vi": "- Hắn trông thế nào? - Tôi không nhớ gì cả."
+    },
+    {
+        "start": "00:29:30,040",
+        "end": "00:29:33,600",
+        "en": "-Var han lång eller kort? -Jag minns inte ens att jag var där.",
+        "pa": "",
+        "vi": "- Hắn cao hay thấp? - Tôi còn không nhớ mình đã ở đó."
+    },
+    {
+        "start": "00:29:34,360",
+        "end": "00:29:38,000",
+        "en": "Jag tror att han hade ett stort skägg under luvan.",
+        "pa": "",
+        "vi": "Tôi nghĩ hắn có bộ râu rậm dưới mũ trùm kín mặt."
+    },
+    {
+        "start": "00:29:38,080",
+        "end": "00:29:41,160",
+        "en": "Det är det ingen som har sagt innan. Är du säker på det?",
+        "pa": "",
+        "vi": "Chưa ai nhắc đến chuyện đó. Bà chắc chứ?"
+    },
+    {
+        "start": "00:29:41,240",
+        "end": "00:29:45,360",
+        "en": "Jag kanske blandar ihop det med mannen som har kiosken på hörnet.",
+        "pa": "",
+        "vi": "Có lẽ tôi nhầm với anh chàng ở siêu thị mini."
+    },
+    {
+        "start": "00:29:45,440",
+        "end": "00:29:47,120",
+        "en": "Han är ju också svartklädd.",
+        "pa": "",
+        "vi": "Anh ta cũng mặc đồ đen."
+    },
+    {
+        "start": "00:29:47,200",
+        "end": "00:29:49,280",
+        "en": "Du såg inte heller rånaren, antar jag.",
+        "pa": "",
+        "vi": "Chắc cô cũng không nhìn thấy hắn?"
+    },
+    {
+        "start": "00:29:49,360",
+        "end": "00:29:52,640",
+        "en": "-Nej. -Tack. Jag tror att det räcker för idag.",
+        "pa": "",
+        "vi": "- Vâng. - Cảm ơn. Hôm nay thế là đủ rồi."
+    },
+    {
+        "start": "00:29:52,720",
+        "end": "00:29:56,960",
+        "en": "-Kan du beskriva kroppsformen? -Han hade både ölmage och alkisröv.",
+        "pa": "",
+        "vi": "- Xin hãy mô tả dáng người hắn. - Hắn có bụng bia và mông bợm nhậu."
+    },
+    {
+        "start": "00:29:57,560",
+        "end": "00:29:58,760",
+        "en": "Eh…",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:29:58,840",
+        "end": "00:30:02,440",
+        "en": "Du, den där dräkten. Varför ser du ut så där?",
+        "pa": "",
+        "vi": "Sao anh lại mặc bộ đồ hóa trang đó?"
+    },
+    {
+        "start": "00:30:02,520",
+        "end": "00:30:05,600",
+        "en": "-Varför har du poliskläder på dig? -För att jag är polis.",
+        "pa": "",
+        "vi": "- Sao ông mặc đồng phục? - Vì tôi là cảnh sát."
+    },
+    {
+        "start": "00:30:05,680",
+        "end": "00:30:06,840",
+        "en": "Jag är kanin.",
+        "pa": "",
+        "vi": "Còn tôi là thỏ."
+    },
+    {
+        "start": "00:30:07,680",
+        "end": "00:30:11,760",
+        "en": "Vet du var gärningsmannen var när ni fick gå från lägenheten?",
+        "pa": "",
+        "vi": "Khi ông được phép ra khỏi căn hộ, ông có biết thủ phạm ở đâu không?"
+    },
+    {
+        "start": "00:30:11,840",
+        "end": "00:30:16,160",
+        "en": "Jag kan med all säkerhet säga att han förmodligen var kvar.",
+        "pa": "",
+        "vi": "Tôi chắc chắn là có lẽ hắn vẫn ở trong đó."
+    },
+    {
+        "start": "00:30:18,040",
+        "end": "00:30:20,880",
+        "en": "-Okej. -Jack, jag tror vi bryter här, va?",
+        "pa": "",
+        "vi": "- Được. - Jack, nghỉ thôi."
+    },
+    {
+        "start": "00:30:20,960",
+        "end": "00:30:23,240",
+        "en": "-Vi gör det. - Det var vad jag hade.",
+        "pa": "",
+        "vi": "- Được. - Tôi chỉ có thể nói thế."
+    },
+    {
+        "start": "00:30:25,400",
+        "end": "00:30:27,040",
+        "en": "Jaha…",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:30:29,240",
+        "end": "00:30:30,480",
+        "en": "Hej, hej.",
+        "pa": "",
+        "vi": "Chào."
+    },
+    {
+        "start": "00:30:35,160",
+        "end": "00:30:38,280",
+        "en": "- Nu vill man ju bara hem. -.",
+        "pa": "",
+        "vi": "Mong về nhà quá."
+    },
+    {
+        "start": "00:30:38,360",
+        "end": "00:30:39,640",
+        "en": "Och slippa det här.",
+        "pa": "",
+        "vi": "Tôi chịu hết nổi rồi."
+    },
+    {
+        "start": "00:30:44,040",
+        "end": "00:30:46,960",
+        "en": "-Ni är säkert trötta och vill gå hem. -Det är ingen fara.",
+        "pa": "",
+        "vi": "- Chắc mọi người đã mệt và muốn về nhà. - Ổn mà."
+    },
+    {
+        "start": "00:30:47,040",
+        "end": "00:30:51,160",
+        "en": "Det har varit en lång och traumatisk dag för oss allihop.",
+        "pa": "",
+        "vi": "Quả là một ngày dài và chấn động với tất cả chúng ta."
+    },
+    {
+        "start": "00:30:51,240",
+        "end": "00:30:54,400",
+        "en": "Ni ska strax få gå, men om vi bara kunde ses ett ögonblick",
+        "pa": "",
+        "vi": "Mọi người sắp được về rồi, chúng tôi chỉ cần gặp một lát"
+    },
+    {
+        "start": "00:30:54,480",
+        "end": "00:30:57,440",
+        "en": "här ute i receptionen. Om ni följer med här.",
+        "pa": "",
+        "vi": "ở khu vực đón tiếp thôi.\n Đi cùng tôi."
+    },
+    {
+        "start": "00:31:20,400",
+        "end": "00:31:21,360",
+        "en": "Ja.",
+        "pa": "",
+        "vi": "Rồi."
+    },
+    {
+        "start": "00:31:21,880",
+        "end": "00:31:23,880",
+        "en": "-Hör ni… -Så här är det…",
+        "pa": "",
+        "vi": "- Vậy là… - Được rồi."
+    },
+    {
+        "start": "00:31:23,960",
+        "end": "00:31:28,760",
+        "en": "Ibland kan det vara lättare att komma ihåg när det har gått några dagar.",
+        "pa": "",
+        "vi": "Đôi khi sẽ dễ nhớ lại hơn nếu để vài ngày trôi qua."
+    },
+    {
+        "start": "00:31:28,840",
+        "end": "00:31:33,200",
+        "en": "Jag vill att ni tänker efter ordentligt nu under nyårshelgen.",
+        "pa": "",
+        "vi": "Tôi muốn mọi người suy nghĩ thật kỹ trong kỳ nghỉ năm mới."
+    },
+    {
+        "start": "00:31:33,280",
+        "end": "00:31:37,120",
+        "en": "Nån måste ju ha sett mer än vad som har framkommit här ikväll.",
+        "pa": "",
+        "vi": "Phải có người nhìn thấy nhiều hơn những gì trình báo ở đây tối nay."
+    },
+    {
+        "start": "00:31:37,200",
+        "end": "00:31:39,880",
+        "en": "Samtidigt har ju alla gjort så gott de har kunnat.",
+        "pa": "",
+        "vi": "Tất nhiên, mọi người đã cố hết sức."
+    },
+    {
+        "start": "00:31:39,960",
+        "end": "00:31:41,960",
+        "en": "Tack för att ni tog er tid.",
+        "pa": "",
+        "vi": "Cảm ơn đã dành thời gian."
+    },
+    {
+        "start": "00:31:42,040",
+        "end": "00:31:43,720",
+        "en": "-Kan vi gå nu? -Absolut.",
+        "pa": "",
+        "vi": "- Chúng tôi về nhé? - Được."
+    },
+    {
+        "start": "00:31:44,360",
+        "end": "00:31:45,400",
+        "en": "Tack.",
+        "pa": "",
+        "vi": "Cảm ơn."
+    },
+    {
+        "start": "00:31:46,800",
+        "end": "00:31:49,480",
+        "en": "Vi hör av oss. Vi ska förhöra alla här igen.",
+        "pa": "",
+        "vi": "Chúng tôi sẽ liên lạc để gặp lại từng người."
+    },
+    {
+        "start": "00:31:51,000",
+        "end": "00:31:52,160",
+        "en": "-Tack. -Tack.",
+        "pa": "",
+        "vi": "Cảm ơn."
+    },
+    {
+        "start": "00:31:53,160",
+        "end": "00:31:55,720",
+        "en": "-Gott nytt år. -Ja, detsamma.",
+        "pa": "",
+        "vi": "- Chúc mừng năm mới. - Bà cũng thế."
+    },
+    {
+        "start": "00:32:01,000",
+        "end": "00:32:03,240",
+        "en": "Du kan ju ta det lite lugnt ibland.",
+        "pa": "",
+        "vi": "Chúa ơi.\n Đôi khi hãy nhẹ nhàng hơn chút nhé?"
+    },
+    {
+        "start": "00:32:03,920",
+        "end": "00:32:06,360",
+        "en": "-Va? -Det är människor vi har att göra med.",
+        "pa": "",
+        "vi": "- Ý bố là sao? - Họ là con người."
+    },
+    {
+        "start": "00:32:06,440",
+        "end": "00:32:08,240",
+        "en": "Va? Ska jag ta det lugnt?",
+        "pa": "",
+        "vi": "Con có cần bình tĩnh không?"
+    },
+    {
+        "start": "00:32:08,320",
+        "end": "00:32:09,400",
+        "en": "-Ja. -Nämen…",
+        "pa": "",
+        "vi": "- Có. - Nhưng…"
+    },
+    {
+        "start": "00:32:09,480",
+        "end": "00:32:14,040",
+        "en": "Jag tänker ju gå till botten med det här. Oavsett hur jobbigt det är för dem.",
+        "pa": "",
+        "vi": "Con sẽ đi đến cùng chuyện này, bất kể có gây rắc rối thế nào cho họ."
+    },
+    {
+        "start": "00:32:16,760",
+        "end": "00:32:20,160",
+        "en": "Jag tänker ta fast den här jävla rånaren, så mycket kan jag säga.",
+        "pa": "",
+        "vi": "Con sẽ bắt được tên cướp này, nói cho bố biết."
+    },
+    {
+        "start": "00:33:22,640",
+        "end": "00:33:24,440",
+        "en": "",
+        "pa": "",
+        "vi": "Biên dịch: TH "
+    }
+]
