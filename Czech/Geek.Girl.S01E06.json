@@ -1,0 +1,2445 @@
+[
+    {
+        "start": "00:00:36,119",
+        "end": "00:00:38,830",
+        "en": "Jo, už vím. To je „čekání na autobus\".",
+        "pa": "",
+        "vi": "Ồ, anh hiểu rồi. Đó là dáng \"đợi xe buýt\"."
+    },
+    {
+        "start": "00:00:38,913",
+        "end": "00:00:41,791",
+        "en": "No, vlastně tady spíš čekám na loď, ne?",
+        "pa": "",
+        "vi": "Chà, dáng \"đợi thuyền\" thì đúng hơn."
+    },
+    {
+        "start": "00:00:43,043",
+        "end": "00:00:44,669",
+        "en": "Nikdo tu nemluvil o lodi.",
+        "pa": "",
+        "vi": "- Hẳn rồi. - Có ai nói là ta sẽ lên thuyền đâu."
+    },
+    {
+        "start": "00:01:02,353",
+        "end": "00:01:06,608",
+        "en": "To vám posílají z kanceláře. Všichni teď o ní mluví!",
+        "pa": "",
+        "vi": "Văn phòng bảo tôi đưa cô mấy cái này."
+    },
+    {
+        "start": "00:01:07,776",
+        "end": "00:01:10,070",
+        "en": "PŘEHLÍDKA VZHŮRU NOHAMA",
+        "pa": "",
+        "vi": "Ai cũng đều nói về cô ấy.\n NHẬT BÁO OTTAWA CÚ NGÃ MÊ ĐẮM TRÊN SÀN DIỄN"
+    },
+    {
+        "start": "00:01:12,197",
+        "end": "00:01:15,116",
+        "en": "KOLEKCE YUJI LEE OHROMILA MÓDNÍ FANOUŠKY",
+        "pa": "",
+        "vi": "BỘ SƯU TẬP CỦA YUJI LEE KHIẾN CÁC TÍN ĐỒ THỜI TRANG TRẦM TRỒ"
+    },
+    {
+        "start": "00:01:18,995",
+        "end": "00:01:23,166",
+        "en": "Vaše nová tvář zanechala vskutku velký první dojem, Wilbure.",
+        "pa": "",
+        "vi": "Có vẻ khuôn mặt mới của anh chào sân ấn tượng đó, Wilbur."
+    },
+    {
+        "start": "00:01:23,249",
+        "end": "00:01:25,043",
+        "en": "Tvrdé přistání do vysoké módy.",
+        "pa": "",
+        "vi": "Cú đáp thời trang đỉnh cao."
+    },
+    {
+        "start": "00:01:25,585",
+        "end": "00:01:27,128",
+        "en": "Rozhodně to zanechalo dojem.",
+        "pa": "",
+        "vi": "Đúng là màn chào sân có ảnh hưởng."
+    },
+    {
+        "start": "00:01:31,424",
+        "end": "00:01:33,009",
+        "en": "Tohle je moc. Pro kohokoli.",
+        "pa": "",
+        "vi": "Mà nó hơi quá cho bất cứ ai."
+    },
+    {
+        "start": "00:01:35,345",
+        "end": "00:01:39,724",
+        "en": "Jen dohlížím na to, aby se Harriet nenechala pohltit tím hlukem.",
+        "pa": "",
+        "vi": "Tôi muốn đảm bảo Harriet không choáng ngợp bởi tất cả"
+    },
+    {
+        "start": "00:01:42,143",
+        "end": "00:01:44,395",
+        "en": "Millie. Zbav se toho.",
+        "pa": "",
+        "vi": "sự náo động đó.\n Millie.\n Bỏ mấy cái này đi."
+    },
+    {
+        "start": "00:02:01,579",
+        "end": "00:02:02,705",
+        "en": "A těšíš se na večer?",
+        "pa": "",
+        "vi": "Mong chờ tối nay chứ?"
+    },
+    {
+        "start": "00:02:03,957",
+        "end": "00:02:08,169",
+        "en": "Jo. Jasně. Velký módní večírek plný úspěšných",
+        "pa": "",
+        "vi": "Vâng. Có chứ ạ."
+    },
+    {
+        "start": "00:02:08,253",
+        "end": "00:02:11,506",
+        "en": "cizích lidí je přesně něco pro mě.",
+        "pa": "",
+        "vi": "Tiệc thời trang lớn đầy người lạ ngầu đét và sang chảnh là việc em làm rất giỏi mà."
+    },
+    {
+        "start": "00:02:12,549",
+        "end": "00:02:13,383",
+        "en": "No,",
+        "pa": "",
+        "vi": "Chà, Fenzi thường có mấy bữa tiệc vui lắm,"
+    },
+    {
+        "start": "00:02:13,550",
+        "end": "00:02:17,762",
+        "en": "Fenzi obvykle mívá zábavný večírky a po tvém velkolepém vstupu do módního",
+        "pa": "",
+        "vi": "và anh nghĩ sau màn chào sân ngành thời trang hoành tráng của em,"
+    },
+    {
+        "start": "00:02:17,846",
+        "end": "00:02:20,723",
+        "en": "průmyslu se na tebe určitě všichni sesypou.",
+        "pa": "",
+        "vi": "ai cũng sẽ muốn bắt chuyện với em."
+    },
+    {
+        "start": "00:02:22,642",
+        "end": "00:02:24,144",
+        "en": "To vůbec nezní zábavně.",
+        "pa": "",
+        "vi": "Nghe chẳng vui gì cả."
+    },
+    {
+        "start": "00:02:24,227",
+        "end": "00:02:27,605",
+        "en": "No, ale bude, když tam půjdem spolu.",
+        "pa": "",
+        "vi": "Chà, vui chứ, nếu ta đi cùng nhau."
+    },
+    {
+        "start": "00:02:29,440",
+        "end": "00:02:33,486",
+        "en": "Chci říct, že ty jsi nová tvář Infinity, já stará. Takže dává smysl, že",
+        "pa": "",
+        "vi": "À, ý anh là em là gương mặt mới của Infinity, anh thì kỳ cựu."
+    },
+    {
+        "start": "00:02:33,611",
+        "end": "00:02:36,364",
+        "en": "-bysme… -S tátou pro nás přijede auto, tak",
+        "pa": "",
+        "vi": "Hợp lý mà, nhưng…"
+    },
+    {
+        "start": "00:02:36,447",
+        "end": "00:02:38,575",
+        "en": "se s náma můžeš svézt, jestli chceš.",
+        "pa": "",
+        "vi": "Xe sẽ đến đón em và bố. Anh muốn đi nhờ thì cứ lên cùng."
+    },
+    {
+        "start": "00:02:39,284",
+        "end": "00:02:42,453",
+        "en": "-Dobrý, dobrý… -Jasně svézt. Vlastně",
+        "pa": "",
+        "vi": "Phải… đi nhờ."
+    },
+    {
+        "start": "00:02:42,537",
+        "end": "00:02:44,914",
+        "en": "možná budu muset jet s tetou.",
+        "pa": "",
+        "vi": "Thật ra, chắc anh sẽ đi với dì anh."
+    },
+    {
+        "start": "00:02:47,125",
+        "end": "00:02:48,168",
+        "en": "Tak se potkáme tam.",
+        "pa": "",
+        "vi": "Mà anh sẽ gặp em ở đó."
+    },
+    {
+        "start": "00:02:49,794",
+        "end": "00:02:51,588",
+        "en": "-Dobře. -Tak jo.",
+        "pa": "",
+        "vi": "- Vâng. - Rồi."
+    },
+    {
+        "start": "00:02:52,839",
+        "end": "00:02:53,840",
+        "en": "Co jsem řekla špatně?",
+        "pa": "",
+        "vi": "Mình đã nói gì sai à?"
+    },
+    {
+        "start": "00:02:59,846",
+        "end": "00:03:01,890",
+        "en": "KAPITOLA ŠESTÁ",
+        "pa": "",
+        "vi": "TẬP SÁU"
+    },
+    {
+        "start": "00:03:14,110",
+        "end": "00:03:15,695",
+        "en": "Jak to vypadá tady? Dobrý?",
+        "pa": "",
+        "vi": "Ở đây thế nào rồi? Ổn cả chứ?"
+    },
+    {
+        "start": "00:03:17,030",
+        "end": "00:03:20,450",
+        "en": "Nejsem připravená. Večírky mi moc nejdou. Googlila jsem,",
+        "pa": "",
+        "vi": "Con chưa sẵn sàng. Con không giỏi tiệc tùng lắm."
+    },
+    {
+        "start": "00:03:20,533",
+        "end": "00:03:25,205",
+        "en": "jak vést společenskou konverzaci, ale většina rad se týká práce v kanceláři.",
+        "pa": "",
+        "vi": "Con đã nghiên cứu cách tám chuyện,\n mà các lời khuyên toàn tập trung vào mấy việc văn phòng."
+    },
+    {
+        "start": "00:03:25,288",
+        "end": "00:03:29,209",
+        "en": "Na netu není moc informací, jak se vmísit mezi módní elitu.",
+        "pa": "",
+        "vi": "Ít thông tin về cách hòa nhập với giới thượng lưu ngành thời trang quá."
+    },
+    {
+        "start": "00:03:29,292",
+        "end": "00:03:33,129",
+        "en": "A jedla jsi něco? Měla bys jíst. Já to objednám. Co chceš?",
+        "pa": "",
+        "vi": "Con ăn chưa? Ta sẽ gọi dịch vụ phòng. Con thích gì?"
+    },
+    {
+        "start": "00:03:33,213",
+        "end": "00:03:38,092",
+        "en": "Ne, jsou tam samý divný věci. Co je ibiškový gel? Nebo, nebo citronové",
+        "pa": "",
+        "vi": "Không, nó có mấy thứ dị lắm. Gel dâm bụt là gì?"
+    },
+    {
+        "start": "00:03:38,176",
+        "end": "00:03:43,306",
+        "en": "pangrattato? Nebo slaninový džem? Nemám teď zrovna chuť na slaný džem.",
+        "pa": "",
+        "vi": "Hay vụn bánh mì chanh nữa? Hay mứt thịt xông khói?\n Con nghĩ con không thích ăn mứt mặn bây giờ lắm."
+    },
+    {
+        "start": "00:03:44,641",
+        "end": "00:03:45,934",
+        "en": "A nebo spíš nikdy.",
+        "pa": "",
+        "vi": "Hoặc chẳng bao giờ thích."
+    },
+    {
+        "start": "00:03:49,604",
+        "end": "00:03:50,939",
+        "en": "Díky, tati.",
+        "pa": "",
+        "vi": "Cảm ơn bố."
+    },
+    {
+        "start": "00:03:51,022",
+        "end": "00:03:54,234",
+        "en": "To bude moje bedna ibiškového gelu.",
+        "pa": "",
+        "vi": "Chắc đó là thùng gel dâm bụt mà bố đã gọi."
+    },
+    {
+        "start": "00:04:05,203",
+        "end": "00:04:06,871",
+        "en": "Vaše róba, slečno Mannersová.",
+        "pa": "",
+        "vi": "Đầm đây, cô Manners."
+    },
+    {
+        "start": "00:04:08,331",
+        "end": "00:04:09,666",
+        "en": "Zkus se tvářit nadšeně.",
+        "pa": "",
+        "vi": "Cố tỏ ra hào hứng đi nào."
+    },
+    {
+        "start": "00:04:13,711",
+        "end": "00:04:18,508",
+        "en": "Takhle to nepůjde, viď? Každý, kdo tu teď nemusí být, dejte si odchod. Díky.",
+        "pa": "",
+        "vi": "Thế này không được rồi, nhỉ?\n Ai không cần ở đây bây giờ, xin hãy ra khỏi đây đi. Cảm ơn."
+    },
+    {
+        "start": "00:04:20,927",
+        "end": "00:04:21,844",
+        "en": "Všichni ven!",
+        "pa": "",
+        "vi": "Đi ngay đi!"
+    },
+    {
+        "start": "00:04:21,928",
+        "end": "00:04:23,596",
+        "en": "Pozor na to, tady dámy!",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:04:24,681",
+        "end": "00:04:25,556",
+        "en": "Pohyb.",
+        "pa": "",
+        "vi": "Đi đi."
+    },
+    {
+        "start": "00:04:34,899",
+        "end": "00:04:36,192",
+        "en": "Bude tu každou chvíli.",
+        "pa": "",
+        "vi": "- Tôi chắc con bé sẽ ra ngay thôi. - Ừ. Hẳn rồi."
+    },
+    {
+        "start": "00:04:36,818",
+        "end": "00:04:40,863",
+        "en": "Jo, já vím. V módě se chodí pozdě. Bohužel.",
+        "pa": "",
+        "vi": "Chỉ là trễ giờ một cách sành điệu. Vậy thôi."
+    },
+    {
+        "start": "00:05:17,817",
+        "end": "00:05:18,901",
+        "en": "Harriet Mannersová.",
+        "pa": "",
+        "vi": "Harriet Manners."
+    },
+    {
+        "start": "00:05:21,154",
+        "end": "00:05:22,280",
+        "en": "Jsi celá máma.",
+        "pa": "",
+        "vi": "Con giống mẹ con quá."
+    },
+    {
+        "start": "00:05:25,033",
+        "end": "00:05:26,409",
+        "en": "Vážně jsem jí podobná?",
+        "pa": "",
+        "vi": "Con giống mẹ lắm ạ?"
+    },
+    {
+        "start": "00:05:26,492",
+        "end": "00:05:27,327",
+        "en": "Hm.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:05:28,703",
+        "end": "00:05:29,662",
+        "en": "Každým dnem víc.",
+        "pa": "",
+        "vi": "Càng ngày càng giống."
+    },
+    {
+        "start": "00:05:32,957",
+        "end": "00:05:34,250",
+        "en": "Byla by na tebe pyšná.",
+        "pa": "",
+        "vi": "Mẹ sẽ rất tự hào về con."
+    },
+    {
+        "start": "00:05:38,171",
+        "end": "00:05:39,630",
+        "en": "Tohle nemůže být pravda.",
+        "pa": "",
+        "vi": "Mọi thứ cứ như mơ ấy ạ."
+    },
+    {
+        "start": "00:05:42,258",
+        "end": "00:05:44,177",
+        "en": "Vůbec si nepřipadám jako modelka.",
+        "pa": "",
+        "vi": "Con chẳng thấy con giống người mẫu."
+    },
+    {
+        "start": "00:05:46,304",
+        "end": "00:05:47,221",
+        "en": "Jsem šprtka.",
+        "pa": "",
+        "vi": "Con là mọt sách."
+    },
+    {
+        "start": "00:05:49,807",
+        "end": "00:05:50,641",
+        "en": "Můžeš být obojí.",
+        "pa": "",
+        "vi": "Là cả hai được mà."
+    },
+    {
+        "start": "00:05:52,935",
+        "end": "00:05:53,978",
+        "en": "Můžeš být cokoliv.",
+        "pa": "",
+        "vi": "- Con có thể là tất cả. - Tôi không muốn xen vào, cơ mà…"
+    },
+    {
+        "start": "00:05:55,104",
+        "end": "00:06:00,151",
+        "en": "Nechci vád prudit, ale promiňte. Můžem?",
+        "pa": "",
+        "vi": "Tôi xin lỗi. Ta đi nhỉ?"
+    },
+    {
+        "start": "00:06:38,773",
+        "end": "00:06:39,899",
+        "en": "Je moc roztomilá, viď?",
+        "pa": "",
+        "vi": "Cô ấy đáng yêu quá nhỉ?"
+    },
+    {
+        "start": "00:06:40,691",
+        "end": "00:06:42,110",
+        "en": "Trochu povýšenecký.",
+        "pa": "",
+        "vi": "Cô hơi ra vẻ kẻ cả đấy."
+    },
+    {
+        "start": "00:06:42,693",
+        "end": "00:06:48,408",
+        "en": "Jen chci říct, že je hezký, že přišla na svůj první módní večírek s tátou. No, snad",
+        "pa": "",
+        "vi": "Ý là, thật đáng yêu khi cô ấy đến bữa tiệc lớn đầu tiên trong ngành với bố mình."
+    },
+    {
+        "start": "00:06:48,491",
+        "end": "00:06:51,369",
+        "en": "to ustojí. Je to tlak. Zvlášť po včerejším…",
+        "pa": "",
+        "vi": "Mong cô ấy xử lý được.\n - Nhiều áp lực mà. Nhất là sau vụ hôm qua… - Cô ấy sẽ ổn thôi."
+    },
+    {
+        "start": "00:06:51,452",
+        "end": "00:06:52,370",
+        "en": "Zvládne to.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:06:53,371",
+        "end": "00:06:55,832",
+        "en": "Dobře, Nicku. Klídek.",
+        "pa": "",
+        "vi": "Được rồi, Nick."
+    },
+    {
+        "start": "00:06:55,915",
+        "end": "00:07:02,880",
+        "en": "Slečno Mannersová, Celine Delacroix z časopisu Quinn. Můžete mi věnovat chvilku?",
+        "pa": "",
+        "vi": "Bảo vệ quá nhỉ.\n Cô Manners, Celine Delacroix, Tạp chí Quinn. Cho tôi vài phút nhé?\n Đi đi. Bay lên nào."
+    },
+    {
+        "start": "00:07:07,760",
+        "end": "00:07:09,053",
+        "en": "Běž. Leť.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:07:10,638",
+        "end": "00:07:13,224",
+        "en": "Můžeme jít támhle? Je tam lepší světlo do pozadí.",
+        "pa": "",
+        "vi": "Ta ra kia nhé? Phông đó ánh sáng tốt hơn."
+    },
+    {
+        "start": "00:07:13,307",
+        "end": "00:07:14,350",
+        "en": "Já zůstanu tady.",
+        "pa": "",
+        "vi": "Tôi sẽ ở lại đây."
+    },
+    {
+        "start": "00:07:16,436",
+        "end": "00:07:19,522",
+        "en": "Nicku, je to pár metrů. Proč mám pocit, že jsem jediná,",
+        "pa": "",
+        "vi": "Nick, cách có 1,5 mét."
+    },
+    {
+        "start": "00:07:19,605",
+        "end": "00:07:22,108",
+        "en": "kdo se tady snaží dělat dobře náš content?",
+        "pa": "",
+        "vi": "Sao chỉ mỗi tôi cố tìm bối cảnh đẹp cho nội dung của ta thế?"
+    },
+    {
+        "start": "00:07:22,191",
+        "end": "00:07:27,697",
+        "en": "Hele, Poppy. Jel jsem až do Kanady, abych ti to nezkazil. Ale myslel jsem to vážně.",
+        "pa": "",
+        "vi": "Nghe này, tôi đã cố vụ Canada, để không phá hỏng việc của cô."
+    },
+    {
+        "start": "00:07:28,573",
+        "end": "00:07:29,574",
+        "en": "Nezačínej.",
+        "pa": "",
+        "vi": "- Poppy, tôi nói nghiêm túc đó. - Đừng thế nữa."
+    },
+    {
+        "start": "00:07:29,657",
+        "end": "00:07:31,993",
+        "en": "Promiň, ale já už to vážně nechci dělat.",
+        "pa": "",
+        "vi": "Xin lỗi, tôi không muốn làm nó nữa."
+    },
+    {
+        "start": "00:07:33,119",
+        "end": "00:07:34,287",
+        "en": "Harriet!",
+        "pa": "",
+        "vi": "- Harriet! Đằng này! - Harriet!"
+    },
+    {
+        "start": "00:07:34,454",
+        "end": "00:07:35,246",
+        "en": "Zdravím, Harriet.",
+        "pa": "",
+        "vi": "- Harriet! - Cô Manners, ở đây!"
+    },
+    {
+        "start": "00:07:36,247",
+        "end": "00:07:38,040",
+        "en": "Já vás taky, zase.",
+        "pa": "",
+        "vi": "Xin chào. Lần nữa."
+    },
+    {
+        "start": "00:07:38,124",
+        "end": "00:07:42,086",
+        "en": "Viděli jsme, že váš moment na molu měl velký ohlas. Bylo to plánované?",
+        "pa": "",
+        "vi": "Tôi nghĩ khoảnh khắc trên sàn diễn đó rất có sức ảnh hưởng."
+    },
+    {
+        "start": "00:07:42,587",
+        "end": "00:07:43,421",
+        "en": "Cože?",
+        "pa": "",
+        "vi": "- Là lên kế hoạch trước à? - Hả?"
+    },
+    {
+        "start": "00:07:43,546",
+        "end": "00:07:46,215",
+        "en": "Naplánovaly jste to s Yuji, aby se psalo o její nové kampani?",
+        "pa": "",
+        "vi": "Cô và Yuji dàn dựng nó để báo chí chú ý chiến dịch mới hơn?"
+    },
+    {
+        "start": "00:07:46,299",
+        "end": "00:07:50,219",
+        "en": "Ne. Já, já jsem spadla, protože jsem měla vysoké podpatky.",
+        "pa": "",
+        "vi": "Không, tôi ngã vì giày cao gót của tôi quá to."
+    },
+    {
+        "start": "00:07:50,803",
+        "end": "00:07:52,221",
+        "en": "Neumíte chodit na podpatcích?",
+        "pa": "",
+        "vi": "- Cô không đi được giày cao gót? - Tôi đi được. Tôi đang tiến bộ hơn."
+    },
+    {
+        "start": "00:07:52,305",
+        "end": "00:07:54,891",
+        "en": "Umím, teda, teda zlepšuju se, jo.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:07:55,475",
+        "end": "00:07:57,560",
+        "en": "Dobře. Dáme si krátkou očistu",
+        "pa": "",
+        "vi": "Vậy hãy dừng vụ đăng mạng xã hội về Boba Match, nghỉ ngơi chánh niệm một chút."
+    },
+    {
+        "start": "00:07:57,643",
+        "end": "00:08:02,190",
+        "en": "od socek a Boba Match. Můžeme se zatím zamyslet nad kreativou",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:08:02,273",
+        "end": "00:08:04,108",
+        "en": "a vrátit se šťastnější.",
+        "pa": "",
+        "vi": "Ta sẽ thiết lập lại mức độ sáng tạo rồi trở lại vui vẻ và khỏe mạnh hơn."
+    },
+    {
+        "start": "00:08:04,734",
+        "end": "00:08:07,487",
+        "en": "Poppy. Já nechci pauzu. Končím.",
+        "pa": "",
+        "vi": "Rồi. Tôi không muốn nghỉ. Với tôi, nó kết thúc rồi."
+    },
+    {
+        "start": "00:08:08,362",
+        "end": "00:08:12,492",
+        "en": "Víš co? Může to být velký. Uděláme z toho trochu drama.",
+        "pa": "",
+        "vi": "Này, có thể là cả câu chuyện đấy."
+    },
+    {
+        "start": "00:08:12,575",
+        "end": "00:08:15,995",
+        "en": "Každej má rád drama. Budem jako Ross a Rachel.",
+        "pa": "",
+        "vi": "Với tình tiết hấp dẫn. Ai chẳng mê kịch tính. Ta như Ross và Rachel vậy."
+    },
+    {
+        "start": "00:08:16,078",
+        "end": "00:08:20,917",
+        "en": "Dáme si pauzu a pak se vrátíme k sobě a Noppy bude ještě větší.",
+        "pa": "",
+        "vi": "Ta sẽ tạm chia tay, rồi quay lại, hoành tráng hơn và hay ho hơn trước."
+    },
+    {
+        "start": "00:08:23,920",
+        "end": "00:08:25,379",
+        "en": "Sluší ti to, když se mračíš.",
+        "pa": "",
+        "vi": "Bĩu môi xinh ghê."
+    },
+    {
+        "start": "00:08:27,673",
+        "end": "00:08:30,593",
+        "en": "Takže Yuji Lee poslala na molo modelku, která ještě ani neumí",
+        "pa": "",
+        "vi": "Yuji Lee đã đưa một người mẫu mới chưa đi nổi giày cao gót cao nhất ra sàn diễn."
+    },
+    {
+        "start": "00:08:30,676",
+        "end": "00:08:32,887",
+        "en": "chodit na podpatcích, a dala jí ty nejvyšší?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:08:33,638",
+        "end": "00:08:37,600",
+        "en": "Ano. Ne. No, možná. Já jen…",
+        "pa": "",
+        "vi": "- Ý cô là vậy à? - Phải.\n Không.\n Có thể. Tôi chỉ…"
+    },
+    {
+        "start": "00:08:44,357",
+        "end": "00:08:45,608",
+        "en": "K focení mého parfému…",
+        "pa": "",
+        "vi": "Quảng cáo nước hoa của tôi."
+    },
+    {
+        "start": "00:08:47,568",
+        "end": "00:08:48,861",
+        "en": "Bude to dělat Harriet.",
+        "pa": "",
+        "vi": "Tôi muốn Harriet."
+    },
+    {
+        "start": "00:08:49,529",
+        "end": "00:08:53,866",
+        "en": "Harriet? Spolu s již nasmlouvanou Poppy Hepple-Cartwrightovou?",
+        "pa": "",
+        "vi": "Harriet? Bên cạnh hợp đồng trước đó với Poppy Hepple-Cartwright sao?"
+    },
+    {
+        "start": "00:08:54,450",
+        "end": "00:08:58,120",
+        "en": "Wilbure, řekla jsem, že chci Harriet.",
+        "pa": "",
+        "vi": "Wilbur, tôi đã nói là tôi muốn Harriet."
+    },
+    {
+        "start": "00:08:58,204",
+        "end": "00:09:01,582",
+        "en": "Jistě. Dám vědět Jude a doobjednáme vám to.",
+        "pa": "",
+        "vi": "Tất nhiên. Tôi sẽ báo cho Jude, và bọn tôi sẽ sắp xếp mọi thứ."
+    },
+    {
+        "start": "00:09:07,838",
+        "end": "00:09:08,756",
+        "en": "Skvělá párty.",
+        "pa": "",
+        "vi": "Tiệc tuyệt lắm."
+    },
+    {
+        "start": "00:09:10,007",
+        "end": "00:09:16,847",
+        "en": "Já, já… jen. Tamhle vidím svého tátu. Hledá mě. Promiňte, můžu?",
+        "pa": "",
+        "vi": "Tôi chỉ…\n Tôi thấy bố tôi đằng kia. Bố tôi đang tìm tôi. Xin lỗi, xin phép…"
+    },
+    {
+        "start": "00:09:18,849",
+        "end": "00:09:21,686",
+        "en": "Nepotřebuješ ani mě, ani Noppy. Chápeš to, ne?",
+        "pa": "",
+        "vi": "Cô không cần tôi hay Noppy. Cô biết mà?"
+    },
+    {
+        "start": "00:09:23,479",
+        "end": "00:09:24,939",
+        "en": "Co? Můžeš být jen Poppy.",
+        "pa": "",
+        "vi": "Nhé? Cứ là Poppy thôi là đủ rồi."
+    },
+    {
+        "start": "00:09:29,694",
+        "end": "00:09:30,570",
+        "en": "Vážně.",
+        "pa": "",
+        "vi": "Thật đấy."
+    },
+    {
+        "start": "00:09:33,614",
+        "end": "00:09:34,490",
+        "en": "Super!",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:09:34,699",
+        "end": "00:09:35,908",
+        "en": "-Nick Park? -Nick Park?",
+        "pa": "",
+        "vi": "- Nick Park? Là anh ấy à? - Nick Park, bên này!"
+    },
+    {
+        "start": "00:09:35,992",
+        "end": "00:09:37,076",
+        "en": "Nicku! Nicku, tady!",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:09:38,828",
+        "end": "00:09:40,121",
+        "en": "Můžu si vás vyfotit společně?",
+        "pa": "",
+        "vi": "Nick Park!\n - Tôi chụp một tấm hai người nhé? - Rồi! Đó, tạo dáng đi!"
+    },
+    {
+        "start": "00:09:40,204",
+        "end": "00:09:42,331",
+        "en": "Tady. No tak. Jednu společnou.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:09:42,999",
+        "end": "00:09:46,586",
+        "en": "Harriet, co vás rozesmálo na molu? Harriet, Harriet, prosím!",
+        "pa": "",
+        "vi": "Harriet, cô cười trên sàn catwalk vì điều gì thế?"
+    },
+    {
+        "start": "00:09:57,263",
+        "end": "00:10:02,268",
+        "en": "Už se to děje zase. Proč je všechno tak intenzivní?",
+        "pa": "",
+        "vi": "Lại thế nữa rồi.\n Ai cứ đẩy thế giới lên mức 11 thế?"
+    },
+    {
+        "start": "00:10:04,520",
+        "end": "00:10:05,521",
+        "en": "Co je to se mnou?",
+        "pa": "",
+        "vi": "Mình bị gì thế nhỉ?\n - Cảm ơn! - Anh Park, đợi ở đây đi!"
+    },
+    {
+        "start": "00:10:15,364",
+        "end": "00:10:16,907",
+        "en": "",
+        "pa": "",
+        "vi": "Harriet!"
+    },
+    {
+        "start": "00:10:37,845",
+        "end": "00:10:41,474",
+        "en": "Tady seš. Drahoušku, Yuji Lee právě… Zlato.",
+        "pa": "",
+        "vi": "Em đây rồi. Cưng à, Yuji Lee vừa mới…"
+    },
+    {
+        "start": "00:10:41,557",
+        "end": "00:10:44,852",
+        "en": "Trochu míň vyšilování, jsme přece šik.",
+        "pa": "",
+        "vi": "Cưng à. Bớt hoảng sợ, sang lên chút đi nào, nhé?"
+    },
+    {
+        "start": "00:10:48,481",
+        "end": "00:10:49,482",
+        "en": "Je toho na tebe moc?",
+        "pa": "",
+        "vi": "Ngợp quá à cưng?"
+    },
+    {
+        "start": "00:10:50,691",
+        "end": "00:10:54,862",
+        "en": "Strašně. Je tam, je tam tolik lidí, a já se všema musím mluvit.",
+        "pa": "",
+        "vi": "Ngợp quá ạ, với cả là… Đông người quá, và em phải nói với tất cả."
+    },
+    {
+        "start": "00:10:54,945",
+        "end": "00:10:57,114",
+        "en": "Nemusíš. Vážně.",
+        "pa": "",
+        "vi": "Đâu cần.\n Em không cần."
+    },
+    {
+        "start": "00:10:59,241",
+        "end": "00:11:04,330",
+        "en": "Třeba Kate Moss. Dvacet let se s nikým nebaví. Součást značky.",
+        "pa": "",
+        "vi": "Nhìn Kate Moss đi. Suốt 20 năm chẳng nói với ai. Một phần thương hiệu của cô ấy đó."
+    },
+    {
+        "start": "00:11:06,707",
+        "end": "00:11:09,627",
+        "en": "Takže nemusím dávat všechny ty rozhovory a, a, a,",
+        "pa": "",
+        "vi": "Vậy là em không cần trả lời mọi phỏng vấn"
+    },
+    {
+        "start": "00:11:09,710",
+        "end": "00:11:13,631",
+        "en": "a mluvit se všemi těmi manažery a tak? Můžu jen předvádět?",
+        "pa": "",
+        "vi": "và nói chuyện với tất cả các quản lý các kiểu ạ? Cứ đi thôi ạ?"
+    },
+    {
+        "start": "00:11:13,714",
+        "end": "00:11:17,468",
+        "en": "No prosím, hlavně se nebav s manažery. Doslova je odháním klackem.",
+        "pa": "",
+        "vi": "Chà, đừng nói chuyện với các quản lý. Tôi sẽ dùng gậy xua họ đi thật đấy."
+    },
+    {
+        "start": "00:11:18,594",
+        "end": "00:11:20,638",
+        "en": "Ne doslova, však víš jak.",
+        "pa": "",
+        "vi": "Ý là, không phải theo nghĩa đen."
+    },
+    {
+        "start": "00:11:26,435",
+        "end": "00:11:31,941",
+        "en": "Snažím se říct, že je tolik způsobů, jak být modelkou, jako modelek.",
+        "pa": "",
+        "vi": "Điều tôi muốn nói là\n có bao nhiêu người mẫu thì có bấy nhiêu cách làm."
+    },
+    {
+        "start": "00:11:35,736",
+        "end": "00:11:38,489",
+        "en": "Najdi si svou cestu. Pomůžu ti.",
+        "pa": "",
+        "vi": "Em chỉ cần tìm cách của em. Tất nhiên, tôi sẽ giúp."
+    },
+    {
+        "start": "00:11:45,121",
+        "end": "00:11:48,457",
+        "en": "Můžu tady chvíli zůstat? Je tu klid.",
+        "pa": "",
+        "vi": "Em có thể ở ngoài này một lát, trong yên tĩnh được không?"
+    },
+    {
+        "start": "00:11:49,166",
+        "end": "00:11:50,042",
+        "en": "Jasně.",
+        "pa": "",
+        "vi": "Được chứ."
+    },
+    {
+        "start": "00:11:52,211",
+        "end": "00:11:53,087",
+        "en": "Dám ti chvilku.",
+        "pa": "",
+        "vi": "Để em yên một lúc đó."
+    },
+    {
+        "start": "00:12:04,849",
+        "end": "00:12:09,061",
+        "en": "Dokonce i já jsem slyšel o Bascar. Charitativní galavečer v Londýně,",
+        "pa": "",
+        "vi": "Không, đến tôi cũng nghe về Bascar. Sự kiện gây quỹ siêu lớn ở London."
+    },
+    {
+        "start": "00:12:09,145",
+        "end": "00:12:10,896",
+        "en": "-je to tak? -Přesně tak.",
+        "pa": "",
+        "vi": "- Nhỉ? - Chính xác."
+    },
+    {
+        "start": "00:12:10,980",
+        "end": "00:12:14,734",
+        "en": "Velcí návrháři. Já bych nemohl jít v těch botech. Nemám na to kotníky.",
+        "pa": "",
+        "vi": "Các nhà thiết kế lớn. Tôi còn chẳng thể đi giày của họ. Tôi chẳng đủ tiền."
+    },
+    {
+        "start": "00:12:16,026",
+        "end": "00:12:20,281",
+        "en": "Nerad ruším, ehm. Richarde, můžete na malý tête-à-tête?",
+        "pa": "",
+        "vi": "Xin lỗi đã xen ngang. Richard, ta đi tỉ tê riêng chút nhé?"
+    },
+    {
+        "start": "00:12:21,073",
+        "end": "00:12:22,491",
+        "en": "Co? Už jsem jedl, ale dobře.",
+        "pa": "",
+        "vi": "Ăn giờ thì hơi trễ, mà được."
+    },
+    {
+        "start": "00:12:23,409",
+        "end": "00:12:25,119",
+        "en": "Na slovíčko?",
+        "pa": "",
+        "vi": "- Nói chuyện ấy? - Ừ. Được!"
+    },
+    {
+        "start": "00:12:25,369",
+        "end": "00:12:27,371",
+        "en": "Aha! Ano. Samozřejmě. Hned jsem zpátky.",
+        "pa": "",
+        "vi": "Ừ, được chứ. Tôi quay lại ngay."
+    },
+    {
+        "start": "00:12:27,455",
+        "end": "00:12:28,539",
+        "en": "To tedy doufám.",
+        "pa": "",
+        "vi": "Nói phải giữ lời nhé."
+    },
+    {
+        "start": "00:12:33,127",
+        "end": "00:12:34,128",
+        "en": "Báječná žena.",
+        "pa": "",
+        "vi": "- Cô ấy đỉnh quá. - Ừ."
+    },
+    {
+        "start": "00:12:34,211",
+        "end": "00:12:39,550",
+        "en": "Jo. Zatím jen mezi námi, Yuji Lee chce Harriet do své kampaně.",
+        "pa": "",
+        "vi": "Tạm thời chỉ ta biết nhé, Yuji Lee muốn Harriet cho chiến dịch nước hoa."
+    },
+    {
+        "start": "00:12:39,633",
+        "end": "00:12:40,926",
+        "en": "Hat? Páni.",
+        "pa": "",
+        "vi": "Hats á? Chà."
+    },
+    {
+        "start": "00:12:41,010",
+        "end": "00:12:45,139",
+        "en": "Nepopsatelně velká zpráva, já vím, ale ještě jsem to Harriet neřekl.",
+        "pa": "",
+        "vi": "Ừ, tin lớn khó giải thích, tôi biết, mà tôi chưa bảo Harriet."
+    },
+    {
+        "start": "00:12:45,222",
+        "end": "00:12:46,432",
+        "en": "Proč? Kdepak je?",
+        "pa": "",
+        "vi": "- Tại sao? Con bé đâu? - Cô bé đang nghỉ."
+    },
+    {
+        "start": "00:12:46,515",
+        "end": "00:12:50,060",
+        "en": "Šla si odpočinout. Jenom chci vědět, že má…",
+        "pa": "",
+        "vi": "Tôi muốn đảm bảo Harriet có…"
+    },
+    {
+        "start": "00:12:52,271",
+        "end": "00:12:53,105",
+        "en": "vše, co potřebuje.",
+        "pa": "",
+        "vi": "mọi thứ cô bé cần."
+    },
+    {
+        "start": "00:12:55,316",
+        "end": "00:12:56,317",
+        "en": "Křupky.",
+        "pa": "",
+        "vi": "Khoai tây chiên."
+    },
+    {
+        "start": "00:12:57,109",
+        "end": "00:13:00,029",
+        "en": "Čokoládu? Má ráda čokoládu. A Lego.",
+        "pa": "",
+        "vi": "Sô-cô-la? Nó khoái sô-cô-la lắm. Cả Lego nữa."
+    },
+    {
+        "start": "00:13:01,781",
+        "end": "00:13:06,869",
+        "en": "Co? To nemyslím. Já… myslel jsem trochu víc komplexně.",
+        "pa": "",
+        "vi": "Hẳn rồi.\n Không, ý tôi là theo nghĩa rộng hơn cơ."
+    },
+    {
+        "start": "00:13:08,788",
+        "end": "00:13:12,291",
+        "en": "-Richarde, chci tím říct… -Jo, já vím, já vím, co myslíte.",
+        "pa": "",
+        "vi": "- Richard, ý là… - Tôi hiểu ý anh."
+    },
+    {
+        "start": "00:13:15,127",
+        "end": "00:13:18,964",
+        "en": "Myslel jsem, že je to obranný mechanismus po smrti její mámy, ale…",
+        "pa": "",
+        "vi": "Tôi tưởng đó là cơ chế đối phó với việc mẹ nó qua đời, nhưng…"
+    },
+    {
+        "start": "00:13:20,716",
+        "end": "00:13:22,176",
+        "en": "Ale je toho trochu víc, že?",
+        "pa": "",
+        "vi": "Còn hơn thế, nhỉ?"
+    },
+    {
+        "start": "00:13:27,473",
+        "end": "00:13:29,058",
+        "en": "Vždycky bude moje holčička.",
+        "pa": "",
+        "vi": "Harriet sẽ luôn là con gái nhỏ của tôi."
+    },
+    {
+        "start": "00:13:30,893",
+        "end": "00:13:37,817",
+        "en": "A já vždycky, vždycky budu stát při ní. A nikomu nedovolím definovat ji nálepkou.",
+        "pa": "",
+        "vi": "Và tôi sẽ luôn ở bên con bé.\n Và tôi sẽ không để anh hay ai khác định nghĩa nó theo một cái mác nào cả."
+    },
+    {
+        "start": "00:13:40,820",
+        "end": "00:13:41,779",
+        "en": "To bych nikdy…",
+        "pa": "",
+        "vi": "Không đời nào."
+    },
+    {
+        "start": "00:13:45,199",
+        "end": "00:13:49,328",
+        "en": "Richarde, já jsem tu od toho, abych vám pomáhal, můžete se mnou mluvit.",
+        "pa": "",
+        "vi": "Richard, tôi ở đây vì thế. Tôi ở đây để giúp, và cứ nói với tôi."
+    },
+    {
+        "start": "00:13:49,411",
+        "end": "00:13:50,788",
+        "en": "Díky. Dík omlouvám se.",
+        "pa": "",
+        "vi": "- Cảm ơn. Cảm… Tôi xin lỗi. - Không, đâu sao."
+    },
+    {
+        "start": "00:13:50,871",
+        "end": "00:13:51,705",
+        "en": "To je dobrý.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:13:53,791",
+        "end": "00:13:55,167",
+        "en": "Je nahoře na balkóně.",
+        "pa": "",
+        "vi": "Cô bé đang ở ban công."
+    },
+    {
+        "start": "00:13:57,878",
+        "end": "00:14:03,217",
+        "en": "Richarde, pardon, než půjdete… nudné věci. Ale Yujiina přemotivovaná asistentka",
+        "pa": "",
+        "vi": "Xin lỗi Richard, trước khi anh đi…"
+    },
+    {
+        "start": "00:14:03,300",
+        "end": "00:14:07,721",
+        "en": "nám poslala všechny dokumenty a potřebujeme váš podpis. Smlouvu ke",
+        "pa": "",
+        "vi": "Mấy việc chán òm. Mà trợ lý quá năng nổ của Yuji sắp gửi\n giấy tờ qua và bọn tôi cần chữ ký của anh. Hợp đồng nước hoa và người mẫu Infinity."
+    },
+    {
+        "start": "00:14:07,805",
+        "end": "00:14:12,601",
+        "en": "-kampani, smlouvu s Infinity. -Jasně. Podepíšu, co bude Harriet chtít.",
+        "pa": "",
+        "vi": "Ừ, tôi sẽ ký. Tôi sẽ ký mọi thứ Harriet cần."
+    },
+    {
+        "start": "00:14:14,728",
+        "end": "00:14:15,604",
+        "en": "Jasně.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:14:28,075",
+        "end": "00:14:29,118",
+        "en": "Jsi v pohodě, Hat?",
+        "pa": "",
+        "vi": "Con ổn chứ, Hats?"
+    },
+    {
+        "start": "00:14:31,662",
+        "end": "00:14:32,496",
+        "en": "Jo.",
+        "pa": "",
+        "vi": "Vâng ạ."
+    },
+    {
+        "start": "00:14:33,706",
+        "end": "00:14:35,416",
+        "en": "Jen jsem potřebovala chvilku.",
+        "pa": "",
+        "vi": "Con chỉ cần nghỉ ngơi một chút."
+    },
+    {
+        "start": "00:14:40,588",
+        "end": "00:14:41,964",
+        "en": "Jo, je tam hodně lidí.",
+        "pa": "",
+        "vi": "Ừ, ở đó căng thẳng phết."
+    },
+    {
+        "start": "00:14:43,299",
+        "end": "00:14:44,216",
+        "en": "Jo, to, jo.",
+        "pa": "",
+        "vi": "Siêu căng ạ."
+    },
+    {
+        "start": "00:14:46,051",
+        "end": "00:14:48,637",
+        "en": "Ale Wilbur říkal, že nemusím s nikým mluvit, když nechci.",
+        "pa": "",
+        "vi": "Wilbur nói con không cần nói với ai nếu không muốn."
+    },
+    {
+        "start": "00:14:48,721",
+        "end": "00:14:52,975",
+        "en": "To vážně nemusíš. Kdyby ses chtěla vrátit na hotel, stačí jen říct.",
+        "pa": "",
+        "vi": "Đúng đấy. Nếu con muốn về khách sạn bất cứ lúc nào, cứ nói bố biết."
+    },
+    {
+        "start": "00:14:53,559",
+        "end": "00:14:54,351",
+        "en": "Díky, tati.",
+        "pa": "",
+        "vi": "Cảm ơn bố."
+    },
+    {
+        "start": "00:15:00,357",
+        "end": "00:15:02,443",
+        "en": "Myslím, že se půjdu podívat dolů.",
+        "pa": "",
+        "vi": "- Con nghĩ con sẽ xuống lại đó. - Thế à?"
+    },
+    {
+        "start": "00:15:02,526",
+        "end": "00:15:03,360",
+        "en": "Jo?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:15:04,028",
+        "end": "00:15:05,362",
+        "en": "Jo, chci se tam vrátit.",
+        "pa": "",
+        "vi": "- Con muốn xuống lại đó. - Được rồi."
+    },
+    {
+        "start": "00:15:08,073",
+        "end": "00:15:10,242",
+        "en": "-Zvládnu to. -Jasně, že jo.",
+        "pa": "",
+        "vi": "Con làm được.\n Tất nhiên rồi."
+    },
+    {
+        "start": "00:15:19,126",
+        "end": "00:15:19,919",
+        "en": "Ty nejdeš?",
+        "pa": "",
+        "vi": "- Bố không xuống ạ? - Không. Con cứ xuống đi."
+    },
+    {
+        "start": "00:15:20,085",
+        "end": "00:15:22,838",
+        "en": "Ne, ne. Ty běž napřed. Hned tam budu.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:15:23,797",
+        "end": "00:15:24,673",
+        "en": "Dobře.",
+        "pa": "",
+        "vi": "- Bố sẽ xuống theo ngay. - Vâng."
+    },
+    {
+        "start": "00:15:52,242",
+        "end": "00:15:56,956",
+        "en": "Děkujeme, že jste tu dnes s námi. Dovolte mi zde přivítat Yuji Lee.",
+        "pa": "",
+        "vi": "Cảm ơn đã đến tham dự tối nay.\n Tôi xin được giới thiệu Yuji Lee."
+    },
+    {
+        "start": "00:16:03,420",
+        "end": "00:16:04,588",
+        "en": "Děkuji, Sereno.",
+        "pa": "",
+        "vi": "Cảm ơn, Serena."
+    },
+    {
+        "start": "00:16:04,672",
+        "end": "00:16:10,594",
+        "en": "Náš vztah s Fenzi je upřímný a pozemský a je radost s nimi spolupracovat.",
+        "pa": "",
+        "vi": "Được kết hợp với Fenzi là một quá trình rất chân thành và kết nối với Trái Đất."
+    },
+    {
+        "start": "00:16:10,678",
+        "end": "00:16:15,557",
+        "en": "Tato kolekce je velice hluboký intimní ponor do mých kořenů,",
+        "pa": "",
+        "vi": "Bộ sưu tập này, với tôi, là hành trình khám phá"
+    },
+    {
+        "start": "00:16:15,641",
+        "end": "00:16:20,562",
+        "en": "který se zabývá lidskou křehkostí. Je to zásadní moment.",
+        "pa": "",
+        "vi": "cá nhân, bắt nguồn từ sâu xa,\n với dòng chảy ngầm của sự mong manh xuyên suốt, một khoảnh khắc thời gian."
+    },
+    {
+        "start": "00:16:20,646",
+        "end": "00:16:23,941",
+        "en": "Proto bych já v tuhle chvíli ráda oznámila,",
+        "pa": "",
+        "vi": "Thế nên tôi muốn nhân khoảnh khắc này để công bố"
+    },
+    {
+        "start": "00:16:24,024",
+        "end": "00:16:29,738",
+        "en": "že jsme po zralé úvaze vybrali Yuji Lee jako hlavního partnera pro letošní",
+        "pa": "",
+        "vi": "rằng sau khi cân nhắc kỹ lưỡng,\n Yuji Lee sẽ là đối tác chính của sự kiện Bascar năm nay ở London."
+    },
+    {
+        "start": "00:16:29,822",
+        "end": "00:16:31,615",
+        "en": "Bascar gala v Londýně.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:16:42,835",
+        "end": "00:16:44,920",
+        "en": "-Na Yuji Lee! -Yuji Lee!",
+        "pa": "",
+        "vi": "Vì Yuji Lee!\n Yuji Lee!"
+    },
+    {
+        "start": "00:16:52,011",
+        "end": "00:16:53,637",
+        "en": "Celou noc tě chci pozdravit.",
+        "pa": "",
+        "vi": "Anh đã muốn chào em cả tối."
+    },
+    {
+        "start": "00:16:55,764",
+        "end": "00:16:56,640",
+        "en": "Vážně?",
+        "pa": "",
+        "vi": "- Thật ạ? - Thật mà."
+    },
+    {
+        "start": "00:16:57,016",
+        "end": "00:16:57,891",
+        "en": "Vážně.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:16:59,226",
+        "end": "00:17:00,477",
+        "en": "Neviděla jsi Albertine.",
+        "pa": "",
+        "vi": "- Em sẽ không được thấy Albertine mất. - Phải."
+    },
+    {
+        "start": "00:17:01,395",
+        "end": "00:17:02,396",
+        "en": "Já vím.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:17:05,315",
+        "end": "00:17:06,066",
+        "en": "Tak asi příště.",
+        "pa": "",
+        "vi": "Chắc là lần tới ạ."
+    },
+    {
+        "start": "00:17:07,860",
+        "end": "00:17:09,153",
+        "en": "Nebo můžeme jet teď?",
+        "pa": "",
+        "vi": "Hoặc giờ ta có thể đi luôn?"
+    },
+    {
+        "start": "00:17:14,950",
+        "end": "00:17:15,868",
+        "en": "Tatínku…",
+        "pa": "",
+        "vi": "Bố…"
+    },
+    {
+        "start": "00:17:19,621",
+        "end": "00:17:23,000",
+        "en": "Vrátíš se v půl dvanácté přesně, ani o vteřinu později.",
+        "pa": "",
+        "vi": "Bố muốn con về đúng vào 11:30."
+    },
+    {
+        "start": "00:17:23,417",
+        "end": "00:17:24,668",
+        "en": "Díky, táto.",
+        "pa": "",
+        "vi": "- Không trễ một giây. - Cảm ơn bố.\n - Và bố muốn cập nhật. - Con hứa."
+    },
+    {
+        "start": "00:17:24,752",
+        "end": "00:17:25,419",
+        "en": "A budeš mi psát.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:17:25,502",
+        "end": "00:17:26,545",
+        "en": "Slibuju.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:17:27,755",
+        "end": "00:17:28,297",
+        "en": "Nicholasi.",
+        "pa": "",
+        "vi": "Nicholas."
+    },
+    {
+        "start": "00:17:29,715",
+        "end": "00:17:30,924",
+        "en": "Pane Mannersi.",
+        "pa": "",
+        "vi": "Chú Manners."
+    },
+    {
+        "start": "00:17:31,008",
+        "end": "00:17:32,801",
+        "en": "Bavte se. Dávejte na sebe pozor.",
+        "pa": "",
+        "vi": "Chúc vui. Nhớ lo cho nhau đó."
+    },
+    {
+        "start": "00:17:33,719",
+        "end": "00:17:34,636",
+        "en": "Dík, tati.",
+        "pa": "",
+        "vi": "Cảm ơn bố."
+    },
+    {
+        "start": "00:17:38,766",
+        "end": "00:17:40,142",
+        "en": "Tak běž, mazej za ní.",
+        "pa": "",
+        "vi": "Nào, ra khỏi đây đi."
+    },
+    {
+        "start": "00:17:44,938",
+        "end": "00:17:45,731",
+        "en": "Mám se ptát?",
+        "pa": "",
+        "vi": "Tôi hỏi được không?"
+    },
+    {
+        "start": "00:17:46,482",
+        "end": "00:17:47,524",
+        "en": "Souhlasil jsem s tím,",
+        "pa": "",
+        "vi": "Tôi nghĩ tôi vừa đồng ý"
+    },
+    {
+        "start": "00:17:47,608",
+        "end": "00:17:51,820",
+        "en": "aby moje pubertální dcera šla na rande v cizím městě se slavným modelem.",
+        "pa": "",
+        "vi": "cho con gái tuổi teen hẹn hò ở thành phố lạ với một siêu mẫu nam."
+    },
+    {
+        "start": "00:17:53,197",
+        "end": "00:17:54,239",
+        "en": "Udělal jsem dobře?",
+        "pa": "",
+        "vi": "Không sao đâu nhỉ?"
+    },
+    {
+        "start": "00:17:55,240",
+        "end": "00:17:57,618",
+        "en": "Jiná puberťačka by se na svolení neptala.",
+        "pa": "",
+        "vi": "Nếu là đứa tuổi teen khác, nó sẽ chẳng xin phép đâu."
+    },
+    {
+        "start": "00:18:26,438",
+        "end": "00:18:28,148",
+        "en": "-Zvládnu to. -Myslím, že jo.",
+        "pa": "",
+        "vi": "- Em ổn. - Em ổn à?"
+    },
+    {
+        "start": "00:18:28,232",
+        "end": "00:18:29,650",
+        "en": "-Zvládnu to. -To doufám.",
+        "pa": "",
+        "vi": "- Em nghĩ vậy. - Mong là vậy."
+    },
+    {
+        "start": "00:18:30,484",
+        "end": "00:18:33,112",
+        "en": "-Možná se radši chytnu zábradlí. -Dobrej nápad.",
+        "pa": "",
+        "vi": "- Có khi em nắm tay vịn thì hơn. - Ý hay đó."
+    },
+    {
+        "start": "00:18:33,195",
+        "end": "00:18:34,655",
+        "en": "Strašně to bolí.",
+        "pa": "",
+        "vi": "Đau chết đi được ấy."
+    },
+    {
+        "start": "00:18:38,534",
+        "end": "00:18:39,451",
+        "en": "Něco mě napadlo.",
+        "pa": "",
+        "vi": "- Ôi! - Anh có ý này."
+    },
+    {
+        "start": "00:18:41,578",
+        "end": "00:18:42,746",
+        "en": "SUVENÝRY",
+        "pa": "",
+        "vi": "QUÀ LƯU NIỆM"
+    },
+    {
+        "start": "00:18:46,750",
+        "end": "00:18:49,628",
+        "en": "Začínám chápat, proč Popelka utekla bez střevíce.",
+        "pa": "",
+        "vi": "Mình bắt đầu hiểu sao Lọ Lem lại đánh rơi giày rồi."
+    },
+    {
+        "start": "00:18:53,006",
+        "end": "00:18:53,841",
+        "en": "Díky.",
+        "pa": "",
+        "vi": "Cảm ơn."
+    },
+    {
+        "start": "00:18:56,301",
+        "end": "00:18:58,178",
+        "en": "Jimmy Choo to neni, ale na teď stačej.",
+        "pa": "",
+        "vi": "- Không phải Jimmy Choo, mà sẽ có ích. - Em thấy chúng tuyệt mà."
+    },
+    {
+        "start": "00:18:58,762",
+        "end": "00:19:00,264",
+        "en": "Myslím, že jsou perfektní.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:19:02,182",
+        "end": "00:19:03,016",
+        "en": "Díky.",
+        "pa": "",
+        "vi": "- Cảm ơn. - Không có gì."
+    },
+    {
+        "start": "00:19:03,350",
+        "end": "00:19:04,434",
+        "en": "Není zač.",
+        "pa": "",
+        "vi": "Em thích màu này. Biết chọn lắm."
+    },
+    {
+        "start": "00:19:04,893",
+        "end": "00:19:06,186",
+        "en": "Líbí se mi ta barva. Dobrá volba.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:19:06,270",
+        "end": "00:19:07,104",
+        "en": "Dík.",
+        "pa": "",
+        "vi": "Cảm ơn. Anh nghĩ nó sẽ hợp với cái váy."
+    },
+    {
+        "start": "00:19:07,563",
+        "end": "00:19:08,647",
+        "en": "Hodí se ti k šatům.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:19:10,065",
+        "end": "00:19:11,525",
+        "en": "Moc ne, ale dobrej pokus.",
+        "pa": "",
+        "vi": "Không hẳn, mà có cố gắng đó."
+    },
+    {
+        "start": "00:19:11,608",
+        "end": "00:19:12,442",
+        "en": "Cože?",
+        "pa": "",
+        "vi": "Gì cơ?"
+    },
+    {
+        "start": "00:19:14,194",
+        "end": "00:19:16,280",
+        "en": "-Díky. -Není zač.",
+        "pa": "",
+        "vi": "- Cảm ơn. - Không có gì."
+    },
+    {
+        "start": "00:19:19,408",
+        "end": "00:19:21,076",
+        "en": "Dá se na to všechno zvyknout?",
+        "pa": "",
+        "vi": "- Anh có quen với việc đó không? - Tiệc tùng ấy à?"
+    },
+    {
+        "start": "00:19:21,660",
+        "end": "00:19:22,578",
+        "en": "Na večírky?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:19:23,704",
+        "end": "00:19:25,873",
+        "en": "Zeptej se mě za dvacet let. Zatím ne.",
+        "pa": "",
+        "vi": "Hai mươi năm nữa hãy hỏi. Anh chưa quen."
+    },
+    {
+        "start": "00:19:26,748",
+        "end": "00:19:33,547",
+        "en": "Já jen nechápu, jak to lidi dělaj. Tolik klábosení… a o ničem. Je to vyčerpávající.",
+        "pa": "",
+        "vi": "Em chẳng hiểu người ta làm thế nào luôn. Toàn nói mấy chuyện vô nghĩa."
+    },
+    {
+        "start": "00:19:35,174",
+        "end": "00:19:37,467",
+        "en": "Poppy by tě mohla kvalifikovaně zaučit.",
+        "pa": "",
+        "vi": "Em thấy mệt chết đi được.\n Poppy có thể cho em lời khuyên đó."
+    },
+    {
+        "start": "00:19:40,512",
+        "end": "00:19:44,850",
+        "en": "I když dneska jsem jí to asi dost zkazil. Cítím se blbě,",
+        "pa": "",
+        "vi": "Anh nghĩ anh đã làm hỏng buổi tối nay của cô ấy."
+    },
+    {
+        "start": "00:19:44,933",
+        "end": "00:19:48,854",
+        "en": "ale prostě nemůžu dál dělat to její falešný Noppy.",
+        "pa": "",
+        "vi": "Anh thấy tệ, mà anh chỉ… Anh không thể làm vụ Noppy vờ vịt đó nữa."
+    },
+    {
+        "start": "00:19:51,648",
+        "end": "00:19:55,402",
+        "en": "Myslela jsem, že tě to baví. Že se ti líbí.",
+        "pa": "",
+        "vi": "Em tưởng anh thích nó.\n Em tưởng anh thích cô ấy."
+    },
+    {
+        "start": "00:19:56,904",
+        "end": "00:19:59,239",
+        "en": "Mám ji rád jako kamarádku.",
+        "pa": "",
+        "vi": "Ừ thì, anh thích cô ấy, mà như bạn bè thôi."
+    },
+    {
+        "start": "00:20:07,623",
+        "end": "00:20:14,421",
+        "en": "Mm můžem na chvíli zastavit? Asi si potřebuju odpočinout.",
+        "pa": "",
+        "vi": "Anh có phiền nếu ta nghỉ một phút không? Em… Em nghĩ em cần tạm nghỉ."
+    },
+    {
+        "start": "00:20:15,005",
+        "end": "00:20:15,839",
+        "en": "Jo, jasně.",
+        "pa": "",
+        "vi": "Ừ, được chứ."
+    },
+    {
+        "start": "00:20:19,760",
+        "end": "00:20:22,679",
+        "en": "Co bys řekla na pauzu a pletenec?",
+        "pa": "",
+        "vi": "Em thấy sao khi vừa nghỉ vừa ăn bột chiên?"
+    },
+    {
+        "start": "00:20:25,265",
+        "end": "00:20:26,892",
+        "en": "To zní neskutečně skvěle.",
+        "pa": "",
+        "vi": "Em thấy thích lắm."
+    },
+    {
+        "start": "00:20:37,402",
+        "end": "00:20:38,320",
+        "en": "Dobrý, co?",
+        "pa": "",
+        "vi": "Ngon nhỉ?"
+    },
+    {
+        "start": "00:20:38,904",
+        "end": "00:20:39,738",
+        "en": "Boží.",
+        "pa": "",
+        "vi": "Siêu ngon."
+    },
+    {
+        "start": "00:20:42,658",
+        "end": "00:20:44,243",
+        "en": "Jak udržuješ kontakt s kámošema?",
+        "pa": "",
+        "vi": "Anh giữ liên lạc với bạn kiểu gì?"
+    },
+    {
+        "start": "00:20:48,914",
+        "end": "00:20:52,626",
+        "en": "Já jich zas tak moc nemám.",
+        "pa": "",
+        "vi": "Anh không có nhiều bạn."
+    },
+    {
+        "start": "00:20:54,169",
+        "end": "00:20:56,088",
+        "en": "Říká nejpopulárnější model roku.",
+        "pa": "",
+        "vi": "Người mẫu nổi tiếng nhất năm cho hay."
+    },
+    {
+        "start": "00:20:56,630",
+        "end": "00:20:58,382",
+        "en": "Podle jednoho bulvárního webu.",
+        "pa": "",
+        "vi": "Ừ, bởi một trang web lá cải."
+    },
+    {
+        "start": "00:21:01,385",
+        "end": "00:21:02,469",
+        "en": "A co ti z dětství?",
+        "pa": "",
+        "vi": "Còn bạn cũ của anh?"
+    },
+    {
+        "start": "00:21:05,138",
+        "end": "00:21:08,267",
+        "en": "Měl jsem jednoho kámoše. Jmenoval se Davey.",
+        "pa": "",
+        "vi": "Hồi nhỏ anh có một người bạn. Cậu ấy tên Davey."
+    },
+    {
+        "start": "00:21:08,350",
+        "end": "00:21:13,855",
+        "en": "A dělali jsme spolu úplně všechno. Jenže nikdy nejsem dost dlouho na jednom",
+        "pa": "",
+        "vi": "Và tụi anh đã cùng làm mọi thứ."
+    },
+    {
+        "start": "00:21:13,939",
+        "end": "00:21:16,358",
+        "en": "místě, tak jsme ztratili kontakt.",
+        "pa": "",
+        "vi": "Mà biết đó, anh chưa thực sự ở một nơi nào quá lâu, nên tụi anh mất liên lạc."
+    },
+    {
+        "start": "00:21:21,071",
+        "end": "00:21:21,905",
+        "en": "No a… a co ty?",
+        "pa": "",
+        "vi": "Còn em thì sao?"
+    },
+    {
+        "start": "00:21:23,407",
+        "end": "00:21:25,367",
+        "en": "Nat. Mám jenom ji.",
+        "pa": "",
+        "vi": "Nat. Cậu ấy là bạn duy nhất của em."
+    },
+    {
+        "start": "00:21:26,410",
+        "end": "00:21:27,536",
+        "en": "Tak tomu nevěřím.",
+        "pa": "",
+        "vi": "Anh không tin đâu."
+    },
+    {
+        "start": "00:21:27,619",
+        "end": "00:21:29,454",
+        "en": "A neoficiálně ještě Toby.",
+        "pa": "",
+        "vi": "Và Toby, rất không chính thức."
+    },
+    {
+        "start": "00:21:29,538",
+        "end": "00:21:30,914",
+        "en": "Hodně lidí mě nesnáší.",
+        "pa": "",
+        "vi": "Nhiều người ghét em mà."
+    },
+    {
+        "start": "00:21:31,832",
+        "end": "00:21:33,166",
+        "en": "Ne, tomu vážně nevěřím.",
+        "pa": "",
+        "vi": "Không, anh không tin."
+    },
+    {
+        "start": "00:21:33,834",
+        "end": "00:21:36,420",
+        "en": "Je to tak pravdivý, že si musím vést seznam.",
+        "pa": "",
+        "vi": "Mình có cả một danh sách, đúng thế đấy."
+    },
+    {
+        "start": "00:21:37,337",
+        "end": "00:21:38,255",
+        "en": "Věř mi.",
+        "pa": "",
+        "vi": "Tin em đi."
+    },
+    {
+        "start": "00:21:41,425",
+        "end": "00:21:42,426",
+        "en": "Ale máš Nat.",
+        "pa": "",
+        "vi": "Chà, em có Nat mà."
+    },
+    {
+        "start": "00:21:43,260",
+        "end": "00:21:47,806",
+        "en": "To jo a je úžasná. Je oblíbená a je vtipná,",
+        "pa": "",
+        "vi": "Vâng, và cậu ấy rất tuyệt.\n Ý em là, cậu ấy nổi tiếng. Cậu ấy hài hước, xinh đẹp và thông minh."
+    },
+    {
+        "start": "00:21:47,889",
+        "end": "00:21:52,227",
+        "en": "hezká a chytrá. A na všechno má odpověď.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:21:53,312",
+        "end": "00:21:54,438",
+        "en": "Určitě je super.",
+        "pa": "",
+        "vi": "Và có câu trả lời cho mọi thứ.\n - Cô ấy có vẻ tuyệt. - Vâng."
+    },
+    {
+        "start": "00:21:54,521",
+        "end": "00:21:55,355",
+        "en": "Jo.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:21:56,648",
+        "end": "00:21:57,399",
+        "en": "Jo, to je.",
+        "pa": "",
+        "vi": "Vâng, đúng ạ."
+    },
+    {
+        "start": "00:22:01,403",
+        "end": "00:22:07,242",
+        "en": "Dobře. Výslech. Jaký je tvý oblíbený město?",
+        "pa": "",
+        "vi": "Được rồi.\n Hỏi nhanh nhé."
+    },
+    {
+        "start": "00:22:07,326",
+        "end": "00:22:12,831",
+        "en": "Oblíbený město? New York. Ne, Shanghai. Bangkok.",
+        "pa": "",
+        "vi": "Thành phố yêu thích của anh là ở đâu?\n Thành phố yêu thích à? New York.\n Không, Thượng Hải."
+    },
+    {
+        "start": "00:22:17,044",
+        "end": "00:22:19,171",
+        "en": "-Možná Paříž? -Teď se jen vytahuješ.",
+        "pa": "",
+        "vi": "Bangkok.\n Hay Paris nhỉ?\n Anh khoe khoang quá đấy."
+    },
+    {
+        "start": "00:22:20,130",
+        "end": "00:22:22,132",
+        "en": "Nejlepší pláž?",
+        "pa": "",
+        "vi": "Bãi biển đẹp nhất?"
+    },
+    {
+        "start": "00:22:23,675",
+        "end": "00:22:25,260",
+        "en": "Newport Beach v Kalifornii.",
+        "pa": "",
+        "vi": "Bãi biển Newport, California."
+    },
+    {
+        "start": "00:22:25,802",
+        "end": "00:22:26,720",
+        "en": "Takže doma?",
+        "pa": "",
+        "vi": "- Vậy là quê nhà anh à? - Nhà anh."
+    },
+    {
+        "start": "00:22:27,346",
+        "end": "00:22:27,888",
+        "en": "Doma.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:22:29,056",
+        "end": "00:22:29,765",
+        "en": "Hotel?",
+        "pa": "",
+        "vi": "Khách sạn?"
+    },
+    {
+        "start": "00:22:31,558",
+        "end": "00:22:33,060",
+        "en": "Amandari na Bali.",
+        "pa": "",
+        "vi": "Amandari, ở Bali."
+    },
+    {
+        "start": "00:22:33,977",
+        "end": "00:22:35,687",
+        "en": "Nejlepší výhled?",
+        "pa": "",
+        "vi": "Khung cảnh đẹp nhất?"
+    },
+    {
+        "start": "00:22:43,111",
+        "end": "00:22:44,863",
+        "en": "Jsou to rychlý otázky. Musíš bejt rychlej.",
+        "pa": "",
+        "vi": "- Lượt trả lời nhanh mà, phải nhanh. - Ừ, lượt trả lời nhanh."
+    },
+    {
+        "start": "00:22:44,946",
+        "end": "00:22:47,657",
+        "en": "Dobře, rychlý otázky. Nejlepší výhled?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:22:47,741",
+        "end": "00:22:48,408",
+        "en": "Jo.",
+        "pa": "",
+        "vi": "- Khung cảnh đẹp nhất? - Ừ."
+    },
+    {
+        "start": "00:22:49,409",
+        "end": "00:22:51,536",
+        "en": "V Mexiku je takovej vápencovej oblouk.",
+        "pa": "",
+        "vi": "Ở Mexico có một vòm đá vôi và nó nổi lên, nhô ra khỏi mặt biển."
+    },
+    {
+        "start": "00:22:51,620",
+        "end": "00:22:55,290",
+        "en": "Vystupuje přímo z moře a za ním zapadá slunce. Ten je úžasnej.",
+        "pa": "",
+        "vi": "Và khi Mặt Trời lặn sau nó, cảnh đẹp khó tin."
+    },
+    {
+        "start": "00:22:56,625",
+        "end": "00:22:57,542",
+        "en": "Zní to tak.",
+        "pa": "",
+        "vi": "Có vẻ thế nhỉ."
+    },
+    {
+        "start": "00:22:59,878",
+        "end": "00:23:01,630",
+        "en": "Co jsi jako dítě dělal nejradši?",
+        "pa": "",
+        "vi": "Việc anh thích nhất khi còn bé?"
+    },
+    {
+        "start": "00:23:06,343",
+        "end": "00:23:11,640",
+        "en": "Ty rád chodíš do muzeí? Ty? Světoznámý topmodel?",
+        "pa": "",
+        "vi": "Anh từng đi chơi ở bảo tàng á?\n Anh? Siêu mẫu nổi tiếng thế giới?"
+    },
+    {
+        "start": "00:23:13,266",
+        "end": "00:23:14,476",
+        "en": "Prosím, pověz mi víc.",
+        "pa": "",
+        "vi": "Nói thêm cho em nghe đi."
+    },
+    {
+        "start": "00:23:15,435",
+        "end": "00:23:16,812",
+        "en": "Sarkasmus.",
+        "pa": "",
+        "vi": "Ồ, mỉa mai đấy."
+    },
+    {
+        "start": "00:23:16,895",
+        "end": "00:23:17,813",
+        "en": "Jen skepse.",
+        "pa": "",
+        "vi": "Hoài nghi chứ."
+    },
+    {
+        "start": "00:23:18,980",
+        "end": "00:23:20,023",
+        "en": "Provedu tě.",
+        "pa": "",
+        "vi": "Để anh cho xem."
+    },
+    {
+        "start": "00:23:36,415",
+        "end": "00:23:39,626",
+        "en": "Tohle je superlativní.",
+        "pa": "",
+        "vi": "Nó thật…"
+    },
+    {
+        "start": "00:23:43,046",
+        "end": "00:23:43,964",
+        "en": "Superlativní?",
+        "pa": "",
+        "vi": "tột bậc.\n Tột bậc ư?"
+    },
+    {
+        "start": "00:23:45,173",
+        "end": "00:23:46,007",
+        "en": "Ano.",
+        "pa": "",
+        "vi": "Vâng."
+    },
+    {
+        "start": "00:23:48,093",
+        "end": "00:23:48,927",
+        "en": "Superlativní.",
+        "pa": "",
+        "vi": "Tột bậc."
+    },
+    {
+        "start": "00:23:51,221",
+        "end": "00:23:52,681",
+        "en": "Kdo je teď sarkastickej?",
+        "pa": "",
+        "vi": "Rồi, giờ ai mới mỉa mai đây?"
+    },
+    {
+        "start": "00:23:54,850",
+        "end": "00:23:55,684",
+        "en": "Tady.",
+        "pa": "",
+        "vi": "Này."
+    },
+    {
+        "start": "00:24:07,195",
+        "end": "00:24:08,155",
+        "en": "Daspletosaurus.",
+        "pa": "",
+        "vi": "Daspletosaurus."
+    },
+    {
+        "start": "00:24:08,864",
+        "end": "00:24:10,073",
+        "en": "Daspleto co?",
+        "pa": "",
+        "vi": "Daspleto… gì cơ?"
+    },
+    {
+        "start": "00:24:11,658",
+        "end": "00:24:14,578",
+        "en": "Byla to předchůdkyně Tyranosaura Rexe, řekněme.",
+        "pa": "",
+        "vi": "Nó là họ hàng tiền thân của Khủng long Bạo chúa, nếu anh muốn biết."
+    },
+    {
+        "start": "00:24:15,287",
+        "end": "00:24:16,121",
+        "en": "Ona?",
+        "pa": "",
+        "vi": "Là con cái à?"
+    },
+    {
+        "start": "00:24:16,288",
+        "end": "00:24:17,998",
+        "en": "Ano, určitě. Ona.",
+        "pa": "",
+        "vi": "Ừ, phải. Con cái."
+    },
+    {
+        "start": "00:24:24,671",
+        "end": "00:24:25,714",
+        "en": "Tohle je super.",
+        "pa": "",
+        "vi": "Ngầu thật đấy."
+    },
+    {
+        "start": "00:24:27,674",
+        "end": "00:24:29,885",
+        "en": "Ale chci ti ukázat ještě něco. Pojď.",
+        "pa": "",
+        "vi": "Mà còn một thứ anh muốn cho em xem. Đi nào."
+    },
+    {
+        "start": "00:24:38,310",
+        "end": "00:24:42,105",
+        "en": "No nejsou úžasný? A existuje tolik druhů. A každej je jinej.",
+        "pa": "",
+        "vi": "Đỉnh quá nhỉ? Và có rất nhiều loại cá mập. Chúng đều khác nhau."
+    },
+    {
+        "start": "00:24:42,189",
+        "end": "00:24:45,734",
+        "en": "Mako dokáže plavat až sedmdesát pět kilometrů za hodinu.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:24:45,817",
+        "end": "00:24:48,904",
+        "en": "Světloun Perryho by se ti v klidu vešel do dlaně.",
+        "pa": "",
+        "vi": "Cá mập mako có thể bơi đến 74 cây số một giờ."
+    },
+    {
+        "start": "00:24:48,987",
+        "end": "00:24:53,408",
+        "en": "A žralok velkoústý žije tak hluboko, že jich bylo spatřeno sotva sto.",
+        "pa": "",
+        "vi": "Cá mập đèn lồng nhỏ đủ nhỏ để nằm gọn trong tay.\n Và cá mập miệng to sống sâu đến nỗi chưa thấy được 100 con."
+    },
+    {
+        "start": "00:24:55,368",
+        "end": "00:24:57,120",
+        "en": "Četla jsem, že máš rád žraloky.",
+        "pa": "",
+        "vi": "Em đã đọc được là anh mê cá mập."
+    },
+    {
+        "start": "00:24:59,206",
+        "end": "00:24:59,789",
+        "en": "Skutečně?",
+        "pa": "",
+        "vi": "Ồ, vậy sao?"
+    },
+    {
+        "start": "00:25:01,750",
+        "end": "00:25:06,880",
+        "en": "Já, já, jen někde na interne… myslím, že jsem na to klikla omylem.",
+        "pa": "",
+        "vi": "Em… Nó ở đâu đó trên mạng… Em nghĩ em tình cờ bấm vào."
+    },
+    {
+        "start": "00:25:06,963",
+        "end": "00:25:08,173",
+        "en": "Tak omylem, jo?",
+        "pa": "",
+        "vi": "Ồ, tình cờ à?"
+    },
+    {
+        "start": "00:25:08,757",
+        "end": "00:25:09,591",
+        "en": "-Jo. -Ok.",
+        "pa": "",
+        "vi": "- Ừ. - Được rồi."
+    },
+    {
+        "start": "00:25:10,926",
+        "end": "00:25:12,219",
+        "en": "To, co psali, není pravda.",
+        "pa": "",
+        "vi": "- Và chuyện đó không có thật đâu. - Vâng."
+    },
+    {
+        "start": "00:25:13,220",
+        "end": "00:25:14,095",
+        "en": "Jasně.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:25:14,513",
+        "end": "00:25:16,973",
+        "en": "Psali, že jsem se pral kvůli tomuhle.",
+        "pa": "",
+        "vi": "Họ nói anh đấu vật với một con cá mập vì cái này."
+    },
+    {
+        "start": "00:25:19,100",
+        "end": "00:25:20,268",
+        "en": "Ne snad?",
+        "pa": "",
+        "vi": "Không phải ạ?"
+    },
+    {
+        "start": "00:25:20,435",
+        "end": "00:25:23,188",
+        "en": "Ne. Nevěř tomu, co čteš v těchhle plátcích.",
+        "pa": "",
+        "vi": "Không. Đừng tin những thứ em đọc trên mấy tạp chí đó."
+    },
+    {
+        "start": "00:25:23,271",
+        "end": "00:25:27,943",
+        "en": "Našel jsem to na pláži v Austrálii. A žraloci mají tisíce a tisíce zubů.",
+        "pa": "",
+        "vi": "Anh thấy nó trên một bãi biển ở Úc. Và cá mập có cả ngàn cái răng."
+    },
+    {
+        "start": "00:25:28,026",
+        "end": "00:25:30,737",
+        "en": "Dají se snadno najít, na správným místě.",
+        "pa": "",
+        "vi": "Rất dễ tìm nếu em đến đúng chỗ."
+    },
+    {
+        "start": "00:25:32,239",
+        "end": "00:25:36,535",
+        "en": "A když jsi obří žraločí geek, co o svých žraločích kamarádech ví všechno.",
+        "pa": "",
+        "vi": "Và nếu anh là mọt cá mập, biết tuốt về đám bạn cá mập của mình."
+    },
+    {
+        "start": "00:25:36,618",
+        "end": "00:25:41,373",
+        "en": "Žraločí geek? No dovol?! Nejsem jenom geek. Jsem obrovskej geek.",
+        "pa": "",
+        "vi": "Mọt cá mập à? Ôi, sao em dám.\n - Mọt gì chứ. Anh cuồng cá mập luôn. - Giống cá mập miệng to á?"
+    },
+    {
+        "start": "00:25:42,040",
+        "end": "00:25:43,166",
+        "en": "Jako plejtvák, jo?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:25:43,750",
+        "end": "00:25:44,292",
+        "en": "Vostrý.",
+        "pa": "",
+        "vi": "- Thô lỗ nha. - Xin lỗi."
+    },
+    {
+        "start": "00:25:45,210",
+        "end": "00:25:45,835",
+        "en": "Promiň.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:25:46,920",
+        "end": "00:25:47,671",
+        "en": "To byl vtip.",
+        "pa": "",
+        "vi": "Anh đùa thôi."
+    },
+    {
+        "start": "00:25:53,635",
+        "end": "00:25:57,430",
+        "en": "Chystá se mi dát pusu? Prosím, polib mě. Polib mě. Polib mě.",
+        "pa": "",
+        "vi": "Anh ấy định hôn mình à? Làm ơn, hôn em đi. Hôn em đi."
+    },
+    {
+        "start": "00:25:57,514",
+        "end": "00:25:59,975",
+        "en": "Je tu spousta dalších věcí k vidění. Pojď.",
+        "pa": "",
+        "vi": "Có nhiều thứ để xem lắm. Nào."
+    },
+    {
+        "start": "00:26:05,981",
+        "end": "00:26:06,773",
+        "en": "Pohladíš medvěda?",
+        "pa": "",
+        "vi": "- Cả con gấu. - Khoan, thế á?"
+    },
+    {
+        "start": "00:26:06,856",
+        "end": "00:26:08,650",
+        "en": "-Počkej, takhle? -Jo.",
+        "pa": "",
+        "vi": "Được rồi."
+    },
+    {
+        "start": "00:26:08,733",
+        "end": "00:26:09,651",
+        "en": "Tak jo, počkej.",
+        "pa": "",
+        "vi": "Rồi, đợi đã."
+    },
+    {
+        "start": "00:26:09,734",
+        "end": "00:26:10,944",
+        "en": "-Super. -Takhle?",
+        "pa": "",
+        "vi": "- Đẹp. - Thế à?"
+    },
+    {
+        "start": "00:26:11,152",
+        "end": "00:26:11,778",
+        "en": "Jo.",
+        "pa": "",
+        "vi": "- Thế à? Lấy được nó chưa? - Tuyệt."
+    },
+    {
+        "start": "00:26:11,861",
+        "end": "00:26:12,529",
+        "en": "Držím jí hlavu?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:26:12,612",
+        "end": "00:26:13,530",
+        "en": "Je to super.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:26:13,613",
+        "end": "00:26:15,907",
+        "en": "Muselo být těžký rozhodnout se, kam ji mají dát.",
+        "pa": "",
+        "vi": "- Quyết định để nó ở đâu chắc là khó lắm. - Thế à?"
+    },
+    {
+        "start": "00:26:15,991",
+        "end": "00:26:16,825",
+        "en": "Jo?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:26:17,200",
+        "end": "00:26:18,994",
+        "en": "Jo, no. Technicky vzato jsou lední",
+        "pa": "",
+        "vi": "Ừ. Cơ bản thì, Gấu Bắc Cực là động vật có vú ở biển."
+    },
+    {
+        "start": "00:26:19,077",
+        "end": "00:26:22,497",
+        "en": "medvědi mořští savci, takže klidně mohla být mezi tvými kámoši.",
+        "pa": "",
+        "vi": "- Nên nó có thể ở với bạn cá mập của anh. - Ồ không. Nó bỏ lỡ rồi."
+    },
+    {
+        "start": "00:26:22,581",
+        "end": "00:26:25,500",
+        "en": "Chudák. Je odstrčená. Možná je šťastnější tady.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:26:25,584",
+        "end": "00:26:27,335",
+        "en": "Může si povídat s medvědama.",
+        "pa": "",
+        "vi": "Nó vui hơn khi ở đây. Có đám gấu khác để nói chuyện."
+    },
+    {
+        "start": "00:26:28,253",
+        "end": "00:26:30,672",
+        "en": "Co když si s ní ostatní povídat nechtějí?",
+        "pa": "",
+        "vi": "- Nhỡ đám gấu đó không muốn nói thì sao? - Thì nó nên đi chơi với lũ cá mập."
+    },
+    {
+        "start": "00:26:30,755",
+        "end": "00:26:33,049",
+        "en": "Tak to by určitě měla jít mezi žraloky.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:26:36,094",
+        "end": "00:26:38,013",
+        "en": "Docela superlativní, co?",
+        "pa": "",
+        "vi": "Nó quả là siêu tột bậc, nhỉ?"
+    },
+    {
+        "start": "00:26:38,096",
+        "end": "00:26:42,100",
+        "en": "Velmi výstižný způsob, jak to popsat, Nicku. Ano. Vidíš, učíš se.",
+        "pa": "",
+        "vi": "Anh tả xuất sắc đó, Nick. Phải. Thấy chưa, anh học được rồi."
+    },
+    {
+        "start": "00:26:43,893",
+        "end": "00:26:45,395",
+        "en": "Je vskutku superlativní.",
+        "pa": "",
+        "vi": "Nó tột bậc thật đấy."
+    },
+    {
+        "start": "00:26:46,229",
+        "end": "00:26:46,896",
+        "en": "To je Nick.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:26:48,315",
+        "end": "00:26:51,026",
+        "en": "Myslím, že je to největší savec v celé Kanadě.",
+        "pa": "",
+        "vi": "Thật ra nó là động vật có vú lớn nhất ở Canada."
+    },
+    {
+        "start": "00:26:52,319",
+        "end": "00:26:55,030",
+        "en": "Pokud je to konkrétně bizonice lesní.",
+        "pa": "",
+        "vi": "Là Nick kìa…\n Đặc biệt nếu nó là một con bò rừng bizon."
+    },
+    {
+        "start": "00:26:55,113",
+        "end": "00:26:55,989",
+        "en": "Jdeme.",
+        "pa": "",
+        "vi": "E rằng anh không hiểu biết về bò rừng bizon lắm."
+    },
+    {
+        "start": "00:26:56,448",
+        "end": "00:26:59,409",
+        "en": "Obávám se, že moje znalosti bizonů nejsou nejlepší.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:27:02,954",
+        "end": "00:27:03,538",
+        "en": "Půjdeme?",
+        "pa": "",
+        "vi": "Ta đi nhé?"
+    },
+    {
+        "start": "00:27:08,543",
+        "end": "00:27:10,045",
+        "en": "Dělej, dělej, dělej.",
+        "pa": "",
+        "vi": "Rồi, nhanh lên. Đi nào."
+    },
+    {
+        "start": "00:27:14,924",
+        "end": "00:27:15,675",
+        "en": "-Holky. -Pojďte.",
+        "pa": "",
+        "vi": "Mấy gái à."
+    },
+    {
+        "start": "00:27:20,555",
+        "end": "00:27:21,973",
+        "en": "KDO JE TA DÍVKA?",
+        "pa": "",
+        "vi": "NGƯỜI HÂM MỘ RẤT MUỐN BIẾT CÔ GÁI Ở BẢO TÀNG VỚI NICK PARK LÀ AI?"
+    },
+    {
+        "start": "00:27:22,057",
+        "end": "00:27:26,186",
+        "en": "FANOUŠCI CHTĚJÍ VĚDĚT, KDO JE NICKOVA HOLKA Z MUZEA",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:30:13,186",
+        "end": "00:30:15,730",
+        "en": "",
+        "pa": "",
+        "vi": "Biên dịch: Nathalie Nguyen "
+    }
+]
