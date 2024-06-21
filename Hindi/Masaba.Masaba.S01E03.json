@@ -1,0 +1,3558 @@
+[
+    {
+        "start": "00:00:09,041",
+        "end": "00:00:12,333",
+        "en": "प्रेरणा",
+        "pa": "",
+        "vi": "NGUỒN CẢM HỨNG"
+    },
+    {
+        "start": "00:00:15,541",
+        "end": "00:00:18,166",
+        "en": "मैडम, माफ़ कीजिएगा, आप कहीं रसोई के आवाज़ से उठ तो नहीं गए?",
+        "pa": "Ma'am, sorry. I hope the noise from the kitchen didn't wake you.",
+        "vi": "Tôi xin lỗi. Hi vọng tôi không làm cô thức giấc."
+    },
+    {
+        "start": "00:00:19,875",
+        "end": "00:00:23,083",
+        "en": "नहीं, यार, असल में, एक अरसे से इतनी अच्छी नींद नहीं आई।",
+        "pa": "No, man.\n Actually, I haven't slept so well in such a long time.",
+        "vi": "Không đâu.\n Thật ra, lâu rồi tôi không ngủ ngon giấc."
+    },
+    {
+        "start": "00:00:24,208",
+        "end": "00:00:25,750",
+        "en": "यहाँ रहने देने के लिए शुक्रिया।",
+        "pa": "Thank you for letting me stay.",
+        "vi": "Cảm ơn cô đã cho tôi ở nhờ."
+    },
+    {
+        "start": "00:00:26,333",
+        "end": "00:00:29,375",
+        "en": "पता है, कल रात सबको फ़ोन किया था, किसी ने उठाया ही नहीं।",
+        "pa": "I tried everyone's phone last night...",
+        "vi": "Tối qua, tôi cố gọi mọi người..."
+    },
+    {
+        "start": "00:00:29,458",
+        "end": "00:00:31,666",
+        "en": "न तो मेरे पास कार्ड थे, न आईडी, न कुछ।",
+        "pa": "but no one picked up.\n I didn't even have any cards or ID.",
+        "vi": "nhưng không ai nghe máy.\n Tôi không có giấy tờ gì cả."
+    },
+    {
+        "start": "00:00:31,750",
+        "end": "00:00:33,416",
+        "en": "मैडम, कैसी बातें कर रहे हो?",
+        "pa": "Ma'am, please...",
+        "vi": "Cô à..."
+    },
+    {
+        "start": "00:00:33,500",
+        "end": "00:00:34,958",
+        "en": "आप यहाँ आराम से रहिए।",
+        "pa": "You're most welcome.",
+        "vi": "Không có gì mà."
+    },
+    {
+        "start": "00:00:35,041",
+        "end": "00:00:37,333",
+        "en": "असल में, मुझे पता नहीं आपको क्या पसंद है,",
+        "pa": "Ma'am, actually, I didn't know your preference,",
+        "vi": "Thật ra, tôi không biết sở thích của cô,"
+    },
+    {
+        "start": "00:00:37,416",
+        "end": "00:00:41,166",
+        "en": "तो मैं वो गेहूँ वाले भी ले आई हूँ और वो चॉकलेट वाले भी ले आई हूँ।",
+        "pa": "so I got both, the wheat ones as well as the chocolate ones.",
+        "vi": "nên tôi làm cả yến mạch và ngũ cốc sô-cô-la."
+    },
+    {
+        "start": "00:00:41,250",
+        "end": "00:00:44,416",
+        "en": "बनिए के पास, आप जानते हो, बादाम दूध नहीं था, तो आम दूध ही है।",
+        "pa": "Ma'am, actually the grocer only had regular milk",
+        "vi": "Tiệm tạp hóa chỉ có sữa thường, không có"
+    },
+    {
+        "start": "00:00:44,500",
+        "end": "00:00:47,875",
+        "en": "सुनो, यह बहुत अच्छा है, इतनी आवभगत की कोई ज़रूरत नहीं है।",
+        "pa": "and no almond milk.\n Listen, this is great, there's no need for so much formality.",
+        "vi": "sữa hạnh nhân.\n Nghe này, thế này là tốt lắm rồi, đừng câu nệ quá."
+    },
+    {
+        "start": "00:00:47,958",
+        "end": "00:00:50,000",
+        "en": "मैडम, घर भी थोड़ा अजीब सा, बिखरा-बिखरा है।",
+        "pa": "Ma'am, sorry, the house is such a mess.",
+        "vi": "Xin lỗi cô, nhà cửa lộn xộn quá."
+    },
+    {
+        "start": "00:00:50,083",
+        "end": "00:00:52,291",
+        "en": "दो दिन से बाई नहीं आई। आप पहली बार आई हैं,",
+        "pa": "The house help hasn't come for two days, it's your first time here.",
+        "vi": "Cô giúp việc hai ngày chưa đến, mà cô đến đây lần đầu."
+    },
+    {
+        "start": "00:00:52,375",
+        "end": "00:00:54,416",
+        "en": "मतलब, अच्छा नहीं लगता, है न?",
+        "pa": "I must be making such a bad impression.",
+        "vi": "Chắc là ấn tượng tệ lắm."
+    },
+    {
+        "start": "00:00:54,500",
+        "end": "00:00:56,083",
+        "en": "-माफ़ कीजिएगा, मैडम। -गहना!",
+        "pa": "-I'm so sorry, ma'am. -Gehna! I love your home!",
+        "vi": "- Tôi rất xin lỗi cô. - Gehna! Tôi rất thích nhà cô!"
+    },
+    {
+        "start": "00:00:56,166",
+        "end": "00:00:58,583",
+        "en": "मुझे तुम्हारा घर बहुत पसंद है!",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:00:59,708",
+        "end": "00:01:02,208",
+        "en": "-मैडम, मज़ाक कर रहे हो? -नहीं, मज़ाक क्यों करूँगी?",
+        "pa": "Ma'am, are you joking?\n No, why would I joke?",
+        "vi": "Cô đùa à?\n Không, sao tôi lại đùa?"
+    },
+    {
+        "start": "00:01:02,875",
+        "end": "00:01:04,958",
+        "en": "सच में, यार। बल्कि मुझे तो जलन हो रही है।",
+        "pa": "I'm serious. I'm actually jealous of it.",
+        "vi": "Tôi nói thật đấy. Tôi thấy ghen tị."
+    },
+    {
+        "start": "00:01:06,041",
+        "end": "00:01:07,958",
+        "en": "मेरा कभी अपना घर था ही नहीं।",
+        "pa": "You know, I've never had a house of my own.",
+        "vi": "Nào giờ tôi không có nhà riêng."
+    },
+    {
+        "start": "00:01:08,666",
+        "end": "00:01:11,375",
+        "en": "कभी विनय के साथ, कभी माँ के साथ।",
+        "pa": "I was either living with Vinay or my mom.",
+        "vi": "Tôi sống với Vinay hoặc mẹ tôi."
+    },
+    {
+        "start": "00:01:11,958",
+        "end": "00:01:14,625",
+        "en": "तुम्हारा घर देखके मुझे भी घर लेने का मन कर रहा है,",
+        "pa": "Seeing your home, I'm inspired to have my own space,",
+        "vi": "Nhìn nhà cô, tôi muốn có không gian riêng,"
+    },
+    {
+        "start": "00:01:14,708",
+        "end": "00:01:15,791",
+        "en": "जो मैं सजाऊँगी।",
+        "pa": "which I will decorate.",
+        "vi": "và tôi sẽ trang trí."
+    },
+    {
+        "start": "00:01:16,958",
+        "end": "00:01:19,500",
+        "en": "मैडम, तो मैं अभी ब्रोकर को फ़ोन मिला देती हूँ?",
+        "pa": "Ma'am, then why don't I call my broker?",
+        "vi": "Hay cô gọi cho nhà môi giới của tôi đi?"
+    },
+    {
+        "start": "00:01:19,583",
+        "end": "00:01:21,583",
+        "en": "मुझे दो दिन में घर ढूँढ़ के दिया था उसने!",
+        "pa": "Ma'am, he found me a house in two days!",
+        "vi": "Anh ta tìm nhà cho tôi chỉ trong hai ngày!"
+    },
+    {
+        "start": "00:01:21,666",
+        "end": "00:01:23,166",
+        "en": "-दो दिन में? -जी, मैडम!",
+        "pa": "-Two days? -Yes, ma'am!",
+        "vi": "- Hai ngày? - Vâng!"
+    },
+    {
+        "start": "00:01:23,250",
+        "end": "00:01:24,666",
+        "en": "चलो, कोशिश करके देखते हैं।",
+        "pa": "Okay, why not. Let's try.",
+        "vi": "Được thôi. Thử xem."
+    },
+    {
+        "start": "00:01:28,083",
+        "end": "00:01:30,041",
+        "en": "NETFLIX ओरिजिनल सीरीज़",
+        "pa": "",
+        "vi": "LOẠT PHIM CỦA NETFLIX"
+    },
+    {
+        "start": "00:01:58,458",
+        "end": "00:02:00,041",
+        "en": "बिल्डिंग तो यही बोला था।",
+        "pa": "Ma'am, we're definitely at the right building.",
+        "vi": "Đúng là tòa nhà này rồi."
+    },
+    {
+        "start": "00:02:01,166",
+        "end": "00:02:04,333",
+        "en": "अरे, फ़ोन क्यों नहीं उठाते हो? बाहर ही खड़े हैं तब से!",
+        "pa": "Why don't you pick up your phone? We've been waiting outside for ages!",
+        "vi": "Sao anh không nghe máy? Chúng tôi chờ ở ngoài lâu lắm rồi!"
+    },
+    {
+        "start": "00:02:04,416",
+        "end": "00:02:06,583",
+        "en": "मैडम, एकदम फ़र्निश्ड दो बेडरूम का घर है।",
+        "pa": "Madam, it's a fully furnished two-bedroom house.",
+        "vi": "Đây là căn hai phòng ngủ, nội thất đầy đủ."
+    },
+    {
+        "start": "00:02:06,666",
+        "end": "00:02:08,333",
+        "en": "एकदम मॉडर्न सजावट दिया है इधर।",
+        "pa": "With modern decor. And as you can see,",
+        "vi": "Trang trí phong cách hiện đại. Cô có thể thấy,"
+    },
+    {
+        "start": "00:02:08,416",
+        "end": "00:02:09,500",
+        "en": "और आप जैसे देख सकते हो,",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:02:09,625",
+        "end": "00:02:12,458",
+        "en": "फ़ानूस में आपको तीन रंग मिलेंगे, मैडम, सफ़ेद, नीला और लाल।",
+        "pa": "the chandelier comes in three colors: white, blue and red.",
+        "vi": "đèn chùm có ba chế độ ánh sáng, trắng, xanh và đỏ."
+    },
+    {
+        "start": "00:02:12,541",
+        "end": "00:02:15,833",
+        "en": "घास देख रहे हो, मैडम, घास? एकदम मुलायम।",
+        "pa": "Do you see this grass?\n So soft.",
+        "vi": "Cô thấy lớp cỏ này chứ?\n Rất mềm."
+    },
+    {
+        "start": "00:02:16,458",
+        "end": "00:02:19,625",
+        "en": "ये धनिया भी उगाया है। खाना बनाया, सीधा यहीं से धनिया डाल दिया।",
+        "pa": "And you can even pick herbs for cooking right off the wall.",
+        "vi": "Trên tường có thảo mộc có thể dùng cho nấu ăn."
+    },
+    {
+        "start": "00:02:19,708",
+        "end": "00:02:21,750",
+        "en": "एकदम नया घर है, मैडम।",
+        "pa": "It's newly constructed, madam.",
+        "vi": "Nhà mới xây."
+    },
+    {
+        "start": "00:02:21,833",
+        "end": "00:02:25,541",
+        "en": "बस दो, तीन दिन में सब तैयार हो जाएगा, एकदम बढ़िया प्लाईवुड है! देखिए।",
+        "pa": "It'll be finished in two-three days. Look at the quality of this plywood!",
+        "vi": "Vài ba ngày nữa là xong. Xem chất lượng gỗ ép này!"
+    },
+    {
+        "start": "00:02:32,166",
+        "end": "00:02:34,083",
+        "en": "मैडम, वो सब तो ठीक है,",
+        "pa": "Also, it's an Indian-style toilet. That's fine with you, right?",
+        "vi": "Nhà vệ sinh kiểu Ấn Độ. Cô ưng chứ?"
+    },
+    {
+        "start": "00:02:34,166",
+        "end": "00:02:36,500",
+        "en": "पर यहाँ इंडियन टॉयलेट है, चलेगा न आपको?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:02:39,416",
+        "end": "00:02:42,791",
+        "en": "किराया बहुत कम नहीं है? कोई कत्ल-वत्ल हुआ है यहाँ पर?",
+        "pa": "Isn't the rent a little too good?",
+        "vi": "Giá thuê rẻ quá nhỉ?"
+    },
+    {
+        "start": "00:02:42,875",
+        "end": "00:02:45,833",
+        "en": "नहीं, कत्ल-वत्ल नहीं हुआ है। इतनी खतरनाक बात नहीं है,",
+        "pa": "Was someone murdered here?\n Not at all, madam, nothing scary like murders.",
+        "vi": "Có ai bị giết ở đây à?\n Không đâu, không có gì đáng sợ như án mạng đâu."
+    },
+    {
+        "start": "00:02:45,916",
+        "end": "00:02:47,083",
+        "en": "छोटी सी खुदकुशी थी, बस।",
+        "pa": "Just a suicide, don't worry.",
+        "vi": "Chỉ là tự tử, có gì đâu."
+    },
+    {
+        "start": "00:02:47,166",
+        "end": "00:02:48,916",
+        "en": "आप देखो न नज़ारा! बहुत बढ़िया नज़ारा है।",
+        "pa": "But just look at the view!",
+        "vi": "Nhưng nhìn khung cảnh xem!"
+    },
+    {
+        "start": "00:02:50,416",
+        "end": "00:02:52,583",
+        "en": "भागो!",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:02:57,166",
+        "end": "00:02:59,041",
+        "en": "इतना क्या सोच रही हो? फ़ोन कर लो।",
+        "pa": "Don't think so much. Why don't you just call her?",
+        "vi": "Bà đừng suy nghĩ nhiều. Sao bà không gọi cho cô ấy?"
+    },
+    {
+        "start": "00:03:00,125",
+        "end": "00:03:01,125",
+        "en": "मैं क्यों करूँ?",
+        "pa": "Why should I do it? She can also call.",
+        "vi": "Sao tôi lại phải gọi? Nó cũng có thể gọi cho tôi mà."
+    },
+    {
+        "start": "00:03:01,958",
+        "end": "00:03:03,375",
+        "en": "वो भी तो कर सकती है।",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:03:03,458",
+        "end": "00:03:05,291",
+        "en": "दोनों माँ-बेटी एक जैसे हो।",
+        "pa": "Both mother and daughter are alike.",
+        "vi": "Đúng là mẹ nào con nấy."
+    },
+    {
+        "start": "00:03:06,833",
+        "end": "00:03:10,083",
+        "en": "मैडम, एक मिनट। इधर से। हाँ!",
+        "pa": "Madam, one minute.",
+        "vi": "Cô ơi, tôi nhờ chút."
+    },
+    {
+        "start": "00:03:11,916",
+        "end": "00:03:13,416",
+        "en": "गीतिका के फ़िटिंग का क्या हुआ?",
+        "pa": "So, what happened about Geetika's fitting?",
+        "vi": "Geetika thử đồ thế nào?"
+    },
+    {
+        "start": "00:03:13,500",
+        "end": "00:03:17,916",
+        "en": "मैडम, असल में, ये देखिए, ये दो विकल्प हैं। एक ये वाला है और एक ये वाला है।",
+        "pa": "Ma'am, these are the two options, have a look.",
+        "vi": "Có hai lựa chọn, cô nhìn này."
+    },
+    {
+        "start": "00:03:18,000",
+        "end": "00:03:20,666",
+        "en": "आपको तो पता ही है, अकेली लड़कियों का कितना पंगा है।",
+        "pa": "Madam, you know how difficult it is for single ladies.",
+        "vi": "Cô biết đó, với phụ nữ độc thân thì rất khó."
+    },
+    {
+        "start": "00:03:20,791",
+        "end": "00:03:22,375",
+        "en": "कोई फ़्लैट देता ही नहीं किराए पर।",
+        "pa": "No one wants them as tenants!",
+        "vi": "Chẳng ai muốn cho họ thuê cả!"
+    },
+    {
+        "start": "00:03:22,458",
+        "end": "00:03:24,375",
+        "en": "पर यहाँ का मकान मालिक एकदम मस्त है,",
+        "pa": "But the landlord of this place is great.",
+        "vi": "Nhưng chủ nhà này rất tốt."
+    },
+    {
+        "start": "00:03:24,458",
+        "end": "00:03:26,291",
+        "en": "सिर्फ़ अकेली लड़कियों को रखता है!`",
+        "pa": "He only wants single ladies!",
+        "vi": "Chỉ cho phụ nữ độc thân thuê!"
+    },
+    {
+        "start": "00:03:27,583",
+        "end": "00:03:28,625",
+        "en": "दिख रहा है।",
+        "pa": "Clearly.",
+        "vi": "Rõ là vậy."
+    },
+    {
+        "start": "00:03:28,708",
+        "end": "00:03:30,541",
+        "en": "मैडम, बिस्तर भी बहुत मुलायम है!",
+        "pa": "Madam, look how soft the bed is!",
+        "vi": "Cô xem giường êm chưa này!"
+    },
+    {
+        "start": "00:03:31,125",
+        "end": "00:03:34,000",
+        "en": "-पद्मा... -मैं नहीं करने वाली फ़ोन।",
+        "pa": "Padma.\n I'm not calling her.",
+        "vi": "Padma.\n Tôi sẽ không gọi cô ấy."
+    },
+    {
+        "start": "00:03:34,583",
+        "end": "00:03:36,416",
+        "en": "माँ-बेटी के बीच में मैं नहीं पड़ूँगी।",
+        "pa": "I'm not getting in the middle of this fight.",
+        "vi": "Tôi không xen vào vụ cãi cọ này đâu."
+    },
+    {
+        "start": "00:03:39,875",
+        "end": "00:03:43,666",
+        "en": "भगवान जी जानते है, ये आखिरी बार है कि हमने आपको कोई क्लाइंट लाके दिया है।",
+        "pa": "I swear to God, this is the last time I get you a client!",
+        "vi": "Tôi thề, đây là lần cuối cùng tôi giới thiệu khách cho anh!"
+    },
+    {
+        "start": "00:03:43,750",
+        "end": "00:03:45,708",
+        "en": "अरे, मैडम जी की पसंद समझ गया हूँ मैं।",
+        "pa": "Relax, I understand madam's taste now.",
+        "vi": "Bình tĩnh, giờ tôi hiểu gu của cô ấy rồi."
+    },
+    {
+        "start": "00:03:45,791",
+        "end": "00:03:48,416",
+        "en": "अभी दिखाता हूँ न आपको। नाराज़ नहीं करूँगा।",
+        "pa": "Wait till you see the next house! You won't be disappointed.",
+        "vi": "Chờ đến căn nhà tiếp theo nhé! Cô sẽ không thất vọng."
+    },
+    {
+        "start": "00:03:48,500",
+        "end": "00:03:51,083",
+        "en": "मैडम, ऐसा घर आपको कहाँ मिलेगा?",
+        "pa": "Madam, where will you get such property?",
+        "vi": "Cô còn tìm đâu ra căn như này chứ?"
+    },
+    {
+        "start": "00:03:51,208",
+        "end": "00:03:52,625",
+        "en": "वो भी इस दाम पर।",
+        "pa": "That too at this price.",
+        "vi": "Cũng như mức giá này."
+    },
+    {
+        "start": "00:03:52,708",
+        "end": "00:03:54,375",
+        "en": "एक राज़ की बात बताऊँ, मैडम?",
+        "pa": "Can I tell you a secret, madam?",
+        "vi": "Tôi cho cô biết một bí mật nhé?"
+    },
+    {
+        "start": "00:03:54,458",
+        "end": "00:03:56,041",
+        "en": "एकदम किस्मत वाला फ़्लैट है।",
+        "pa": "It's a very lucky flat.",
+        "vi": "Đây là căn hộ may mắn."
+    },
+    {
+        "start": "00:03:56,125",
+        "end": "00:03:59,958",
+        "en": "जो भी अकेली औरत इधर आती है न रहने, उसका फटाफट शादी हो जाता है!",
+        "pa": "Any single lady who comes to live here, gets married super quick!",
+        "vi": "Cô nào độc thân sống ở đây sẽ cưới chồng nhanh lắm!"
+    },
+    {
+        "start": "00:04:00,041",
+        "end": "00:04:02,750",
+        "en": "पिछली वाली का तो तीन महीने में हो गया था, मैडम!",
+        "pa": "The last one got hitched in three months, madam!",
+        "vi": "Cô trước ở đây chỉ ba tháng đã cưới!"
+    },
+    {
+        "start": "00:04:02,833",
+        "end": "00:04:05,375",
+        "en": "हाँ, ठीक है, बताओ मालिक से कब मिल सकते हैं?",
+        "pa": "Fine, fine. When can I meet the owner?",
+        "vi": "Được rồi. Khi nào tôi có thể gặp chủ nhà?"
+    },
+    {
+        "start": "00:04:05,458",
+        "end": "00:04:08,750",
+        "en": "दो-तीन घंटे दो मेरे को, मैं अभी एक मीटिंग तय कराता हूँ आपका।",
+        "pa": "Give me two-three hours, I'll quickly arrange a meeting.",
+        "vi": "Cho tôi vài ba giờ, tôi sẽ bố trí nhanh."
+    },
+    {
+        "start": "00:04:09,375",
+        "end": "00:04:11,416",
+        "en": "आज ही बात पक्की कराते हैं, आप चिंता मत करो।",
+        "pa": "We'll lock this deal today, don't worry.",
+        "vi": "Chúng ta sẽ chốt trong hôm nay, đừng lo."
+    },
+    {
+        "start": "00:04:11,500",
+        "end": "00:04:13,541",
+        "en": "शायद माँ को भी पसंद आएगा न?",
+        "pa": "I think Mom will like it, too, don't you think?",
+        "vi": "Chắc mẹ tôi cũng sẽ thích, nhỉ?"
+    },
+    {
+        "start": "00:04:13,666",
+        "end": "00:04:14,583",
+        "en": "हाँ!",
+        "pa": "Yeah.",
+        "vi": "Vâng."
+    },
+    {
+        "start": "00:04:14,666",
+        "end": "00:04:16,958",
+        "en": "आंटी जी को लाओ, बहुत पसंद आएगा उनको भी।",
+        "pa": "Yes, I'm sure she'll love it.",
+        "vi": "Vâng, bảo đảm bà ấy sẽ thích."
+    },
+    {
+        "start": "00:04:17,625",
+        "end": "00:04:20,416",
+        "en": "शुक्रिया, भैया जी। नाक बचा ली आपने हमारी।",
+        "pa": "Thank you, brother. You saved me from complete embarrassment.",
+        "vi": "Cảm ơn. Anh làm tôi đỡ bị mất mặt."
+    },
+    {
+        "start": "00:04:20,500",
+        "end": "00:04:22,708",
+        "en": "बोला ही था मैडम जी की पसंद समझ गया हूँ।",
+        "pa": "I told you I understood her taste.",
+        "vi": "Đã nói tôi hiểu gu cô ấy rồi mà."
+    },
+    {
+        "start": "00:04:22,791",
+        "end": "00:04:25,333",
+        "en": "नाराज़ किया आपको? हैं? नहीं।",
+        "pa": "-Didn't disappoint you, did I? -No.",
+        "vi": "- Không thất vọng chứ? - Không."
+    },
+    {
+        "start": "00:04:25,416",
+        "end": "00:04:28,708",
+        "en": "\"आखिरकार एक ऐसी जगह जहाँ किसी को जवाब नहीं देना पड़ेगा।",
+        "pa": "Told you!",
+        "vi": "Đã bảo rồi mà!\n \"Tìm một nơi mà tôi không phải đi thưa về gửi."
+    },
+    {
+        "start": "00:04:29,500",
+        "end": "00:04:31,625",
+        "en": "जहाँ मैं जैसे चाहूँ, वैसे रह सकती हूँ।",
+        "pa": "",
+        "vi": "Một nơi tôi có thể hoàn toàn là chính mình."
+    },
+    {
+        "start": "00:04:32,416",
+        "end": "00:04:34,375",
+        "en": "एक ऐसी जगह जिसे अपना घर कह सकती हूँ।\"",
+        "pa": "",
+        "vi": "Một nơi tôi có thể gọi là nhà\"."
+    },
+    {
+        "start": "00:04:35,000",
+        "end": "00:04:36,708",
+        "en": "हैशटैग, नया घर।",
+        "pa": "",
+        "vi": "Hashtag, nhà mới, hashtag, khởi đầu mới."
+    },
+    {
+        "start": "00:04:36,791",
+        "end": "00:04:38,625",
+        "en": "हैशटैग, नई शुरुआत।",
+        "pa": "",
+        "vi": "#NHÀ MỚI, #KHỞI ĐẦU MỚI"
+    },
+    {
+        "start": "00:04:41,291",
+        "end": "00:04:42,333",
+        "en": "ओह!",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:04:42,416",
+        "end": "00:04:44,541",
+        "en": "\"नया घर, नई शुरुआत।\"",
+        "pa": "\"New house, new beginnings.\"",
+        "vi": "\"Nhà mới, khởi đầu mới\"."
+    },
+    {
+        "start": "00:04:45,125",
+        "end": "00:04:46,250",
+        "en": "अच्छा।",
+        "pa": "I see.",
+        "vi": "Hiểu rồi."
+    },
+    {
+        "start": "00:04:52,708",
+        "end": "00:04:53,625",
+        "en": "धत् तेरे की।",
+        "pa": "Shit.",
+        "vi": "Chết tiệt.\n THỬ VAI NANDINI"
+    },
+    {
+        "start": "00:04:58,166",
+        "end": "00:04:59,000",
+        "en": "हैलो?",
+        "pa": "-Hello? -Ms. Neena!",
+        "vi": "- A-lô? - Neena!"
+    },
+    {
+        "start": "00:04:59,083",
+        "end": "00:05:00,666",
+        "en": "नीनाजी, कैसे हो आप?",
+        "pa": "How are you?",
+        "vi": "Cô khỏe không?"
+    },
+    {
+        "start": "00:05:00,750",
+        "end": "00:05:03,125",
+        "en": "इतने दिनों बाद कैसे याद किया?",
+        "pa": "To what do I owe this pleasure?",
+        "vi": "Sao rồng lại gọi cho tôm vậy?"
+    },
+    {
+        "start": "00:05:03,208",
+        "end": "00:05:05,333",
+        "en": "हाँ जी, आप तो हमें याद ही नहीं करती हैं?",
+        "pa": "To the fact that you've forgotten about me?",
+        "vi": "Vì rõ ràng là cô đã quên tôi?"
+    },
+    {
+        "start": "00:05:05,416",
+        "end": "00:05:08,083",
+        "en": "नहीं-नहीं, हम आपको हमेशा याद करते हैं!",
+        "pa": "Not at all, I think about you always!",
+        "vi": "Làm gì có, tôi luôn nghĩ về cô!"
+    },
+    {
+        "start": "00:05:08,166",
+        "end": "00:05:09,750",
+        "en": "अरे, क्या याद रखती हो!",
+        "pa": "Rubbish!",
+        "vi": "Nói dối!"
+    },
+    {
+        "start": "00:05:10,541",
+        "end": "00:05:12,958",
+        "en": "इतनी सारी कास्टिंग हो रही है, मेरा कहीं नाम ही नहीं है!",
+        "pa": "Everyone is getting cast except for me!",
+        "vi": "Ai cũng được thử vai, trừ tôi!"
+    },
+    {
+        "start": "00:05:13,041",
+        "end": "00:05:14,791",
+        "en": "अभी मैंने देखा इंस्टा पे,",
+        "pa": "I just saw on Instagram.",
+        "vi": "Vừa thấy trên Instagram."
+    },
+    {
+        "start": "00:05:14,875",
+        "end": "00:05:17,750",
+        "en": "\"सात समंदर पार\" में रत्ना को ले लिया, मैं भी कर सकती थी वो।",
+        "pa": "They cast Ratna in Saat Samundar Paar. I could've also done that role!",
+        "vi": "Họ chọn Ratna cho phim đó. Tôi cũng có thể vào vai đó!"
+    },
+    {
+        "start": "00:05:17,833",
+        "end": "00:05:20,666",
+        "en": "नीनाजी, मैंने आपका नाम निर्माता को दिया था,",
+        "pa": "Ms. Neena, I did recommend you to the producer.",
+        "vi": "Neena, tôi đã giới thiệu cô với nhà sản xuất."
+    },
+    {
+        "start": "00:05:20,750",
+        "end": "00:05:22,750",
+        "en": "पर आप तो दिल्ली में रहते हैं न?",
+        "pa": "But you live in Delhi, right?",
+        "vi": "Nhưng cô sống ở Delhi, phải không?"
+    },
+    {
+        "start": "00:05:23,458",
+        "end": "00:05:26,750",
+        "en": "अरे, मैं दिल्ली में नहीं रहती हूँ!",
+        "pa": "But I don't live in Delhi!",
+        "vi": "Nhưng tôi không sống ở Delhi!"
+    },
+    {
+        "start": "00:05:26,833",
+        "end": "00:05:29,500",
+        "en": "पिछले 30 साल से बॉम्बे में रहती हूँ!",
+        "pa": "For the last 30 years I have been living in Bombay!",
+        "vi": "Tôi vẫn sống ở Bombay 30 năm nay!"
+    },
+    {
+        "start": "00:05:30,416",
+        "end": "00:05:32,166",
+        "en": "ओह, नीनाजी, माफ़ कीजिएगा।",
+        "pa": "Oh, no, I'm so sorry, Ms. Neena.",
+        "vi": "Ôi, không, tôi xin lỗi, Neena."
+    },
+    {
+        "start": "00:05:32,250",
+        "end": "00:05:34,541",
+        "en": "हमने सोचा शादी के बाद आप दिल्ली चले गए हैं।",
+        "pa": "We thought you moved to Delhi after your wedding.",
+        "vi": "Tưởng đám cưới xong, cô chuyển tới Delhi."
+    },
+    {
+        "start": "00:05:34,625",
+        "end": "00:05:38,125",
+        "en": "नहीं, बिल्कुल नहीं। मैं यहीं रहती हूँ!",
+        "pa": "No, please, no. I stay here!",
+        "vi": "Không, làm ơn. Tôi sống ở đây!"
+    },
+    {
+        "start": "00:05:38,208",
+        "end": "00:05:40,541",
+        "en": "ठीक है? अब याद रखना। बहुत-बहुत शुक्रिया।",
+        "pa": "Okay? Please remember. Thank you very much.",
+        "vi": "Được chứ? Xin nhớ lấy. Cảm ơn nhiều."
+    },
+    {
+        "start": "00:05:41,208",
+        "end": "00:05:42,750",
+        "en": "अब हम आपको ज़रूर फ़ोन करेंगे।",
+        "pa": "We will definitely call you henceforth.",
+        "vi": "Mai mốt chắc chắn sẽ gọi cho cô."
+    },
+    {
+        "start": "00:05:42,833",
+        "end": "00:05:43,666",
+        "en": "प्लीज़।",
+        "pa": "Please.",
+        "vi": "Nhớ nhé."
+    },
+    {
+        "start": "00:05:50,958",
+        "end": "00:05:52,291",
+        "en": "मैडम,",
+        "pa": "Madam...",
+        "vi": "Thưa cô..."
+    },
+    {
+        "start": "00:05:52,375",
+        "end": "00:05:54,833",
+        "en": "ये नए घर के लिए तीन लाख पेशगी देनी पड़ेगी।",
+        "pa": "The deposit for the new house is three lakh rupees.",
+        "vi": "Tiền đặt cọc nhà mới là 300.000 Rupi."
+    },
+    {
+        "start": "00:05:55,416",
+        "end": "00:05:56,250",
+        "en": "हाँ, तो?",
+        "pa": "Yeah, so?",
+        "vi": "Vậy à?"
+    },
+    {
+        "start": "00:05:56,333",
+        "end": "00:05:59,625",
+        "en": "हाँ, तो विनय सर और आपके साझे खाते से पैसे देने हैं क्या?",
+        "pa": "So, is the payment to be done from your joint account with Vinay sir?",
+        "vi": "Vậy sẽ thanh toán bằng tài khoản chung với anh Vinay?"
+    },
+    {
+        "start": "00:05:59,708",
+        "end": "00:06:01,458",
+        "en": "नहीं, मेरे खाते से ही देने हैं न।",
+        "pa": "No, from mine, of course.",
+        "vi": "Không, tất nhiên là tài khoản của tôi."
+    },
+    {
+        "start": "00:06:01,958",
+        "end": "00:06:03,541",
+        "en": "ओह, फिर तो दिक्कत है।",
+        "pa": "Then there's a problem.",
+        "vi": "Vậy thì có vấn đề rồi."
+    },
+    {
+        "start": "00:06:03,625",
+        "end": "00:06:05,875",
+        "en": "अगर पेशगी देनी पड़ेगी",
+        "pa": "If the deposit goes from your account",
+        "vi": "Nếu lấy từ tài khoản của cô,"
+    },
+    {
+        "start": "00:06:05,958",
+        "end": "00:06:08,083",
+        "en": "तो इन सब की तनख्वाह को अलविदा कहना पड़ेगा।",
+        "pa": "then you can say goodbye to everyone's salary.",
+        "vi": "cô sẽ phải tạm biệt lương của mọi người."
+    },
+    {
+        "start": "00:06:11,708",
+        "end": "00:06:13,875",
+        "en": "आप ये सब बात मेरे कैबिन में नहीं कर सकते?",
+        "pa": "You couldn't talk to me about this in my cabin?",
+        "vi": "Anh không thể nói chuyện đó ở phòng tôi à?"
+    },
+    {
+        "start": "00:06:18,125",
+        "end": "00:06:19,666",
+        "en": "मैडम, ब्रोकर!",
+        "pa": "Ma'am, it's the broker!",
+        "vi": "Thưa cô, người môi giới!"
+    },
+    {
+        "start": "00:06:23,750",
+        "end": "00:06:26,166",
+        "en": "-हाँ जी, बोलिए। -मैडम, वो जो फ़्लैट है न,",
+        "pa": "Yes, tell me.\n Madam, that apartment, it's not that great.",
+        "vi": "Vâng, nói đi.\n Căn hộ đó không hay lắm."
+    },
+    {
+        "start": "00:06:26,250",
+        "end": "00:06:27,291",
+        "en": "उतना अच्छा नहीं था।",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:06:27,375",
+        "end": "00:06:29,208",
+        "en": "मैं न आपको दूसरा बढ़िया वाला दिखाता हूँ।",
+        "pa": "You know what? I'll show you another one that's great!",
+        "vi": "Tôi sẽ dẫn cô đi xem căn khác tuyệt vời!"
+    },
+    {
+        "start": "00:06:29,291",
+        "end": "00:06:31,708",
+        "en": "क्या अच्छा नहीं था? मुझे तो पसंद है।",
+        "pa": "What wasn't great? I liked it.",
+        "vi": "Sao lại thế? Nhưng tôi thích căn đó."
+    },
+    {
+        "start": "00:06:31,791",
+        "end": "00:06:34,166",
+        "en": "नहीं, मैडम, मशहूर लोगों को रखने का थोड़ा पंगा है।",
+        "pa": "There's risk associated with celebrity tenants.",
+        "vi": "Cho người nổi tiếng thuê có rủi ro."
+    },
+    {
+        "start": "00:06:35,583",
+        "end": "00:06:36,625",
+        "en": "क्या पंगा?",
+        "pa": "What do you mean?",
+        "vi": "Ý anh là gì?"
+    },
+    {
+        "start": "00:06:36,708",
+        "end": "00:06:38,666",
+        "en": "ड्रग्स, पार्टी वगैरह रोज़ होता है।",
+        "pa": "Drugs, party, etc., happens everyday.",
+        "vi": "Ma túy, tiệc tùng này nọ hằng ngày."
+    },
+    {
+        "start": "00:06:38,750",
+        "end": "00:06:41,000",
+        "en": "और सोसायटी में अजीब-अजीब कपड़े पहनकर घूमती हैं,",
+        "pa": "They walk around the society dressed in weird clothes.",
+        "vi": "Họ ăn mặc kỳ dị đi đây đi đó."
+    },
+    {
+        "start": "00:06:41,083",
+        "end": "00:06:42,541",
+        "en": "बच्चों पर क्या असर पड़ेगा न, मैडम।",
+        "pa": "It's a bad influence on kids.",
+        "vi": "Ảnh hưởng xấu đến tụi nhỏ."
+    },
+    {
+        "start": "00:06:42,625",
+        "end": "00:06:43,666",
+        "en": "क्या बकवास कर रहे हो?",
+        "pa": "What the fuck do you mean?",
+        "vi": "Anh nói vậy là sao hả?"
+    },
+    {
+        "start": "00:06:43,750",
+        "end": "00:06:47,333",
+        "en": "मैडम, मैं ऐसा नहीं कह रहा हूँ, मकान मालिक लोग ऐसे हैं।",
+        "pa": "I'm not saying that, madam. The owners of the house are.",
+        "vi": "Tôi không nói thế. Chủ nhà nói vậy."
+    },
+    {
+        "start": "00:06:47,416",
+        "end": "00:06:49,083",
+        "en": "आप छोड़ो न, मैं आपको दूसरा दिलाता हूँ न।",
+        "pa": "Just leave it. I'll get you another house.",
+        "vi": "Bỏ đi. Tôi sẽ tìm nhà khác cho cô."
+    },
+    {
+        "start": "00:06:49,166",
+        "end": "00:06:51,416",
+        "en": "दूसरा दिलाता हूँ मतलब क्या?",
+        "pa": "What do you mean you'll \"get me another one\"?",
+        "vi": "Anh nói \"tìm nhà khác\" là sao?"
+    },
+    {
+        "start": "00:06:51,500",
+        "end": "00:06:53,791",
+        "en": "और उस वाले में भी यही दिक्कत हुई तो?",
+        "pa": "And what if we encounter the same problem for that one?",
+        "vi": "Nếu vẫn gặp vấn đề như vậy thì sao?"
+    },
+    {
+        "start": "00:06:53,875",
+        "end": "00:06:56,458",
+        "en": "कहीं अकेली नहीं चलेगी, कहीं तलाकशुदा नहीं चलेगी,",
+        "pa": "Single, not okay. Divorcee, not okay.",
+        "vi": "Độc thân, không được. Li hôn, không được."
+    },
+    {
+        "start": "00:06:56,541",
+        "end": "00:06:58,541",
+        "en": "कहीं मशहूर हस्ती नहीं चलती है।",
+        "pa": "Celebrity, not okay.",
+        "vi": "Nổi tiếng, không được."
+    },
+    {
+        "start": "00:06:58,625",
+        "end": "00:07:00,208",
+        "en": "इंसान होने में भी दिक्कत है क्या?",
+        "pa": "-Is it even okay that I'm human? -Madam, why are you getting upset?",
+        "vi": "- Tôi là con người, vậy có được không? - Sao cô lại tức giận?"
+    },
+    {
+        "start": "00:07:00,291",
+        "end": "00:07:01,583",
+        "en": "मैडम, आप गुस्सा काहे हो रहे हो?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:07:01,666",
+        "end": "00:07:04,041",
+        "en": "देखो, आप मशहूर हस्ती भी हो और अकेली भी।",
+        "pa": "Look, you are a celebrity and you are single.",
+        "vi": "Cô là người nổi tiếng và cô độc thân."
+    },
+    {
+        "start": "00:07:04,125",
+        "end": "00:07:06,708",
+        "en": "डबल खतरा है? दिक्कत तो होगी।",
+        "pa": "Double danger, right?\n There will always be issues.",
+        "vi": "Nguy hiểm gấp đôi.\n Sẽ luôn có vấn đề."
+    },
+    {
+        "start": "00:07:06,791",
+        "end": "00:07:08,875",
+        "en": "पर मैं हूँ न। मैं क्या कह रहा हूँ,",
+        "pa": "But I'm here. Listen to me.",
+        "vi": "Nhưng tôi ở đây. Hãy nghe tôi."
+    },
+    {
+        "start": "00:07:08,958",
+        "end": "00:07:11,375",
+        "en": "आप न एक शादीशुदा जोड़े का अनुबंध बनवा लो।",
+        "pa": "You should draft a contract stating you are married.",
+        "vi": "Cô nên thảo sẵn hợp đồng ghi là cô đã kết hôn."
+    },
+    {
+        "start": "00:07:11,458",
+        "end": "00:07:14,041",
+        "en": "और पति के दस्तखत ले लो! इतना तो कर ही सकते हैं न?",
+        "pa": "And get your husband's signature. That's hardly a big deal, right?",
+        "vi": "Rồi bảo chồng cô kí vào. Vậy đâu khó, nhỉ?"
+    },
+    {
+        "start": "00:07:14,125",
+        "end": "00:07:17,000",
+        "en": "तो मैं तलाक के बीच में अपने पति के दस्तखत लूँगी क्या?",
+        "pa": "You want me to get his signature while we're in the middle of a divorce?",
+        "vi": "Anh muốn tôi lấy chữ kí của chồng khi chúng tôi đang li hôn?"
+    },
+    {
+        "start": "00:07:17,666",
+        "end": "00:07:21,000",
+        "en": "नहीं, अगर आप लोग का नहीं बनता है, तो मैं कुछ और सेटिंग कराता हूँ न।",
+        "pa": "I mean, if you guys can't stand each other then I can try another way.",
+        "vi": "Nếu hai người không chịu nổi nhau thì tôi nghĩ cách khác."
+    },
+    {
+        "start": "00:07:21,083",
+        "end": "00:07:24,416",
+        "en": "ए, हैलो, मुझे कोई सेटिंग-वेटिंग नहीं करानी है।",
+        "pa": "Excuse me, I'm not interested in your dubious solutions!",
+        "vi": "Xin lỗi, tôi không thích mấy cách giả dối của anh!"
+    },
+    {
+        "start": "00:07:24,500",
+        "end": "00:07:27,333",
+        "en": "मैंने तुमको शुरू से बोला है कि मुझे अकेले घर चाहिए।",
+        "pa": "I've told you from the beginning that I want the house just for myself.",
+        "vi": "Đã nói ngay từ đầu là tôi muốn ngôi nhà cho riêng tôi."
+    },
+    {
+        "start": "00:07:27,416",
+        "end": "00:07:29,083",
+        "en": "इतनी दिक्कत होने ही वाली थी,",
+        "pa": "If it was always going to be a problem",
+        "vi": "Nếu nó luôn trở thành vấn đề,"
+    },
+    {
+        "start": "00:07:29,166",
+        "end": "00:07:32,125",
+        "en": "तो इतने सारे घर दिखाकर मेरा वक्त क्यों बर्बाद किया, गधे!",
+        "pa": "then why did you show me so many houses and waste my time, you cunt!",
+        "vi": "thì anh dẫn tôi đi xem nhà làm gì cho mất thời gian, đồ khùng!"
+    },
+    {
+        "start": "00:07:40,625",
+        "end": "00:07:41,708",
+        "en": "हैलो।",
+        "pa": "Hi.",
+        "vi": "Chào."
+    },
+    {
+        "start": "00:07:41,791",
+        "end": "00:07:45,000",
+        "en": "यह साला ज़बरदस्त था!",
+        "pa": "That was fucking cool!",
+        "vi": "Ngầu quá cơ!"
+    },
+    {
+        "start": "00:07:45,083",
+        "end": "00:07:46,208",
+        "en": "गाली मत दो।",
+        "pa": "-Language. -You're not my dad!",
+        "vi": "- Chú ý ăn nói. - Chú đâu phải bố cháu!"
+    },
+    {
+        "start": "00:07:46,291",
+        "end": "00:07:47,333",
+        "en": "आप मेरे पापा नहीं हैं!",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:07:47,416",
+        "end": "00:07:48,750",
+        "en": "मुझे मत सिखाइए।",
+        "pa": "-Don't tell me what to do. -Behave.",
+        "vi": "- Đừng lên lớp cháu. - Ngoan nào."
+    },
+    {
+        "start": "00:07:48,833",
+        "end": "00:07:50,083",
+        "en": "तमीज़ मत भूलो।",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:07:51,000",
+        "end": "00:07:52,916",
+        "en": "और यह प्यारी सी गुड़िया कौन है?",
+        "pa": "And who's this little delight?",
+        "vi": "Cô bé này là ai vậy?"
+    },
+    {
+        "start": "00:07:53,000",
+        "end": "00:07:55,666",
+        "en": "यह पैक्स है, मेरी पहली पत्नी की बेटी।",
+        "pa": "This is Pax, my ex-wife's daughter.",
+        "vi": "Đây là Pax, con riêng của vợ cũ của tôi."
+    },
+    {
+        "start": "00:07:55,750",
+        "end": "00:07:57,125",
+        "en": "-हैलो। -हैलो।",
+        "pa": "-Hi. -Hi.",
+        "vi": "- Chào cô. - Chào cháu."
+    },
+    {
+        "start": "00:07:57,208",
+        "end": "00:07:59,833",
+        "en": "ज़रा हमें अकेला छोड़ दोगी, प्यारी सी गुड़िया?",
+        "pa": "Would you give us a moment, little delight?",
+        "vi": "Cho cô chú nói chuyện riêng chút nhé, con gái?"
+    },
+    {
+        "start": "00:08:03,666",
+        "end": "00:08:05,625",
+        "en": "स्टोर देखना चाहोगी, पैक्स?",
+        "pa": "Would you like a tour, Pax?",
+        "vi": "Cháu đi thăm quan không, Pax?"
+    },
+    {
+        "start": "00:08:05,708",
+        "end": "00:08:07,000",
+        "en": "गहना,",
+        "pa": "Gehna.",
+        "vi": "Gehna."
+    },
+    {
+        "start": "00:08:07,083",
+        "end": "00:08:09,833",
+        "en": "-ज़रा पैक्स को स्टोर दिखा दो न, प्लीज़? -बिल्कुल।",
+        "pa": "-Just show Pax around, please? -Definitely.",
+        "vi": "- Đưa Pax đi quanh nhé? - Vâng."
+    },
+    {
+        "start": "00:08:09,916",
+        "end": "00:08:12,541",
+        "en": "-उसको वो करीना का आईफ़ा वाला गाउन दिखाना। -ज़रूर।",
+        "pa": "Show her Kareena's gown for the IIFA Awards.",
+        "vi": "Cho nó xem đồ Kareena mặc ở lễ trao giải."
+    },
+    {
+        "start": "00:08:13,041",
+        "end": "00:08:14,041",
+        "en": "आओ।",
+        "pa": "Sure.\n Come.",
+        "vi": "Vâng.\n Đi nào."
+    },
+    {
+        "start": "00:08:16,875",
+        "end": "00:08:19,375",
+        "en": "नए कलेक्शन पर काम करना शुरू किया?",
+        "pa": "Have you started on your new collection?",
+        "vi": "Cô đã bắt đầu bộ sưu tập mới chưa?"
+    },
+    {
+        "start": "00:08:19,458",
+        "end": "00:08:20,916",
+        "en": "फ़ैशन शो दो महीने में है।",
+        "pa": "The fashion show is in two months.",
+        "vi": "Hai tháng nữa là tới buổi diễn rồi."
+    },
+    {
+        "start": "00:08:21,500",
+        "end": "00:08:23,458",
+        "en": "हाँ, 80 प्रतिशत काम हो गया है, तो...",
+        "pa": "Yeah, I mean, I'm 80% there so...",
+        "vi": "Rồi, tôi làm được 80% rồi nên..."
+    },
+    {
+        "start": "00:08:23,541",
+        "end": "00:08:25,083",
+        "en": "या तो काम हुआ या नहीं हुआ।",
+        "pa": "You're either there or you're not.",
+        "vi": "Hoặc xong rồi, hoặc chưa."
+    },
+    {
+        "start": "00:08:26,541",
+        "end": "00:08:29,958",
+        "en": "यह एक रचनात्मक काम है, धैर्य। सब आर या पार नहीं होता।",
+        "pa": "It's a creative process, Dhairya. It's not so black and white.",
+        "vi": "Đó là công việc sáng tạo, Dhairya. Không rõ ràng thế đâu."
+    },
+    {
+        "start": "00:08:30,041",
+        "end": "00:08:30,875",
+        "en": "पर ऐसा ही है।",
+        "pa": "But it is.",
+        "vi": "Nhưng có đấy."
+    },
+    {
+        "start": "00:08:30,958",
+        "end": "00:08:32,833",
+        "en": "बस हाँ या न में जवाब देना है।",
+        "pa": "It's a simple yes or no question.",
+        "vi": "Đơn giản là câu hỏi có hay không."
+    },
+    {
+        "start": "00:08:32,916",
+        "end": "00:08:34,583",
+        "en": "नए कलेक्शन के लिए कुछ सोचा?",
+        "pa": "Do you have an idea for your new collection?",
+        "vi": "Cô có ý tưởng cho bộ sưu tập mới chưa?"
+    },
+    {
+        "start": "00:08:34,666",
+        "end": "00:08:37,333",
+        "en": "-कोशिश कर रही हूँ और मैं... -मसाबा!",
+        "pa": "-I mean, I'm trying and I-- -Masaba!",
+        "vi": "- Tôi đang cố và tôi... - Masaba!"
+    },
+    {
+        "start": "00:08:37,416",
+        "end": "00:08:38,750",
+        "en": "हाँ या नहीं?",
+        "pa": "Yes or no?",
+        "vi": "Có hay chưa?"
+    },
+    {
+        "start": "00:08:40,833",
+        "end": "00:08:42,166",
+        "en": "नहीं, ठीक है?",
+        "pa": "No, okay?",
+        "vi": "Chưa có, được chưa?"
+    },
+    {
+        "start": "00:08:43,583",
+        "end": "00:08:45,375",
+        "en": "ऐसा नहीं है कि मैंने कोशिश नहीं की।",
+        "pa": "Look, it's not like I haven't been trying.",
+        "vi": "Không phải tôi không cố."
+    },
+    {
+        "start": "00:08:45,458",
+        "end": "00:08:48,041",
+        "en": "कोशिश कर रही हूँ पर कुछ सूझ ही नहीं रहा।",
+        "pa": "I've been trying and it's just not coming to me.",
+        "vi": "Tôi đang cố nhưng chưa tìm thấy cảm hứng."
+    },
+    {
+        "start": "00:08:49,500",
+        "end": "00:08:51,791",
+        "en": "पता है तुम्हारी निजी ज़िंदगी में बहुत कुछ चल रहा है।",
+        "pa": "I know you have a lot going on in your personal life right now.",
+        "vi": "Tôi biết chuyện riêng của cô đang có nhiều vấn đề."
+    },
+    {
+        "start": "00:08:53,208",
+        "end": "00:08:56,041",
+        "en": "शायद तुम्हें किसी से मदद ले लेनी चाहिए?",
+        "pa": "I think you should get somebody else to help you?",
+        "vi": "Cô có nghĩ nên nhờ ai đó giúp?"
+    },
+    {
+        "start": "00:08:56,125",
+        "end": "00:08:57,333",
+        "en": "जो साथ में काम करे?",
+        "pa": "Maybe collaborate with?",
+        "vi": "Có lẽ là hợp tác?"
+    },
+    {
+        "start": "00:08:58,458",
+        "end": "00:09:03,250",
+        "en": "तुम चाहते हो कि कोई और आकर नया मसाबा कलेक्शन डिज़ाइन करे?",
+        "pa": "You want someone else to come and design the new Masaba collection?",
+        "vi": "Anh muốn ai khác đến và thiết kế bộ sưu tập mới của Masaba?"
+    },
+    {
+        "start": "00:09:03,333",
+        "end": "00:09:04,833",
+        "en": "मैंने बस \"साथ\" काम करने को कहा है।",
+        "pa": "I just said \"collaborate.\"",
+        "vi": "Tôi chỉ nói là \"hợp tác\"."
+    },
+    {
+        "start": "00:09:04,916",
+        "end": "00:09:08,291",
+        "en": "ठीक है। और तुम्हारे तलाक के वक्त",
+        "pa": "Okay. And who was \"collaborating\" with you when you were going through your divorce?",
+        "vi": "Rồi. Vậy ai đã \"hợp tác\" với anh khi anh đang li hôn?"
+    },
+    {
+        "start": "00:09:08,375",
+        "end": "00:09:09,875",
+        "en": "तुम्हारे साथ कौन काम कर रहा था?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:09:12,541",
+        "end": "00:09:14,958",
+        "en": "हालात संभालने के हमारे अपने तरीके होते हैं।",
+        "pa": "We all have our ways of handling things.",
+        "vi": "Chúng tôi có cách xử lí riêng."
+    },
+    {
+        "start": "00:09:15,041",
+        "end": "00:09:18,041",
+        "en": "और \"हमारे\" से तुम्हारा मतलब मर्दों के, है न?",
+        "pa": "I'm sure by \"we\" you mean men, right?",
+        "vi": "Tôi chắc anh nói \"chúng tôi\" ý là đàn ông?"
+    },
+    {
+        "start": "00:09:18,125",
+        "end": "00:09:21,291",
+        "en": "और औरतें बस बेचारी अबला नारी बन जाती हैं!",
+        "pa": "And women just become hysterical damsels in distress!",
+        "vi": "Còn phụ nữ trở thành người đau khổ!"
+    },
+    {
+        "start": "00:09:21,375",
+        "end": "00:09:24,458",
+        "en": "सबको लगता है औरतें अपने दम पर कुछ नहीं कर सकतीं!",
+        "pa": "Nobody thinks women can do anything on their own!",
+        "vi": "Không ai nghĩ phụ nữ tự làm được bất cứ điều gì!"
+    },
+    {
+        "start": "00:09:25,250",
+        "end": "00:09:28,708",
+        "en": "मतलब, एक साथी के बिना हम अपना कलेक्शन नहीं बना सकती,",
+        "pa": "I mean, you can't get a collection done without a collaborator,",
+        "vi": "Không thể hoàn thành bộ sưu tập nếu không có cộng sự,"
+    },
+    {
+        "start": "00:09:28,833",
+        "end": "00:09:30,916",
+        "en": "पति के बिना हमें घर नहीं मिलता।",
+        "pa": "you can't get a house without a husband.",
+        "vi": "không thể thuê nhà nếu không có chồng."
+    },
+    {
+        "start": "00:09:31,000",
+        "end": "00:09:34,125",
+        "en": "मतलब, मैंने आज 20,000 घर देखे हैं",
+        "pa": "I mean, I've looked at 20,000 houses today",
+        "vi": "Hôm nay, tôi đi xem 20.000 căn nhà"
+    },
+    {
+        "start": "00:09:34,208",
+        "end": "00:09:37,458",
+        "en": "और एक अकेली या मशहूर औरत को कोई घर नहीं देना चाहता!",
+        "pa": "and they just won't give it to a woman who's single or famous!",
+        "vi": "và họ không cho phụ nữ độc thân hay nổi tiếng thuê!"
+    },
+    {
+        "start": "00:09:37,541",
+        "end": "00:09:38,916",
+        "en": "मतलब, मैं क्या कर दूँगी?",
+        "pa": "I mean, what am I gonna do?",
+        "vi": "Tôi phải làm gì đây?"
+    },
+    {
+        "start": "00:09:39,000",
+        "end": "00:09:42,958",
+        "en": "उसका खयाल रखूँगी, उसे सजाऊँगी, सुंदर पर्दे लगाऊँगी...",
+        "pa": "I'll maintain it, take care of it, put up nice curtains...",
+        "vi": "Tôi sẽ giữ gìn, chăm sóc nó, làm rèm đẹp..."
+    },
+    {
+        "start": "00:09:43,041",
+        "end": "00:09:45,041",
+        "en": "मैं नर्क से आई किराएदार हूँ क्या?",
+        "pa": "What am I, a tenant from hell?",
+        "vi": "Tôi là ai, người thuê nhà từ địa ngục à?"
+    },
+    {
+        "start": "00:09:50,166",
+        "end": "00:09:51,916",
+        "en": "माफ़ करना, बोर कर दिया क्या?",
+        "pa": "I'm sorry, am I boring you?",
+        "vi": "Xin lỗi, tôi làm anh chán à?"
+    },
+    {
+        "start": "00:09:58,916",
+        "end": "00:10:00,041",
+        "en": "मेसेज क्यों भेज रहे हो?",
+        "pa": "Why are you texting me?",
+        "vi": "Sao nhắn tin cho tôi?"
+    },
+    {
+        "start": "00:10:00,750",
+        "end": "00:10:01,958",
+        "en": "मेरे दोस्त का नंबर है।",
+        "pa": "That's my friend's number. He's leasing his house.",
+        "vi": "Đó là số của bạn tôi. Anh ta cho thuê nhà."
+    },
+    {
+        "start": "00:10:02,041",
+        "end": "00:10:03,458",
+        "en": "वह घर लीज़ पर दे रहा है।",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:10:04,125",
+        "end": "00:10:05,875",
+        "en": "वक्त मिले तो जाकर देख लेना।",
+        "pa": "You should check it out when you have the time.",
+        "vi": "Nếu có thời gian, cô nên đi xem."
+    },
+    {
+        "start": "00:10:07,166",
+        "end": "00:10:10,666",
+        "en": "और फिर शायद तुम अपने नए कलेक्शन पर काम शुरू कर सको।",
+        "pa": "And maybe then, you can get started on your new collection.",
+        "vi": "Và có thể khi đó, cô có thể bắt đầu làm bộ sưu tập mới."
+    },
+    {
+        "start": "00:10:18,250",
+        "end": "00:10:19,333",
+        "en": "-पद्मा। -हम्म?",
+        "pa": "Padma. Should I put up this picture or this one?",
+        "vi": "Padma. Tôi nên đăng ảnh này hay ảnh này?"
+    },
+    {
+        "start": "00:10:19,416",
+        "end": "00:10:21,458",
+        "en": "ये बता, ये लगाऊँ कि ये लगाऊँ?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:10:22,500",
+        "end": "00:10:24,166",
+        "en": "-पहली दिखाओ। -ये...",
+        "pa": "-Show me the first one. -This one or this one?",
+        "vi": "- Cho tôi xem ảnh trước. - Ảnh này hay ảnh này?"
+    },
+    {
+        "start": "00:10:24,250",
+        "end": "00:10:25,500",
+        "en": "या ये?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:10:25,583",
+        "end": "00:10:26,750",
+        "en": "दोनों ही अच्छी हैं!",
+        "pa": "Both are nice!",
+        "vi": "Hai ảnh đều đẹp!"
+    },
+    {
+        "start": "00:10:26,833",
+        "end": "00:10:28,333",
+        "en": "अरे, एक डालनी है न मुझे!",
+        "pa": "But I want to post one!",
+        "vi": "Tôi muốn đăng một ảnh thôi!"
+    },
+    {
+        "start": "00:10:28,416",
+        "end": "00:10:29,375",
+        "en": "अब मैं क्या...",
+        "pa": "But...",
+        "vi": "Nhưng..."
+    },
+    {
+        "start": "00:10:31,958",
+        "end": "00:10:33,000",
+        "en": "कोई सी भी लगा लो!",
+        "pa": "Pick any one!",
+        "vi": "Chọn đại một ảnh đi!"
+    },
+    {
+        "start": "00:10:33,750",
+        "end": "00:10:35,916",
+        "en": "अरे, एक डालनी है! बेवकूफ़।",
+        "pa": "God, I want to post just one! Stupid.",
+        "vi": "Trời ạ, tôi muốn đăng một ảnh! Ngốc thế."
+    },
+    {
+        "start": "00:10:36,708",
+        "end": "00:10:38,916",
+        "en": "दोनों ही अच्छी लग रही हैं, मैं क्या बताऊँ?",
+        "pa": "But both are nice! I can't pick!",
+        "vi": "Hai ảnh đều đẹp! Tôi không chọn được!"
+    },
+    {
+        "start": "00:10:39,541",
+        "end": "00:10:41,208",
+        "en": "हाँ, शाम को फ़्लैट दिखाएँगे?",
+        "pa": "Can you show me the house in the evening?",
+        "vi": "Tối nay cho tôi xem nhà được không?"
+    },
+    {
+        "start": "00:10:42,708",
+        "end": "00:10:43,750",
+        "en": "ठीक है, मैं आ जाऊँगी।",
+        "pa": "All right, I'll come then.",
+        "vi": "Được, tôi sẽ đến lúc đó."
+    },
+    {
+        "start": "00:10:46,625",
+        "end": "00:10:49,333",
+        "en": "आज मंगलवार है!",
+        "pa": "It's Tuesday! It's Tuesday!",
+        "vi": "Thứ Ba!"
+    },
+    {
+        "start": "00:10:49,416",
+        "end": "00:10:50,333",
+        "en": "तो?",
+        "pa": "So?",
+        "vi": "Thì sao?"
+    },
+    {
+        "start": "00:10:50,416",
+        "end": "00:10:52,958",
+        "en": "तो दिन में दारू पीने का दिन है!",
+        "pa": "So it's the day to day-drink.",
+        "vi": "Là ngày được uống ban ngày."
+    },
+    {
+        "start": "00:10:53,625",
+        "end": "00:10:55,041",
+        "en": "जिया, वह रविवार को करते हैं।",
+        "pa": "-Gia, that's on Sunday. -I know.",
+        "vi": "- Gia, là Chủ nhật mà. - Tớ biết."
+    },
+    {
+        "start": "00:10:55,125",
+        "end": "00:10:58,541",
+        "en": "पता है! पार्टी करने के लिए रविवार तक नहीं रुक सकती, ठीक है?",
+        "pa": "I can't wait till Sunday to celebrate, okay?",
+        "vi": "Tớ không thể đợi đến Chủ nhật để ăn mừng."
+    },
+    {
+        "start": "00:10:58,625",
+        "end": "00:11:01,000",
+        "en": "मैंने आखिरकार अपना मेन्यू तय कर दिया,",
+        "pa": "I've finally locked my menu, and I've just booked a standup comedian.",
+        "vi": "Cuối cùng cũng chốt được thực đơn, và tớ đã đặt được nghệ sĩ hài."
+    },
+    {
+        "start": "00:11:01,083",
+        "end": "00:11:04,208",
+        "en": "और अभी-अभी मैंने एक स्टैंडअप कॉमेडियन को भी बुक किया है।",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:11:05,666",
+        "end": "00:11:09,291",
+        "en": "वो इतनी मशहूर नहीं है, पर शायद लोग आ जाएँगे न?",
+        "pa": "She's not that popular, but I think people will come, right?",
+        "vi": "Cô ta không nổi tiếng lắm, nhưng tớ nghĩ mọi người sẽ đến."
+    },
+    {
+        "start": "00:11:10,333",
+        "end": "00:11:12,000",
+        "en": "अरे, वाह! मुबारक हो।",
+        "pa": "That's awesome! Congratulations.",
+        "vi": "Tuyệt! Chúc mừng cậu."
+    },
+    {
+        "start": "00:11:13,375",
+        "end": "00:11:15,041",
+        "en": "पर मैं काम के वक्त नहीं पी सकती।",
+        "pa": "But I cannot drink at work. Dhairya is breathing down my neck,",
+        "vi": "Mà tớ không được uống ở văn phòng. Dhairya giám sát tớ ghê quá,"
+    },
+    {
+        "start": "00:11:15,125",
+        "end": "00:11:16,375",
+        "en": "वो धैर्य मेरे सिर पर बैठा हुआ है",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:11:16,458",
+        "end": "00:11:19,458",
+        "en": "और मुझे नए कलेक्शन के लिए कुछ नया नहीं सूझ रहा।",
+        "pa": "and I have no new ideas for the new collection.",
+        "vi": "và tớ không có ý tưởng mới nào cho bộ sưu tập mới."
+    },
+    {
+        "start": "00:11:20,000",
+        "end": "00:11:23,000",
+        "en": "ठीक है, एक घूँट से नशा नहीं चढ़ने वाला है। पी ले।",
+        "pa": "Okay, you won't get drunk with one sip. Drink.",
+        "vi": "Được rồi, uống một ngụm không say được đâu. Uống đi."
+    },
+    {
+        "start": "00:11:23,958",
+        "end": "00:11:24,875",
+        "en": "ठीक है।",
+        "pa": "Okay, okay.",
+        "vi": "Được rồi."
+    },
+    {
+        "start": "00:11:33,625",
+        "end": "00:11:35,916",
+        "en": "तू ब्रोकर के साथ बात कर रही थी?",
+        "pa": "Were you talking to the broker?",
+        "vi": "Cậu đang nói chuyện với môi giới à?"
+    },
+    {
+        "start": "00:11:36,000",
+        "end": "00:11:37,916",
+        "en": "कोई केयरटेकर जैसा है, यार।",
+        "pa": "More like a caretaker.",
+        "vi": "Người trông nhà thì đúng hơn."
+    },
+    {
+        "start": "00:11:38,000",
+        "end": "00:11:39,333",
+        "en": "आज शाम को फ़्लैट दिखाएगा।",
+        "pa": "He's going to show me the house this evening.",
+        "vi": "Tối nay, anh ta cho tớ xem nhà."
+    },
+    {
+        "start": "00:11:40,166",
+        "end": "00:11:41,291",
+        "en": "इतनी जल्दी क्या है, यार?",
+        "pa": "What's the rush?",
+        "vi": "Sao vội thế?"
+    },
+    {
+        "start": "00:11:41,375",
+        "end": "00:11:44,208",
+        "en": "मेरे घर रह ले थोड़े दिन! हम कितने समय से साथ नहीं रहे।",
+        "pa": "Stay at mine for a few days. We haven't had a sleepover in so long.",
+        "vi": "Ở nhà tớ vài ngày. Lâu rồi ta không ngủ chung."
+    },
+    {
+        "start": "00:11:44,291",
+        "end": "00:11:48,208",
+        "en": "बस चाहती हूँ कि मेरा अपना एक घर हो, जिया।",
+        "pa": "I just feel like I need my own space, Gia.",
+        "vi": "Tớ muốn có không gian riêng, Gia."
+    },
+    {
+        "start": "00:11:49,083",
+        "end": "00:11:51,791",
+        "en": "जहाँ मैं अपने दिल की आवाज़ सुन पाऊँ।",
+        "pa": "You know, somewhere I can hear myself think...",
+        "vi": "Nơi nào đó tớ nghe được suy nghĩ của mình..."
+    },
+    {
+        "start": "00:11:54,625",
+        "end": "00:11:56,625",
+        "en": "नई चीज़ आई है बाज़ार में।",
+        "pa": "\"New item has arrived in the market. Would look nice along with the iron.\"",
+        "vi": "\"Mẫu mới đã có mặt trên thị trường. Nếu có bàn là nữa thì đẹp\"."
+    },
+    {
+        "start": "00:11:57,458",
+        "end": "00:11:58,708",
+        "en": "इस्त्री के साथ अच्छा लगेगा।",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:11:59,375",
+        "end": "00:12:01,791",
+        "en": "अच्छा, मेरे साथ रह मत",
+        "pa": "Okay, don't stay with me but...",
+        "vi": "Rồi, không ở cùng với tớ nhưng..."
+    },
+    {
+        "start": "00:12:01,875",
+        "end": "00:12:03,500",
+        "en": "पर मेरी एक मदद कर दो।",
+        "pa": "do me a favor, please.",
+        "vi": "hãy giúp tớ nhé."
+    },
+    {
+        "start": "00:12:03,583",
+        "end": "00:12:04,916",
+        "en": "मेरा नया कलेक्शन इतना ही भद्दा होगा। प्रेरणा ही नहीं मिल रही",
+        "pa": "Made these invites for opening night so...",
+        "vi": "Tớ đã làm giấy mời cho đêm khai trương."
+    },
+    {
+        "start": "00:12:05,000",
+        "end": "00:12:06,583",
+        "en": "ओपनिंग नाइट के लिए न्योते बनाए हैं,",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:12:06,666",
+        "end": "00:12:09,083",
+        "en": "तो एक बार तू अपने डिज़ाइनर वाली नज़र से देख ले",
+        "pa": "Just look at them through your designer lens",
+        "vi": "Bộ sưu tập mới của tôi cũng xấu thế. Chẳng có cảm hứng\n Hãy nhìn bằng mắt nhà thiết kế"
+    },
+    {
+        "start": "00:12:09,166",
+        "end": "00:12:11,916",
+        "en": "और मुझे बता देना ये कैसे हैं। यह ले। देख।",
+        "pa": "and give me some feedback, okay? See.",
+        "vi": "và cho tớ lời khuyên, nhé? Xem này."
+    },
+    {
+        "start": "00:12:12,958",
+        "end": "00:12:15,333",
+        "en": "तू भेज दे न। लड़कियों से देख लेने को कह दूँगी।",
+        "pa": "Send it across, I'll get the girls to work on it.",
+        "vi": "Gửi đi, tớ sẽ bảo nhân viên xem."
+    },
+    {
+        "start": "00:12:16,250",
+        "end": "00:12:17,458",
+        "en": "मिला?",
+        "pa": "Got it?",
+        "vi": "Nhận được chưa?"
+    },
+    {
+        "start": "00:12:18,500",
+        "end": "00:12:21,208",
+        "en": "-हाँ, मिल गया। -अच्छा। कब तक भेजोगी?",
+        "pa": "Yes, I got it.\n So, when will you send it by?",
+        "vi": "Ừ, nhận rồi.\n Khi nào cậu gửi?"
+    },
+    {
+        "start": "00:12:22,750",
+        "end": "00:12:25,791",
+        "en": "कमला मिल्स में 20 मिनट में मिलो। मैं प्रेरणा देता हूँ।",
+        "pa": "\"Meet me at Kamala Mills in 20 minutes. I'll inspire you.\"",
+        "vi": "\"20 phút nữa gặp ở Kamala Mills. Tôi sẽ cho cô cảm hứng\"."
+    },
+    {
+        "start": "00:12:28,041",
+        "end": "00:12:30,708",
+        "en": "तुम काफ़ी व्यस्त लग रही हो।",
+        "pa": "You seem really busy.",
+        "vi": "Cậu có vẻ đang bận."
+    },
+    {
+        "start": "00:12:30,791",
+        "end": "00:12:33,916",
+        "en": "तो, अगली बार मैं अपॉइंटमेंट लेकर आऊँगी।",
+        "pa": "So...\n Next time I'll make an appointment.",
+        "vi": "Vậy...\n Lần sau tớ sẽ đặt lịch hẹn."
+    },
+    {
+        "start": "00:12:35,083",
+        "end": "00:12:36,625",
+        "en": "चुप रह, यार, जिया।",
+        "pa": "Shut up, Gia.",
+        "vi": "Thôi đi, Gia."
+    },
+    {
+        "start": "00:12:37,333",
+        "end": "00:12:39,166",
+        "en": "अच्छा, सुन, मुझे जाना होगा।",
+        "pa": "Okay, listen, I have to go.",
+        "vi": "Nghe này, tớ phải đi rồi."
+    },
+    {
+        "start": "00:12:39,250",
+        "end": "00:12:41,125",
+        "en": "आराम से मिलकर पार्टी करेंगे, ठीक है?",
+        "pa": "We'll meet and celebrate at leisure, okay?",
+        "vi": "Lúc nào rảnh thì gặp ăn mừng nhé?"
+    },
+    {
+        "start": "00:12:41,833",
+        "end": "00:12:42,791",
+        "en": "बाय।",
+        "pa": "Bye.",
+        "vi": "Tạm biệt."
+    },
+    {
+        "start": "00:12:48,250",
+        "end": "00:12:49,083",
+        "en": "चियर्स।",
+        "pa": "Cheers.",
+        "vi": "Uống đi."
+    },
+    {
+        "start": "00:12:57,583",
+        "end": "00:12:59,666",
+        "en": "-तुमने 20 मिनट कहा था न। -हम्म।",
+        "pa": "You said 20 minutes.",
+        "vi": "Anh nói 20 phút."
+    },
+    {
+        "start": "00:12:59,750",
+        "end": "00:13:01,291",
+        "en": "तुम हमेशा इतनी देर से आते हो?",
+        "pa": "Do you always take this long to come?",
+        "vi": "Anh luôn lề mề dữ vậy à?"
+    },
+    {
+        "start": "00:13:02,041",
+        "end": "00:13:03,125",
+        "en": "ये तो अच्छी बात है न?",
+        "pa": "Isn't that a good thing?",
+        "vi": "Vậy là tốt mà nhỉ?"
+    },
+    {
+        "start": "00:13:04,666",
+        "end": "00:13:07,166",
+        "en": "खैर, ये बताओ हम यहाँ पर कर क्या रहे हैं?",
+        "pa": "Anyway, what are we doing here?",
+        "vi": "Mà này, sao ta đến đây?"
+    },
+    {
+        "start": "00:13:08,125",
+        "end": "00:13:10,125",
+        "en": "यहाँ कोई नई आर्ट गैलरी है या...",
+        "pa": "Is there a new art gallery here or...",
+        "vi": "Ở đây có buổi triển lãm tranh mới hay..."
+    },
+    {
+        "start": "00:13:10,208",
+        "end": "00:13:11,500",
+        "en": "तुम्हारा स्टूडियो यहाँ है?",
+        "pa": "Is your studio here?",
+        "vi": "Phòng tranh của anh?"
+    },
+    {
+        "start": "00:13:12,416",
+        "end": "00:13:14,791",
+        "en": "इतनी संजीदा जगहों पर प्रेरणा नहीं मिलती है, मैडम।",
+        "pa": "You don't find inspiration in such serious places, madam.",
+        "vi": "Không tìm được cảm hứng ở mấy nơi trang trọng đâu."
+    },
+    {
+        "start": "00:13:15,583",
+        "end": "00:13:16,666",
+        "en": "अच्छा?",
+        "pa": "I see.",
+        "vi": "Tôi hiểu."
+    },
+    {
+        "start": "00:13:16,750",
+        "end": "00:13:17,916",
+        "en": "तो फिर कहाँ मिलती है?",
+        "pa": "So where does one find it?",
+        "vi": "Vậy tìm cảm hứng ở đâu?"
+    },
+    {
+        "start": "00:13:19,166",
+        "end": "00:13:20,375",
+        "en": "दिखाता हूँ, चलो।",
+        "pa": "I'll show you.",
+        "vi": "Tôi sẽ chỉ cho."
+    },
+    {
+        "start": "00:13:20,958",
+        "end": "00:13:22,500",
+        "en": "यहाँ प्रेरणा मिलेगी?",
+        "pa": "I'll find inspiration here?",
+        "vi": "Tôi sẽ tìm cảm hứng ở đây?"
+    },
+    {
+        "start": "00:13:28,208",
+        "end": "00:13:29,791",
+        "en": "एक बार कोशिश तो करके देखो, मैडम?",
+        "pa": "Why don't you give it a shot at least, madam?",
+        "vi": "Sao cô không thử xem?"
+    },
+    {
+        "start": "00:13:29,875",
+        "end": "00:13:31,666",
+        "en": "शायद थोड़ी मस्ती भी कर लेनी चाहिए।",
+        "pa": "I think it's time you had some fun.",
+        "vi": "Tôi nghĩ cô cần vui vẻ chút."
+    },
+    {
+        "start": "00:14:06,750",
+        "end": "00:14:09,166",
+        "en": "देखो, मुझे कोई प्रेरणा तो नहीं मिली,",
+        "pa": "Look, I haven't found any inspiration.",
+        "vi": "Này, tôi vẫn chưa tìm thấy cảm hứng."
+    },
+    {
+        "start": "00:14:09,250",
+        "end": "00:14:11,833",
+        "en": "तुम्हारी यह तरकीब बिल्कुल बकवास थी।",
+        "pa": "Your idea was basically rubbish.",
+        "vi": "Ý tưởng của anh thật vớ vẩn."
+    },
+    {
+        "start": "00:14:11,916",
+        "end": "00:14:14,583",
+        "en": "आपको मज़ा आ रहा है कि नहीं? वो बताओ मुझे।",
+        "pa": "But are you having fun or not?",
+        "vi": "Nhưng cô có thấy vui không?"
+    },
+    {
+        "start": "00:14:15,500",
+        "end": "00:14:18,000",
+        "en": "उसके लिए वक्त कहाँ है? मैं फँसी हुई हूँ।",
+        "pa": "Where's the time for that? I'm so stuck.",
+        "vi": "Thời gian ở đâu ra mà vui? Tôi mắc kẹt."
+    },
+    {
+        "start": "00:14:18,083",
+        "end": "00:14:21,166",
+        "en": "कभी निजी ज़िंदगी को काम के बीच में नहीं आने दिया, पर...",
+        "pa": "I've never let my personal life come in the way of my work, but...",
+        "vi": "Tôi chưa từng để chuyện riêng ảnh hưởng công việc, nhưng..."
+    },
+    {
+        "start": "00:14:21,958",
+        "end": "00:14:23,750",
+        "en": "इस बार मैं संभाल नहीं पा रही हूँ, यार।",
+        "pa": "This time I'm just not managing...",
+        "vi": "Lần này, tôi không làm được..."
+    },
+    {
+        "start": "00:14:24,500",
+        "end": "00:14:27,166",
+        "en": "\"मज़ा\" वह आखिरी चीज़ है जिसकी मुझे अभी ज़रूरत है।",
+        "pa": "Fun is the last thing I need right now.",
+        "vi": "Bây giờ, tôi không cần vui."
+    },
+    {
+        "start": "00:14:27,958",
+        "end": "00:14:29,291",
+        "en": "अरे, यहीं तो आप गलत हो।",
+        "pa": "See, that's where you're wrong.",
+        "vi": "Đấy, cô sai rồi."
+    },
+    {
+        "start": "00:14:29,375",
+        "end": "00:14:31,166",
+        "en": "आपको प्रेरणा क्यों नहीं मिल रही है?",
+        "pa": "Why do you think you're not inspired? Because you're not having fun.",
+        "vi": "Cô nghĩ vì sao cô không có cảm hứng? Vì cô không vui."
+    },
+    {
+        "start": "00:14:31,250",
+        "end": "00:14:32,541",
+        "en": "क्योंकि आपको मज़ा नहीं आ रहा है।",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:14:33,333",
+        "end": "00:14:34,958",
+        "en": "आप सिर्फ़ भाग रहे हो",
+        "pa": "You're simply running behind inspiration, behind deadlines,",
+        "vi": "Cô bị thiếu cảm hứng, thiếu thời hạn,"
+    },
+    {
+        "start": "00:14:35,041",
+        "end": "00:14:36,541",
+        "en": "प्रेरणा के पीछे,",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:14:36,625",
+        "end": "00:14:37,958",
+        "en": "समय सीमा के पीछे,",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:14:38,041",
+        "end": "00:14:42,125",
+        "en": "अपने उस... निवेशक के पीछे।",
+        "pa": "behind that...",
+        "vi": "thiếu cả..."
+    },
+    {
+        "start": "00:14:43,041",
+        "end": "00:14:44,333",
+        "en": "आपको क्या करना चाहिए?",
+        "pa": "investor of yours.\n Here's what you should do, listen.",
+        "vi": "nhà đầu tư.\n Cô nên làm thế này, nghe nhé."
+    },
+    {
+        "start": "00:14:45,416",
+        "end": "00:14:46,458",
+        "en": "सुनो।",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:14:46,541",
+        "end": "00:14:48,916",
+        "en": "प्रेरणा को खुद अपने आप पास आने दो।",
+        "pa": "Let the inspiration come to you.",
+        "vi": "Hãy để cảm hứng tìm đến cô."
+    },
+    {
+        "start": "00:14:49,000",
+        "end": "00:14:52,333",
+        "en": "और जब वह मिले, तो उसे खुद पर हावी हो जाने दो। बस!",
+        "pa": "And when it comes, let it absolutely take you over.",
+        "vi": "Khi đó, hãy để nó chiếm lấy cô."
+    },
+    {
+        "start": "00:14:54,333",
+        "end": "00:14:57,333",
+        "en": "और उसके मिलने तक मैं क्या करूँ?",
+        "pa": "That's it!\n And what do I do till it doesn't come to me?",
+        "vi": "Thế thôi!\n Thế lúc nó chưa đến, tôi làm gì?"
+    },
+    {
+        "start": "00:14:58,458",
+        "end": "00:15:00,666",
+        "en": "कुछ नहीं। जैसे हमने आज किया।",
+        "pa": "Nothing. Like we did today.",
+        "vi": "Không làm gì cả. Như hôm nay ấy."
+    },
+    {
+        "start": "00:15:03,416",
+        "end": "00:15:05,625",
+        "en": "जो भी हो। अब तुम मेरी तरकीब सुनो।",
+        "pa": "Whatever. Now listen to my idea.",
+        "vi": "Sao cũng được. Giờ nghe tôi này."
+    },
+    {
+        "start": "00:15:06,250",
+        "end": "00:15:10,333",
+        "en": "मेरे खयाल से, मेरे नए कलेक्शन पर हम दोनों को साथ काम करना चाहिए।",
+        "pa": "I think you and I should collaborate on my new collection.",
+        "vi": "Tôi nghĩ chúng ta nên hợp tác trong bộ sưu tập mới của tôi."
+    },
+    {
+        "start": "00:15:10,416",
+        "end": "00:15:13,083",
+        "en": "-ठीक है। -क्योंकि इंस्टाग्राम पर तुम्हारा काम देखा",
+        "pa": "Okay.\n Because I saw some of your work on Insta",
+        "vi": "Được.\n Tôi đã xem tác phẩm của anh rồi,"
+    },
+    {
+        "start": "00:15:13,166",
+        "end": "00:15:14,250",
+        "en": "और मुझे वह बहुत पसंद आया।",
+        "pa": "and I thought it was really cool.",
+        "vi": "tôi thấy rất tuyệt."
+    },
+    {
+        "start": "00:15:15,000",
+        "end": "00:15:16,416",
+        "en": "-सच में? -हम्म।",
+        "pa": "Really?",
+        "vi": "Thật ư?"
+    },
+    {
+        "start": "00:15:16,500",
+        "end": "00:15:18,708",
+        "en": "तो आप इंस्टाग्राम पर मुझ पर नज़र रख रही थीं?",
+        "pa": "So you were stalking me on Instagram?",
+        "vi": "Cô theo dõi tôi trên Instagram?"
+    },
+    {
+        "start": "00:15:19,791",
+        "end": "00:15:21,375",
+        "en": "जैसे तुम नहीं कर रहे थे!",
+        "pa": "As if you weren't stalking me!",
+        "vi": "Làm như anh không theo dõi tôi!"
+    },
+    {
+        "start": "00:15:22,000",
+        "end": "00:15:23,541",
+        "en": "मतलब, किसने किसे मेसेज किया?",
+        "pa": "I mean, who slid into whose DMs?",
+        "vi": "Thế ai nhắn tin cho ai?"
+    },
+    {
+        "start": "00:15:25,791",
+        "end": "00:15:27,041",
+        "en": "बात तो सही है।",
+        "pa": "Point.",
+        "vi": "Cuộc gọi giấu số."
+    },
+    {
+        "start": "00:15:30,083",
+        "end": "00:15:31,083",
+        "en": "हैलो?",
+        "pa": "Hello?",
+        "vi": "A-lô?"
+    },
+    {
+        "start": "00:15:33,250",
+        "end": "00:15:34,791",
+        "en": "ओह, हाँ, आ रही हूँ।",
+        "pa": "Yes, I'm coming.",
+        "vi": "Có, tôi đến đây."
+    },
+    {
+        "start": "00:15:35,708",
+        "end": "00:15:37,333",
+        "en": "मुझे जाना होगा। माफ़ करना।",
+        "pa": "I gotta go. Sorry.",
+        "vi": "Tôi phải đi rồi. Xin lỗi."
+    },
+    {
+        "start": "00:16:16,166",
+        "end": "00:16:17,291",
+        "en": "कब से मिलेगा?",
+        "pa": "When is it available?",
+        "vi": "Khi nào vào ở được?"
+    },
+    {
+        "start": "00:16:17,375",
+        "end": "00:16:19,666",
+        "en": "सब खाली पड़ा है। आप कल आ जाओ।",
+        "pa": "It's totally bare. You can move in tomorrow if you wish.",
+        "vi": "Nhà sẵn sàng. Ở luôn ngày mai cũng được."
+    },
+    {
+        "start": "00:16:20,375",
+        "end": "00:16:22,083",
+        "en": "बस पेशगी देनी होगी आपको।",
+        "pa": "There's only the matter of the deposit.",
+        "vi": "Chỉ còn vấn đề tiền đặt cọc."
+    },
+    {
+        "start": "00:16:22,666",
+        "end": "00:16:25,333",
+        "en": "पेशगी थोड़ा पहले दूँ, थोड़ा बाद में, चलेगा?",
+        "pa": "Can I pay the deposit in instalments?",
+        "vi": "Tôi trả tiền cọc thành nhiều lần được không?"
+    },
+    {
+        "start": "00:16:25,416",
+        "end": "00:16:28,083",
+        "en": "यह बात आप मकान मालिक से कर लें, तो अच्छा रहेगा।",
+        "pa": "You can speak to the owner about that.",
+        "vi": "Cô có thể bàn với chủ nhà."
+    },
+    {
+        "start": "00:16:28,166",
+        "end": "00:16:30,541",
+        "en": "वैसे, आप धैर्य सर की दोस्त हैं,",
+        "pa": "In any case, you're a friend of Dhairya sir's,",
+        "vi": "Dù sao, cô là bạn của anh Dhairya,"
+    },
+    {
+        "start": "00:16:30,625",
+        "end": "00:16:32,458",
+        "en": "तो कोई दिक्कत होनी तो नहीं चाहिए।",
+        "pa": "so it shouldn't be a problem.",
+        "vi": "chắc là không sao đâu."
+    },
+    {
+        "start": "00:16:34,416",
+        "end": "00:16:35,416",
+        "en": "धैर्य...",
+        "pa": "Dhairya...",
+        "vi": "Dhairya..."
+    },
+    {
+        "start": "00:16:36,666",
+        "end": "00:16:38,125",
+        "en": "खैर, शुक्रिया।",
+        "pa": "Anyway, thank you.",
+        "vi": "Dù sao cũng cảm ơn."
+    },
+    {
+        "start": "00:16:44,166",
+        "end": "00:16:45,708",
+        "en": "देखा, आ गई!",
+        "pa": "Look, she's come.",
+        "vi": "Bà nhìn kìa, cô ấy đến."
+    },
+    {
+        "start": "00:16:45,791",
+        "end": "00:16:47,333",
+        "en": "मैंने कहा था न आ जाएगी!",
+        "pa": "I told you she'd come.",
+        "vi": "Tôi đã bảo cô ấy sẽ đến."
+    },
+    {
+        "start": "00:16:47,416",
+        "end": "00:16:50,916",
+        "en": "माँ-बेटी एक दूसरे के बिना ज़्यादा देर रह ही नहीं सकते।",
+        "pa": "Mother and daughter can't stay away from each other for too long.",
+        "vi": "Mẹ con không xa nhau được lâu đâu."
+    },
+    {
+        "start": "00:16:51,000",
+        "end": "00:16:52,708",
+        "en": "असल में, आराम से रह सकते हैं,",
+        "pa": "Actually, they can. Very easily.",
+        "vi": "Thực ra là có đấy. Rất dễ dàng."
+    },
+    {
+        "start": "00:16:53,416",
+        "end": "00:16:55,416",
+        "en": "और मैं रहने नहीं आई हूँ, अपना समान लेने आई हूँ।",
+        "pa": "I'm not here to stay, just here to get my stuff.",
+        "vi": "Tôi không đến để ở, tôi đến để dọn đồ."
+    },
+    {
+        "start": "00:16:55,500",
+        "end": "00:16:57,041",
+        "en": "मुझे अपना नया घर मिल गया।",
+        "pa": "I've found my new house.",
+        "vi": "Tìm được nhà mới rồi."
+    },
+    {
+        "start": "00:17:07,041",
+        "end": "00:17:08,416",
+        "en": "एक बार मम्मी से बात कर लो?",
+        "pa": "Why don't you talk to your mother once?",
+        "vi": "Sao cô không nói chuyện với mẹ cô đi?"
+    },
+    {
+        "start": "00:17:09,208",
+        "end": "00:17:10,625",
+        "en": "सुबह से बहुत परेशान है।",
+        "pa": "She's stressed out since morning. She won't tell me what's going on.",
+        "vi": "Bà ấy buồn rầu từ sáng. Bà ấy không chia sẻ với tôi."
+    },
+    {
+        "start": "00:17:10,708",
+        "end": "00:17:12,416",
+        "en": "मुझे कुछ नहीं बताया है,",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:17:12,500",
+        "end": "00:17:13,833",
+        "en": "आप बात करके देखो न?",
+        "pa": "Can you talk to her please?",
+        "vi": "Cô nói chuyện với bà ấy nhé?"
+    },
+    {
+        "start": "00:17:13,916",
+        "end": "00:17:15,208",
+        "en": "अरे, क्या बात करनी है?",
+        "pa": "What's there to talk about?",
+        "vi": "Có gì mà nói?"
+    },
+    {
+        "start": "00:17:15,791",
+        "end": "00:17:17,166",
+        "en": "झगड़ा हुआ है हमारा न,",
+        "pa": "We had a fight. That's why she's upset.",
+        "vi": "Chúng tôi cãi nhau. Vậy nên bà ấy buồn."
+    },
+    {
+        "start": "00:17:17,250",
+        "end": "00:17:18,375",
+        "en": "इसलिए नाराज़ हैं।",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:17:18,458",
+        "end": "00:17:20,041",
+        "en": "नहीं, झगड़ा नहीं।",
+        "pa": "It's not about the fight. She had a phone call in the morning.",
+        "vi": "Không phải vì cãi nhau. Sáng nay bà ấy nhận được điện thoại."
+    },
+    {
+        "start": "00:17:20,125",
+        "end": "00:17:21,500",
+        "en": "सुबह कोई फ़ोन आया था।",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:17:21,583",
+        "end": "00:17:23,000",
+        "en": "उसके बाद से मूड खराब है।",
+        "pa": "Her mood's been off since then.",
+        "vi": "Bà ấy buồn từ lúc đó."
+    },
+    {
+        "start": "00:17:23,083",
+        "end": "00:17:26,000",
+        "en": "और कोई फ़ोटो भी डाली है उन्होंने,",
+        "pa": "And she put up some picture. She hasn't stopped checking her phone.",
+        "vi": "Bà ấy đăng bức ảnh gì đó, và cứ liên tục xem điện thoại."
+    },
+    {
+        "start": "00:17:26,083",
+        "end": "00:17:27,500",
+        "en": "बार-बार फ़ोन चेक कर रही हैं।",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:17:28,333",
+        "end": "00:17:29,875",
+        "en": "-फ़ोटो डाला है? -हाँ।",
+        "pa": "-She put up a picture? -Yes.",
+        "vi": "- Bà ấy đăng ảnh à? - Vâng."
+    },
+    {
+        "start": "00:17:32,416",
+        "end": "00:17:33,625",
+        "en": "मैं देखती हूँ।",
+        "pa": "Let me check.",
+        "vi": "Để tôi xem."
+    },
+    {
+        "start": "00:17:35,666",
+        "end": "00:17:38,083",
+        "en": "\"मैं मुंबई में रहती हूँ और काम करती हूँ।",
+        "pa": "\"I live in Mumbai, and working.",
+        "vi": "\"Tôi sống và làm việc ở Mumbai."
+    },
+    {
+        "start": "00:17:38,166",
+        "end": "00:17:41,250",
+        "en": "मैं एक अच्छी अभिनेत्री हूँ, जिसे अच्छे किरदारों की तलाश है।\"",
+        "pa": "I'm a good actor, looking for good parts to play.\"",
+        "vi": "Tôi là diễn viên giỏi, đang tìm vai diễn\"."
+    },
+    {
+        "start": "00:17:49,708",
+        "end": "00:17:52,208",
+        "en": "",
+        "pa": "",
+        "vi": "BÀI ĐĂNG MỚI"
+    },
+    {
+        "start": "00:18:02,541",
+        "end": "00:18:05,416",
+        "en": "\"आज मेरी माँ ने इंस्टाग्राम पर यह पोस्ट डाली।",
+        "pa": "\"My mother put up this post on her Instagram today.",
+        "vi": "\"Hôm nay, mẹ tôi đăng bài này lên Instagram\"."
+    },
+    {
+        "start": "00:18:06,500",
+        "end": "00:18:10,083",
+        "en": "मेरी करीब 60 साल की, राष्ट्रीय पुरस्कार विजेता माँ ने।",
+        "pa": "My almost 60-year-old, National Award-winning mother.",
+        "vi": "Người mẹ gần 60 tuổi, từng giảnh giải Quốc gia."
+    },
+    {
+        "start": "00:18:11,541",
+        "end": "00:18:14,166",
+        "en": "हो सकता है कि हमारी राय हमेशा न मिले,",
+        "pa": "We might not always see eye to eye, but her courage never fails to amaze me.",
+        "vi": "Dù không hay gặp nhau, nhưng lòng can đảm của bà luôn khiến tôi ngạc nhiên."
+    },
+    {
+        "start": "00:18:14,250",
+        "end": "00:18:16,916",
+        "en": "पर उनकी हिम्मत मुझे हमेशा हैरान कर देती है।",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:18:18,625",
+        "end": "00:18:21,416",
+        "en": "दुनिया वालों की राय से हमेशा डर लगता है,",
+        "pa": "Judgment from the world can be a scary thing,",
+        "vi": "Những lời phán xét ngoài kia có thể đáng sợ,"
+    },
+    {
+        "start": "00:18:22,333",
+        "end": "00:18:23,291",
+        "en": "पर",
+        "pa": "but it will never overshadow her passion,",
+        "vi": "nhưng nó sẽ không bao giờ làm lu mờ niềm đam mê của bà,"
+    },
+    {
+        "start": "00:18:23,375",
+        "end": "00:18:25,583",
+        "en": "वह कभी हावी नहीं हो सकती उनके जुनून पर,",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:18:26,583",
+        "end": "00:18:29,166",
+        "en": "और उससे भी बड़ी बात, उनकी प्रतिभा पर।",
+        "pa": "and more importantly, her talent.",
+        "vi": "và quan trọng hơn, tài năng của bà."
+    },
+    {
+        "start": "00:18:30,375",
+        "end": "00:18:33,375",
+        "en": "उन्हें फिर उड़ान भरते देखने को बेताब हूँ।\"",
+        "pa": "I can't wait to see her fly again.\"",
+        "vi": "Tôi rất muốn lại thấy mẹ tỏa sáng\"."
+    },
+    {
+        "start": "00:18:52,125",
+        "end": "00:18:53,958",
+        "en": "माँ, मेरा चश्मा देखा है?",
+        "pa": "Mom, have you seen my glasses?",
+        "vi": "Mẹ có thấy kính của con không?"
+    },
+    {
+        "start": "00:18:54,833",
+        "end": "00:18:57,083",
+        "en": "अच्छा, मिलेंगे तो बता देना, मैं कल ले लूँगी।",
+        "pa": "Let me know if you find them. I'll take them tomorrow.",
+        "vi": "Nếu thấy thì bảo con nhé. Mai con đến lấy."
+    },
+    {
+        "start": "00:18:57,166",
+        "end": "00:18:58,416",
+        "en": "आज ही जा रही है?",
+        "pa": "Are you leaving today itself?",
+        "vi": "Con đi luôn hôm nay à?"
+    },
+    {
+        "start": "00:19:00,208",
+        "end": "00:19:03,208",
+        "en": "हाँ, मतलब, आज जिया के यहाँ रह रही हूँ। कल शिफ़्ट हो जाऊँगी।",
+        "pa": "Yeah, I mean... I'll stay at Gia's tonight and move in tomorrow.",
+        "vi": "Vâng, tối nay con ở nhà Gia, mai con chuyển về nhà mới."
+    },
+    {
+        "start": "00:19:03,291",
+        "end": "00:19:04,333",
+        "en": "अच्छा...",
+        "pa": "I see.",
+        "vi": "Ừ."
+    },
+    {
+        "start": "00:19:05,125",
+        "end": "00:19:08,666",
+        "en": "जब इतना ही गुस्सा हो मुझसे, तो फिर मेरा पोस्ट क्यों रीपोस्ट किया?",
+        "pa": "If you're so angry with me then why did you repost my post?",
+        "vi": "Nếu con giận mẹ thế, sao còn đăng lại bài của mẹ?"
+    },
+    {
+        "start": "00:19:11,416",
+        "end": "00:19:14,000",
+        "en": "क्योंकि वह बहुत ज़बरदस्त पोस्ट था न, माँ।",
+        "pa": "I mean, it was a very cool post, Mom.",
+        "vi": "Bài đăng của mẹ rất tuyệt."
+    },
+    {
+        "start": "00:19:14,083",
+        "end": "00:19:16,000",
+        "en": "इसके लिए बहुत हिम्मत चाहिए।",
+        "pa": "Such a brave thing to do.",
+        "vi": "Mẹ thật dũng cảm."
+    },
+    {
+        "start": "00:19:16,083",
+        "end": "00:19:18,541",
+        "en": "अब देखना, आपको बहुत काम मिलेगा, और बहुत फ़ोन आएँगे।",
+        "pa": "Now you watch, you'll get tons of work and tons of phone calls.",
+        "vi": "Rồi mẹ sẽ có cả tấn việc và vô vàn cuộc gọi."
+    },
+    {
+        "start": "00:19:20,083",
+        "end": "00:19:21,750",
+        "en": "भगवान करे ऐसा ही हो।",
+        "pa": "Touchwood...",
+        "vi": "Hi vọng vậy..."
+    },
+    {
+        "start": "00:19:21,833",
+        "end": "00:19:24,333",
+        "en": "-कल मिलती हूँ। -ज़रा एक मिनट रुको।",
+        "pa": "-I'll see you tomorrow. -One minute, just wait...",
+        "vi": "- Hẹn mai gặp mẹ. - Chờ một chút..."
+    },
+    {
+        "start": "00:19:24,416",
+        "end": "00:19:28,000",
+        "en": "इतना समझदार बनने की ज़रूरत नहीं है। अब तुम यहीं रहो।",
+        "pa": "No need to act so smart, you can keep staying here.",
+        "vi": "Không cần cố tỏ vẻ vậy đâu, con có thể tiếp tục ở đây."
+    },
+    {
+        "start": "00:19:28,083",
+        "end": "00:19:30,208",
+        "en": "जो मैंने गुस्से में कहा, भूल जाओ, प्लीज़।",
+        "pa": "Forget what I said in anger, please.",
+        "vi": "Quên những gì mẹ nói lúc tức giận đi."
+    },
+    {
+        "start": "00:19:30,291",
+        "end": "00:19:33,458",
+        "en": "नहीं, माँ, गुस्से की बात तो है ही नहीं।",
+        "pa": "It's not about anger anymore, Mom.",
+        "vi": "Vấn đề không phải là tức giận, mẹ ạ."
+    },
+    {
+        "start": "00:19:33,958",
+        "end": "00:19:35,708",
+        "en": "आपने जो कहा, सही तो कहा।",
+        "pa": "You said some things that were true.",
+        "vi": "Có vài điều mẹ nói cũng đúng."
+    },
+    {
+        "start": "00:19:36,458",
+        "end": "00:19:38,666",
+        "en": "मुझे अकेले रहना सीखना होगा न।",
+        "pa": "I have to start learning to live on my own.",
+        "vi": "Con phải bắt đầu học sống một mình."
+    },
+    {
+        "start": "00:19:38,750",
+        "end": "00:19:40,750",
+        "en": "आप भी तो सब अकेले ही कर रहे हो न?",
+        "pa": "You've always done it all by yourself, right?",
+        "vi": "Mẹ vẫn luôn tự làm tất cả, nhỉ?"
+    },
+    {
+        "start": "00:19:41,916",
+        "end": "00:19:44,000",
+        "en": "हाँ, तो ठीक है न, तो तुम...",
+        "pa": "Okay, sure. You...",
+        "vi": "Được rồi. Con..."
+    },
+    {
+        "start": "00:19:44,791",
+        "end": "00:19:47,958",
+        "en": "अकेले रहना कल से सीख लेना। आज की रात तुम यहीं रुक जाओ,",
+        "pa": "learn to live on your own from tomorrow.",
+        "vi": "học sống một mình từ ngày mai đi."
+    },
+    {
+        "start": "00:19:48,041",
+        "end": "00:19:51,458",
+        "en": "कल हम लोग तुम्हारा सामान शिफ़्ट कर देंगे। ठीक है? चलो।",
+        "pa": "Stay here tonight and we'll move all your stuff tomorrow, okay? Come on.",
+        "vi": "Đêm nay ở lại đây và ngày mai dọn đồ đi, nhé? Đi mà."
+    },
+    {
+        "start": "00:19:52,333",
+        "end": "00:19:53,416",
+        "en": "चलो, बैठो।",
+        "pa": "Come, sit.",
+        "vi": "Lại ngồi đi."
+    },
+    {
+        "start": "00:19:54,250",
+        "end": "00:19:55,333",
+        "en": "अच्छा, ठीक है।",
+        "pa": "Okay, fine.",
+        "vi": "Thôi được."
+    },
+    {
+        "start": "00:19:55,875",
+        "end": "00:19:57,166",
+        "en": "अच्छा, ये बताओ,",
+        "pa": "Okay, tell me, what's for dinner?",
+        "vi": "Ăn tối gì vậy?"
+    },
+    {
+        "start": "00:19:57,250",
+        "end": "00:20:00,958",
+        "en": "-खाने में क्या बनाया है? -राजमा चावल।",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:20:01,791",
+        "end": "00:20:03,875",
+        "en": "नीना_गुप्ता मसाबागुप्ता - फ़ॉलो करते हुए",
+        "pa": "Beans and rice.",
+        "vi": "Cơm và đậu.\n NEENA_GUPTA - 566 LƯỢT THÍCH MASABAGUPTA - ĐANG THEO DÕI"
+    },
+    {
+        "start": "00:20:06,250",
+        "end": "00:20:07,916",
+        "en": "दिग्गज अदाकारा ने खुद को फिर लॉन्च किया, इंटरनेट पर वाहवाही पाई",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:20:08,000",
+        "end": "00:20:11,750",
+        "en": "राष्ट्रीय पुरस्कार विजेता नीना गुप्ता को मिला प्रशंसकों का प्यार",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:20:11,833",
+        "end": "00:20:14,500",
+        "en": "शिल्पाशिरोडकर73 - नीनाजी आप लाजवाब हैं... - आदर",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:20:14,583",
+        "end": "00:20:16,375",
+        "en": "नीना गुप्ता की पोस्ट याद दिलाती है कि काम माँगने की कोई उम्र नहीं होती",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:20:16,458",
+        "end": "00:20:18,000",
+        "en": "बासठ साल की नीना गुप्ता बॉलीवुड के नौजवान कलाकारों के लिए प्रेरणा",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:20:18,083",
+        "end": "00:20:19,250",
+        "en": "नीना गुप्ता ने इंस्टाग्राम पर काम माँगा, प्रियंका चोपड़ा समेत सबको प्रेरणा दी",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:20:20,416",
+        "end": "00:20:22,708",
+        "en": "-रात का खाना मैंने रख दिया है। -हाँ।",
+        "pa": "I've packed dinner for you.",
+        "vi": "Tôi gói bữa tối cho cô rồi."
+    },
+    {
+        "start": "00:20:22,791",
+        "end": "00:20:24,291",
+        "en": "मैडम, और क्या सामान लेके जाना है?",
+        "pa": "Ma'am, what other luggage do I take?",
+        "vi": "Còn hành lí gì nữa vậy cô?"
+    },
+    {
+        "start": "00:20:24,375",
+        "end": "00:20:25,875",
+        "en": "-आराम से, माँ का इंटरव्यू चल रहा है। -माफ़ कीजिएगा।",
+        "pa": "Quiet. Mom's giving an interview.",
+        "vi": "Khẽ thôi. Mẹ đang phỏng vấn."
+    },
+    {
+        "start": "00:20:25,958",
+        "end": "00:20:27,125",
+        "en": "धीरे से बात करो।",
+        "pa": "-Sorry... -Keep your voice down.",
+        "vi": "- Xin lỗi... - Khẽ thôi."
+    },
+    {
+        "start": "00:20:28,000",
+        "end": "00:20:30,458",
+        "en": "मुबारक हो, मैडम, आप तो बहुत खुश होंगी।",
+        "pa": "Congratulations, ma'am, you must be really happy.",
+        "vi": "Chúc mừng bà, hẳn bà vui lắm."
+    },
+    {
+        "start": "00:20:30,541",
+        "end": "00:20:31,375",
+        "en": "कट।",
+        "pa": "Cut. Ms. Neena, should we try another take?",
+        "vi": "Cắt. Bà Neena, ta thử lại nhé?"
+    },
+    {
+        "start": "00:20:31,458",
+        "end": "00:20:32,750",
+        "en": "नीनाजी, एक और टेक लें क्या?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:20:32,833",
+        "end": "00:20:33,833",
+        "en": "हाँ, ज़रूर।",
+        "pa": "Yes, sure.",
+        "vi": "Được."
+    },
+    {
+        "start": "00:20:37,166",
+        "end": "00:20:40,583",
+        "en": "इंस्टाग्राम में पोस्ट डालने के बाद आपको किन-किन से फ़ोन आया है?",
+        "pa": "Who called you after you put up that post on Instagram?",
+        "vi": "Ai đã gọi cho bà sau bài đăng trên Instagram?"
+    },
+    {
+        "start": "00:20:41,541",
+        "end": "00:20:44,333",
+        "en": "बहुत सारे फ़ोन आए, निर्माताओं के, निर्देशकों के,",
+        "pa": "I got a lot of calls from producers, directors",
+        "vi": "Nhiều nhà sản xuất, đạo diễn gọi cho tôi,"
+    },
+    {
+        "start": "00:20:44,416",
+        "end": "00:20:47,291",
+        "en": "और आम लोगों के बहुत सारे फ़ोन आए।",
+        "pa": "and even from the general public.",
+        "vi": "thậm chí cả công chúng cũng gọi."
+    },
+    {
+        "start": "00:20:48,625",
+        "end": "00:20:51,083",
+        "en": "असल में, मुझे तो यकीन ही नहीं हो रहा...",
+        "pa": "Actually, it's very overwhelming, you know...",
+        "vi": "Thật ra là rất choáng ngợp..."
+    },
+    {
+        "start": "00:20:52,125",
+        "end": "00:20:53,458",
+        "en": "ज़रा एक मिनट में आती हूँ।",
+        "pa": "-Please excuse me for one minute. -Sure. Can you cut, please?",
+        "vi": "- Xin chờ một lát. - Vâng. Cắt đi."
+    },
+    {
+        "start": "00:20:53,541",
+        "end": "00:20:54,833",
+        "en": "ज़रूर। कट करो, प्लीज़।",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:20:58,458",
+        "end": "00:20:59,458",
+        "en": "मसाबा?",
+        "pa": "Masaba? I'm so sorry they came to do the interview now.",
+        "vi": "Masaba? Mẹ xin lỗi vì họ đến phỏng vấn lúc này."
+    },
+    {
+        "start": "00:20:59,541",
+        "end": "00:21:01,583",
+        "en": "माफ़ करना, इंटरव्यू भी अभी लेने आ गए।",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:21:01,708",
+        "end": "00:21:04,666",
+        "en": "अभी मुझे वो \"मैड मेमसाहब\" वाले निर्देशक से मिलना है। रद्द कर दूँ?",
+        "pa": "And I also have to meet the Mad Memsaabs director, should I cancel?",
+        "vi": "Mẹ cũng phải gặp đạo diễn của Mad-Memsaab, mẹ có nên hủy?"
+    },
+    {
+        "start": "00:21:04,750",
+        "end": "00:21:06,791",
+        "en": "-नहीं, माँ! -मैं मदद करना चाहती हूँ न।",
+        "pa": "-No, Mom. -I want to help you.",
+        "vi": "- Không, mẹ. - Mẹ muốn giúp con."
+    },
+    {
+        "start": "00:21:06,875",
+        "end": "00:21:09,875",
+        "en": "माँ, रद्द करने की बात भी मत करो, ठीक है? शांति रखो।",
+        "pa": "Mom, don't even talk about canceling, okay? Just relax.",
+        "vi": "Đừng có hủy, nhé? Mẹ cứ thoải mái đi."
+    },
+    {
+        "start": "00:21:09,958",
+        "end": "00:21:12,500",
+        "en": "जिया और सब लड़कियाँ आ रही हैं न, मदद करने मेरी!",
+        "pa": "Gia and the girls are coming to help.",
+        "vi": "Gia và mấy cô bạn sẽ giúp con."
+    },
+    {
+        "start": "00:21:12,583",
+        "end": "00:21:14,083",
+        "en": "-अच्छा, ठीक है। -जाओ।",
+        "pa": "-All right. -Go.",
+        "vi": "- Được rồi. - Đi đi."
+    },
+    {
+        "start": "00:21:14,750",
+        "end": "00:21:16,250",
+        "en": "माफ़ कीजिएगा।",
+        "pa": "-I'm so sorry. -Careful.",
+        "vi": "- Xin lỗi. - Cẩn thận."
+    },
+    {
+        "start": "00:21:16,333",
+        "end": "00:21:17,500",
+        "en": "आराम से।",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:21:18,625",
+        "end": "00:21:20,458",
+        "en": "मेरी चिंता मत कीजिए। मैं ठीक हूँ।",
+        "pa": "Don't worry about me. I'll be fine.",
+        "vi": "Đừng lo cho con. Con ổn mà."
+    },
+    {
+        "start": "00:21:21,583",
+        "end": "00:21:24,000",
+        "en": "पता है तुम्हारी चिंता करने की ज़रूरत नहीं है।",
+        "pa": "I know I don't have to worry about you.",
+        "vi": "Mẹ biết không cần lo cho con."
+    },
+    {
+        "start": "00:21:24,125",
+        "end": "00:21:25,625",
+        "en": "-खयाल रखना। -अच्छा, बाय।",
+        "pa": "-Take care. -Okay, bye.",
+        "vi": "- Bảo trọng. - Dạ, chào mẹ."
+    },
+    {
+        "start": "00:21:27,166",
+        "end": "00:21:28,458",
+        "en": "मैडम, ये कहाँ रख दें?",
+        "pa": "Madam, where should I keep this?",
+        "vi": "Tôi nên để cái này ở đâu?"
+    },
+    {
+        "start": "00:21:29,166",
+        "end": "00:21:30,458",
+        "en": "वहीं पर रख दो, भैया।",
+        "pa": "Just keep it over there.",
+        "vi": "Cứ để ở đó."
+    },
+    {
+        "start": "00:21:31,875",
+        "end": "00:21:34,875",
+        "en": "- ज़रा यह देखो!",
+        "pa": "Look at this!",
+        "vi": "Nhìn này!"
+    },
+    {
+        "start": "00:21:34,958",
+        "end": "00:21:37,458",
+        "en": "कमाल की बात है कि चिढ़ी हुई शक्ल अभी भी है!",
+        "pa": "She still has the same resting bitch face.",
+        "vi": "Cậu ấy vẫn còn vẻ mặt khó chịu đó."
+    },
+    {
+        "start": "00:21:37,541",
+        "end": "00:21:40,041",
+        "en": "-क्या, यार! -यह गुंडी लग रही है, यार!",
+        "pa": "She's looking like a little gangster.",
+        "vi": "Trông cứ như dân anh chị."
+    },
+    {
+        "start": "00:21:40,125",
+        "end": "00:21:42,708",
+        "en": "- मैंने कुछ फ़ोटो यहाँ रखी हैं। - हाँ।",
+        "pa": "I've kept some of the photographs here.",
+        "vi": "Tớ cũng giữ vài tấm ảnh ở đây."
+    },
+    {
+        "start": "00:21:42,791",
+        "end": "00:21:45,541",
+        "en": "जिन से शुरू करें? बीयर तो आई नहीं।",
+        "pa": "Should we start with some gin? Since there's no beer.",
+        "vi": "Hay cứ uống rượu gin? Vì không có bia."
+    },
+    {
+        "start": "00:21:45,625",
+        "end": "00:21:46,958",
+        "en": "नहीं, रुको। बीयर आ गई।",
+        "pa": "No, wait. The beer's here.",
+        "vi": "Không, khoan. Có bia đây."
+    },
+    {
+        "start": "00:21:47,041",
+        "end": "00:21:48,541",
+        "en": "-याहू!",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:21:48,625",
+        "end": "00:21:50,250",
+        "en": "जल्दी लाओ, मैं मरी जा रही हूँ।",
+        "pa": "Come quick, I'm dying here.",
+        "vi": "Nhanh lên, tôi đói chết mất."
+    },
+    {
+        "start": "00:21:51,625",
+        "end": "00:21:53,250",
+        "en": "इसके लिए प्लग चाहिए।",
+        "pa": "Masaba, we need a plug for this.",
+        "vi": "Masaba, cần cái mở chai."
+    },
+    {
+        "start": "00:21:53,333",
+        "end": "00:21:55,458",
+        "en": "-विजय को फ़ोन करती हूँ। -कैन देना।",
+        "pa": "-Can, please. -I'll call Vijay.",
+        "vi": "- Cho tôi một chai. - Tớ sẽ gọi Vijay."
+    },
+    {
+        "start": "00:21:55,541",
+        "end": "00:21:57,250",
+        "en": "-मसाबा मैडम। -नहीं चाहिए।",
+        "pa": "-Ma'am... -I don't want.",
+        "vi": "- Cô Masaba... - Khỏi."
+    },
+    {
+        "start": "00:21:57,333",
+        "end": "00:21:58,875",
+        "en": "गहना, तुम नहीं पियोगी? सबको देती ही रहोगी?",
+        "pa": "Gehna, are you going to drink or just distribute?",
+        "vi": "Gehna, cô sẽ uống hay chỉ đưa cho mọi người?"
+    },
+    {
+        "start": "00:21:58,958",
+        "end": "00:22:01,458",
+        "en": "-नहीं, मैडम, हम नहीं पीते। - गहना, चलो भी!",
+        "pa": "-No, ma'am, I won't drink. -Gehna, come on.",
+        "vi": "- Không, tôi không uống. - Gehna, uống đi."
+    },
+    {
+        "start": "00:22:01,541",
+        "end": "00:22:04,500",
+        "en": "- गहना, पियो! - चलो भी!",
+        "pa": "-Gehna, drink! -Come on.",
+        "vi": "- Gehna, uống đi! - Đi mà."
+    },
+    {
+        "start": "00:22:04,583",
+        "end": "00:22:05,500",
+        "en": "मैडम, हम नहीं पीते।",
+        "pa": "Ma'am, I won't drink.",
+        "vi": "Tôi không uống."
+    },
+    {
+        "start": "00:22:10,208",
+        "end": "00:22:11,375",
+        "en": "यह क्या हो रहा है, यार?",
+        "pa": "What's going on, guys?",
+        "vi": "Chuyện gì thế, mọi người?"
+    },
+    {
+        "start": "00:22:11,458",
+        "end": "00:22:14,541",
+        "en": "ये लीजिए, मैडम। हम सबकी तरफ़ से आपके लिए एक तोहफ़ा।",
+        "pa": "Here you go, ma'am. A gift from all of us to you.",
+        "vi": "Tặng cậu. Món quà của bọn tớ."
+    },
+    {
+        "start": "00:22:14,625",
+        "end": "00:22:16,416",
+        "en": "इस नए घर में खुशी की तरंगें फैलें।",
+        "pa": "We wish you good vibes in this new home.",
+        "vi": "Chúc cậu có nhiều niềm vui ở nhà mới."
+    },
+    {
+        "start": "00:22:18,583",
+        "end": "00:22:20,875",
+        "en": "- तुम यह लाई हो?",
+        "pa": "Did you get that?",
+        "vi": "Cậu mua đấy à?"
+    },
+    {
+        "start": "00:22:22,333",
+        "end": "00:22:24,000",
+        "en": "जिया, तुम एकदम वाहियात हो।",
+        "pa": "Gia, you're disgusting.",
+        "vi": "Gia, cậu thật kinh tởm."
+    },
+    {
+        "start": "00:22:24,083",
+        "end": "00:22:26,625",
+        "en": "-क्यों? इतना सुंदर तो है। -देखा?",
+        "pa": "-Why? It's beautiful. -See?",
+        "vi": "- Sao? Đẹp mà. - Thấy chưa?"
+    },
+    {
+        "start": "00:22:27,583",
+        "end": "00:22:28,750",
+        "en": "इतना क्यों शर्मा रही है, यार?",
+        "pa": "Why are you so shy?",
+        "vi": "Sao ngại ngùng thế?"
+    },
+    {
+        "start": "00:22:28,833",
+        "end": "00:22:31,333",
+        "en": "अभी सती-सावित्री का नाटक मत कर।",
+        "pa": "Don't pretend to be so innocent and pure right now.",
+        "vi": "Đừng giả bộ ngây thơ trong sáng lúc này chứ."
+    },
+    {
+        "start": "00:22:33,041",
+        "end": "00:22:34,375",
+        "en": "ख़ूबसूरत।",
+        "pa": "Beautiful.",
+        "vi": "Đẹp lắm."
+    },
+    {
+        "start": "00:22:34,500",
+        "end": "00:22:36,916",
+        "en": "गहना! इस लाजवाब डिवाइस के बारे में क्या राय है?",
+        "pa": "Gehna, what are your thoughts on this magnificent device?",
+        "vi": "Gehna, cô nghĩ sao về dụng cụ tuyệt vời này?"
+    },
+    {
+        "start": "00:22:37,000",
+        "end": "00:22:39,583",
+        "en": "-मैडम, ये क्या है? - \"मैडम, ये क्या है?\"",
+        "pa": "Ma'am, what is this?\n \"Ma'am, what is this?\"",
+        "vi": "Nó là cái gì vậy, cô?\n \"Nó là cái gì vậy, cô?\""
+    },
+    {
+        "start": "00:22:40,500",
+        "end": "00:22:41,791",
+        "en": "इससे लस्सी बनाते हैं।",
+        "pa": "You use this to make buttermilk.",
+        "vi": "Dùng nó để làm sữa chua."
+    },
+    {
+        "start": "00:22:41,875",
+        "end": "00:22:46,458",
+        "en": "-हे भगवान! - क्या बात कही है।",
+        "pa": "God!\n Too good, too good.",
+        "vi": "Trời!\n Quá tuyệt."
+    },
+    {
+        "start": "00:22:48,583",
+        "end": "00:22:50,416",
+        "en": "-बाय। -बाय, शुक्रिया।",
+        "pa": "-Bye. -Bye, thank you.",
+        "vi": "- Chào. - Chào, cảm ơn cậu."
+    },
+    {
+        "start": "00:22:51,291",
+        "end": "00:22:53,166",
+        "en": "-कोई काम हो तो फ़ोन करना। -ज़रूर।",
+        "pa": "-If you need anything call me. -I will.",
+        "vi": "- Cần gì cứ gọi tớ nhé. - Ừ."
+    },
+    {
+        "start": "00:22:53,250",
+        "end": "00:22:55,416",
+        "en": "-और उन तरंगों का मज़ा लेना। -बाय!",
+        "pa": "And enjoy your good vibes.\n Bye.",
+        "vi": "Chúc vui vẻ.\n Chào."
+    },
+    {
+        "start": "00:22:58,583",
+        "end": "00:23:00,625",
+        "en": "-बाय! -बाय!",
+        "pa": "Bye.\n Bye.",
+        "vi": "Chào.\n Chào."
+    },
+    {
+        "start": "00:23:17,458",
+        "end": "00:23:19,916",
+        "en": "♪ यह मेरा घर है! ♪",
+        "pa": "It's my house! It's my house!",
+        "vi": "Đây là nhà của mình!"
+    },
+    {
+        "start": "00:23:20,000",
+        "end": "00:23:22,958",
+        "en": "♪ यहाँ कोई नहीं है! ♪",
+        "pa": "Nobody's here! Nobody's here!",
+        "vi": "Không có ai ở đây!"
+    },
+    {
+        "start": "00:23:23,041",
+        "end": "00:23:25,666",
+        "en": "♪ मैं मस्ती करूँगी! ♪",
+        "pa": "I'm gonna party! I'm gonna party!",
+        "vi": "Mình sẽ tiệc tùng!"
+    },
+    {
+        "start": "00:23:25,750",
+        "end": "00:23:28,333",
+        "en": "♪ अकेले-अकेले! ♪",
+        "pa": "All by myself! All by myself!",
+        "vi": "Một mình!"
+    },
+    {
+        "start": "00:23:28,416",
+        "end": "00:23:31,458",
+        "en": "♪ अकेले-अकेले! ♪",
+        "pa": "All by myself! All by myself!",
+        "vi": "Một mình!"
+    },
+    {
+        "start": "00:23:31,541",
+        "end": "00:23:33,791",
+        "en": "♪ यह मेरा घर है ♪",
+        "pa": "It's my house",
+        "vi": "Đây là nhà của mình"
+    },
+    {
+        "start": "00:23:34,750",
+        "end": "00:23:36,708",
+        "en": "♪ यह मेरा घर है ♪",
+        "pa": "It's my house",
+        "vi": "Đây là nhà của mình"
+    },
+    {
+        "start": "00:23:38,541",
+        "end": "00:23:40,583",
+        "en": "♪ यहाँ कोई नहीं है ♪",
+        "pa": "Nobody's here",
+        "vi": "Không có ai ở đây"
+    },
+    {
+        "start": "00:23:42,375",
+        "end": "00:23:44,250",
+        "en": "♪ यहाँ कोई नहीं है ♪",
+        "pa": "Nobody's here",
+        "vi": "Không có ai ở đây"
+    },
+    {
+        "start": "00:23:45,916",
+        "end": "00:23:47,500",
+        "en": "♪ मैं मस्ती करूँगी ♪",
+        "pa": "I'm gonna party",
+        "vi": "Mình sẽ tiệc tùng"
+    },
+    {
+        "start": "00:23:50,125",
+        "end": "00:23:51,750",
+        "en": "♪ अकेले-अकेले ♪",
+        "pa": "By myself",
+        "vi": "Một mình"
+    },
+    {
+        "start": "00:24:11,500",
+        "end": "00:24:13,416",
+        "en": "\"मेरी पत्नी मसाबा के लिए,",
+        "pa": "\"To my wife Masaba,",
+        "vi": "\"Gửi vợ của anh, Masaba,"
+    },
+    {
+        "start": "00:24:13,500",
+        "end": "00:24:16,666",
+        "en": "यकीन नहीं होता कि मैं तुम्हें यह बुला सकता हूँ। पत्नी।",
+        "pa": "can't believe I can actually call you that. Wife.",
+        "vi": "không thể tin anh được gọi em như vậy. Vợ."
+    },
+    {
+        "start": "00:24:17,208",
+        "end": "00:24:19,166",
+        "en": "मेरी खुशकिस्मती। तुम्हारा पति, विनय।\"",
+        "pa": "Lucky me. Your husband, Vinay.\"",
+        "vi": "Anh thật may mắn. Chồng em, Vinay\"."
+    },
+    {
+        "start": "00:24:32,208",
+        "end": "00:24:35,750",
+        "en": "\"हैलो, धैर्य, घर दिलवाने का शुक्रिया। कभी घर आना।\"",
+        "pa": "",
+        "vi": "\"Dhairya, cảm ơn về căn hộ. Khi nào mời anh đến chơi nhé\"."
+    },
+    {
+        "start": "00:24:37,708",
+        "end": "00:24:40,791",
+        "en": "ज़्यादा हो गया। डिलीट करो।",
+        "pa": "Too much, too much. Delete, delete.",
+        "vi": "Thân mật quá. Xóa."
+    },
+    {
+        "start": "00:24:40,875",
+        "end": "00:24:42,083",
+        "en": "और... भेज दिया।",
+        "pa": "And... sent.",
+        "vi": "MASABA: Dhairya, cảm ơn về căn hộ.\n Và... gửi."
+    },
+    {
+        "start": "00:24:55,625",
+        "end": "00:24:57,458",
+        "en": "इतने बुरे दिन आ गए क्या?",
+        "pa": "\"How come such bad days fell upon you?\"",
+        "vi": "Tin nhắn từ Manav.\n \"Em đang cảm thấy tồi tệ sao?\""
+    },
+    {
+        "start": "00:25:03,833",
+        "end": "00:25:05,583",
+        "en": "यह नामुराद जिया न।",
+        "pa": "Fucking Gia.",
+        "vi": "Gia chết tiệt."
+    },
+    {
+        "start": "00:25:07,208",
+        "end": "00:25:09,125",
+        "en": "इतनी ज़रूरत थी, तो मुझे बुला लेती न!",
+        "pa": "\"If you were this desperate, you should've called me.\"",
+        "vi": "\"Nếu tuyệt vọng thế, em nên gọi cho anh\"."
+    },
+    {
+        "start": "00:25:10,791",
+        "end": "00:25:13,458",
+        "en": "मुझे पता नहीं था कि यह मुमकिन है।",
+        "pa": "I didn't know that was an option.",
+        "vi": "Em không biết có phương án đó."
+    },
+    {
+        "start": "00:25:15,250",
+        "end": "00:25:16,583",
+        "en": "जब चाहो तब मुमकिन है, जान।",
+        "pa": "",
+        "vi": "\"Luôn là một phương án, cưng ạ\"."
+    },
+    {
+        "start": "00:25:17,916",
+        "end": "00:25:21,833",
+        "en": "तो ठीक है।",
+        "pa": "It's on... It's on.",
+        "vi": "Bắt đầu rồi đấy."
+    },
+    {
+        "start": "00:25:29,125",
+        "end": "00:25:30,375",
+        "en": "-हैलो! -हैलो।",
+        "pa": "-Hey! -Hi.",
+        "vi": "- Chào em! - Chào anh."
+    },
+    {
+        "start": "00:25:30,458",
+        "end": "00:25:32,208",
+        "en": "-कैसी हो? -अच्छी हूँ।",
+        "pa": "How are you?\n Good.",
+        "vi": "Khỏe không?\n Khỏe."
+    },
+    {
+        "start": "00:25:34,291",
+        "end": "00:25:36,000",
+        "en": "एकदम मस्त लग रही हो।",
+        "pa": "Fuck, you look good.",
+        "vi": "Trời, em đẹp quá."
+    },
+    {
+        "start": "00:25:36,083",
+        "end": "00:25:37,458",
+        "en": "हो गया शुरू।",
+        "pa": "Started.",
+        "vi": "Bắt đầu rồi."
+    },
+    {
+        "start": "00:25:37,541",
+        "end": "00:25:39,625",
+        "en": "वाह! घर तो बहुत सुंदर सजाया है।",
+        "pa": "-I love what you've done with the place. -Thank you.",
+        "vi": "- Em trang trí đẹp đấy. - Cảm ơn anh."
+    },
+    {
+        "start": "00:25:39,708",
+        "end": "00:25:41,333",
+        "en": "-शुक्रिया। -हाँ!",
+        "pa": "Yeah.",
+        "vi": "Ừ."
+    },
+    {
+        "start": "00:25:42,083",
+        "end": "00:25:44,250",
+        "en": "ज़रा यह नज़ारा तो देखो, यार!",
+        "pa": "Check out this view, man.",
+        "vi": "Xem quang cảnh kìa."
+    },
+    {
+        "start": "00:25:45,666",
+        "end": "00:25:46,750",
+        "en": "वाह।",
+        "pa": "Nice.",
+        "vi": "Đẹp quá."
+    },
+    {
+        "start": "00:25:49,375",
+        "end": "00:25:50,958",
+        "en": "तो, क्या चल रहा है?",
+        "pa": "So, what's up?",
+        "vi": "Tình hình thế nào?"
+    },
+    {
+        "start": "00:25:52,375",
+        "end": "00:25:54,291",
+        "en": "कुछ नहीं। तुम कैसे हो?",
+        "pa": "Nothing. How've you been?",
+        "vi": "Không có gì. Còn anh?"
+    },
+    {
+        "start": "00:25:54,375",
+        "end": "00:25:55,708",
+        "en": "मैं अच्छा हूँ, और तुम?",
+        "pa": "I'm good, how about you?",
+        "vi": "Anh ổn, còn em?"
+    },
+    {
+        "start": "00:25:56,666",
+        "end": "00:25:57,958",
+        "en": "-अच्छी हूँ। -अच्छा?",
+        "pa": "-Good. -Yeah?",
+        "vi": "- Tốt. - Vậy à?"
+    },
+    {
+        "start": "00:25:58,666",
+        "end": "00:25:59,875",
+        "en": "हाँ।",
+        "pa": "Yeah.",
+        "vi": "Ừ."
+    },
+    {
+        "start": "00:25:59,958",
+        "end": "00:26:01,458",
+        "en": "-काफ़ी समय हो गया है। -हाँ।",
+        "pa": "-It's been a while. -Yeah.",
+        "vi": "- Lâu rồi không gặp. - Ừ."
+    },
+    {
+        "start": "00:26:02,250",
+        "end": "00:26:03,250",
+        "en": "तो...",
+        "pa": "So...",
+        "vi": "Vậy..."
+    },
+    {
+        "start": "00:26:03,333",
+        "end": "00:26:06,583",
+        "en": "रुको, क्या यह वाकई हो रहा है? यह नहीं हो रहा है। हो रहा है क्या?",
+        "pa": "Wait, is this happening?\n I don't think it's happening. Is it happening?",
+        "vi": "Chuyện này đang xảy ra sao?\n Mình không nghĩ vậy. Đang xảy ra sao?"
+    },
+    {
+        "start": "00:26:06,666",
+        "end": "00:26:07,791",
+        "en": "चलो, वाइन पीते हैं।",
+        "pa": "-Let's have some wine. -You know what, fuck it. Come here.",
+        "vi": "- Ta uống rượu nhé. - Này, bỏ đi. Lại đây."
+    },
+    {
+        "start": "00:26:07,875",
+        "end": "00:26:09,666",
+        "en": "अरे, छोड़ो भी। यहाँ आओ।",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:26:30,250",
+        "end": "00:26:32,041",
+        "en": "हाँ, यह हो गया।",
+        "pa": "Yup, that happened.",
+        "vi": "Phải, xảy ra rồi."
+    },
+    {
+        "start": "00:26:32,708",
+        "end": "00:26:34,291",
+        "en": "धत्। इसकी बहुत कमी महसूस हुई।",
+        "pa": "Fuck. I missed this.",
+        "vi": "Trời. Anh nhớ chuyện này."
+    },
+    {
+        "start": "00:26:37,375",
+        "end": "00:26:38,541",
+        "en": "है न?",
+        "pa": "I know, right?",
+        "vi": "Em biết mà, nhỉ?"
+    },
+    {
+        "start": "00:26:40,583",
+        "end": "00:26:42,250",
+        "en": "हमने यह बंद क्यों किया था?",
+        "pa": "Why did we stop doing this again?",
+        "vi": "Sao hồi đó, ta chia tay vậy?"
+    },
+    {
+        "start": "00:26:43,125",
+        "end": "00:26:44,750",
+        "en": "क्योंकि तुम्हें ये थोड़ी न चाहिए था।",
+        "pa": "Because you didn't want this.",
+        "vi": "Vì em không muốn như thế này."
+    },
+    {
+        "start": "00:26:44,833",
+        "end": "00:26:46,458",
+        "en": "तुमको शादी करनी थी, याद है?",
+        "pa": "You wanted to get married, remember?",
+        "vi": "Em muốn kết hôn, nhớ chứ?"
+    },
+    {
+        "start": "00:26:47,791",
+        "end": "00:26:50,000",
+        "en": "और तुम्हें शादी नहीं, शालिनी चाहिए थी।",
+        "pa": "And you didn't want marriage, you wanted Shalini.",
+        "vi": "Anh không muốn cưới, anh muốn Shalini."
+    },
+    {
+        "start": "00:26:51,000",
+        "end": "00:26:53,416",
+        "en": "हाँ। वह भी एकदम सनकी निकली।",
+        "pa": "Yeah. What a psycho she turned out to be.",
+        "vi": "Ừ. Hóa ra, cô ta là một con điên."
+    },
+    {
+        "start": "00:26:54,708",
+        "end": "00:26:56,291",
+        "en": "अच्छा हुआ। तुम इसी लायक हो।",
+        "pa": "Good. You deserve it.",
+        "vi": "Tốt. Đáng đời anh."
+    },
+    {
+        "start": "00:26:57,000",
+        "end": "00:26:59,541",
+        "en": "अच्छा... बुद्धू।",
+        "pa": "Sure, stupid.",
+        "vi": "Ừ, ngu ngốc."
+    },
+    {
+        "start": "00:27:01,458",
+        "end": "00:27:03,791",
+        "en": "और फिर? तुम कब तक यहाँ हो?",
+        "pa": "What else? How long are you in town?",
+        "vi": "Còn gì nữa? Anh ở đây bao lâu?"
+    },
+    {
+        "start": "00:27:04,416",
+        "end": "00:27:06,083",
+        "en": "इस महीने के अंत तक।",
+        "pa": "Till the end of the month.",
+        "vi": "Tới cuối tháng."
+    },
+    {
+        "start": "00:27:07,333",
+        "end": "00:27:09,083",
+        "en": "फिर लंदन लौट जाओगे?",
+        "pa": "And then back to London?",
+        "vi": "Rồi lại về London à?"
+    },
+    {
+        "start": "00:27:09,166",
+        "end": "00:27:11,250",
+        "en": "नहीं, प्रेमिका से मिलने पुर्तगाल जाऊँगा,",
+        "pa": "No, then I go to Portugal to meet my girlfriend,",
+        "vi": "Không, rồi anh đi Bồ Đào Nha gặp bạn gái,"
+    },
+    {
+        "start": "00:27:11,333",
+        "end": "00:27:14,666",
+        "en": "फिर हम कुछ दिनों के लिए स्पेन जाएँगे, फिर, हाँ, वही पुरानी ज़िंदगी।",
+        "pa": "then we go to Spain for a bit and then, yeah. Back to the grind.",
+        "vi": "bọn anh đi Tây Ban Nha một thời gian. Rồi lại về làm việc."
+    },
+    {
+        "start": "00:27:15,583",
+        "end": "00:27:16,625",
+        "en": "प्रेमिका?",
+        "pa": "Girlfriend?",
+        "vi": "Bạn gái?"
+    },
+    {
+        "start": "00:27:19,291",
+        "end": "00:27:20,875",
+        "en": "अब बात का बतंगड़ मत बनाना, यार।",
+        "pa": "Don't make this into an issue, please.",
+        "vi": "Đừng gây chuyện đấy nhé."
+    },
+    {
+        "start": "00:27:20,958",
+        "end": "00:27:22,916",
+        "en": "अरे, मूड खराब मत कर। यहाँ आओ।",
+        "pa": "Don't ruin your mood. Come here...",
+        "vi": "Đừng làm em mất hứng. Lại đây..."
+    },
+    {
+        "start": "00:27:23,000",
+        "end": "00:27:25,208",
+        "en": "मूड खराब हो चुका है, मानव!",
+        "pa": "My mood is ruined, Manav.",
+        "vi": "Em mất hứng rồi, Manav."
+    },
+    {
+        "start": "00:27:25,291",
+        "end": "00:27:27,458",
+        "en": "तुमने बताया नहीं कि तुम्हारी प्रेमिका है?",
+        "pa": "Why didn't you mention you had a girlfriend?",
+        "vi": "Sao anh không nói anh có bạn gái rồi?"
+    },
+    {
+        "start": "00:27:27,541",
+        "end": "00:27:29,416",
+        "en": "अरे, अभी-अभी तो बताया है, यार!",
+        "pa": "I just told you.",
+        "vi": "Anh vừa nói đấy."
+    },
+    {
+        "start": "00:27:29,500",
+        "end": "00:27:31,375",
+        "en": "इससे पहले बताने का मौका कहाँ था?",
+        "pa": "I didn't really get the chance to tell you before.",
+        "vi": "Lúc nãy, anh chưa kịp nói với em."
+    },
+    {
+        "start": "00:27:33,958",
+        "end": "00:27:36,041",
+        "en": "एक बात कहूँ? दफ़ा हो जाओ।",
+        "pa": "You know what? Just get out.",
+        "vi": "Anh biết không? Về đi."
+    },
+    {
+        "start": "00:27:36,875",
+        "end": "00:27:38,291",
+        "en": "सच में?",
+        "pa": "Seriously? Dude, get with the times.",
+        "vi": "Thật ư? Theo kịp thời đại đi chứ."
+    },
+    {
+        "start": "00:27:38,375",
+        "end": "00:27:40,166",
+        "en": "यार, समय के साथ चलो।",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:27:40,250",
+        "end": "00:27:41,583",
+        "en": "तुम वैसी की वैसी ही हो?",
+        "pa": "How can you still be the same?",
+        "vi": "Sao em vẫn như vậy?"
+    },
+    {
+        "start": "00:27:42,291",
+        "end": "00:27:44,666",
+        "en": "और तुम बड़ा बदल गए हो न?",
+        "pa": "And you have changed massively, haven't you?",
+        "vi": "Còn anh thì thay đổi nhiều, nhỉ?"
+    },
+    {
+        "start": "00:27:44,750",
+        "end": "00:27:46,166",
+        "en": "पहले मुझे धोखा दिया।",
+        "pa": "First, you cheated on me. And now you're cheating on her with me.",
+        "vi": "Đầu tiên, anh phản bội em. Giờ anh phản bội cô ấy với em."
+    },
+    {
+        "start": "00:27:46,250",
+        "end": "00:27:48,333",
+        "en": "और अब मेरे साथ उसे धोखा दे रहे हो।",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:27:48,958",
+        "end": "00:27:50,875",
+        "en": "क्या तरक्की की है तुमने, वाह!",
+        "pa": "You've evolved so much, wow.",
+        "vi": "Anh tiến hóa quá cơ."
+    },
+    {
+        "start": "00:27:50,958",
+        "end": "00:27:52,541",
+        "en": "भाड़ में जाओ, यार, सच में।",
+        "pa": "Fuck this shit, man, seriously.",
+        "vi": "Bực cả mình, thật đấy."
+    },
+    {
+        "start": "00:27:54,625",
+        "end": "00:27:57,125",
+        "en": "पता है तुम्हारी दिक्कत क्या है?",
+        "pa": "You wanna know what your problem is?",
+        "vi": "Em muốn biết vấn đề của em là gì không?"
+    },
+    {
+        "start": "00:27:57,208",
+        "end": "00:27:59,791",
+        "en": "न किसी चीज़ से, न किसी इंसान से खुश होती हो।",
+        "pa": "Nothing, and no one can make you happy.",
+        "vi": "Không gì và không ai có thể làm em hạnh phúc."
+    },
+    {
+        "start": "00:27:59,875",
+        "end": "00:28:03,000",
+        "en": "जब हम साथ थे, तब तुम खुश नहीं थी क्योंकि तुम्हें शादी करनी थी।",
+        "pa": "When we were together, you weren't happy because you wanted to get married.",
+        "vi": "Khi ta ở bên nhau, em không hạnh phúc vì em muốn kết hôn."
+    },
+    {
+        "start": "00:28:03,625",
+        "end": "00:28:04,833",
+        "en": "जब हम लंदन में मिले,",
+        "pa": "When we met in London, you were married. But still not happy.",
+        "vi": "Khi ta gặp ở London, em có chồng. Nhưng vẫn không hạnh phúc."
+    },
+    {
+        "start": "00:28:04,916",
+        "end": "00:28:06,791",
+        "en": "तुम्हारी शादी हो चुकी थी, फिर भी खुश नहीं थी।",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:28:06,875",
+        "end": "00:28:10,208",
+        "en": "अब तो तुम्हारा तलाक भी हो गया है, पर अब भी खुश नहीं हो।",
+        "pa": "And now you're divorced, but still you're not happy.",
+        "vi": "Giờ em li hôn, nhưng em vẫn không hạnh phúc."
+    },
+    {
+        "start": "00:28:10,291",
+        "end": "00:28:11,875",
+        "en": "तो तुम आखिर चाहती क्या हो?",
+        "pa": "What exactly do you fucking want?",
+        "vi": "Chính xác là em muốn gì?"
+    },
+    {
+        "start": "00:28:14,958",
+        "end": "00:28:18,375",
+        "en": "मैं बस इतना चाहती हूँ कि तुम मेरे घर से दफ़ा हो जाओ।",
+        "pa": "You know, what I really want is for you to get the fuck out of my house.",
+        "vi": "Tôi muốn anh biến khỏi nhà tôi."
+    },
+    {
+        "start": "00:28:18,458",
+        "end": "00:28:20,083",
+        "en": "खुशी से।",
+        "pa": "Gladly. ",
+        "vi": "Rất vui lòng."
+    },
+    {
+        "start": "00:30:06,250",
+        "end": "00:30:08,250",
+        "en": "",
+        "pa": "",
+        "vi": "Biên dịch: Vũ Thị Phương "
+    }
+]
