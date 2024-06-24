@@ -1,0 +1,2557 @@
+[
+    {
+        "start": "00:01:50,720",
+        "end": "00:01:55,640",
+        "en": "-Did I wake you up?",
+        "pa": "",
+        "vi": "Em làm anh tỉnh ư?"
+    },
+    {
+        "start": "00:01:57,280",
+        "end": "00:01:58,560",
+        "en": "No.",
+        "pa": "",
+        "vi": "Không."
+    },
+    {
+        "start": "00:01:59,080",
+        "end": "00:02:00,120",
+        "en": "Are you still upset?",
+        "pa": "",
+        "vi": "Em vẫn khó chịu đấy à?"
+    },
+    {
+        "start": "00:02:01,920",
+        "end": "00:02:03,000",
+        "en": "Have you changed your mind?",
+        "pa": "",
+        "vi": "Anh đã đổi ý chưa?"
+    },
+    {
+        "start": "00:02:09,880",
+        "end": "00:02:12,400",
+        "en": "Zainab, why are you so against kids?",
+        "pa": "",
+        "vi": "Zainab, sao em lại ghét trẻ con thế?"
+    },
+    {
+        "start": "00:02:12,920",
+        "end": "00:02:13,919",
+        "en": "Huh?",
+        "pa": "",
+        "vi": "Đâu ra."
+    },
+    {
+        "start": "00:02:14,000",
+        "end": "00:02:15,600",
+        "en": "Why are you against the idea of kids?",
+        "pa": "",
+        "vi": "Sao em lại ghét việc có con thế?"
+    },
+    {
+        "start": "00:02:16,240",
+        "end": "00:02:18,720",
+        "en": "We were so against it until you left me.",
+        "pa": "",
+        "vi": "Ta đã có cùng quan điểm cho đến khi anh bỏ rơi em."
+    },
+    {
+        "start": "00:02:19,400",
+        "end": "00:02:21,800",
+        "en": "And now I'm looking bad for sticking to my guns?",
+        "pa": "",
+        "vi": "Và giờ em thành kẻ tồi tệ vì giữ quan điểm của mình ư?"
+    },
+    {
+        "start": "00:02:22,920",
+        "end": "00:02:23,880",
+        "en": "No Siddharth.",
+        "pa": "",
+        "vi": "Không đâu, Siddharth."
+    },
+    {
+        "start": "00:02:23,960",
+        "end": "00:02:25,000",
+        "en": "So I'm the bad one then?",
+        "pa": "",
+        "vi": "Thế anh là kẻ tồi tệ?"
+    },
+    {
+        "start": "00:02:27,920",
+        "end": "00:02:29,360",
+        "en": "Have you even thought about it?",
+        "pa": "",
+        "vi": "Anh đã suy nghĩ kĩ chưa vậy?"
+    },
+    {
+        "start": "00:02:29,440",
+        "end": "00:02:31,640",
+        "en": "-Thought about what? -Have you really thought about it?",
+        "pa": "",
+        "vi": "- Nghĩ cái gì? - Anh đã thực sự suy nghĩ chưa?"
+    },
+    {
+        "start": "00:02:32,440",
+        "end": "00:02:35,480",
+        "en": "Have you even considered what life would like for a mixed-race child?",
+        "pa": "",
+        "vi": "Anh đã nghĩ xem cuộc sống của một đứa con lai sẽ thế nào chưa?"
+    },
+    {
+        "start": "00:02:36,120",
+        "end": "00:02:36,960",
+        "en": "Oh come on.",
+        "pa": "",
+        "vi": "Ôi em ơi."
+    },
+    {
+        "start": "00:02:37,040",
+        "end": "00:02:38,240",
+        "en": "Come on?",
+        "pa": "",
+        "vi": "\"Ôi em ơi\" à?"
+    },
+    {
+        "start": "00:02:38,320",
+        "end": "00:02:39,840",
+        "en": "Okay.",
+        "pa": "",
+        "vi": "Được rồi."
+    },
+    {
+        "start": "00:02:39,920",
+        "end": "00:02:42,000",
+        "en": "Whose career will be on hold to take care of the baby?",
+        "pa": "",
+        "vi": "Ai sẽ phải gác lại sự nghiệp để chăm con?"
+    },
+    {
+        "start": "00:02:42,080",
+        "end": "00:02:43,080",
+        "en": "Definitely not mine.",
+        "pa": "",
+        "vi": "Chắc chắn không phải em."
+    },
+    {
+        "start": "00:02:44,120",
+        "end": "00:02:46,920",
+        "en": "And have you even thought about",
+        "pa": "",
+        "vi": "Và anh đã suy nghĩ đến hệ quả"
+    },
+    {
+        "start": "00:02:47,000",
+        "end": "00:02:49,560",
+        "en": "the mental, financial, and emotional implications",
+        "pa": "",
+        "vi": "các mặt tinh thần, tài chính, và cảm xúc của việc có con chưa?"
+    },
+    {
+        "start": "00:02:49,640",
+        "end": "00:02:51,840",
+        "en": "-of having a child?! -We are not poor Zainab.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:02:51,920",
+        "end": "00:02:54,200",
+        "en": "Yeah! But we aren't Elon Musk either.",
+        "pa": "",
+        "vi": "Ta đâu có nghèo, Zainab.\n Đúng! Nhưng ta cũng không phải Elon Musk."
+    },
+    {
+        "start": "00:02:54,800",
+        "end": "00:02:57,440",
+        "en": "We have saved for everything except for a child",
+        "pa": "",
+        "vi": "Ta đã tiết kiệm cho mọi thứ ngoại trừ việc nuôi con"
+    },
+    {
+        "start": "00:02:57,520",
+        "end": "00:02:58,920",
+        "en": "because it was never in the plan.",
+        "pa": "",
+        "vi": "vì kế hoạch từ đầu không hề có."
+    },
+    {
+        "start": "00:02:59,000",
+        "end": "00:03:00,640",
+        "en": "Yeah, so we can always include it in the plan.",
+        "pa": "",
+        "vi": "Ừ, thì ta thêm vào kế hoạch."
+    },
+    {
+        "start": "00:03:00,720",
+        "end": "00:03:02,040",
+        "en": "So why don't you stop fighting",
+        "pa": "",
+        "vi": "Em thử thôi cao giọng và lắng nghe anh nói một chút đi."
+    },
+    {
+        "start": "00:03:02,120",
+        "end": "00:03:03,440",
+        "en": "and listen to me for a minute?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:03:04,040",
+        "end": "00:03:05,920",
+        "en": "-No. -No?",
+        "pa": "",
+        "vi": "- Không. - Không á?"
+    },
+    {
+        "start": "00:03:06,000",
+        "end": "00:03:06,840",
+        "en": "What does that mean?",
+        "pa": "",
+        "vi": "Ý em là sao?"
+    },
+    {
+        "start": "00:03:06,920",
+        "end": "00:03:07,800",
+        "en": "No!",
+        "pa": "",
+        "vi": "Không! Anh muốn có con, em không muốn. Rõ ràng chưa?"
+    },
+    {
+        "start": "00:03:07,880",
+        "end": "00:03:10,000",
+        "en": "You want kids, not me. Okay?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:03:10,080",
+        "end": "00:03:11,200",
+        "en": "- And what does that make us? - Wow.",
+        "pa": "",
+        "vi": "- Và thế thì chung sống kiểu gì? - Trời."
+    },
+    {
+        "start": "00:03:14,800",
+        "end": "00:03:15,800",
+        "en": "What does it make us?",
+        "pa": "",
+        "vi": "Chung sống kiểu gì ư?"
+    },
+    {
+        "start": "00:03:18,200",
+        "end": "00:03:19,320",
+        "en": "You know, we need to sit down,",
+        "pa": "",
+        "vi": "Chúng ta cần ngồi xuống"
+    },
+    {
+        "start": "00:03:19,840",
+        "end": "00:03:22,000",
+        "en": "talk about it like matured individuals do.",
+        "pa": "",
+        "vi": "và trao đổi như những người lớn với nhau."
+    },
+    {
+        "start": "00:03:22,080",
+        "end": "00:03:23,960",
+        "en": "'Cause you're not the only one having a baby here!",
+        "pa": "",
+        "vi": "Vì có phải mỗi mình em có con đâu!"
+    },
+    {
+        "start": "00:03:24,640",
+        "end": "00:03:25,880",
+        "en": "Am I gonna leave you?",
+        "pa": "",
+        "vi": "Anh sẽ bỏ em chắc?"
+    },
+    {
+        "start": "00:03:25,960",
+        "end": "00:03:27,120",
+        "en": "Have I ever left you alone?",
+        "pa": "",
+        "vi": "Anh đã bao giờ để em một mình chưa?"
+    },
+    {
+        "start": "00:03:29,080",
+        "end": "00:03:30,320",
+        "en": "You need to think, why you're doing this?",
+        "pa": "",
+        "vi": "Em nghĩ xem, vì sao em lại cứ như vậy?"
+    },
+    {
+        "start": "00:03:31,040",
+        "end": "00:03:33,440",
+        "en": "At the moment it just seems that you're being stubborn.",
+        "pa": "",
+        "vi": "Vì giờ dường như em chỉ đang cố chấp thôi."
+    },
+    {
+        "start": "00:03:33,520",
+        "end": "00:03:34,840",
+        "en": "-That's it! -No!",
+        "pa": "",
+        "vi": "- Vậy đấy! - Không đúng!"
+    },
+    {
+        "start": "00:03:34,920",
+        "end": "00:03:36,880",
+        "en": "You are trying to impose what you want on me!",
+        "pa": "",
+        "vi": "Anh đang cố áp đặt điều anh muốn lên em!"
+    },
+    {
+        "start": "00:03:36,960",
+        "end": "00:03:38,440",
+        "en": "You're being selfish.",
+        "pa": "",
+        "vi": "Anh đang rất ích kỷ đấy."
+    },
+    {
+        "start": "00:03:39,400",
+        "end": "00:03:40,320",
+        "en": "I'm being selfish?",
+        "pa": "",
+        "vi": "Anh đang ích kỷ?"
+    },
+    {
+        "start": "00:03:40,400",
+        "end": "00:03:41,480",
+        "en": "Yes.",
+        "pa": "",
+        "vi": "Đúng."
+    },
+    {
+        "start": "00:03:42,000",
+        "end": "00:03:43,160",
+        "en": "Wow.",
+        "pa": "",
+        "vi": "Trời."
+    },
+    {
+        "start": "00:03:45,000",
+        "end": "00:03:47,160",
+        "en": "You know this statement holds for the both of us.",
+        "pa": "",
+        "vi": "Em biết rằng câu đó đúng với cả hai ta."
+    },
+    {
+        "start": "00:03:47,960",
+        "end": "00:03:51,120",
+        "en": "The only difference is that I'm willing to accept the truth",
+        "pa": "",
+        "vi": "Điểm khác biệt duy nhất là anh sẵn sàng chấp nhận sự thật"
+    },
+    {
+        "start": "00:03:51,200",
+        "end": "00:03:52,520",
+        "en": "and talk about it.",
+        "pa": "",
+        "vi": "và thẳng thắn trao đổi."
+    },
+    {
+        "start": "00:03:53,160",
+        "end": "00:03:54,720",
+        "en": "Can you say the same thing about yourself?",
+        "pa": "",
+        "vi": "Em có nói được mình cũng thế không?"
+    },
+    {
+        "start": "00:03:56,440",
+        "end": "00:03:57,440",
+        "en": "Can you?!",
+        "pa": "",
+        "vi": "Nói được không?"
+    },
+    {
+        "start": "00:03:59,520",
+        "end": "00:04:00,560",
+        "en": "You can't.",
+        "pa": "",
+        "vi": "Em không thể."
+    },
+    {
+        "start": "00:04:03,400",
+        "end": "00:04:04,440",
+        "en": "I'm going to the office then.",
+        "pa": "",
+        "vi": "Giờ anh sẽ đến viện."
+    },
+    {
+        "start": "00:04:05,040",
+        "end": "00:04:06,920",
+        "en": "Hopefully will be back for the family lunch.",
+        "pa": "",
+        "vi": "Hy vọng trưa nay kịp về ăn bữa cơm gia đình."
+    },
+    {
+        "start": "00:04:16,920",
+        "end": "00:04:18,760",
+        "en": "Cheers! Come on.",
+        "pa": "",
+        "vi": "Cụng ly! Nào."
+    },
+    {
+        "start": "00:04:28,360",
+        "end": "00:04:29,560",
+        "en": "Down boy.",
+        "pa": "",
+        "vi": "Ngồi đi nhóc."
+    },
+    {
+        "start": "00:04:29,640",
+        "end": "00:04:30,560",
+        "en": "Down boy.",
+        "pa": "",
+        "vi": "Ngồi đi nhóc."
+    },
+    {
+        "start": "00:04:32,000",
+        "end": "00:04:33,240",
+        "en": "That's a good boy.",
+        "pa": "",
+        "vi": "Vậy mới là nhóc ngoan."
+    },
+    {
+        "start": "00:04:33,760",
+        "end": "00:04:35,480",
+        "en": "Good boy.",
+        "pa": "",
+        "vi": "Nhóc ngoan lắm."
+    },
+    {
+        "start": "00:04:41,000",
+        "end": "00:04:41,920",
+        "en": "Idiot.",
+        "pa": "",
+        "vi": "Thằng đần."
+    },
+    {
+        "start": "00:04:42,000",
+        "end": "00:04:43,520",
+        "en": "Ronny, you're nothing but a bully.",
+        "pa": "",
+        "vi": "Ronny, anh chỉ giỏi bắt nạt."
+    },
+    {
+        "start": "00:04:43,600",
+        "end": "00:04:44,600",
+        "en": "- What did he say? - What?",
+        "pa": "",
+        "vi": "- Hắn vừa nói gì? - Gì cơ?"
+    },
+    {
+        "start": "00:04:45,320",
+        "end": "00:04:46,160",
+        "en": "Did he insult me?",
+        "pa": "",
+        "vi": "Hắn sỉ nhục tôi à?"
+    },
+    {
+        "start": "00:04:46,800",
+        "end": "00:04:47,960",
+        "en": "-Yemi just ignore him.",
+        "pa": "",
+        "vi": "Yemi, kệ anh ta đi."
+    },
+    {
+        "start": "00:04:52,400",
+        "end": "00:04:53,520",
+        "en": "You know what?",
+        "pa": "",
+        "vi": "Cậu biết sao không?"
+    },
+    {
+        "start": "00:04:54,320",
+        "end": "00:04:55,440",
+        "en": "When you're done with her,",
+        "pa": "",
+        "vi": "Nói xong với cô ta,"
+    },
+    {
+        "start": "00:04:56,600",
+        "end": "00:04:58,000",
+        "en": "you can help me with my leftovers.",
+        "pa": "",
+        "vi": "nhặt đồ thừa của tôi mà ăn này."
+    },
+    {
+        "start": "00:04:58,080",
+        "end": "00:04:58,920",
+        "en": "Here.",
+        "pa": "",
+        "vi": "Đây."
+    },
+    {
+        "start": "00:05:01,080",
+        "end": "00:05:02,720",
+        "en": "Guy, what's the meaning of this?!",
+        "pa": "",
+        "vi": "- Mày làm thế là có ý gì hả? - Yemi, đừng."
+    },
+    {
+        "start": "00:05:02,800",
+        "end": "00:05:03,640",
+        "en": "- Yemi don't.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:05:03,720",
+        "end": "00:05:05,840",
+        "en": "I've been watching you, you've been picking on me since I arrived.",
+        "pa": "",
+        "vi": "Tao để ý rồi, mày suốt ngày gây sự từ hồi tao đến."
+    },
+    {
+        "start": "00:05:05,920",
+        "end": "00:05:06,840",
+        "en": "What did I do to you?",
+        "pa": "",
+        "vi": "Tao đã làm gì mày hả?"
+    },
+    {
+        "start": "00:05:07,360",
+        "end": "00:05:09,160",
+        "en": "What did I do to you?",
+        "pa": "",
+        "vi": "Tao đã làm gì mày?"
+    },
+    {
+        "start": "00:05:09,240",
+        "end": "00:05:10,320",
+        "en": "Piss off, fool.",
+        "pa": "",
+        "vi": "Biến đi, thằng ngu."
+    },
+    {
+        "start": "00:05:10,400",
+        "end": "00:05:12,680",
+        "en": "-  wants you here anyway. - Stop it.",
+        "pa": "",
+        "vi": "- Chẳng ai muốn mày ở đây hết. - Thôi đi."
+    },
+    {
+        "start": "00:05:12,760",
+        "end": "00:05:13,800",
+        "en": "Look at this guy, he's learned some Yoruba",
+        "pa": "",
+        "vi": "Xem hắn này, học được mấy từ Yoruba rồi lăng mạ tôi."
+    },
+    {
+        "start": "00:05:13,880",
+        "end": "00:05:14,920",
+        "en": "and he insults me with it.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:05:15,000",
+        "end": "00:05:16,400",
+        "en": "-If you have the guts… - Stop it! Yemi!",
+        "pa": "",
+        "vi": "- Nếu mày có gan… - Đừng! Yemi!"
+    },
+    {
+        "start": "00:05:16,480",
+        "end": "00:05:17,320",
+        "en": "- Stop it! - …if you're man enough,",
+        "pa": "",
+        "vi": "- Thôi! - Nếu mày là đàn ông!"
+    },
+    {
+        "start": "00:05:17,400",
+        "end": "00:05:18,640",
+        "en": "repeat what you said. Call me that again.",
+        "pa": "",
+        "vi": "Nói lại xem. Gọi tao thế nữa đi!"
+    },
+    {
+        "start": "00:05:19,160",
+        "end": "00:05:20,280",
+        "en": "Fool.",
+        "pa": "",
+        "vi": "Thằng đần."
+    },
+    {
+        "start": "00:05:20,360",
+        "end": "00:05:22,400",
+        "en": "Stop! Stop it! Stop!",
+        "pa": "",
+        "vi": "Dừng lại ngay!"
+    },
+    {
+        "start": "00:05:24,360",
+        "end": "00:05:26,280",
+        "en": "Yemi, Ronny, what the hell is happening?!",
+        "pa": "",
+        "vi": "Yemi, Ronny, có chuyện quái gì vậy?"
+    },
+    {
+        "start": "00:05:27,720",
+        "end": "00:05:29,200",
+        "en": "What is happening here?",
+        "pa": "",
+        "vi": "Có chuyện gì ở đây thế?"
+    },
+    {
+        "start": "00:05:29,280",
+        "end": "00:05:30,360",
+        "en": "It was him.",
+        "pa": "",
+        "vi": "Là tại hắn."
+    },
+    {
+        "start": "00:05:35,800",
+        "end": "00:05:38,880",
+        "en": "",
+        "pa": "",
+        "vi": "BƯU THIẾP"
+    },
+    {
+        "start": "00:07:07,880",
+        "end": "00:07:09,280",
+        "en": "What?!",
+        "pa": "",
+        "vi": "Cái gì?"
+    },
+    {
+        "start": "00:07:09,360",
+        "end": "00:07:10,280",
+        "en": "Surgery?!",
+        "pa": "",
+        "vi": "Phẫu thuật?"
+    },
+    {
+        "start": "00:07:11,120",
+        "end": "00:07:13,120",
+        "en": "Ah!",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:07:13,200",
+        "end": "00:07:15,520",
+        "en": "-What are you doing? -We have to do the surgery.",
+        "pa": "",
+        "vi": "- Cậu làm gì vậy? - Ta buộc phải phẫu thuật."
+    },
+    {
+        "start": "00:07:15,600",
+        "end": "00:07:17,000",
+        "en": "Ma'am, we're gonna take good care of you.",
+        "pa": "",
+        "vi": "Chúng tôi sẽ làm thật tốt cho bác."
+    },
+    {
+        "start": "00:07:17,080",
+        "end": "00:07:19,560",
+        "en": "Rest assured we have the best that science has to offer here,",
+        "pa": "",
+        "vi": "Bác cứ yên tâm, ở đây có thiết bị y tế tốt nhất"
+    },
+    {
+        "start": "00:07:19,640",
+        "end": "00:07:22,040",
+        "en": "and you are in the most capable hands of Dr. Kapoor.",
+        "pa": "",
+        "vi": "và có bác sĩ Kapoor mổ cho bác thì quá yên tâm."
+    },
+    {
+        "start": "00:07:22,600",
+        "end": "00:07:23,440",
+        "en": "Please relax.",
+        "pa": "",
+        "vi": "Xin bác đừng lo."
+    },
+    {
+        "start": "00:07:25,920",
+        "end": "00:07:27,920",
+        "en": "I came here, I thought you wanted to give me…",
+        "pa": "",
+        "vi": "Tôi đến đây, tưởng các vị muốn cho tôi…"
+    },
+    {
+        "start": "00:07:28,000",
+        "end": "00:07:29,720",
+        "en": "I was request… for medicine,",
+        "pa": "",
+        "vi": "Tôi đã yêu cầu được kê thuốc, không phải yêu cầu bị mổ phanh ra."
+    },
+    {
+        "start": "00:07:29,800",
+        "end": "00:07:31,400",
+        "en": "not for you to cut me open.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:07:31,480",
+        "end": "00:07:32,880",
+        "en": "What is going on here?!",
+        "pa": "",
+        "vi": "Chuyện này là thế nào?"
+    },
+    {
+        "start": "00:07:32,960",
+        "end": "00:07:34,240",
+        "en": "Okay, with the surgery,",
+        "pa": "",
+        "vi": "Vâng, về việc phẫu thuật,"
+    },
+    {
+        "start": "00:07:34,320",
+        "end": "00:07:36,360",
+        "en": "this is a very small surgery, nothing will happen.",
+        "pa": "",
+        "vi": "đây chỉ là một ca tiểu phẫu, sẽ không sao hết."
+    },
+    {
+        "start": "00:07:36,440",
+        "end": "00:07:39,040",
+        "en": "-Why do you want to cut me? -Ma'am, we have…",
+        "pa": "",
+        "vi": "- Sao các người muốn mổ tôi? - Bác ơi, chúng tôi…"
+    },
+    {
+        "start": "00:07:39,120",
+        "end": "00:07:41,960",
+        "en": "Ma'am, we have done this surgery hundreds of times.",
+        "pa": "",
+        "vi": "Chúng tôi thực hiện phẫu thuật kiểu này hàng trăm lần rồi."
+    },
+    {
+        "start": "00:07:42,520",
+        "end": "00:07:44,960",
+        "en": "-Trust us, you will be perfectly fine.",
+        "pa": "",
+        "vi": "Tin chúng tôi đi, bác sẽ ổn cả."
+    },
+    {
+        "start": "00:07:45,040",
+        "end": "00:07:46,800",
+        "en": "I don't know you!",
+        "pa": "",
+        "vi": "Tôi không biết anh!"
+    },
+    {
+        "start": "00:07:46,880",
+        "end": "00:07:48,080",
+        "en": "I don't know you!",
+        "pa": "",
+        "vi": "Tôi không biết anh!"
+    },
+    {
+        "start": "00:07:48,160",
+        "end": "00:07:50,400",
+        "en": "-It's urgent. Please take care of her.",
+        "pa": "",
+        "vi": "Sid, ca này khẩn cấp đấy. Cậu giải thích cho bác ấy đi."
+    },
+    {
+        "start": "00:07:51,160",
+        "end": "00:07:52,840",
+        "en": "- Where's my son? - Okay, listen.",
+        "pa": "",
+        "vi": "- Con trai tôi đâu? - Cô nghe này."
+    },
+    {
+        "start": "00:07:52,920",
+        "end": "00:07:55,960",
+        "en": "-Ah! -He is gone. Okay, listen to me.",
+        "pa": "",
+        "vi": "- Anh ấy đi rồi. Nghe này. - Rồi."
+    },
+    {
+        "start": "00:07:56,040",
+        "end": "00:07:57,520",
+        "en": "-You'll be perfectly fine.",
+        "pa": "",
+        "vi": "Cô sẽ không sao hết."
+    },
+    {
+        "start": "00:07:57,600",
+        "end": "00:07:58,920",
+        "en": "You know me, right?",
+        "pa": "",
+        "vi": "Cô biết tôi mà."
+    },
+    {
+        "start": "00:07:59,000",
+        "end": "00:08:00,280",
+        "en": "-You know me? -Mm.",
+        "pa": "",
+        "vi": "- Đúng chưa? - Ừ."
+    },
+    {
+        "start": "00:08:00,360",
+        "end": "00:08:02,880",
+        "en": "And it's a very small surgery. After the surgery,",
+        "pa": "",
+        "vi": "Và ca tiểu phẫu này cực nhẹ nhàng,"
+    },
+    {
+        "start": "00:08:02,960",
+        "end": "00:08:04,160",
+        "en": "-you're gonna get to eat goat meat,",
+        "pa": "",
+        "vi": "và tiểu phẫu xong, cô có thể ăn thịt dê, ăn bánh amala."
+    },
+    {
+        "start": "00:08:04,240",
+        "end": "00:08:05,080",
+        "en": "you're gonna get amala.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:08:05,720",
+        "end": "00:08:07,040",
+        "en": "You'll get to meet your son.",
+        "pa": "",
+        "vi": "Cô sẽ được gặp con trai."
+    },
+    {
+        "start": "00:08:07,120",
+        "end": "00:08:07,960",
+        "en": "Okay.",
+        "pa": "",
+        "vi": "Được rồi."
+    },
+    {
+        "start": "00:08:08,040",
+        "end": "00:08:09,840",
+        "en": "And it'll be a fresh you, right?",
+        "pa": "",
+        "vi": "Và cô sẽ khỏe lại."
+    },
+    {
+        "start": "00:08:10,440",
+        "end": "00:08:11,280",
+        "en": "Oh.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:08:12,240",
+        "end": "00:08:13,160",
+        "en": "Relax.",
+        "pa": "",
+        "vi": "Bình tĩnh. Cô cứ bình tĩnh."
+    },
+    {
+        "start": "00:08:13,240",
+        "end": "00:08:14,400",
+        "en": "Just relax.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:08:15,080",
+        "end": "00:08:17,160",
+        "en": "-Okay?",
+        "pa": "",
+        "vi": "Được chứ?"
+    },
+    {
+        "start": "00:08:17,240",
+        "end": "00:08:18,560",
+        "en": "Calm down.",
+        "pa": "",
+        "vi": "Bình tĩnh lại nào."
+    },
+    {
+        "start": "00:08:18,640",
+        "end": "00:08:20,160",
+        "en": "Everything is gonna be okay.",
+        "pa": "",
+        "vi": "Rồi mọi thứ sẽ ổn cả."
+    },
+    {
+        "start": "00:08:21,240",
+        "end": "00:08:22,840",
+        "en": "You're gonna be perfect.",
+        "pa": "",
+        "vi": "Cô sẽ khỏe lại ngay."
+    },
+    {
+        "start": "00:08:24,920",
+        "end": "00:08:26,320",
+        "en": "Thank you.",
+        "pa": "",
+        "vi": "Cảm ơn cậu."
+    },
+    {
+        "start": "00:08:48,559",
+        "end": "00:08:49,920",
+        "en": "Bolu do…",
+        "pa": "",
+        "vi": "Bolu ơi…"
+    },
+    {
+        "start": "00:08:50,440",
+        "end": "00:08:52,920",
+        "en": "Boluwatife.",
+        "pa": "",
+        "vi": "Boluwatife."
+    },
+    {
+        "start": "00:08:55,200",
+        "end": "00:08:57,240",
+        "en": "Ah mommy, um, he's um…",
+        "pa": "",
+        "vi": "Cô ạ, nó…"
+    },
+    {
+        "start": "00:08:57,320",
+        "end": "00:08:59,440",
+        "en": "Where's my son?",
+        "pa": "",
+        "vi": "Con trai của cô đâu?"
+    },
+    {
+        "start": "00:08:59,520",
+        "end": "00:09:01,560",
+        "en": "You know his phone, the NIN… the…",
+        "pa": "",
+        "vi": "Cô biết đấy, điện thoại của nó bị…"
+    },
+    {
+        "start": "00:09:01,640",
+        "end": "00:09:02,600",
+        "en": "Mommy he's in school,",
+        "pa": "",
+        "vi": "Nó đang ở trường."
+    },
+    {
+        "start": "00:09:02,680",
+        "end": "00:09:03,800",
+        "en": "-he's in school. -Boluwatife,",
+        "pa": "",
+        "vi": "- Nó đi học. - Boluwatife."
+    },
+    {
+        "start": "00:09:05,200",
+        "end": "00:09:06,560",
+        "en": "look for my son for me.",
+        "pa": "",
+        "vi": "Tìm con cô hộ cô đi."
+    },
+    {
+        "start": "00:09:07,600",
+        "end": "00:09:09,880",
+        "en": "Because I want to tell him I'm in India.",
+        "pa": "",
+        "vi": "Vì cô muốn bảo nó là cô đang ở Ấn Độ."
+    },
+    {
+        "start": "00:09:09,960",
+        "end": "00:09:11,480",
+        "en": "Mommy, India?",
+        "pa": "",
+        "vi": "Cô đang ở Ấn Độ á?"
+    },
+    {
+        "start": "00:09:11,560",
+        "end": "00:09:12,600",
+        "en": "Yes!",
+        "pa": "",
+        "vi": "Ừ!"
+    },
+    {
+        "start": "00:09:13,120",
+        "end": "00:09:15,680",
+        "en": "I'll be going for an operation, Boluwatife.",
+        "pa": "",
+        "vi": "Cô sắp phải phẫu thuật rồi, Boluwatife."
+    },
+    {
+        "start": "00:09:15,760",
+        "end": "00:09:16,960",
+        "en": "Ah-ah, operation?",
+        "pa": "",
+        "vi": "Phẫu thuật ấy ạ?"
+    },
+    {
+        "start": "00:09:17,040",
+        "end": "00:09:18,800",
+        "en": "Ah mommy! Mommy this is serious.",
+        "pa": "",
+        "vi": "Thế thì nghiêm trọng rồi cô ơi."
+    },
+    {
+        "start": "00:09:18,880",
+        "end": "00:09:20,440",
+        "en": "And I need to tell him",
+        "pa": "",
+        "vi": "Và cô cần bảo nó biết"
+    },
+    {
+        "start": "00:09:21,040",
+        "end": "00:09:23,040",
+        "en": "before I enter the theater.",
+        "pa": "",
+        "vi": "trước khi cô vào phòng mổ."
+    },
+    {
+        "start": "00:09:23,600",
+        "end": "00:09:25,600",
+        "en": "I have seven hours.",
+        "pa": "",
+        "vi": "Cô còn bảy tiếng nữa thôi."
+    },
+    {
+        "start": "00:09:26,640",
+        "end": "00:09:27,640",
+        "en": "Please,",
+        "pa": "",
+        "vi": "Xin cháu đấy,"
+    },
+    {
+        "start": "00:09:28,280",
+        "end": "00:09:29,600",
+        "en": "find him for me.",
+        "pa": "",
+        "vi": "tìm nó hộ cô đi."
+    },
+    {
+        "start": "00:09:30,120",
+        "end": "00:09:31,640",
+        "en": "No, okay mommy, no problem.",
+        "pa": "",
+        "vi": "Vâng, được cô ạ, không vấn đề."
+    },
+    {
+        "start": "00:09:31,720",
+        "end": "00:09:33,280",
+        "en": "I will go find him right now ma.",
+        "pa": "",
+        "vi": "Cháu sẽ tìm nó ngay đây cô."
+    },
+    {
+        "start": "00:09:33,880",
+        "end": "00:09:34,800",
+        "en": "Right now.",
+        "pa": "",
+        "vi": "Cháu tìm luôn đây mà."
+    },
+    {
+        "start": "00:09:34,880",
+        "end": "00:09:35,720",
+        "en": "Thank you.",
+        "pa": "",
+        "vi": "Cảm ơn cháu."
+    },
+    {
+        "start": "00:09:37,160",
+        "end": "00:09:38,360",
+        "en": "Thank you.",
+        "pa": "",
+        "vi": "Cảm ơn cháu."
+    },
+    {
+        "start": "00:09:39,920",
+        "end": "00:09:40,760",
+        "en": "Aah!",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:09:53,560",
+        "end": "00:09:54,600",
+        "en": "Nothing yet.",
+        "pa": "",
+        "vi": "Vẫn chưa có gì mới."
+    },
+    {
+        "start": "00:09:57,240",
+        "end": "00:09:58,600",
+        "en": "The good news is",
+        "pa": "",
+        "vi": "Tin tốt là…"
+    },
+    {
+        "start": "00:09:58,680",
+        "end": "00:10:00,920",
+        "en": "Aarti spoke up for you as well as other castmates.",
+        "pa": "",
+        "vi": "Aarti và các bạn diễn khác đã lên tiếng bênh vực anh."
+    },
+    {
+        "start": "00:10:03,840",
+        "end": "00:10:05,520",
+        "en": "You see what he's doing, is it good?",
+        "pa": "",
+        "vi": "Anh thấy hắn làm gì mà, thế là ổn ư?"
+    },
+    {
+        "start": "00:10:06,520",
+        "end": "00:10:08,080",
+        "en": "It's not fair.",
+        "pa": "",
+        "vi": "Thật không công bằng."
+    },
+    {
+        "start": "00:10:08,160",
+        "end": "00:10:09,760",
+        "en": "My career has not even started,",
+        "pa": "",
+        "vi": "Sự nghiệp của tôi còn chưa bắt đầu,"
+    },
+    {
+        "start": "00:10:10,320",
+        "end": "00:10:12,160",
+        "en": "Ronny wants to ruin it.",
+        "pa": "",
+        "vi": "Ronny đã muốn hủy hoại nó."
+    },
+    {
+        "start": "00:10:12,240",
+        "end": "00:10:13,680",
+        "en": "It's not fair.",
+        "pa": "",
+        "vi": "Không công bằng."
+    },
+    {
+        "start": "00:10:14,280",
+        "end": "00:10:15,480",
+        "en": "Calm down, Yemi.",
+        "pa": "",
+        "vi": "Bình tĩnh đi, Yemi."
+    },
+    {
+        "start": "00:10:15,560",
+        "end": "00:10:18,640",
+        "en": "It's reactions like this that make people like Ronny target you.",
+        "pa": "",
+        "vi": "Chính vì phản ứng thế nên những kẻ như Ronny mới nhắm vào anh."
+    },
+    {
+        "start": "00:10:18,720",
+        "end": "00:10:20,840",
+        "en": "And there will always be people like Ronny.",
+        "pa": "",
+        "vi": "Và người như Ronny thì ở đâu cũng có."
+    },
+    {
+        "start": "00:10:22,400",
+        "end": "00:10:23,560",
+        "en": "By the way,",
+        "pa": "",
+        "vi": "Mà này,"
+    },
+    {
+        "start": "00:10:23,640",
+        "end": "00:10:27,120",
+        "en": "there's no one person didn't enjoy seeing Ronny getting his ass whipped.",
+        "pa": "",
+        "vi": "ai cũng thích thú khi thấy Ronny bị cho ăn đòn."
+    },
+    {
+        "start": "00:10:30,640",
+        "end": "00:10:32,040",
+        "en": "There's a new rumor,",
+        "pa": "",
+        "vi": "Có một tin đồn rằng"
+    },
+    {
+        "start": "00:10:32,120",
+        "end": "00:10:34,600",
+        "en": "that they were trying to plug in an African lead for the next story.",
+        "pa": "",
+        "vi": "một diễn viên châu Phi sẽ vào vai chính cho bộ phim tới."
+    },
+    {
+        "start": "00:10:35,640",
+        "end": "00:10:37,320",
+        "en": "And Ronny probably thought it was you.",
+        "pa": "",
+        "vi": "Và Ronny chắc nghĩ đó là anh."
+    },
+    {
+        "start": "00:10:37,400",
+        "end": "00:10:39,720",
+        "en": "He saw something in you that you don't see in yourself.",
+        "pa": "",
+        "vi": "Anh ta thấy ở anh điều anh còn không thấy ở chính mình."
+    },
+    {
+        "start": "00:10:41,960",
+        "end": "00:10:43,400",
+        "en": "I'm sure they're going to sack me.",
+        "pa": "",
+        "vi": "Họ sẽ đuổi tôi cho xem."
+    },
+    {
+        "start": "00:10:45,400",
+        "end": "00:10:47,120",
+        "en": "Who? Aarti or my boss?",
+        "pa": "",
+        "vi": "Ai cơ? Aarti hay sếp của tôi?"
+    },
+    {
+        "start": "00:10:51,760",
+        "end": "00:10:52,920",
+        "en": "Yep,",
+        "pa": "",
+        "vi": "Ừ, khả năng cao là vậy."
+    },
+    {
+        "start": "00:10:53,440",
+        "end": "00:10:54,360",
+        "en": "most probably.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:10:55,520",
+        "end": "00:10:56,520",
+        "en": "Most definitely.",
+        "pa": "",
+        "vi": "Gần như chắc chắn"
+    },
+    {
+        "start": "00:10:57,040",
+        "end": "00:10:58,800",
+        "en": "You're definitely gonna get fired.",
+        "pa": "",
+        "vi": "là anh sẽ bị sa thải."
+    },
+    {
+        "start": "00:10:59,440",
+        "end": "00:11:00,560",
+        "en": "After all,",
+        "pa": "",
+        "vi": "Xét cho cùng,"
+    },
+    {
+        "start": "00:11:01,160",
+        "end": "00:11:02,320",
+        "en": "you did assault your castmate",
+        "pa": "",
+        "vi": "anh đã hành hung bạn diễn"
+    },
+    {
+        "start": "00:11:02,400",
+        "end": "00:11:04,360",
+        "en": "and you were the first one to throw a physical punch.",
+        "pa": "",
+        "vi": "và anh còn vung nắm đấm trước nữa."
+    },
+    {
+        "start": "00:11:06,320",
+        "end": "00:11:07,440",
+        "en": "But wait till you hear it from her.",
+        "pa": "",
+        "vi": "Nhưng cứ đợi tin từ chị ấy đã."
+    },
+    {
+        "start": "00:11:08,120",
+        "end": "00:11:09,360",
+        "en": "She's not that unreasonable.",
+        "pa": "",
+        "vi": "Chị ấy sẽ suy xét kỹ càng."
+    },
+    {
+        "start": "00:11:14,760",
+        "end": "00:11:15,840",
+        "en": "Oh, by the way,",
+        "pa": "",
+        "vi": "À mà này."
+    },
+    {
+        "start": "00:11:17,920",
+        "end": "00:11:20,280",
+        "en": "I really enjoyed seeing you be you for once.",
+        "pa": "",
+        "vi": "Tôi rất vui khi thấy con người thật của anh."
+    },
+    {
+        "start": "00:11:21,280",
+        "end": "00:11:24,040",
+        "en": "That authentic Nigerian flavor that I've heard so much about,",
+        "pa": "",
+        "vi": "Cái khí chất Nigeria đích thực mà tôi được nghe kể nhiều,"
+    },
+    {
+        "start": "00:11:25,080",
+        "end": "00:11:27,280",
+        "en": "not that pseudo-American crap you tried to pull.",
+        "pa": "",
+        "vi": "chứ không phải kiểu hàng nhái dân Mỹ anh vẫn diễn."
+    },
+    {
+        "start": "00:11:36,800",
+        "end": "00:11:38,040",
+        "en": "- Mom? -Hmm?",
+        "pa": "",
+        "vi": "Mẹ ơi."
+    },
+    {
+        "start": "00:11:38,880",
+        "end": "00:11:41,600",
+        "en": "Can we get an ice cream for the dinner?",
+        "pa": "",
+        "vi": "Ăn xong bọn con ăn kem nhé?"
+    },
+    {
+        "start": "00:11:41,680",
+        "end": "00:11:44,120",
+        "en": "You have to finish your dinner first, Baby.",
+        "pa": "",
+        "vi": "Con phải ăn xong đã. Mau ăn đi."
+    },
+    {
+        "start": "00:11:44,200",
+        "end": "00:11:45,560",
+        "en": "Eat it.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:11:47,200",
+        "end": "00:11:48,520",
+        "en": "I'm sure",
+        "pa": "",
+        "vi": "Con chắc chắn"
+    },
+    {
+        "start": "00:11:49,240",
+        "end": "00:11:52,560",
+        "en": "Mommy will allow us to eat the ice cream.",
+        "pa": "",
+        "vi": "cô sẽ cho bọn con ăn kem thôi."
+    },
+    {
+        "start": "00:11:55,160",
+        "end": "00:11:57,240",
+        "en": "Shhh… That's our little secret.",
+        "pa": "",
+        "vi": "- Đó là bí mật mà con. - Con xin lỗi."
+    },
+    {
+        "start": "00:11:57,880",
+        "end": "00:11:59,360",
+        "en": "- I'm sorry. -Shhh.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:12:00,840",
+        "end": "00:12:01,960",
+        "en": "Zainab,",
+        "pa": "",
+        "vi": "Zainab, món Biryani con nấu ngon lắm."
+    },
+    {
+        "start": "00:12:02,040",
+        "end": "00:12:04,000",
+        "en": "your Biryani is delicious, huh?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:12:04,720",
+        "end": "00:12:06,920",
+        "en": "-Just the right amount of spices.",
+        "pa": "",
+        "vi": "Nêm nếm gia vị rất chuẩn."
+    },
+    {
+        "start": "00:12:08,680",
+        "end": "00:12:09,760",
+        "en": "Thanks Mama.",
+        "pa": "",
+        "vi": "Con cảm ơn mẹ. Con làm theo công thức mẹ dạy đấy."
+    },
+    {
+        "start": "00:12:09,840",
+        "end": "00:12:11,600",
+        "en": "I followed your recipe.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:12:12,640",
+        "end": "00:12:14,560",
+        "en": "But it can't match yours.",
+        "pa": "",
+        "vi": "Nhưng vẫn chưa bằng được mẹ nấu."
+    },
+    {
+        "start": "00:12:14,640",
+        "end": "00:12:16,440",
+        "en": "Yours is the best.",
+        "pa": "",
+        "vi": "Món mẹ nấu là ngon nhất."
+    },
+    {
+        "start": "00:12:16,520",
+        "end": "00:12:18,680",
+        "en": "I can polish off the whole of it.",
+        "pa": "",
+        "vi": "Con có thể ăn được cả nồi. Không chừa lại hạt nào."
+    },
+    {
+        "start": "00:12:18,760",
+        "end": "00:12:19,600",
+        "en": "All of it.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:12:19,680",
+        "end": "00:12:21,000",
+        "en": "Yeah, so have it.",
+        "pa": "",
+        "vi": "Vậy con cứ ăn hết đi."
+    },
+    {
+        "start": "00:12:22,000",
+        "end": "00:12:23,800",
+        "en": "I mean, it's normal",
+        "pa": "",
+        "vi": "Con phải ăn cho hai người thì như thế là bình thường mà."
+    },
+    {
+        "start": "00:12:23,880",
+        "end": "00:12:25,160",
+        "en": "when you're eating for two.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:12:27,560",
+        "end": "00:12:28,920",
+        "en": "Oh my!",
+        "pa": "",
+        "vi": "Ôi chao! Chị sắp được chúc mừng à?"
+    },
+    {
+        "start": "00:12:29,000",
+        "end": "00:12:30,760",
+        "en": "Are congratulations in order?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:12:31,360",
+        "end": "00:12:33,560",
+        "en": "Hey, no. No congratulations, please.",
+        "pa": "",
+        "vi": "Đâu. Có gì để chúc mừng đâu ạ."
+    },
+    {
+        "start": "00:12:33,640",
+        "end": "00:12:35,000",
+        "en": "-Yes, they are. - Isn't it?",
+        "pa": "",
+        "vi": "- Có đấy. - Vậy ạ?"
+    },
+    {
+        "start": "00:12:35,680",
+        "end": "00:12:37,680",
+        "en": "You know I have a nose for these things.",
+        "pa": "",
+        "vi": "Mẹ cực kỳ nhạy mấy chuyện này."
+    },
+    {
+        "start": "00:12:40,480",
+        "end": "00:12:42,240",
+        "en": "It's gonna be a boy.",
+        "pa": "",
+        "vi": "Đó sẽ là một bé trai kháu khỉnh."
+    },
+    {
+        "start": "00:12:42,320",
+        "end": "00:12:43,560",
+        "en": "A beautiful boy.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:12:44,160",
+        "end": "00:12:47,160",
+        "en": "Just like my Siddharth.",
+        "pa": "",
+        "vi": "Giống Siddharth của mẹ."
+    },
+    {
+        "start": "00:12:47,680",
+        "end": "00:12:49,240",
+        "en": "We're not going to have kids.",
+        "pa": "",
+        "vi": "Bọn con sẽ không sinh con."
+    },
+    {
+        "start": "00:12:51,160",
+        "end": "00:12:52,880",
+        "en": "We have never planned",
+        "pa": "",
+        "vi": "Bọn con chưa từng có ý định đó và cũng sẽ không bao giờ có."
+    },
+    {
+        "start": "00:12:52,960",
+        "end": "00:12:54,160",
+        "en": "and we will never plan.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:13:02,040",
+        "end": "00:13:04,000",
+        "en": "Come on kids, ice cream time.",
+        "pa": "",
+        "vi": "Nào các con, đến giờ ăn kem rồi."
+    },
+    {
+        "start": "00:13:04,080",
+        "end": "00:13:06,680",
+        "en": "Ice cream! Yay, yippee!",
+        "pa": "",
+        "vi": "Ăn kem! Tuyệt vời!"
+    },
+    {
+        "start": "00:13:07,680",
+        "end": "00:13:10,320",
+        "en": "- Oh God! - I'm gonna take this. Come.",
+        "pa": "",
+        "vi": "- Trời đất! - Để mẹ cầm cái này. Đi mau."
+    },
+    {
+        "start": "00:13:10,400",
+        "end": "00:13:14,200",
+        "en": "Do y'all plan to send me to my early grave without any grandchildren?",
+        "pa": "",
+        "vi": "Con định cho mẹ xuống mồ sớm bằng việc không sinh con à?"
+    },
+    {
+        "start": "00:13:14,280",
+        "end": "00:13:16,360",
+        "en": "Mama please, relax.",
+        "pa": "",
+        "vi": "Mẹ ơi, mẹ bình tĩnh nào."
+    },
+    {
+        "start": "00:13:18,720",
+        "end": "00:13:19,960",
+        "en": "Zainab,",
+        "pa": "",
+        "vi": "Zainab,"
+    },
+    {
+        "start": "00:13:20,040",
+        "end": "00:13:22,080",
+        "en": "don't you dare speak such blasphemy.",
+        "pa": "",
+        "vi": "con không được nói mấy chuyện linh tinh như vậy."
+    },
+    {
+        "start": "00:13:23,560",
+        "end": "00:13:24,560",
+        "en": "No Mama,",
+        "pa": "",
+        "vi": "Không mẹ ơi, đó là sự thật, không phải chuyện linh tinh."
+    },
+    {
+        "start": "00:13:24,640",
+        "end": "00:13:26,680",
+        "en": "it's not blasphemy if it's true.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:13:29,000",
+        "end": "00:13:30,280",
+        "en": "We don't want kids.",
+        "pa": "",
+        "vi": "Bọn con không muốn có con."
+    },
+    {
+        "start": "00:13:33,400",
+        "end": "00:13:36,040",
+        "en": "For some medical reason or what? What is it?",
+        "pa": "",
+        "vi": "Vì lý do sức khỏe hay sao? Sao vậy hả?"
+    },
+    {
+        "start": "00:13:36,120",
+        "end": "00:13:38,000",
+        "en": "No, we're perfectly fine.",
+        "pa": "",
+        "vi": "Không, bọn em hoàn toàn khỏe."
+    },
+    {
+        "start": "00:13:38,920",
+        "end": "00:13:40,560",
+        "en": "We just don't want to have kids.",
+        "pa": "",
+        "vi": "Bọn em chỉ không muốn có con."
+    },
+    {
+        "start": "00:13:40,640",
+        "end": "00:13:43,120",
+        "en": "You're perfectly fine but refusing to try?",
+        "pa": "",
+        "vi": "Bọn em khỏe mạnh nhưng lại không chịu thử có con?"
+    },
+    {
+        "start": "00:13:44,080",
+        "end": "00:13:45,480",
+        "en": "That makes no sense.",
+        "pa": "",
+        "vi": "Nghe vô lý quá."
+    },
+    {
+        "start": "00:13:46,200",
+        "end": "00:13:47,920",
+        "en": "So you're perfectly fine?",
+        "pa": "",
+        "vi": "Vậy là con hoàn toàn bình thường?"
+    },
+    {
+        "start": "00:13:48,000",
+        "end": "00:13:51,160",
+        "en": "So you mean all these years my prayers have been wasted just because",
+        "pa": "",
+        "vi": "Thế nghĩa là bao năm nay mẹ cầu nguyện đã thành vô ích chỉ vì"
+    },
+    {
+        "start": "00:13:51,240",
+        "end": "00:13:53,800",
+        "en": "your problem was yours all along?",
+        "pa": "",
+        "vi": "vấn đề hoàn toàn nằm ở con ư?"
+    },
+    {
+        "start": "00:13:53,880",
+        "end": "00:13:55,240",
+        "en": "Mama please, that's enough.",
+        "pa": "",
+        "vi": "Đủ rồi đấy mẹ ơi. Con xin mẹ."
+    },
+    {
+        "start": "00:13:55,800",
+        "end": "00:13:56,680",
+        "en": "Please.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:13:56,760",
+        "end": "00:13:57,760",
+        "en": "Siddharth,",
+        "pa": "",
+        "vi": "Siddharth, em đồng ý việc này à?"
+    },
+    {
+        "start": "00:13:57,840",
+        "end": "00:13:58,680",
+        "en": "are you fine with this?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:14:03,600",
+        "end": "00:14:04,680",
+        "en": "Yes,",
+        "pa": "",
+        "vi": "Vâng, đúng vậy."
+    },
+    {
+        "start": "00:14:05,320",
+        "end": "00:14:06,560",
+        "en": "-I am.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:14:08,400",
+        "end": "00:14:10,760",
+        "en": "And I suggest you keep your thoughts and your opinions to yourselves,",
+        "pa": "",
+        "vi": "Và xin mẹ và chị giữ quan điểm cá nhân cho riêng mình."
+    },
+    {
+        "start": "00:14:11,680",
+        "end": "00:14:13,680",
+        "en": "before we say something that we'll regret later.",
+        "pa": "",
+        "vi": "Đừng nói điều gì để sau này ta hối hận."
+    },
+    {
+        "start": "00:14:14,360",
+        "end": "00:14:15,640",
+        "en": "Okay?",
+        "pa": "",
+        "vi": "Được chứ ạ?"
+    },
+    {
+        "start": "00:14:15,720",
+        "end": "00:14:16,680",
+        "en": "Wow.",
+        "pa": "",
+        "vi": "Trời."
+    },
+    {
+        "start": "00:14:17,320",
+        "end": "00:14:18,280",
+        "en": "Incredible.",
+        "pa": "",
+        "vi": "Không thể tin nổi."
+    },
+    {
+        "start": "00:14:23,080",
+        "end": "00:14:25,400",
+        "en": "See, you can have your opinion.",
+        "pa": "",
+        "vi": "Mọi người có thể có quan điểm riêng."
+    },
+    {
+        "start": "00:14:26,000",
+        "end": "00:14:27,800",
+        "en": "Please, respect my wife and my decision.",
+        "pa": "",
+        "vi": "Nhưng xin hãy tôn trọng quyết định của vợ chồng con."
+    },
+    {
+        "start": "00:14:28,400",
+        "end": "00:14:29,480",
+        "en": "-Okay?",
+        "pa": "",
+        "vi": "Được chứ ạ?"
+    },
+    {
+        "start": "00:14:30,080",
+        "end": "00:14:31,120",
+        "en": "Please.",
+        "pa": "",
+        "vi": "Ta ăn tiếp đi."
+    },
+    {
+        "start": "00:14:39,080",
+        "end": "00:14:40,160",
+        "en": "Hello?",
+        "pa": "",
+        "vi": "A-lô?"
+    },
+    {
+        "start": "00:14:40,960",
+        "end": "00:14:42,240",
+        "en": "Hello, what's going on?",
+        "pa": "",
+        "vi": "Bà à, có chuyện gì vậy?"
+    },
+    {
+        "start": "00:14:43,000",
+        "end": "00:14:45,040",
+        "en": "I don't deserve him, Isi.",
+        "pa": "",
+        "vi": "Tôi không xứng đáng với anh ấy, Isi."
+    },
+    {
+        "start": "00:14:46,640",
+        "end": "00:14:48,400",
+        "en": "I put him on the spot today.",
+        "pa": "",
+        "vi": "Hôm nay tôi đã đẩy anh ấy vào thế khó."
+    },
+    {
+        "start": "00:14:51,360",
+        "end": "00:14:52,520",
+        "en": "What did he do?",
+        "pa": "",
+        "vi": "Vậy anh ấy đã làm gì?"
+    },
+    {
+        "start": "00:14:55,000",
+        "end": "00:14:56,560",
+        "en": "He stood up for me,",
+        "pa": "",
+        "vi": "Anh ấy đã bênh tôi, phản đối lại gia đình."
+    },
+    {
+        "start": "00:14:57,080",
+        "end": "00:14:58,400",
+        "en": "against his family.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:14:59,560",
+        "end": "00:15:01,560",
+        "en": "Goals! Yes!",
+        "pa": "",
+        "vi": "Tuyệt! Phải thế!"
+    },
+    {
+        "start": "00:15:04,000",
+        "end": "00:15:05,800",
+        "en": "I'm really being unfair to him.",
+        "pa": "",
+        "vi": "Tôi đang không công bằng với anh ấy."
+    },
+    {
+        "start": "00:15:06,320",
+        "end": "00:15:08,320",
+        "en": "I can't give him what he wants,",
+        "pa": "",
+        "vi": "Tôi không thể cho chồng mình điều anh ấy muốn,"
+    },
+    {
+        "start": "00:15:09,440",
+        "end": "00:15:11,680",
+        "en": "and I am too selfish to let him go.",
+        "pa": "",
+        "vi": "nhưng lại quá ích kỷ không muốn để anh ấy ra đi."
+    },
+    {
+        "start": "00:15:13,240",
+        "end": "00:15:16,280",
+        "en": "Listen, I don't like the direction this conversation is going.",
+        "pa": "",
+        "vi": "Này, tôi không thích hướng trò chuyện mà bà đang dẫn dắt đâu."
+    },
+    {
+        "start": "00:15:16,800",
+        "end": "00:15:19,240",
+        "en": "He hasn't asked for kids this instance,",
+        "pa": "",
+        "vi": "Đâu phải anh ấy đòi có con ngay lập tức,"
+    },
+    {
+        "start": "00:15:19,760",
+        "end": "00:15:23,080",
+        "en": "and even at that, he'll never force you to do anything you don't want to do.",
+        "pa": "",
+        "vi": "và kể cả thế, anh ấy sẽ không bao giờ ép bà làm điều bà không muốn."
+    },
+    {
+        "start": "00:15:23,600",
+        "end": "00:15:24,720",
+        "en": "No,",
+        "pa": "",
+        "vi": "Ừ, anh ấy không đâu."
+    },
+    {
+        "start": "00:15:25,360",
+        "end": "00:15:26,480",
+        "en": "He won't.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:15:29,840",
+        "end": "00:15:31,320",
+        "en": "I know what I have to do.",
+        "pa": "",
+        "vi": "Tôi biết mình phải làm gì rồi."
+    },
+    {
+        "start": "00:15:31,920",
+        "end": "00:15:33,680",
+        "en": "Ah-uh, ah. Just",
+        "pa": "",
+        "vi": "Hãy cứ… suy nghĩ và đợi thêm xem sao."
+    },
+    {
+        "start": "00:15:34,200",
+        "end": "00:15:35,920",
+        "en": "think about it and wait.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:15:36,480",
+        "end": "00:15:38,600",
+        "en": "And whatever you do, think wisely.",
+        "pa": "",
+        "vi": "Và dù bà định làm gì, hãy suy nghĩ thật thấu đáo đã. Nhớ chưa?"
+    },
+    {
+        "start": "00:15:39,440",
+        "end": "00:15:40,320",
+        "en": "Okay?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:15:40,400",
+        "end": "00:15:41,560",
+        "en": "Love you, girl.",
+        "pa": "",
+        "vi": "Thương bà lắm."
+    },
+    {
+        "start": "00:16:12,320",
+        "end": "00:16:13,560",
+        "en": "Thank you for today.",
+        "pa": "",
+        "vi": "Cảm ơn anh vì hôm nay."
+    },
+    {
+        "start": "00:16:19,120",
+        "end": "00:16:20,320",
+        "en": "You don't have to thank me.",
+        "pa": "",
+        "vi": "Em không cần cảm ơn anh."
+    },
+    {
+        "start": "00:16:26,600",
+        "end": "00:16:28,440",
+        "en": "I've always got your back.",
+        "pa": "",
+        "vi": "Anh sẽ luôn bảo vệ em mà."
+    },
+    {
+        "start": "00:16:33,280",
+        "end": "00:16:34,680",
+        "en": "Always.",
+        "pa": "",
+        "vi": "Luôn luôn."
+    },
+    {
+        "start": "00:17:33,520",
+        "end": "00:17:34,400",
+        "en": "Is it time?",
+        "pa": "",
+        "vi": "Đến giờ rồi à?"
+    },
+    {
+        "start": "00:17:38,360",
+        "end": "00:17:39,600",
+        "en": "Is any other thing wrong?",
+        "pa": "",
+        "vi": "Có gì khác không ổn sao?"
+    },
+    {
+        "start": "00:17:40,240",
+        "end": "00:17:42,120",
+        "en": "-No, everything is okay.",
+        "pa": "",
+        "vi": "Không ạ, mọi thứ đều ổn."
+    },
+    {
+        "start": "00:17:45,920",
+        "end": "00:17:47,200",
+        "en": "You know Aunty,",
+        "pa": "",
+        "vi": "Cô biết không, cô là một người phụ nữ rất mạnh mẽ."
+    },
+    {
+        "start": "00:17:47,840",
+        "end": "00:17:49,320",
+        "en": "-you're a very strong woman.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:17:50,560",
+        "end": "00:17:52,720",
+        "en": "-One of the strongest women I've met.",
+        "pa": "",
+        "vi": "Một trong những người mạnh mẽ nhất tôi từng gặp."
+    },
+    {
+        "start": "00:17:54,680",
+        "end": "00:17:58,440",
+        "en": "Now, no matter what comes in front of you, you face it head-on.",
+        "pa": "",
+        "vi": "Dù phía trước có trở ngại gì, cô cũng cứ trực tiếp đối mặt."
+    },
+    {
+        "start": "00:17:59,040",
+        "end": "00:18:00,040",
+        "en": "You're really strong.",
+        "pa": "",
+        "vi": "Cô mạnh mẽ lắm."
+    },
+    {
+        "start": "00:18:02,920",
+        "end": "00:18:04,080",
+        "en": "Thank you.",
+        "pa": "",
+        "vi": "Cảm ơn cậu."
+    },
+    {
+        "start": "00:18:06,160",
+        "end": "00:18:07,840",
+        "en": "-Can I tell you the truth? -Hmm.",
+        "pa": "",
+        "vi": "Nói thật với cậu nhé?"
+    },
+    {
+        "start": "00:18:14,720",
+        "end": "00:18:16,200",
+        "en": "I am afraid.",
+        "pa": "",
+        "vi": "Tôi đang sợ lắm."
+    },
+    {
+        "start": "00:18:19,520",
+        "end": "00:18:21,240",
+        "en": "I think about my life,",
+        "pa": "",
+        "vi": "Tôi nghĩ lại về cuộc đời mình,"
+    },
+    {
+        "start": "00:18:23,280",
+        "end": "00:18:26,000",
+        "en": "where I could have made better choices.",
+        "pa": "",
+        "vi": "về những quyết định mà tôi đã có thể sáng suốt hơn."
+    },
+    {
+        "start": "00:18:29,240",
+        "end": "00:18:30,240",
+        "en": "My health?",
+        "pa": "",
+        "vi": "Như vụ sức khỏe ấy?"
+    },
+    {
+        "start": "00:18:33,560",
+        "end": "00:18:35,000",
+        "en": "I should have taken my health",
+        "pa": "",
+        "vi": "Lẽ ra tôi nên coi trọng sức khỏe mình hơn."
+    },
+    {
+        "start": "00:18:36,000",
+        "end": "00:18:37,000",
+        "en": "more seriously.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:18:41,800",
+        "end": "00:18:43,520",
+        "en": "Some relationships…",
+        "pa": "",
+        "vi": "Có những mối quan hệ…"
+    },
+    {
+        "start": "00:18:45,880",
+        "end": "00:18:47,520",
+        "en": "I let go sour",
+        "pa": "",
+        "vi": "Chẳng vì lý do gì mà tôi cũng để nó thành chua chát."
+    },
+    {
+        "start": "00:18:48,120",
+        "end": "00:18:49,200",
+        "en": "over nothing.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:18:51,600",
+        "end": "00:18:52,680",
+        "en": "And now,",
+        "pa": "",
+        "vi": "Và giờ là phẫu thuật ư?"
+    },
+    {
+        "start": "00:18:52,760",
+        "end": "00:18:53,960",
+        "en": "surgery?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:18:56,000",
+        "end": "00:18:58,040",
+        "en": "Is the surgery worth it?",
+        "pa": "",
+        "vi": "Việc phẫu thuật này có đáng không?"
+    },
+    {
+        "start": "00:19:02,120",
+        "end": "00:19:04,120",
+        "en": "Do I deserve another chance?",
+        "pa": "",
+        "vi": "Tôi đáng có thêm một cơ hội nữa à?"
+    },
+    {
+        "start": "00:19:07,360",
+        "end": "00:19:09,520",
+        "en": "Aunty everyone deserves a second chance.",
+        "pa": "",
+        "vi": "Ai cũng đáng có cơ hội thứ hai cô ạ."
+    },
+    {
+        "start": "00:19:13,600",
+        "end": "00:19:15,320",
+        "en": "I feel I will disappear.",
+        "pa": "",
+        "vi": "Tôi có cảm giác mình sẽ tan biến."
+    },
+    {
+        "start": "00:19:16,440",
+        "end": "00:19:19,280",
+        "en": "-Aunty, there's so-I am drowning.",
+        "pa": "",
+        "vi": "- Cô à, có nhiều… - Tôi đang chết đuối dần."
+    },
+    {
+        "start": "00:19:22,640",
+        "end": "00:19:24,120",
+        "en": "The only thing",
+        "pa": "",
+        "vi": "Thứ duy nhất giúp tôi sống tiếp…"
+    },
+    {
+        "start": "00:19:25,240",
+        "end": "00:19:26,800",
+        "en": "keeping me going",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:19:27,920",
+        "end": "00:19:29,120",
+        "en": "is my son.",
+        "pa": "",
+        "vi": "là con trai tôi."
+    },
+    {
+        "start": "00:19:30,200",
+        "end": "00:19:31,080",
+        "en": "You see?",
+        "pa": "",
+        "vi": "Cô thấy chưa?"
+    },
+    {
+        "start": "00:19:31,760",
+        "end": "00:19:33,080",
+        "en": "-That's a reason… -Hmm.",
+        "pa": "",
+        "vi": "Vẫn có một lý do, là con trai cô."
+    },
+    {
+        "start": "00:19:33,160",
+        "end": "00:19:34,200",
+        "en": "…your son.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:19:35,160",
+        "end": "00:19:37,280",
+        "en": "You have to do this for your son, for yourself.",
+        "pa": "",
+        "vi": "Cô phải làm điều này vì con trai cô, vì chính cô."
+    },
+    {
+        "start": "00:19:39,120",
+        "end": "00:19:41,720",
+        "en": "There's so much fire inside you, you don't even know about it.",
+        "pa": "",
+        "vi": "Cô còn đầy năng lượng trong mình, chính cô cũng không biết."
+    },
+    {
+        "start": "00:19:43,080",
+        "end": "00:19:45,480",
+        "en": "And in no time after the surgery, you will get fine,",
+        "pa": "",
+        "vi": "Rồi cô sẽ chóng mạnh khỏe sau phẫu thuật."
+    },
+    {
+        "start": "00:19:45,560",
+        "end": "00:19:48,920",
+        "en": "you're gonna go back to your family, to your friends, to Nigeria.",
+        "pa": "",
+        "vi": "Cô sẽ về lại với gia đình, với bè bạn, với Nigeria."
+    },
+    {
+        "start": "00:19:49,000",
+        "end": "00:19:49,960",
+        "en": "Siddharth,",
+        "pa": "",
+        "vi": "Bác sĩ Siddharth, xin mau về cabin."
+    },
+    {
+        "start": "00:19:50,520",
+        "end": "00:19:51,480",
+        "en": "please come to the cabin.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:19:53,000",
+        "end": "00:19:54,440",
+        "en": "-That's me. -Yeah.",
+        "pa": "",
+        "vi": "- Bị gọi rồi. - Ừ."
+    },
+    {
+        "start": "00:19:54,520",
+        "end": "00:19:55,400",
+        "en": "And please,",
+        "pa": "",
+        "vi": "Cô đừng lo lắng nhé."
+    },
+    {
+        "start": "00:19:56,120",
+        "end": "00:19:57,040",
+        "en": "don't worry.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:19:57,960",
+        "end": "00:19:59,160",
+        "en": "You're gonna reach home safe.",
+        "pa": "",
+        "vi": "Cô sẽ bình an trở về."
+    },
+    {
+        "start": "00:19:59,240",
+        "end": "00:20:00,080",
+        "en": "Amen.",
+        "pa": "",
+        "vi": "Amen."
+    },
+    {
+        "start": "00:20:14,960",
+        "end": "00:20:15,880",
+        "en": "Hello?",
+        "pa": "",
+        "vi": "A-lô?"
+    },
+    {
+        "start": "00:20:17,240",
+        "end": "00:20:18,800",
+        "en": "Hello?",
+        "pa": "",
+        "vi": "A-lô?"
+    },
+    {
+        "start": "00:20:20,200",
+        "end": "00:20:21,560",
+        "en": "Olumide?",
+        "pa": "",
+        "vi": "Olumide?"
+    },
+    {
+        "start": "00:20:23,920",
+        "end": "00:20:25,320",
+        "en": "Is that you?",
+        "pa": "",
+        "vi": "Có phải anh đấy không?"
+    },
+    {
+        "start": "00:20:26,680",
+        "end": "00:20:27,760",
+        "en": "You, you, you?",
+        "pa": "",
+        "vi": "Là đúng anh đấy hả?"
+    },
+    {
+        "start": "00:20:29,880",
+        "end": "00:20:32,520",
+        "en": "Ah, not your secretary, real you?",
+        "pa": "",
+        "vi": "Đúng anh, chứ không phải thư ký của anh?"
+    },
+    {
+        "start": "00:20:35,920",
+        "end": "00:20:36,840",
+        "en": "Hello sister.",
+        "pa": "",
+        "vi": "Chào em gái."
+    },
+    {
+        "start": "00:20:37,720",
+        "end": "00:20:39,080",
+        "en": "Good evening, Olumide.",
+        "pa": "",
+        "vi": "Vâng em chào anh, Olumide."
+    },
+    {
+        "start": "00:20:39,600",
+        "end": "00:20:40,960",
+        "en": "Good evening.",
+        "pa": "",
+        "vi": "Em chào anh ạ."
+    },
+    {
+        "start": "00:20:43,080",
+        "end": "00:20:44,680",
+        "en": "Look, Olumide first of all,",
+        "pa": "",
+        "vi": "Nghe này Olumide, trước tiên,"
+    },
+    {
+        "start": "00:20:45,840",
+        "end": "00:20:47,840",
+        "en": "I want to say a very big thank you,",
+        "pa": "",
+        "vi": "em muốn cảm ơn anh rất rất nhiều"
+    },
+    {
+        "start": "00:20:48,840",
+        "end": "00:20:50,080",
+        "en": "for the honor",
+        "pa": "",
+        "vi": "vì đã chiếu cố nghe điện thoại của em."
+    },
+    {
+        "start": "00:20:50,600",
+        "end": "00:20:51,920",
+        "en": "of picking my call.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:20:53,360",
+        "end": "00:20:54,720",
+        "en": "That is one.",
+        "pa": "",
+        "vi": "Đó là điều thứ nhất."
+    },
+    {
+        "start": "00:20:55,440",
+        "end": "00:20:56,680",
+        "en": "Two,",
+        "pa": "",
+        "vi": "Thứ hai,"
+    },
+    {
+        "start": "00:20:56,760",
+        "end": "00:20:59,680",
+        "en": "for paying for all my travels",
+        "pa": "",
+        "vi": "vì đã trả hết chi phí cho việc em đến Ấn Độ…"
+    },
+    {
+        "start": "00:21:00,280",
+        "end": "00:21:01,120",
+        "en": "to India…",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:21:02,640",
+        "end": "00:21:05,720",
+        "en": "I say a very big thank you.",
+        "pa": "",
+        "vi": "Em thật sự cảm ơn anh."
+    },
+    {
+        "start": "00:21:07,920",
+        "end": "00:21:09,240",
+        "en": "But,",
+        "pa": "",
+        "vi": "Nhưng mà,"
+    },
+    {
+        "start": "00:21:10,320",
+        "end": "00:21:11,640",
+        "en": "Olumide,",
+        "pa": "",
+        "vi": "Olumide này,"
+    },
+    {
+        "start": "00:21:12,560",
+        "end": "00:21:13,680",
+        "en": "when",
+        "pa": "",
+        "vi": "khi nào thì anh mới đến đây?"
+    },
+    {
+        "start": "00:21:13,760",
+        "end": "00:21:15,520",
+        "en": "are you coming over?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:21:16,280",
+        "end": "00:21:19,160",
+        "en": "My PA will continue to bring all you need.",
+        "pa": "",
+        "vi": "Trợ lý anh sẽ tiếp tục mang đến mọi thứ em cần."
+    },
+    {
+        "start": "00:21:20,200",
+        "end": "00:21:21,040",
+        "en": "Olumide,",
+        "pa": "",
+        "vi": "Olumide,"
+    },
+    {
+        "start": "00:21:22,400",
+        "end": "00:21:24,120",
+        "en": "after all these years",
+        "pa": "",
+        "vi": "sau ngần ấy năm,"
+    },
+    {
+        "start": "00:21:25,120",
+        "end": "00:21:27,560",
+        "en": "you still think money is the beginning",
+        "pa": "",
+        "vi": "anh vẫn nghĩ tiền là điểm đầu"
+    },
+    {
+        "start": "00:21:28,080",
+        "end": "00:21:30,080",
+        "en": "and end of everything.",
+        "pa": "",
+        "vi": "và điểm cuối của mọi sự."
+    },
+    {
+        "start": "00:21:31,120",
+        "end": "00:21:33,120",
+        "en": "Ah!",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:21:33,200",
+        "end": "00:21:34,280",
+        "en": "What a pity.",
+        "pa": "",
+        "vi": "Thật đáng tiếc.\n CHÚC SỨC KHỎE, OLUMIDE"
+    },
+    {
+        "start": "00:21:36,240",
+        "end": "00:21:38,080",
+        "en": "After everything mommy taught us,",
+        "pa": "",
+        "vi": "Sau tất cả những gì mẹ đã dạy chúng ta,"
+    },
+    {
+        "start": "00:21:39,000",
+        "end": "00:21:41,120",
+        "en": "you're the poorest man I know,",
+        "pa": "",
+        "vi": "anh là người đáng thương nhất mà em biết"
+    },
+    {
+        "start": "00:21:42,280",
+        "end": "00:21:44,680",
+        "en": "even with all your accomplishments.",
+        "pa": "",
+        "vi": "dù anh đã có đủ thành tựu đến vậy."
+    },
+    {
+        "start": "00:21:46,640",
+        "end": "00:21:47,560",
+        "en": "Look,",
+        "pa": "",
+        "vi": "Anh này,"
+    },
+    {
+        "start": "00:21:49,240",
+        "end": "00:21:51,080",
+        "en": "I'm making peace",
+        "pa": "",
+        "vi": "em sẽ làm hòa"
+    },
+    {
+        "start": "00:21:52,360",
+        "end": "00:21:53,520",
+        "en": "not because of you,",
+        "pa": "",
+        "vi": "nhưng không phải vì anh,"
+    },
+    {
+        "start": "00:21:54,880",
+        "end": "00:21:57,520",
+        "en": "but because of my peace of mind.",
+        "pa": "",
+        "vi": "mà là để tâm em thanh thản."
+    },
+    {
+        "start": "00:21:58,440",
+        "end": "00:22:00,160",
+        "en": "I am having a surgery",
+        "pa": "",
+        "vi": "Em sẽ lên bàn mổ"
+    },
+    {
+        "start": "00:22:01,600",
+        "end": "00:22:04,680",
+        "en": "in less than an hour.",
+        "pa": "",
+        "vi": "sau chưa đầy một giờ nữa"
+    },
+    {
+        "start": "00:22:05,920",
+        "end": "00:22:07,000",
+        "en": "And I don't know",
+        "pa": "",
+        "vi": "và em không biết kết cục sẽ thế nào."
+    },
+    {
+        "start": "00:22:07,800",
+        "end": "00:22:09,320",
+        "en": "where the end",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:22:09,400",
+        "end": "00:22:10,360",
+        "en": "will be.",
+        "pa": "",
+        "vi": "KHU VỰC YÊN TĨNH"
+    },
+    {
+        "start": "00:22:11,520",
+        "end": "00:22:12,840",
+        "en": "But I know that",
+        "pa": "",
+        "vi": "Nhưng em biết"
+    },
+    {
+        "start": "00:22:12,920",
+        "end": "00:22:14,960",
+        "en": "any way it goes,",
+        "pa": "",
+        "vi": "dù kết cục có ra sao,"
+    },
+    {
+        "start": "00:22:15,520",
+        "end": "00:22:16,960",
+        "en": "I know",
+        "pa": "",
+        "vi": "em biết mình đã sống trọn vẹn"
+    },
+    {
+        "start": "00:22:17,040",
+        "end": "00:22:19,960",
+        "en": "I have lived my life",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:22:20,680",
+        "end": "00:22:23,760",
+        "en": "and I have made my peace.",
+        "pa": "",
+        "vi": "và em đã được thanh thản."
+    },
+    {
+        "start": "00:22:24,280",
+        "end": "00:22:25,960",
+        "en": "Till we meet again,",
+        "pa": "",
+        "vi": "Hẹn gặp lại anh,"
+    },
+    {
+        "start": "00:22:26,920",
+        "end": "00:22:30,480",
+        "en": "wherever you choose for that to be.",
+        "pa": "",
+        "vi": "dù cho nơi anh chọn đó có là nơi nào."
+    },
+    {
+        "start": "00:25:31,920",
+        "end": "00:25:37,560",
+        "en": "Subtitle translation by: Regina Njoku",
+        "pa": "",
+        "vi": "Biên dịch: Lê Huy Đông "
+    }
+]
